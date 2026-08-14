@@ -15,7 +15,9 @@ Quality, import, and production commands:
 
 ```bash
 npm run validate:data
+npm run validate:discovery
 npm run check:links
+npm run discover:plan -- --mode daily --days 7
 npm run discover:harnesses -- --offline
 npm run prepare:site
 npm run build
@@ -23,6 +25,7 @@ npm run preview
 ```
 
 `discover:harnesses` is always dry: it writes research and proposal artifacts under `work/` and never edits `data/harnesses.v1.json`.
+It covers deterministic GitHub and npm discovery, but it is not the whole search. `discover:plan` generates the required launch-language, community-signal, recent-repository, upstream-catalog, and official-vendor web lanes. Invoke the repo-scoped `$discover-harnesses` skill to execute and audit that complete plan.
 `prepare:site` publishes the validated catalog as `catalog.json` and generates the canonical sitemap used by the static deployment.
 
 ## Data
@@ -40,6 +43,6 @@ Duplicate precedence is repository identity, canonical URL, then normalized name
 
 ## Research and review
 
-The complete evidence workflow is in [docs/research-workflow.md](docs/research-workflow.md). A weekly GitHub Action runs dry discovery and validation, then creates or updates a review pull request containing evidence and proposed JSON. It does not publish candidates. The Pages workflow deploys only builds merged to `main`.
+The complete evidence workflow is in [docs/research-workflow.md](docs/research-workflow.md). A weekly GitHub Action runs deterministic dry discovery and validation, then creates or updates a review pull request containing evidence and proposed JSON. A scheduled Codex sweep executes the broader web and vendor plan. Neither publishes unverified candidates. The Pages workflow deploys only builds merged to `main`.
 
 The catalog data and adapted descriptions include CC BY-SA 4.0 material. See [`ATTRIBUTION.md`](ATTRIBUTION.md) for the source, license, modifications, and share-alike notice.

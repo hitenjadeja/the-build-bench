@@ -26,6 +26,8 @@ jobs:
           cache: npm
       - name: Install exact dependencies
         run: npm ci
+      - name: Validate discovery coverage
+        run: npm run validate:discovery
       - name: Run dry discovery lanes
         run: npm run discover:harnesses
         env:

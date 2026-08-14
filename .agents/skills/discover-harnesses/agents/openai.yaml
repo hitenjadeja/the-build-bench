@@ -1,0 +1,4 @@
+interface:
+  display_name: "Discover Harnesses"
+  short_description: "Find and verify new agent harness launches"
+  default_prompt: "Use $discover-harnesses to run a source-verified catalog discovery sweep."

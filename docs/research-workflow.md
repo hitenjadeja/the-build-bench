@@ -13,6 +13,8 @@ Run the lanes in this order:
 
 Each lane is bounded. After every one or two searches or source checks, append evidence immediately to `work/harness-research/<lane>.md`; do not hold notes only in memory. Finish each file with `Status: COMPLETE` or `Status: PARTIAL` and record why a partial lane stopped.
 
+Generate the bounded search plan with `npm run discover:plan -- --mode daily --days 7`, or use weekly mode and a 30-day window for the deep sweep. `npm run discover:harnesses` covers GitHub and npm plus reachability checks for already-published repositories; it does not replace the plan's web, community, upstream-catalog, or official-vendor searches.
+
 Candidate evidence tables use exactly these fields:
 
 | name | company | capability | canonical URL | repository URL | evidence URL | notes |

@@ -1,0 +1,108 @@
+{
+  "version": 1,
+  "defaultDays": {
+    "daily": 7,
+    "weekly": 30
+  },
+  "vendorRotationSize": 5,
+  "coreQueries": [
+    {
+      "id": "launch-harness",
+      "query": "\"agent harness\" (launched OR released OR beta OR preview OR introducing)"
+    },
+    {
+      "id": "launch-coding-agent",
+      "query": "(\"coding agent\" OR \"software engineering agent\") (launched OR released OR beta OR preview)"
+    },
+    {
+      "id": "launch-development-environment",
+      "query": "\"agentic development environment\" OR \"AI development environment\" launch"
+    },
+    {
+      "id": "launch-orchestration",
+      "query": "(\"agent orchestrator\" OR \"cross-agent orchestrator\" OR \"multi-agent coding\") (launch OR released OR beta)"
+    },
+    {
+      "id": "launch-background-agent",
+      "query": "(\"background coding agent\" OR \"remote coding agent\" OR \"autonomous worker agent\") new"
+    },
+    {
+      "id": "launch-runtime",
+      "query": "(\"agent runtime\" OR \"agent loop\" OR \"agent harness SDK\") developer tool launch"
+    }
+  ],
+  "communityQueries": [
+    {
+      "id": "reddit-codex-launches",
+      "query": "site:reddit.com/r/codex (launched OR released OR announcing OR built) (agent OR harness OR orchestrator)"
+    },
+    {
+      "id": "reddit-claude-launches",
+      "query": "site:reddit.com/r/ClaudeCode (\"agent harness\" OR \"coding agent\" OR orchestrator)"
+    },
+    {
+      "id": "reddit-agent-launches",
+      "query": "site:reddit.com (\"cross-agent orchestrator\" OR \"agentic development environment\" OR \"new agent harness\")"
+    },
+    {
+      "id": "hacker-news-launches",
+      "query": "site:news.ycombinator.com (\"coding agent\" OR \"agent harness\" OR \"agent orchestrator\")"
+    },
+    {
+      "id": "vendor-community-signals",
+      "query": "(Spotify OR Stripe OR Microsoft OR Google OR Amazon OR Cloudflare) (\"coding agent\" OR \"agent harness\" OR \"agent orchestrator\")"
+    }
+  ],
+  "githubQueries": [
+    {
+      "id": "github-agent-harness",
+      "query": "agent harness in:name,description,readme created:>={since}"
+    },
+    {
+      "id": "github-coding-agent",
+      "query": "coding agent in:name,description created:>={since}"
+    },
+    {
+      "id": "github-agent-orchestrator",
+      "query": "agent orchestrator in:name,description,readme created:>={since}"
+    },
+    {
+      "id": "github-agent-runtime",
+      "query": "agent runtime in:name,description created:>={since}"
+    }
+  ],
+  "vendorDomains": [
+    { "name": "OpenAI", "domain": "openai.com" },
+    { "name": "Anthropic", "domain": "anthropic.com" },
+    { "name": "Google", "domain": "google.com" },
+    { "name": "Microsoft", "domain": "microsoft.com" },
+    { "name": "GitHub", "domain": "github.com" },
+    { "name": "Amazon Web Services", "domain": "aws.amazon.com" },
+    { "name": "Cursor", "domain": "cursor.com" },
+    { "name": "Cognition", "domain": "cognition.ai" },
+    { "name": "Sourcegraph", "domain": "sourcegraph.com" },
+    { "name": "Replit", "domain": "replit.com" },
+    { "name": "JetBrains", "domain": "jetbrains.com" },
+    { "name": "Windsurf", "domain": "windsurf.com" },
+    { "name": "Warp", "domain": "warp.dev" },
+    { "name": "Spotify", "domain": "spotify.com" },
+    { "name": "Stripe", "domain": "stripe.com" },
+    { "name": "Cloudflare", "domain": "cloudflare.com" },
+    { "name": "Docker", "domain": "docker.com" },
+    { "name": "Vercel", "domain": "vercel.com" },
+    { "name": "Hugging Face", "domain": "huggingface.co" },
+    { "name": "DeepSeek", "domain": "deepseek.com" },
+    { "name": "Qwen", "domain": "qwen.ai" },
+    { "name": "Moonshot AI", "domain": "moonshot.ai" }
+  ],
+  "upstreamCatalogs": [
+    {
+      "name": "best-of-Agent-Harnesses",
+      "url": "https://github.com/RyanAlberts/best-of-Agent-Harnesses"
+    },
+    {
+      "name": "awesome-agent-harness",
+      "url": "https://github.com/mahonzhan/awesome-agent-harness"
+    }
+  ]
+}

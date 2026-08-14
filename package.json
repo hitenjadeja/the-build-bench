@@ -5,9 +5,12 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
+    "test": "npm run validate:discovery && npm run build",
     "validate:data": "node scripts/validate-data.mjs",
+    "validate:discovery": "node scripts/validate-discovery.mjs",
     "import:research": "node scripts/import-research.mjs",
     "check:links": "node scripts/check-links.mjs",
+    "discover:plan": "node scripts/plan-discovery.mjs",
     "discover:harnesses": "node scripts/discover-harnesses.mjs",
     "prepare:site": "node scripts/prepare-site.mjs",
     "build": "npm run validate:data && npm run prepare:site && tsc -b && vite build",
