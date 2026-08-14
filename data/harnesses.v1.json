@@ -1,0 +1,97 @@
+{
+  "version": "1.0.0",
+  "generatedAt": "2026-08-14",
+  "harnesses": [
+    {
+      "id": "openai-codex",
+      "name": "Codex",
+      "company": "OpenAI",
+      "description": "A local coding agent that reads, edits, and runs code from the terminal.",
+      "capabilities": ["Repository operations", "Terminal automation", "Code review", "IDE integration"],
+      "languages": ["Rust"],
+      "license": "Apache-2.0",
+      "officialUrl": "https://developers.openai.com/codex/",
+      "repositoryUrl": "https://github.com/openai/codex",
+      "logo": "https://github.com/openai.png?size=160",
+      "monogram": "OX",
+      "tags": ["terminal", "local", "multimodal", "approvals"],
+      "reviewStatus": "source-verified",
+      "sourceUrls": [
+        "https://developers.openai.com/codex/",
+        "https://github.com/openai/codex",
+        "https://github.com/openai/codex/blob/main/LICENSE"
+      ],
+      "discoveredDate": "2026-08-14",
+      "lastVerifiedDate": "2026-08-14"
+    },
+    {
+      "id": "anthropic-claude-code",
+      "name": "Claude Code",
+      "company": "Anthropic",
+      "description": "An agentic coding tool that reads codebases, edits files, runs commands, and connects to development tools.",
+      "capabilities": ["Repository operations", "Terminal automation", "MCP & extensions", "Multi-agent workflows"],
+      "languages": ["TypeScript"],
+      "license": "Commercial terms",
+      "officialUrl": "https://code.claude.com/docs/en/overview",
+      "repositoryUrl": "https://github.com/anthropics/claude-code",
+      "logo": "https://github.com/anthropics.png?size=160",
+      "monogram": "CC",
+      "tags": ["terminal", "IDE", "MCP", "subagents"],
+      "reviewStatus": "source-verified",
+      "sourceUrls": [
+        "https://code.claude.com/docs/en/overview",
+        "https://code.claude.com/docs/en/how-claude-code-works",
+        "https://github.com/anthropics/claude-code",
+        "https://github.com/anthropics/claude-code/blob/main/LICENSE.md"
+      ],
+      "discoveredDate": "2026-08-14",
+      "lastVerifiedDate": "2026-08-14"
+    },
+    {
+      "id": "spacexai-grok-build",
+      "name": "Grok Build",
+      "company": "SpaceXAI",
+      "description": "A terminal coding agent and TUI for editing code, running commands, web search, and long-running tasks.",
+      "capabilities": ["Repository operations", "Terminal automation", "Headless / CI", "MCP & extensions"],
+      "languages": ["Rust"],
+      "license": "Apache-2.0",
+      "officialUrl": "https://x.ai/cli",
+      "repositoryUrl": "https://github.com/xai-org/grok-build",
+      "logo": "https://github.com/xai-org.png?size=160",
+      "monogram": "GB",
+      "tags": ["terminal", "TUI", "ACP", "local-first"],
+      "reviewStatus": "source-verified",
+      "sourceUrls": [
+        "https://x.ai/news/grok-build-open-source",
+        "https://docs.x.ai/build/overview",
+        "https://github.com/xai-org/grok-build",
+        "https://github.com/xai-org/grok-build/blob/main/LICENSE"
+      ],
+      "discoveredDate": "2026-08-14",
+      "lastVerifiedDate": "2026-08-14"
+    },
+    {
+      "id": "anomaly-opencode",
+      "name": "OpenCode",
+      "company": "Anomaly",
+      "description": "An open-source coding agent for the terminal, IDE, and desktop that can connect to models from many providers.",
+      "capabilities": ["Repository operations", "Terminal automation", "Multi-agent workflows", "IDE integration"],
+      "languages": ["TypeScript"],
+      "license": "MIT",
+      "officialUrl": "https://opencode.ai/",
+      "repositoryUrl": "https://github.com/anomalyco/opencode",
+      "logo": "https://github.com/anomalyco.png?size=160",
+      "monogram": "OC",
+      "tags": ["open source", "provider-agnostic", "LSP", "multi-session"],
+      "reviewStatus": "source-verified",
+      "sourceUrls": [
+        "https://opencode.ai/",
+        "https://opencode.ai/docs/",
+        "https://github.com/anomalyco/opencode",
+        "https://github.com/anomalyco/opencode/blob/dev/LICENSE"
+      ],
+      "discoveredDate": "2026-08-14",
+      "lastVerifiedDate": "2026-08-14"
+    }
+  ]
+}

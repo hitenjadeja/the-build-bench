@@ -1,0 +1,97 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://world-of-harnesses.github.io/schemas/harnesses.v1.schema.json",
+  "title": "The Build Bench harness directory",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["version", "generatedAt", "harnesses"],
+  "properties": {
+    "version": { "const": "1.0.0" },
+    "generatedAt": { "type": "string", "format": "date" },
+    "harnesses": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/harness" }
+    }
+  },
+  "$defs": {
+    "url": {
+      "type": "string",
+      "format": "uri",
+      "pattern": "^https://"
+    },
+    "date": {
+      "type": "string",
+      "format": "date"
+    },
+    "harness": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "id",
+        "name",
+        "company",
+        "description",
+        "capabilities",
+        "languages",
+        "license",
+        "officialUrl",
+        "repositoryUrl",
+        "monogram",
+        "tags",
+        "reviewStatus",
+        "sourceUrls",
+        "discoveredDate",
+        "lastVerifiedDate"
+      ],
+      "properties": {
+        "id": {
+          "type": "string",
+          "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+        },
+        "name": { "type": "string", "minLength": 1, "maxLength": 80 },
+        "company": { "type": "string", "minLength": 1, "maxLength": 80 },
+        "description": { "type": "string", "minLength": 20, "maxLength": 180 },
+        "capabilities": {
+          "type": "array",
+          "minItems": 1,
+          "uniqueItems": true,
+          "items": { "type": "string", "minLength": 1 }
+        },
+        "languages": {
+          "type": "array",
+          "minItems": 1,
+          "uniqueItems": true,
+          "items": { "type": "string", "minLength": 1 }
+        },
+        "license": { "type": "string", "minLength": 1, "maxLength": 80 },
+        "officialUrl": { "$ref": "#/$defs/url" },
+        "repositoryUrl": { "$ref": "#/$defs/url" },
+        "logo": { "$ref": "#/$defs/url" },
+        "monogram": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 3,
+          "pattern": "^[A-Z0-9]+$"
+        },
+        "tags": {
+          "type": "array",
+          "minItems": 2,
+          "maxItems": 4,
+          "uniqueItems": true,
+          "items": { "type": "string", "minLength": 1, "maxLength": 32 }
+        },
+        "reviewStatus": {
+          "enum": ["source-verified", "community-verified", "needs-review"]
+        },
+        "sourceUrls": {
+          "type": "array",
+          "minItems": 2,
+          "uniqueItems": true,
+          "items": { "$ref": "#/$defs/url" }
+        },
+        "discoveredDate": { "$ref": "#/$defs/date" },
+        "lastVerifiedDate": { "$ref": "#/$defs/date" }
+      }
+    }
+  }
+}

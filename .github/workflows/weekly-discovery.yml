@@ -1,0 +1,52 @@
+name: Weekly Harness Discovery
+
+on:
+  schedule:
+    - cron: '17 7 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+concurrency:
+  group: harness-discovery
+  cancel-in-progress: false
+
+jobs:
+  discover:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out source
+        uses: actions/checkout@v6
+      - name: Set up Node
+        uses: actions/setup-node@v6
+        with:
+          node-version: '24'
+          cache: npm
+      - name: Install exact dependencies
+        run: npm ci
+      - name: Run dry discovery lanes
+        run: npm run discover:harnesses
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Validate published data
+        run: npm run validate:data
+      - name: Create or update review pull request
+        uses: peter-evans/create-pull-request@v8
+        with:
+          branch: automation/harness-discovery
+          delete-branch: false
+          commit-message: 'chore(data): refresh harness discovery evidence'
+          title: 'Review: weekly harness discovery evidence'
+          body: |
+            Automated dry discovery only. Published directory data is unchanged.
+
+            Review lane completeness, duplicate exclusions, fuzzy-match flags, factual claims,
+            canonical URLs, repository identities, licenses, source evidence, and logo permissions.
+            Move approved records into `data/harnesses.v1.json` manually in this pull request.
+          labels: |
+            data-review
+            automated
+          add-paths: |
+            work/**
