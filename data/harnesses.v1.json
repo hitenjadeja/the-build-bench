@@ -1409,6 +1409,40 @@
       "lastVerifiedDate": "2026-08-14"
     },
     {
+      "id": "spotify-xirp",
+      "name": "Xirp",
+      "company": "Spotify",
+      "description": "Spotify's beta agentic development environment with institutional memory, connecting AI coding sessions to services, ownership, documentation, and architectural decisions across local and remote work.",
+      "capabilities": [
+        "Repository operations",
+        "Context management",
+        "Context persistence",
+        "Memory & state"
+      ],
+      "languages": [
+        "Not specified"
+      ],
+      "license": "Commercial / proprietary",
+      "availability": "proprietary",
+      "officialUrl": "https://xirp.spotify.com",
+      "repositoryUrl": null,
+      "monogram": "XI",
+      "tags": [
+        "coding",
+        "institutional-memory",
+        "multi-model",
+        "remote-agent"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "official-product-page",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://xirp.spotify.com"
+      ],
+      "discoveredDate": "2026-08-14",
+      "lastVerifiedDate": "2026-08-14"
+    },
+    {
       "id": "google-jules",
       "name": "Jules",
       "company": "Google",
