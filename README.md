@@ -43,6 +43,6 @@ Duplicate precedence is repository identity, canonical URL, then normalized name
 
 ## Research and review
 
-The complete evidence workflow is in [docs/research-workflow.md](docs/research-workflow.md). A weekly GitHub Action runs deterministic dry discovery and validation, then creates or updates a review pull request containing evidence and proposed JSON. A scheduled Codex sweep executes the broader web and vendor plan. Neither publishes unverified candidates. The Pages workflow deploys only builds merged to `main`.
+The complete evidence workflow is in [docs/research-workflow.md](docs/research-workflow.md). A weekly GitHub Action runs deterministic dry discovery and validation, then commits refreshed evidence and proposed JSON directly to `main`. A scheduled Codex sweep executes the broader web and vendor plan. Neither publishes unverified candidates. This project does not use pull requests; validated changes are pushed directly to `main` and deployed by the Pages workflow.
 
 The catalog data and adapted descriptions include CC BY-SA 4.0 material. See [`ATTRIBUTION.md`](ATTRIBUTION.md) for the source, license, modifications, and share-alike notice.

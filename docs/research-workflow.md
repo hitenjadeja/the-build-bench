@@ -27,7 +27,7 @@ Candidate evidence tables use exactly these fields:
 3. Flag fuzzy matches for a reviewer; never merge them automatically.
 4. Write proposed records to `work/discovery/proposed-harnesses.v1.json` and a concise evidence summary to `work/discovery/evidence-report.md`.
 5. Validate the currently published dataset. Discovery must never modify it.
-6. Create or update the weekly review pull request.
+6. Commit the refreshed evidence and proposed records directly to `main`. Do not promote proposals into the published catalog automatically and do not open a pull request.
 
 Before a reviewer promotes any proposal into `data/harnesses.v1.json`, they must confirm the factual description, organisation, canonical URLs, repository identity, license, source evidence, dates, and logo permission or use the neutral monogram fallback. Scheduled output is never published without this review.
 

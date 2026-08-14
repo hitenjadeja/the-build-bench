@@ -45,7 +45,7 @@ Deduplicate against `data/harnesses.v1.json` and `data/discovery-candidates.json
 
 1. Add the source-backed record to `data/harnesses.v1.json` using the repository schema and neutral monogram fallback when logo rights are unclear.
 2. Run `npm test` and `npm run check:links`.
-3. Commit and push to `hitenjadeja/the-build-bench` unless the user explicitly says not to.
+3. Commit and push directly to `hitenjadeja/the-build-bench/main` unless the user explicitly says not to. Never open a pull request for this project.
 4. Monitor the Pages workflow and verify `https://hitenjadeja.github.io/the-build-bench/` returns HTTP 200, the deployed `catalog.json` contains the record, and the live search bundle includes its name.
 5. Report the search window, queries and sources checked, additions, deferred candidates, rejections, blocked sources, commit, deployment, and live verification.
 

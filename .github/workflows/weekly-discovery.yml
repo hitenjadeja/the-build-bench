@@ -7,7 +7,6 @@ on:
 
 permissions:
   contents: write
-  pull-requests: write
 
 concurrency:
   group: harness-discovery
@@ -34,21 +33,15 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Validate published data
         run: npm run validate:data
-      - name: Create or update review pull request
-        uses: peter-evans/create-pull-request@v8
-        with:
-          branch: automation/harness-discovery
-          delete-branch: false
-          commit-message: 'chore(data): refresh harness discovery evidence'
-          title: 'Review: weekly harness discovery evidence'
-          body: |
-            Automated dry discovery only. Published directory data is unchanged.
-
-            Review lane completeness, duplicate exclusions, fuzzy-match flags, factual claims,
-            canonical URLs, repository identities, licenses, source evidence, and logo permissions.
-            Move approved records into `data/harnesses.v1.json` manually in this pull request.
-          labels: |
-            data-review
-            automated
-          add-paths: |
-            work/**
+      - name: Commit refreshed evidence to main
+        run: |
+          git add work/**
+          if git diff --cached --quiet; then
+            echo "Discovery evidence is unchanged."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore(data): refresh harness discovery evidence"
+          git pull --rebase origin main
+          git push origin HEAD:main
