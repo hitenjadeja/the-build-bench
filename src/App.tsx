@@ -60,11 +60,11 @@ function StatusStamp({ status }: { status: ReviewStatus }) {
   )
 }
 
-function HarnessCard({ harness, featured = false, index = 0 }: { harness: Harness; featured?: boolean; index?: number }) {
+function HarnessCard({ harness, index = 0 }: { harness: Harness; index?: number }) {
   const accent = ['cobalt', 'orange', 'pink', 'lime'][index % 4]
 
   return (
-    <article className={`harness-card card-${accent}${featured ? ' is-featured' : ''}`} data-harness-card>
+    <article className={`harness-card card-${accent}`} data-harness-card>
       <div className="card-topline">
         <span className="part-number">UNIT / {String(index + 1).padStart(2, '0')}</span>
         <StatusStamp status={harness.reviewStatus} />
@@ -186,7 +186,6 @@ function App() {
   }, [filters, query])
 
   const activeFilterCount = Object.values(filters).filter(Boolean).length
-  const featured = data.harnesses.filter((harness) => ['openai-codex', 'anthropic-claude-code'].includes(harness.id))
 
   const closeFilters = () => {
     setFilterOpen(false)
@@ -346,21 +345,8 @@ function App() {
           </div>
 
           <div className="results-readout" aria-live="polite" aria-atomic="true">
-            <span><strong>{results.length}</strong> {results.length === 1 ? 'harness' : 'harnesses'} on bench</span>
+            <span><strong>{results.length}</strong> of {data.harnesses.length} {results.length === 1 ? 'harness' : 'harnesses'} on bench</span>
             <span>{query ? `Search: “${query}”` : 'Ready to inspect'}</span>
-          </div>
-        </section>
-
-        <section className="featured-section" aria-labelledby="featured-heading">
-          <div className="section-heading">
-            <div>
-              <p className="section-kicker">Pinned to the front rail</p>
-              <h2 id="featured-heading">Featured harnesses</h2>
-            </div>
-            <span className="stamped-label">SOURCE CHECKED</span>
-          </div>
-          <div className="featured-grid">
-            {featured.map((harness, index) => <HarnessCard key={harness.id} harness={harness} featured index={index} />)}
           </div>
         </section>
 
@@ -368,7 +354,9 @@ function App() {
           <div className="section-heading gallery-heading">
             <div>
               <p className="section-kicker">Component gallery</p>
-              <h2 id="directory-heading">All units</h2>
+              <h2 id="directory-heading">
+                Available units <span className="gallery-count" aria-hidden="true">{results.length}/{data.harnesses.length}</span>
+              </h2>
             </div>
             <p>Use <kbd>←</kbd> <kbd>→</kbd> between focused cards</p>
           </div>
