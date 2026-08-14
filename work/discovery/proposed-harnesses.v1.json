@@ -1,37 +1,21 @@
 {
-  "version": "1.0.0",
+  "version": "1.1.0",
   "generatedAt": "2026-08-14",
-  "harnesses": [
+  "sources": [
     {
-      "id": "can1357-ohmypi",
-      "name": "oh-my-pi",
-      "company": "can1357",
-      "description": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
-      "capabilities": [
-        "Repository operations"
-      ],
-      "languages": [
-        "TypeScript"
-      ],
-      "license": "MIT",
-      "officialUrl": "https://omp.sh",
-      "repositoryUrl": "https://github.com/can1357/oh-my-pi",
-      "monogram": "OH",
-      "tags": [
-        "ai-agent",
-        "ai-coding-agent",
-        "discovered",
-        "needs review"
-      ],
-      "reviewStatus": "needs-review",
-      "sourceUrls": [
-        "https://api.github.com/search/repositories?sort=stars&order=desc&per_page=20&q=topic%3Aai-coding-agent%20archived%3Afalse",
-        "https://github.com/can1357/oh-my-pi",
-        "https://omp.sh"
-      ],
-      "discoveredDate": "2026-08-14",
-      "lastVerifiedDate": "2026-08-14"
+      "name": "best-of-Agent-Harnesses",
+      "url": "https://github.com/RyanAlberts/best-of-Agent-Harnesses",
+      "license": "CC-BY-SA-4.0",
+      "capturedDate": "2026-08-09"
     },
+    {
+      "name": "World of Harnesses primary-source pass",
+      "url": "https://github.com/hitenjadeja/the-build-bench",
+      "license": "CC-BY-SA-4.0",
+      "capturedDate": "2026-08-14"
+    }
+  ],
+  "harnesses": [
     {
       "id": "alirezarezvani-claudeskills",
       "name": "claude-skills",
@@ -44,6 +28,7 @@
         "Python"
       ],
       "license": "MIT",
+      "availability": "unclear",
       "officialUrl": "https://alirezarezvani.medium.com/",
       "repositoryUrl": "https://github.com/alirezarezvani/claude-skills",
       "monogram": "CL",
@@ -54,40 +39,12 @@
         "needs review"
       ],
       "reviewStatus": "needs-review",
+      "sourceKind": "discovery-candidate",
+      "provenance": "independent-discovery",
       "sourceUrls": [
         "https://api.github.com/search/repositories?sort=stars&order=desc&per_page=20&q=topic%3Aai-coding-agent%20archived%3Afalse",
         "https://github.com/alirezarezvani/claude-skills",
         "https://alirezarezvani.medium.com/"
-      ],
-      "discoveredDate": "2026-08-14",
-      "lastVerifiedDate": "2026-08-14"
-    },
-    {
-      "id": "1jehuang-jcode",
-      "name": "jcode",
-      "company": "1jehuang",
-      "description": "The most RAM efficient harness",
-      "capabilities": [
-        "Repository operations"
-      ],
-      "languages": [
-        "Rust"
-      ],
-      "license": "MIT",
-      "officialUrl": "https://jcode.sh",
-      "repositoryUrl": "https://github.com/1jehuang/jcode",
-      "monogram": "JC",
-      "tags": [
-        "ai",
-        "ai-agent",
-        "discovered",
-        "needs review"
-      ],
-      "reviewStatus": "needs-review",
-      "sourceUrls": [
-        "https://api.github.com/search/repositories?sort=stars&order=desc&per_page=20&q=topic%3Aai-coding-agent%20archived%3Afalse",
-        "https://github.com/1jehuang/jcode",
-        "https://jcode.sh"
       ],
       "discoveredDate": "2026-08-14",
       "lastVerifiedDate": "2026-08-14"
@@ -104,6 +61,7 @@
         "Python"
       ],
       "license": "MIT",
+      "availability": "unclear",
       "officialUrl": "https://ouroboros.page/",
       "repositoryUrl": "https://github.com/Q00/ouroboros",
       "monogram": "OU",
@@ -114,6 +72,8 @@
         "needs review"
       ],
       "reviewStatus": "needs-review",
+      "sourceKind": "discovery-candidate",
+      "provenance": "independent-discovery",
       "sourceUrls": [
         "https://api.github.com/search/repositories?sort=stars&order=desc&per_page=20&q=topic%3Aai-coding-agent%20archived%3Afalse",
         "https://github.com/Q00/ouroboros",
@@ -134,6 +94,7 @@
         "Rust"
       ],
       "license": "MIT",
+      "availability": "unclear",
       "officialUrl": "https://github.com/graykode/abtop",
       "repositoryUrl": "https://github.com/graykode/abtop",
       "monogram": "AB",
@@ -144,6 +105,8 @@
         "needs review"
       ],
       "reviewStatus": "needs-review",
+      "sourceKind": "discovery-candidate",
+      "provenance": "independent-discovery",
       "sourceUrls": [
         "https://api.github.com/search/repositories?sort=stars&order=desc&per_page=20&q=topic%3Aai-coding-agent%20archived%3Afalse",
         "https://github.com/graykode/abtop"
@@ -163,6 +126,7 @@
         "TypeScript"
       ],
       "license": "AGPL-3.0",
+      "availability": "unclear",
       "officialUrl": "https://autobe.dev",
       "repositoryUrl": "https://github.com/wrtnlabs/autobe",
       "monogram": "AU",
@@ -173,6 +137,8 @@
         "needs review"
       ],
       "reviewStatus": "needs-review",
+      "sourceKind": "discovery-candidate",
+      "provenance": "independent-discovery",
       "sourceUrls": [
         "https://api.github.com/search/repositories?sort=stars&order=desc&per_page=20&q=topic%3Aai-coding-agent%20archived%3Afalse",
         "https://github.com/wrtnlabs/autobe",
@@ -193,6 +159,7 @@
         "Unknown"
       ],
       "license": "MIT",
+      "availability": "unclear",
       "officialUrl": "https://github.com/repowise-dev/claude-code-prompts",
       "repositoryUrl": "https://github.com/repowise-dev/claude-code-prompts",
       "monogram": "CL",
@@ -203,6 +170,8 @@
         "needs review"
       ],
       "reviewStatus": "needs-review",
+      "sourceKind": "discovery-candidate",
+      "provenance": "independent-discovery",
       "sourceUrls": [
         "https://api.github.com/search/repositories?sort=stars&order=desc&per_page=20&q=topic%3Aai-coding-agent%20archived%3Afalse",
         "https://github.com/repowise-dev/claude-code-prompts"
@@ -222,6 +191,7 @@
         "JavaScript"
       ],
       "license": "MIT",
+      "availability": "unclear",
       "officialUrl": "https://www.skills.sh/amelnagdy/delegate-skills",
       "repositoryUrl": "https://github.com/amElnagdy/delegate-skills",
       "monogram": "DE",
@@ -232,6 +202,8 @@
         "needs review"
       ],
       "reviewStatus": "needs-review",
+      "sourceKind": "discovery-candidate",
+      "provenance": "independent-discovery",
       "sourceUrls": [
         "https://api.github.com/search/repositories?sort=stars&order=desc&per_page=20&q=topic%3Aai-coding-agent%20archived%3Afalse",
         "https://github.com/amElnagdy/delegate-skills",
@@ -252,6 +224,7 @@
         "TypeScript"
       ],
       "license": "NOASSERTION",
+      "availability": "unclear",
       "officialUrl": "https://empryo.com/",
       "repositoryUrl": "https://github.com/proxysoul/Empryo",
       "monogram": "EM",
@@ -262,6 +235,8 @@
         "needs review"
       ],
       "reviewStatus": "needs-review",
+      "sourceKind": "discovery-candidate",
+      "provenance": "independent-discovery",
       "sourceUrls": [
         "https://api.github.com/search/repositories?sort=stars&order=desc&per_page=20&q=topic%3Aai-coding-agent%20archived%3Afalse",
         "https://github.com/proxysoul/Empryo",
@@ -282,6 +257,7 @@
         "TypeScript"
       ],
       "license": "MIT",
+      "availability": "unclear",
       "officialUrl": "https://friuns2.github.io/codex-mobile/",
       "repositoryUrl": "https://github.com/friuns2/codex-mobile",
       "monogram": "CO",
@@ -292,6 +268,8 @@
         "needs review"
       ],
       "reviewStatus": "needs-review",
+      "sourceKind": "discovery-candidate",
+      "provenance": "independent-discovery",
       "sourceUrls": [
         "https://api.github.com/search/repositories?sort=stars&order=desc&per_page=20&q=topic%3Aai-coding-agent%20archived%3Afalse",
         "https://github.com/friuns2/codex-mobile",
@@ -312,6 +290,7 @@
         "Kotlin"
       ],
       "license": "Apache-2.0",
+      "availability": "unclear",
       "officialUrl": "https://github.com/wecode-ai/RunVSAgent",
       "repositoryUrl": "https://github.com/wecode-ai/RunVSAgent",
       "monogram": "RU",
@@ -322,6 +301,8 @@
         "needs review"
       ],
       "reviewStatus": "needs-review",
+      "sourceKind": "discovery-candidate",
+      "provenance": "independent-discovery",
       "sourceUrls": [
         "https://api.github.com/search/repositories?sort=stars&order=desc&per_page=20&q=topic%3Aai-coding-agent%20archived%3Afalse",
         "https://github.com/wecode-ai/RunVSAgent"
@@ -341,6 +322,7 @@
         "Python"
       ],
       "license": "MIT",
+      "availability": "unclear",
       "officialUrl": "https://github.com/dongshuyan/compass-skills",
       "repositoryUrl": "https://github.com/dongshuyan/compass-skills",
       "monogram": "CO",
@@ -351,6 +333,8 @@
         "needs review"
       ],
       "reviewStatus": "needs-review",
+      "sourceKind": "discovery-candidate",
+      "provenance": "independent-discovery",
       "sourceUrls": [
         "https://api.github.com/search/repositories?sort=stars&order=desc&per_page=20&q=topic%3Aai-coding-agent%20archived%3Afalse",
         "https://github.com/dongshuyan/compass-skills"
@@ -370,6 +354,7 @@
         "TypeScript"
       ],
       "license": "MIT",
+      "availability": "unclear",
       "officialUrl": "https://ayuayue.github.io/PiDeck/",
       "repositoryUrl": "https://github.com/ayuayue/PiDeck",
       "monogram": "PI",
@@ -380,6 +365,8 @@
         "needs review"
       ],
       "reviewStatus": "needs-review",
+      "sourceKind": "discovery-candidate",
+      "provenance": "independent-discovery",
       "sourceUrls": [
         "https://api.github.com/search/repositories?sort=stars&order=desc&per_page=20&q=topic%3Aai-coding-agent%20archived%3Afalse",
         "https://github.com/ayuayue/PiDeck",
@@ -400,6 +387,7 @@
         "Rust"
       ],
       "license": "Apache-2.0",
+      "availability": "unclear",
       "officialUrl": "https://h5i.dev",
       "repositoryUrl": "https://github.com/h5i-dev/h5i",
       "monogram": "H5",
@@ -410,6 +398,8 @@
         "needs review"
       ],
       "reviewStatus": "needs-review",
+      "sourceKind": "discovery-candidate",
+      "provenance": "independent-discovery",
       "sourceUrls": [
         "https://api.github.com/search/repositories?sort=stars&order=desc&per_page=20&q=topic%3Aai-coding-agent%20archived%3Afalse",
         "https://github.com/h5i-dev/h5i",
@@ -430,6 +420,7 @@
         "TypeScript"
       ],
       "license": "MIT",
+      "availability": "unclear",
       "officialUrl": "https://pi-web.dev/",
       "repositoryUrl": "https://github.com/jmfederico/pi-web",
       "monogram": "PI",
@@ -440,6 +431,8 @@
         "needs review"
       ],
       "reviewStatus": "needs-review",
+      "sourceKind": "discovery-candidate",
+      "provenance": "independent-discovery",
       "sourceUrls": [
         "https://api.github.com/search/repositories?sort=stars&order=desc&per_page=20&q=topic%3Aai-coding-agent%20archived%3Afalse",
         "https://github.com/jmfederico/pi-web",
@@ -460,6 +453,7 @@
         "TypeScript"
       ],
       "license": "NOASSERTION",
+      "availability": "unclear",
       "officialUrl": "https://agent-kanban.dev",
       "repositoryUrl": "https://github.com/saltbo/agent-kanban",
       "monogram": "AG",
@@ -470,6 +464,8 @@
         "needs review"
       ],
       "reviewStatus": "needs-review",
+      "sourceKind": "discovery-candidate",
+      "provenance": "independent-discovery",
       "sourceUrls": [
         "https://api.github.com/search/repositories?sort=stars&order=desc&per_page=20&q=topic%3Aai-coding-agent%20archived%3Afalse",
         "https://github.com/saltbo/agent-kanban",
@@ -490,6 +486,7 @@
         "Unknown"
       ],
       "license": "Unknown",
+      "availability": "unclear",
       "officialUrl": "https://github.com/JohnCrickett/ai-assisted-engineering",
       "repositoryUrl": "https://github.com/JohnCrickett/ai-assisted-engineering",
       "monogram": "AI",
@@ -500,6 +497,8 @@
         "needs review"
       ],
       "reviewStatus": "needs-review",
+      "sourceKind": "discovery-candidate",
+      "provenance": "independent-discovery",
       "sourceUrls": [
         "https://api.github.com/search/repositories?sort=stars&order=desc&per_page=20&q=topic%3Aai-coding-agent%20archived%3Afalse",
         "https://github.com/JohnCrickett/ai-assisted-engineering"
@@ -519,6 +518,7 @@
         "Go"
       ],
       "license": "AGPL-3.0",
+      "availability": "unclear",
       "officialUrl": "https://getvix.dev",
       "repositoryUrl": "https://github.com/get-vix/vix",
       "monogram": "VI",
@@ -529,6 +529,8 @@
         "needs review"
       ],
       "reviewStatus": "needs-review",
+      "sourceKind": "discovery-candidate",
+      "provenance": "independent-discovery",
       "sourceUrls": [
         "https://api.github.com/search/repositories?sort=stars&order=desc&per_page=20&q=topic%3Aai-coding-agent%20archived%3Afalse",
         "https://github.com/get-vix/vix",
@@ -549,6 +551,7 @@
         "Python"
       ],
       "license": "Apache-2.0",
+      "availability": "unclear",
       "officialUrl": "https://github.com/decodingai-magazine/building-a-coding-agent-from-scratch-course",
       "repositoryUrl": "https://github.com/decodingai-magazine/building-a-coding-agent-from-scratch-course",
       "monogram": "BU",
@@ -559,6 +562,8 @@
         "needs review"
       ],
       "reviewStatus": "needs-review",
+      "sourceKind": "discovery-candidate",
+      "provenance": "independent-discovery",
       "sourceUrls": [
         "https://api.github.com/search/repositories?sort=stars&order=desc&per_page=20&q=topic%3Aai-coding-agent%20archived%3Afalse",
         "https://github.com/decodingai-magazine/building-a-coding-agent-from-scratch-course"
@@ -578,6 +583,7 @@
         "Rust"
       ],
       "license": "MIT",
+      "availability": "unclear",
       "officialUrl": "https://albatross.sh",
       "repositoryUrl": "https://github.com/morganlinton/Albatross",
       "monogram": "AL",
@@ -588,6 +594,8 @@
         "needs review"
       ],
       "reviewStatus": "needs-review",
+      "sourceKind": "discovery-candidate",
+      "provenance": "independent-discovery",
       "sourceUrls": [
         "https://api.github.com/search/repositories?sort=stars&order=desc&per_page=20&q=topic%3Aai-coding-agent%20archived%3Afalse",
         "https://github.com/morganlinton/Albatross",
@@ -608,6 +616,7 @@
         "Unknown"
       ],
       "license": "MIT",
+      "availability": "unclear",
       "officialUrl": "https://everyfeed.ai/",
       "repositoryUrl": "https://github.com/VoltAgent/awesome-design-md",
       "monogram": "AW",
@@ -618,67 +627,12 @@
         "needs review"
       ],
       "reviewStatus": "needs-review",
+      "sourceKind": "discovery-candidate",
+      "provenance": "independent-discovery",
       "sourceUrls": [
         "https://api.github.com/search/repositories?sort=stars&order=desc&per_page=20&q=%22coding%20agent%22%20in%3Aname%2Cdescription%20stars%3A%3E500%20archived%3Afalse",
         "https://github.com/VoltAgent/awesome-design-md",
         "https://everyfeed.ai/"
-      ],
-      "discoveredDate": "2026-08-14",
-      "lastVerifiedDate": "2026-08-14"
-    },
-    {
-      "id": "earendilworks-pi",
-      "name": "pi",
-      "company": "earendil-works",
-      "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
-      "capabilities": [
-        "Repository operations"
-      ],
-      "languages": [
-        "TypeScript"
-      ],
-      "license": "MIT",
-      "officialUrl": "https://github.com/earendil-works/pi",
-      "repositoryUrl": "https://github.com/earendil-works/pi",
-      "monogram": "PI",
-      "tags": [
-        "discovered",
-        "needs review"
-      ],
-      "reviewStatus": "needs-review",
-      "sourceUrls": [
-        "https://api.github.com/search/repositories?sort=stars&order=desc&per_page=20&q=%22coding%20agent%22%20in%3Aname%2Cdescription%20stars%3A%3E500%20archived%3Afalse",
-        "https://github.com/earendil-works/pi"
-      ],
-      "discoveredDate": "2026-08-14",
-      "lastVerifiedDate": "2026-08-14"
-    },
-    {
-      "id": "addyosmani-agentskills",
-      "name": "agent-skills",
-      "company": "addyosmani",
-      "description": "Production-grade engineering skills for AI coding agents.",
-      "capabilities": [
-        "Repository operations"
-      ],
-      "languages": [
-        "JavaScript"
-      ],
-      "license": "MIT",
-      "officialUrl": "https://skills.addy.ie",
-      "repositoryUrl": "https://github.com/addyosmani/agent-skills",
-      "monogram": "AG",
-      "tags": [
-        "agent-skills",
-        "antigravity",
-        "discovered",
-        "needs review"
-      ],
-      "reviewStatus": "needs-review",
-      "sourceUrls": [
-        "https://api.github.com/search/repositories?sort=stars&order=desc&per_page=20&q=%22coding%20agent%22%20in%3Aname%2Cdescription%20stars%3A%3E500%20archived%3Afalse",
-        "https://github.com/addyosmani/agent-skills",
-        "https://skills.addy.ie"
       ],
       "discoveredDate": "2026-08-14",
       "lastVerifiedDate": "2026-08-14"
@@ -695,6 +649,7 @@
         "TypeScript"
       ],
       "license": "Apache-2.0",
+      "availability": "unclear",
       "officialUrl": "https://open-design.ai",
       "repositoryUrl": "https://github.com/nexu-io/open-design",
       "monogram": "OP",
@@ -705,39 +660,12 @@
         "needs review"
       ],
       "reviewStatus": "needs-review",
+      "sourceKind": "discovery-candidate",
+      "provenance": "independent-discovery",
       "sourceUrls": [
         "https://api.github.com/search/repositories?sort=stars&order=desc&per_page=20&q=%22coding%20agent%22%20in%3Aname%2Cdescription%20stars%3A%3E500%20archived%3Afalse",
         "https://github.com/nexu-io/open-design",
         "https://open-design.ai"
-      ],
-      "discoveredDate": "2026-08-14",
-      "lastVerifiedDate": "2026-08-14"
-    },
-    {
-      "id": "openinterpreter-openinterpreter",
-      "name": "openinterpreter",
-      "company": "openinterpreter",
-      "description": "A coding agent for open models like Kimi K3",
-      "capabilities": [
-        "Repository operations"
-      ],
-      "languages": [
-        "Rust"
-      ],
-      "license": "Apache-2.0",
-      "officialUrl": "https://github.com/openinterpreter/openinterpreter",
-      "repositoryUrl": "https://github.com/openinterpreter/openinterpreter",
-      "monogram": "OP",
-      "tags": [
-        "acp",
-        "coding-agent",
-        "discovered",
-        "needs review"
-      ],
-      "reviewStatus": "needs-review",
-      "sourceUrls": [
-        "https://api.github.com/search/repositories?sort=stars&order=desc&per_page=20&q=%22coding%20agent%22%20in%3Aname%2Cdescription%20stars%3A%3E500%20archived%3Afalse",
-        "https://github.com/openinterpreter/openinterpreter"
       ],
       "discoveredDate": "2026-08-14",
       "lastVerifiedDate": "2026-08-14"
@@ -754,6 +682,7 @@
         "TypeScript"
       ],
       "license": "NOASSERTION",
+      "availability": "unclear",
       "officialUrl": "https://omo.dev",
       "repositoryUrl": "https://github.com/code-yeongyu/oh-my-openagent",
       "monogram": "OH",
@@ -764,98 +693,12 @@
         "needs review"
       ],
       "reviewStatus": "needs-review",
+      "sourceKind": "discovery-candidate",
+      "provenance": "independent-discovery",
       "sourceUrls": [
         "https://api.github.com/search/repositories?sort=stars&order=desc&per_page=20&q=%22coding%20agent%22%20in%3Aname%2Cdescription%20stars%3A%3E500%20archived%3Afalse",
         "https://github.com/code-yeongyu/oh-my-openagent",
         "https://omo.dev"
-      ],
-      "discoveredDate": "2026-08-14",
-      "lastVerifiedDate": "2026-08-14"
-    },
-    {
-      "id": "headroomlabsai-headroom",
-      "name": "headroom",
-      "company": "headroomlabs-ai",
-      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP se",
-      "capabilities": [
-        "Repository operations"
-      ],
-      "languages": [
-        "Python"
-      ],
-      "license": "Apache-2.0",
-      "officialUrl": "https://docs.headroomlabs.ai/docs",
-      "repositoryUrl": "https://github.com/headroomlabs-ai/headroom",
-      "monogram": "HE",
-      "tags": [
-        "agent",
-        "ai",
-        "discovered",
-        "needs review"
-      ],
-      "reviewStatus": "needs-review",
-      "sourceUrls": [
-        "https://api.github.com/search/repositories?sort=stars&order=desc&per_page=20&q=%22coding%20agent%22%20in%3Aname%2Cdescription%20stars%3A%3E500%20archived%3Afalse",
-        "https://github.com/headroomlabs-ai/headroom",
-        "https://docs.headroomlabs.ai/docs"
-      ],
-      "discoveredDate": "2026-08-14",
-      "lastVerifiedDate": "2026-08-14"
-    },
-    {
-      "id": "cline-cline",
-      "name": "cline",
-      "company": "cline",
-      "description": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
-      "capabilities": [
-        "Repository operations"
-      ],
-      "languages": [
-        "TypeScript"
-      ],
-      "license": "Apache-2.0",
-      "officialUrl": "https://cline.bot",
-      "repositoryUrl": "https://github.com/cline/cline",
-      "monogram": "CL",
-      "tags": [
-        "discovered",
-        "needs review"
-      ],
-      "reviewStatus": "needs-review",
-      "sourceUrls": [
-        "https://api.github.com/search/repositories?sort=stars&order=desc&per_page=20&q=%22coding%20agent%22%20in%3Aname%2Cdescription%20stars%3A%3E500%20archived%3Afalse",
-        "https://github.com/cline/cline",
-        "https://cline.bot"
-      ],
-      "discoveredDate": "2026-08-14",
-      "lastVerifiedDate": "2026-08-14"
-    },
-    {
-      "id": "chromedevtools-chromedevtoolsmcp",
-      "name": "chrome-devtools-mcp",
-      "company": "ChromeDevTools",
-      "description": "Chrome DevTools for coding agents",
-      "capabilities": [
-        "Repository operations"
-      ],
-      "languages": [
-        "TypeScript"
-      ],
-      "license": "Apache-2.0",
-      "officialUrl": "https://npmjs.org/package/chrome-devtools-mcp",
-      "repositoryUrl": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-      "monogram": "CH",
-      "tags": [
-        "browser",
-        "chrome",
-        "discovered",
-        "needs review"
-      ],
-      "reviewStatus": "needs-review",
-      "sourceUrls": [
-        "https://api.github.com/search/repositories?sort=stars&order=desc&per_page=20&q=%22coding%20agent%22%20in%3Aname%2Cdescription%20stars%3A%3E500%20archived%3Afalse",
-        "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-        "https://npmjs.org/package/chrome-devtools-mcp"
       ],
       "discoveredDate": "2026-08-14",
       "lastVerifiedDate": "2026-08-14"
@@ -872,6 +715,7 @@
         "Go"
       ],
       "license": "NOASSERTION",
+      "availability": "unclear",
       "officialUrl": "https://multica.ai",
       "repositoryUrl": "https://github.com/multica-ai/multica",
       "monogram": "MU",
@@ -880,6 +724,8 @@
         "needs review"
       ],
       "reviewStatus": "needs-review",
+      "sourceKind": "discovery-candidate",
+      "provenance": "independent-discovery",
       "sourceUrls": [
         "https://api.github.com/search/repositories?sort=stars&order=desc&per_page=20&q=%22coding%20agent%22%20in%3Aname%2Cdescription%20stars%3A%3E500%20archived%3Afalse",
         "https://github.com/multica-ai/multica",
@@ -900,6 +746,7 @@
         "TypeScript"
       ],
       "license": "MIT",
+      "availability": "unclear",
       "officialUrl": "https://onOrca.dev",
       "repositoryUrl": "https://github.com/stablyai/orca",
       "monogram": "OR",
@@ -910,69 +757,12 @@
         "needs review"
       ],
       "reviewStatus": "needs-review",
+      "sourceKind": "discovery-candidate",
+      "provenance": "independent-discovery",
       "sourceUrls": [
         "https://api.github.com/search/repositories?sort=stars&order=desc&per_page=20&q=%22coding%20agent%22%20in%3Aname%2Cdescription%20stars%3A%3E500%20archived%3Afalse",
         "https://github.com/stablyai/orca",
         "https://onOrca.dev"
-      ],
-      "discoveredDate": "2026-08-14",
-      "lastVerifiedDate": "2026-08-14"
-    },
-    {
-      "id": "continuedev-continue",
-      "name": "continue",
-      "company": "continuedev",
-      "description": "open-source coding agent",
-      "capabilities": [
-        "Repository operations"
-      ],
-      "languages": [
-        "TypeScript"
-      ],
-      "license": "Apache-2.0",
-      "officialUrl": "https://continue.dev",
-      "repositoryUrl": "https://github.com/continuedev/continue",
-      "monogram": "CO",
-      "tags": [
-        "agent",
-        "ai",
-        "discovered",
-        "needs review"
-      ],
-      "reviewStatus": "needs-review",
-      "sourceUrls": [
-        "https://api.github.com/search/repositories?sort=stars&order=desc&per_page=20&q=%22coding%20agent%22%20in%3Aname%2Cdescription%20stars%3A%3E500%20archived%3Afalse",
-        "https://github.com/continuedev/continue",
-        "https://continue.dev"
-      ],
-      "discoveredDate": "2026-08-14",
-      "lastVerifiedDate": "2026-08-14"
-    },
-    {
-      "id": "esengine-deepseekreasonix",
-      "name": "DeepSeek-Reasonix",
-      "company": "esengine",
-      "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
-      "capabilities": [
-        "Repository operations"
-      ],
-      "languages": [
-        "Go"
-      ],
-      "license": "MIT",
-      "officialUrl": "https://github.com/esengine/DeepSeek-Reasonix",
-      "repositoryUrl": "https://github.com/esengine/DeepSeek-Reasonix",
-      "monogram": "DE",
-      "tags": [
-        "agent",
-        "agent-framework",
-        "discovered",
-        "needs review"
-      ],
-      "reviewStatus": "needs-review",
-      "sourceUrls": [
-        "https://api.github.com/search/repositories?sort=stars&order=desc&per_page=20&q=%22coding%20agent%22%20in%3Aname%2Cdescription%20stars%3A%3E500%20archived%3Afalse",
-        "https://github.com/esengine/DeepSeek-Reasonix"
       ],
       "discoveredDate": "2026-08-14",
       "lastVerifiedDate": "2026-08-14"
@@ -989,6 +779,7 @@
         "JavaScript"
       ],
       "license": "MIT",
+      "availability": "unclear",
       "officialUrl": "https://dsc.gg/jcodesmore",
       "repositoryUrl": "https://github.com/JCodesMore/ai-website-cloner-template",
       "monogram": "AI",
@@ -999,6 +790,8 @@
         "needs review"
       ],
       "reviewStatus": "needs-review",
+      "sourceKind": "discovery-candidate",
+      "provenance": "independent-discovery",
       "sourceUrls": [
         "https://api.github.com/search/repositories?sort=stars&order=desc&per_page=20&q=%22coding%20agent%22%20in%3Aname%2Cdescription%20stars%3A%3E500%20archived%3Afalse",
         "https://github.com/JCodesMore/ai-website-cloner-template",
@@ -1019,6 +812,7 @@
         "Rust"
       ],
       "license": "Apache-2.0",
+      "availability": "unclear",
       "officialUrl": "https://herdr.dev",
       "repositoryUrl": "https://github.com/herdrdev/herdr",
       "monogram": "HE",
@@ -1029,40 +823,12 @@
         "needs review"
       ],
       "reviewStatus": "needs-review",
+      "sourceKind": "discovery-candidate",
+      "provenance": "independent-discovery",
       "sourceUrls": [
         "https://api.github.com/search/repositories?sort=stars&order=desc&per_page=20&q=%22coding%20agent%22%20in%3Aname%2Cdescription%20stars%3A%3E500%20archived%3Afalse",
         "https://github.com/herdrdev/herdr",
         "https://herdr.dev"
-      ],
-      "discoveredDate": "2026-08-14",
-      "lastVerifiedDate": "2026-08-14"
-    },
-    {
-      "id": "bloopai-vibekanban",
-      "name": "vibe-kanban",
-      "company": "BloopAI",
-      "description": "Get 10X more out of Claude Code, Codex or any coding agent",
-      "capabilities": [
-        "Repository operations"
-      ],
-      "languages": [
-        "Rust"
-      ],
-      "license": "Apache-2.0",
-      "officialUrl": "https://www.vibekanban.com/",
-      "repositoryUrl": "https://github.com/BloopAI/vibe-kanban",
-      "monogram": "VI",
-      "tags": [
-        "agent",
-        "ai-agents",
-        "discovered",
-        "needs review"
-      ],
-      "reviewStatus": "needs-review",
-      "sourceUrls": [
-        "https://api.github.com/search/repositories?sort=stars&order=desc&per_page=20&q=%22coding%20agent%22%20in%3Aname%2Cdescription%20stars%3A%3E500%20archived%3Afalse",
-        "https://github.com/BloopAI/vibe-kanban",
-        "https://www.vibekanban.com/"
       ],
       "discoveredDate": "2026-08-14",
       "lastVerifiedDate": "2026-08-14"
@@ -1079,6 +845,7 @@
         "JavaScript"
       ],
       "license": "MIT",
+      "availability": "unclear",
       "officialUrl": "https://github.com/zarazhangrui/frontend-slides",
       "repositoryUrl": "https://github.com/zarazhangrui/frontend-slides",
       "monogram": "FR",
@@ -1089,6 +856,8 @@
         "needs review"
       ],
       "reviewStatus": "needs-review",
+      "sourceKind": "discovery-candidate",
+      "provenance": "independent-discovery",
       "sourceUrls": [
         "https://api.github.com/search/repositories?sort=stars&order=desc&per_page=20&q=%22coding%20agent%22%20in%3Aname%2Cdescription%20stars%3A%3E500%20archived%3Afalse",
         "https://github.com/zarazhangrui/frontend-slides"
@@ -1108,6 +877,7 @@
         "TypeScript"
       ],
       "license": "Apache-2.0",
+      "availability": "unclear",
       "officialUrl": "https://stitch.withgoogle.com/docs/design-md/specification",
       "repositoryUrl": "https://github.com/google-labs-code/design.md",
       "monogram": "DE",
@@ -1116,6 +886,8 @@
         "needs review"
       ],
       "reviewStatus": "needs-review",
+      "sourceKind": "discovery-candidate",
+      "provenance": "independent-discovery",
       "sourceUrls": [
         "https://api.github.com/search/repositories?sort=stars&order=desc&per_page=20&q=%22coding%20agent%22%20in%3Aname%2Cdescription%20stars%3A%3E500%20archived%3Afalse",
         "https://github.com/google-labs-code/design.md",
@@ -1136,6 +908,7 @@
         "TypeScript / JavaScript"
       ],
       "license": "Unknown",
+      "availability": "unclear",
       "officialUrl": "https://cnb.cool/O.o/wukong.git",
       "repositoryUrl": "https://cnb.cool/O.o/wukong.git",
       "monogram": "WU",
@@ -1146,6 +919,8 @@
         "needs review"
       ],
       "reviewStatus": "needs-review",
+      "sourceKind": "discovery-candidate",
+      "provenance": "independent-discovery",
       "sourceUrls": [
         "https://www.npmjs.com/package/@wukonglabs/wukong",
         "https://cnb.cool/O.o/wukong.git"
