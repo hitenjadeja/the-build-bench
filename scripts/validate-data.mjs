@@ -82,15 +82,18 @@ const repositoryKeys = new Map()
 const officialKeys = new Map()
 const nameCompanyKeys = new Map()
 const today = new Date().toISOString().slice(0, 10)
+const availabilityCounts = new Map()
 
 for (const harness of directory.harnesses ?? []) {
   recordUnique(idKeys, harness.id, harness.id, 'stable id')
 
-  try {
-    const repositoryKey = repositoryIdentity(harness.repositoryUrl)
-    recordUnique(repositoryKeys, repositoryKey, harness.id, 'repository identity')
-  } catch {
-    errors.push(`${harness.id} has an invalid repositoryUrl`)
+  if (harness.repositoryUrl) {
+    try {
+      const repositoryKey = repositoryIdentity(harness.repositoryUrl)
+      recordUnique(repositoryKeys, repositoryKey, harness.id, 'repository identity')
+    } catch {
+      errors.push(`${harness.id} has an invalid repositoryUrl`)
+    }
   }
 
   try {
@@ -102,12 +105,13 @@ for (const harness of directory.harnesses ?? []) {
 
   const nameCompanyKey = `${normaliseText(harness.name)}::${normaliseText(harness.company)}`
   recordUnique(nameCompanyKeys, nameCompanyKey, harness.id, 'normalised name and company')
+  availabilityCounts.set(harness.availability, (availabilityCounts.get(harness.availability) ?? 0) + 1)
 
   for (const [field, value] of [
     ['officialUrl', harness.officialUrl],
     ['repositoryUrl', harness.repositoryUrl],
     ...((harness.sourceUrls ?? []).map((url) => ['sourceUrls', url])),
-  ]) {
+  ].filter(([, value]) => value)) {
     try {
       const url = new URL(value)
       if (url.protocol !== 'https:') errors.push(`${harness.id} ${field} must use https`)
@@ -125,6 +129,12 @@ for (const harness of directory.harnesses ?? []) {
   }
   if (harness.lastVerifiedDate > today) {
     errors.push(`${harness.id} lastVerifiedDate is in the future`)
+  }
+  if (harness.availability === 'internal' && harness.repositoryUrl) {
+    warnings.push(`${harness.id} is internal but publishes a repository URL; confirm the distinction`)
+  }
+  if (harness.availability === 'internal' && !/not publicly licensed/i.test(harness.license)) {
+    errors.push(`${harness.id} is internal but its license does not state that it is not publicly licensed`)
   }
 }
 
@@ -152,5 +162,6 @@ if (errors.length > 0) {
 }
 
 console.log(
-  `Data valid: ${directory.harnesses.length} harnesses, ${repositoryKeys.size} repository identities, ${warnings.length} fuzzy flags.`,
+  `Data valid: ${directory.harnesses.length} harnesses, ${repositoryKeys.size} repository identities, ` +
+    `${warnings.length} review flags. Availability: ${[...availabilityCounts.entries()].map(([key, count]) => `${key}=${count}`).join(', ')}.`,
 )

@@ -11,10 +11,11 @@ npm install
 npm run dev
 ```
 
-Quality and production commands:
+Quality, import, and production commands:
 
 ```bash
 npm run validate:data
+npm run check:links
 npm run discover:harnesses -- --offline
 npm run build
 npm run preview
@@ -27,11 +28,16 @@ npm run preview
 - Published records: `data/harnesses.v1.json`
 - Versioned JSON Schema: `data/harnesses.v1.schema.json`
 - Review states: `source-verified`, `community-verified`, `needs-review`
+- Availability states: `open-source`, `unclear`, `proprietary`, `internal`
+- Catalog attribution: [`ATTRIBUTION.md`](ATTRIBUTION.md)
+- Import details: [`docs/catalog-integration.md`](docs/catalog-integration.md)
 
-Every published record needs a stable ID, factual identity and description, capabilities, implementation languages, license, canonical product and repository URLs, monogram fallback, 2–4 tags, review state, at least two source URLs, discovered date, and last verified date. An optional official logo URL may be used when its provenance and usage are appropriate.
+Every published record needs a stable ID, factual identity and description, capabilities, implementation-language evidence, license, availability, canonical product URL, repository URL when one is public, monogram fallback, 2–4 tags, review state, source kind, provenance, at least one primary source URL, discovered date, and last verified date. An optional official logo URL may be used when its provenance and usage are appropriate.
 
 Duplicate precedence is repository identity, canonical URL, then normalized name plus company. Exact matches fail validation. Similar names are reported as fuzzy flags and are never merged automatically.
 
 ## Research and review
 
 The complete evidence workflow is in [docs/research-workflow.md](docs/research-workflow.md). A weekly GitHub Action runs dry discovery and validation, then creates or updates a review pull request containing evidence and proposed JSON. It does not publish candidates. The Pages workflow deploys only builds merged to `main`.
+
+The catalog data and adapted descriptions include CC BY-SA 4.0 material. See [`ATTRIBUTION.md`](ATTRIBUTION.md) for the source, license, modifications, and share-alike notice.

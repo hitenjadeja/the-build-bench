@@ -291,11 +291,14 @@ function proposedRecord(candidate, index) {
     capabilities: ['Repository operations'],
     languages: [candidate.language],
     license: candidate.license,
+    availability: 'unclear',
     officialUrl: candidate.canonicalUrl,
     repositoryUrl: candidate.repositoryUrl,
     monogram: normaliseText(candidate.name).slice(0, 2).toUpperCase() || 'NA',
     tags,
     reviewStatus: 'needs-review',
+    sourceKind: 'discovery-candidate',
+    provenance: 'independent-discovery',
     sourceUrls,
     discoveredDate: runDate,
     lastVerifiedDate: runDate,
@@ -303,8 +306,9 @@ function proposedRecord(candidate, index) {
 }
 
 const proposal = {
-  version: '1.0.0',
+  version: '1.1.0',
   generatedAt: runDate,
+  sources: published.sources,
   harnesses: accepted.map(proposedRecord),
 }
 

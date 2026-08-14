@@ -1,6 +1,6 @@
 import { type KeyboardEvent, useEffect, useMemo, useRef, useState } from 'react'
 import rawData from '../data/harnesses.v1.json'
-import type { Harness, HarnessData, ReviewStatus } from './types'
+import type { Availability, Harness, HarnessData, ReviewStatus } from './types'
 
 const data = rawData as HarnessData
 
@@ -22,6 +22,13 @@ const reviewLabels: Record<ReviewStatus, string> = {
   'source-verified': 'Source verified',
   'community-verified': 'Community verified',
   'needs-review': 'Needs review',
+}
+
+const availabilityLabels: Record<Availability, string> = {
+  'open-source': 'Open source',
+  unclear: 'Terms unclear',
+  proprietary: 'Proprietary',
+  internal: 'Internal',
 }
 
 function uniqueValues(values: string[][]) {
@@ -62,6 +69,7 @@ function StatusStamp({ status }: { status: ReviewStatus }) {
 
 function HarnessCard({ harness, index = 0 }: { harness: Harness; index?: number }) {
   const accent = ['cobalt', 'orange', 'pink', 'lime'][index % 4]
+  const sourceUrl = harness.repositoryUrl ?? harness.sourceUrls[0] ?? harness.officialUrl
 
   return (
     <article className={`harness-card card-${accent}`} data-harness-card>
@@ -93,6 +101,10 @@ function HarnessCard({ harness, index = 0 }: { harness: Harness; index?: number 
 
       <div className="card-specs">
         <div>
+          <span>Availability</span>
+          <strong>{availabilityLabels[harness.availability]}</strong>
+        </div>
+        <div>
           <span>Language</span>
           <strong>{harness.languages.join(' + ')}</strong>
         </div>
@@ -103,8 +115,8 @@ function HarnessCard({ harness, index = 0 }: { harness: Harness; index?: number 
       </div>
 
       <div className="card-actions">
-        <a href={harness.repositoryUrl} target="_blank" rel="noreferrer">
-          Source <span aria-hidden="true">↗</span>
+        <a href={sourceUrl} target="_blank" rel="noreferrer">
+          {harness.repositoryUrl ? 'Repository' : 'Primary source'} <span aria-hidden="true">↗</span>
           <span className="sr-only"> for {harness.name}, opens in a new tab</span>
         </a>
         <span>Checked {harness.lastVerifiedDate}</span>
@@ -168,6 +180,8 @@ function App() {
         harness.company,
         harness.description,
         harness.license,
+        harness.availability,
+        harness.sourceKind,
         ...harness.capabilities,
         ...harness.languages,
         ...harness.tags,
@@ -186,6 +200,13 @@ function App() {
   }, [filters, query])
 
   const activeFilterCount = Object.values(filters).filter(Boolean).length
+  const upstreamCount = data.harnesses.filter(
+    (harness) => harness.provenance === 'RyanAlberts/best-of-Agent-Harnesses',
+  ).length
+  const independentCount = data.harnesses.filter(
+    (harness) => harness.provenance === 'independent-discovery',
+  ).length
+  const reviewedCount = data.harnesses.filter((harness) => harness.reviewStatus !== 'needs-review').length
 
   const closeFilters = () => {
     setFilterOpen(false)
@@ -284,7 +305,7 @@ function App() {
             <span className="gauge-label">Bench load</span>
             <strong>{String(data.harnesses.length).padStart(2, '0')}</strong>
             <span>verified units</span>
-            <div className="gauge-track"><i style={{ width: '72%' }} /></div>
+            <div className="gauge-track"><i style={{ width: `${Math.round((reviewedCount / data.harnesses.length) * 100)}%` }} /></div>
           </aside>
         </section>
 
@@ -379,7 +400,12 @@ function App() {
           <div className="method-intro">
             <p className="section-kicker">Method / provenance</p>
             <h2 id="method-heading">Measured twice.<br />Published once.</h2>
-            <p>Every listed harness is checked against official product pages, documentation, and source repositories before it reaches the bench.</p>
+            <p>
+              The bench combines {independentCount} primary-source discoveries with {upstreamCount} records adapted from a CC BY-SA catalog. Availability, license evidence, and public-distribution status remain distinct.
+            </p>
+            <a href="https://github.com/hitenjadeja/the-build-bench/blob/main/ATTRIBUTION.md" target="_blank" rel="noreferrer">
+              Methodology + attribution <span aria-hidden="true">↗</span>
+            </a>
           </div>
           <ol className="method-steps">
             <li><span>01</span><div><strong>Discover</strong><p>Bounded research lanes collect candidates without touching published data.</p></div></li>

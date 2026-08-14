@@ -28,3 +28,7 @@ Candidate evidence tables use exactly these fields:
 6. Create or update the weekly review pull request.
 
 Before a reviewer promotes any proposal into `data/harnesses.v1.json`, they must confirm the factual description, organisation, canonical URLs, repository identity, license, source evidence, dates, and logo permission or use the neutral monogram fallback. Scheduled output is never published without this review.
+
+## Catalog imports
+
+Reviewed bulk imports are separate from scheduled discovery. They require explicit human authorization, source-count checks, provenance preservation, schema transformation, the same three-stage deduplication, attribution review, validation, link checks, and a production build. The 2026-08-14 integration is documented in [`catalog-integration.md`](catalog-integration.md).

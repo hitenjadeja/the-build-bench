@@ -4,10 +4,16 @@
   "title": "The Build Bench harness directory",
   "type": "object",
   "additionalProperties": false,
-  "required": ["version", "generatedAt", "harnesses"],
+  "required": ["version", "generatedAt", "sources", "harnesses"],
   "properties": {
-    "version": { "const": "1.0.0" },
+    "version": { "const": "1.1.0" },
     "generatedAt": { "type": "string", "format": "date" },
+    "sources": {
+      "type": "array",
+      "minItems": 1,
+      "uniqueItems": true,
+      "items": { "$ref": "#/$defs/source" }
+    },
     "harnesses": {
       "type": "array",
       "items": { "$ref": "#/$defs/harness" }
@@ -23,6 +29,17 @@
       "type": "string",
       "format": "date"
     },
+    "source": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["name", "url", "license", "capturedDate"],
+      "properties": {
+        "name": { "type": "string", "minLength": 1, "maxLength": 100 },
+        "url": { "$ref": "#/$defs/url" },
+        "license": { "type": "string", "minLength": 1, "maxLength": 80 },
+        "capturedDate": { "$ref": "#/$defs/date" }
+      }
+    },
     "harness": {
       "type": "object",
       "additionalProperties": false,
@@ -34,11 +51,14 @@
         "capabilities",
         "languages",
         "license",
+        "availability",
         "officialUrl",
         "repositoryUrl",
         "monogram",
         "tags",
         "reviewStatus",
+        "sourceKind",
+        "provenance",
         "sourceUrls",
         "discoveredDate",
         "lastVerifiedDate"
@@ -50,7 +70,7 @@
         },
         "name": { "type": "string", "minLength": 1, "maxLength": 80 },
         "company": { "type": "string", "minLength": 1, "maxLength": 80 },
-        "description": { "type": "string", "minLength": 20, "maxLength": 180 },
+        "description": { "type": "string", "minLength": 20, "maxLength": 280 },
         "capabilities": {
           "type": "array",
           "minItems": 1,
@@ -64,8 +84,16 @@
           "items": { "type": "string", "minLength": 1 }
         },
         "license": { "type": "string", "minLength": 1, "maxLength": 80 },
+        "availability": {
+          "enum": ["open-source", "unclear", "proprietary", "internal"]
+        },
         "officialUrl": { "$ref": "#/$defs/url" },
-        "repositoryUrl": { "$ref": "#/$defs/url" },
+        "repositoryUrl": {
+          "oneOf": [
+            { "$ref": "#/$defs/url" },
+            { "type": "null" }
+          ]
+        },
         "logo": { "$ref": "#/$defs/url" },
         "monogram": {
           "type": "string",
@@ -83,9 +111,17 @@
         "reviewStatus": {
           "enum": ["source-verified", "community-verified", "needs-review"]
         },
+        "sourceKind": { "type": "string", "minLength": 1, "maxLength": 80 },
+        "provenance": {
+          "enum": [
+            "RyanAlberts/best-of-Agent-Harnesses",
+            "independent-discovery",
+            "original-build-bench"
+          ]
+        },
         "sourceUrls": {
           "type": "array",
-          "minItems": 2,
+          "minItems": 1,
           "uniqueItems": true,
           "items": { "$ref": "#/$defs/url" }
         },

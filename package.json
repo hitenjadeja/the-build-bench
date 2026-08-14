@@ -6,6 +6,8 @@
   "scripts": {
     "dev": "vite",
     "validate:data": "node scripts/validate-data.mjs",
+    "import:research": "node scripts/import-research.mjs",
+    "check:links": "node scripts/check-links.mjs",
     "discover:harnesses": "node scripts/discover-harnesses.mjs",
     "build": "npm run validate:data && tsc -b && vite build",
     "preview": "vite preview"
