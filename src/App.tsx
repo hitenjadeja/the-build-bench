@@ -49,6 +49,7 @@ function LogoFrame({ harness }: { harness: Harness }) {
           width="72"
           height="72"
           loading="lazy"
+          decoding="async"
           onError={() => setImageFailed(true)}
         />
       ) : null}
@@ -131,23 +132,23 @@ function FilterSelect({
   value,
   options,
   onChange,
-  inputRef,
+  optionLabel = (option) => option,
 }: {
   id: string
   label: string
   value: string
   options: string[]
   onChange: (value: string) => void
-  inputRef?: React.RefObject<HTMLSelectElement | null>
+  optionLabel?: (option: string) => string
 }) {
   return (
     <label className="filter-control" htmlFor={id}>
       <span>{label}</span>
-      <select id={id} value={value} onChange={(event) => onChange(event.target.value)} ref={inputRef}>
+      <select id={id} value={value} onChange={(event) => onChange(event.target.value)}>
         <option value="">All {label.toLowerCase()}</option>
         {options.map((option) => (
           <option key={option} value={option}>
-            {option}
+            {optionLabel(option)}
           </option>
         ))}
       </select>
@@ -161,7 +162,7 @@ function App() {
   const [filterOpen, setFilterOpen] = useState(false)
   const searchRef = useRef<HTMLInputElement>(null)
   const filterButtonRef = useRef<HTMLButtonElement>(null)
-  const firstFilterRef = useRef<HTMLSelectElement>(null)
+  const closeFilterButtonRef = useRef<HTMLButtonElement>(null)
 
   const capabilities = useMemo(() => uniqueValues(data.harnesses.map((item) => item.capabilities)), [])
   const languages = useMemo(() => uniqueValues(data.harnesses.map((item) => item.languages)), [])
@@ -256,7 +257,15 @@ function App() {
   }, [filterOpen, query])
 
   useEffect(() => {
-    if (filterOpen) firstFilterRef.current?.focus()
+    if (!filterOpen) return
+
+    const previousOverflow = document.body.style.overflow
+    document.body.style.overflow = 'hidden'
+    closeFilterButtonRef.current?.focus()
+
+    return () => {
+      document.body.style.overflow = previousOverflow
+    }
   }, [filterOpen])
 
   const updateFilter = (key: keyof Filters, value: string) => {
@@ -321,8 +330,9 @@ function App() {
                 type="search"
                 value={query}
                 onChange={(event) => setQuery(event.target.value)}
-                placeholder="Name, company, capability, tag…"
+                placeholder="Name, company or tag…"
                 autoComplete="off"
+                enterKeyHint="search"
               />
               <kbd aria-label="Keyboard shortcut: slash">/</kbd>
             </span>
@@ -352,17 +362,22 @@ function App() {
           >
             <div className="filter-panel-heading">
               <span>Bench filters / 04</span>
-              <button type="button" onClick={closeFilters}>Close</button>
+              <button type="button" onClick={closeFilters} ref={closeFilterButtonRef}>Close</button>
             </div>
             <div className="filter-grid">
-              <FilterSelect id="filter-capability" label="Capability" value={filters.capability} options={capabilities} onChange={(value) => updateFilter('capability', value)} inputRef={firstFilterRef} />
+              <FilterSelect id="filter-capability" label="Capability" value={filters.capability} options={capabilities} onChange={(value) => updateFilter('capability', value)} />
               <FilterSelect id="filter-language" label="Language" value={filters.language} options={languages} onChange={(value) => updateFilter('language', value)} />
               <FilterSelect id="filter-license" label="License" value={filters.license} options={licenses} onChange={(value) => updateFilter('license', value)} />
-              <FilterSelect id="filter-review" label="Review status" value={filters.reviewStatus} options={reviewStatuses} onChange={(value) => updateFilter('reviewStatus', value)} />
+              <FilterSelect id="filter-review" label="Review status" value={filters.reviewStatus} options={reviewStatuses} onChange={(value) => updateFilter('reviewStatus', value)} optionLabel={(option) => reviewLabels[option as ReviewStatus]} />
             </div>
-            <button className="clear-controls" type="button" onClick={() => setFilters(emptyFilters)} disabled={activeFilterCount === 0}>
-              Reset switches
-            </button>
+            <div className="filter-actions">
+              <button className="clear-controls" type="button" onClick={() => setFilters(emptyFilters)} disabled={activeFilterCount === 0}>
+                Reset switches
+              </button>
+              <button className="filter-apply" type="button" onClick={closeFilters}>
+                Show {results.length} {results.length === 1 ? 'result' : 'results'}
+              </button>
+            </div>
           </div>
 
           <div className="results-readout" aria-live="polite" aria-atomic="true">
@@ -403,9 +418,14 @@ function App() {
             <p>
               The bench combines {independentCount} primary-source discoveries with {upstreamCount} records adapted from a CC BY-SA catalog. Availability, license evidence, and public-distribution status remain distinct.
             </p>
-            <a href="https://github.com/hitenjadeja/the-build-bench/blob/main/ATTRIBUTION.md" target="_blank" rel="noreferrer">
-              Methodology + attribution <span aria-hidden="true">↗</span>
-            </a>
+            <div className="method-links">
+              <a href="https://github.com/hitenjadeja/the-build-bench/blob/main/ATTRIBUTION.md" target="_blank" rel="noreferrer">
+                Methodology + attribution <span aria-hidden="true">↗</span>
+              </a>
+              <a href="./catalog.json">
+                Catalog JSON <span aria-hidden="true">↗</span>
+              </a>
+            </div>
           </div>
           <ol className="method-steps">
             <li><span>01</span><div><strong>Discover</strong><p>Bounded research lanes collect candidates without touching published data.</p></div></li>

@@ -2,27 +2,94 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
     <meta
       name="description"
-      content="The Build Bench is a source-verified directory of AI project harnesses."
+      content="Explore and compare source-checked AI agent harnesses by capability, language, license, availability, and review status."
     />
-    <meta name="theme-color" content="#F5F0E5" />
+    <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />
+    <meta name="theme-color" content="#f5f0e5" media="(prefers-color-scheme: light)" />
+    <meta name="theme-color" content="#101010" media="(prefers-color-scheme: dark)" />
+    <link rel="canonical" href="https://hitenjadeja.github.io/the-build-bench/" />
     <link rel="icon" href="./favicon.svg" type="image/svg+xml" />
     <link rel="icon" href="./favicon-32x32.png" type="image/png" sizes="32x32" />
     <link rel="apple-touch-icon" href="./apple-touch-icon.png" sizes="180x180" />
-    <meta property="og:title" content="The Build Bench" />
+    <link rel="manifest" href="./site.webmanifest" />
+    <meta property="og:title" content="The Build Bench — AI agent harness directory" />
     <meta
       property="og:description"
-      content="Find the right AI project harness. Build faster."
+      content="Explore and compare source-checked AI agent harnesses by capability, language, license, availability, and review status."
     />
     <meta property="og:type" content="website" />
-    <meta property="og:image" content="./og.png" />
+    <meta property="og:url" content="https://hitenjadeja.github.io/the-build-bench/" />
+    <meta property="og:site_name" content="The Build Bench" />
+    <meta property="og:locale" content="en_GB" />
+    <meta property="og:image" content="https://hitenjadeja.github.io/the-build-bench/og.png" />
+    <meta property="og:image:type" content="image/png" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta property="og:image:alt" content="The Build Bench — find the right AI project harness and build faster" />
     <meta name="twitter:card" content="summary_large_image" />
-    <title>The Build Bench — AI project harnesses</title>
+    <meta name="twitter:title" content="The Build Bench — AI agent harness directory" />
+    <meta
+      name="twitter:description"
+      content="Explore and compare source-checked AI agent harnesses by capability, language, license, availability, and review status."
+    />
+    <meta name="twitter:image" content="https://hitenjadeja.github.io/the-build-bench/og.png" />
+    <meta name="twitter:image:alt" content="The Build Bench — find the right AI project harness and build faster" />
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "WebSite",
+            "@id": "https://hitenjadeja.github.io/the-build-bench/#website",
+            "url": "https://hitenjadeja.github.io/the-build-bench/",
+            "name": "The Build Bench",
+            "description": "A source-checked directory of AI agent harnesses.",
+            "inLanguage": "en"
+          },
+          {
+            "@type": "CollectionPage",
+            "@id": "https://hitenjadeja.github.io/the-build-bench/#directory",
+            "url": "https://hitenjadeja.github.io/the-build-bench/",
+            "name": "AI agent harness directory",
+            "description": "Explore and compare source-checked AI agent harnesses by capability, language, license, availability, and review status.",
+            "isPartOf": {
+              "@id": "https://hitenjadeja.github.io/the-build-bench/#website"
+            },
+            "mainEntity": {
+              "@type": "Dataset",
+              "name": "The Build Bench harness catalog",
+              "description": "A versioned catalog of AI agent harnesses with source URLs, capabilities, languages, licenses, availability, provenance, and review status.",
+              "keywords": [
+                "AI agent harnesses",
+                "coding agents",
+                "agent frameworks",
+                "AI developer tools"
+              ],
+              "distribution": {
+                "@type": "DataDownload",
+                "encodingFormat": "application/json",
+                "contentUrl": "https://hitenjadeja.github.io/the-build-bench/catalog.json"
+              }
+            }
+          }
+        ]
+      }
+    </script>
+    <title>The Build Bench — AI agent harness directory</title>
   </head>
   <body>
-    <div id="root"></div>
+    <div id="root">
+      <noscript>
+        <main>
+          <h1>The Build Bench</h1>
+          <p>Explore and compare source-checked AI agent harnesses by capability, language, license, availability, and review status.</p>
+          <p><a href="./catalog.json">Browse the versioned catalog as JSON</a>.</p>
+        </main>
+      </noscript>
+    </div>
     <script type="module" src="/src/main.tsx"></script>
   </body>
 </html>

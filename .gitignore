@@ -1,4 +1,7 @@
 node_modules/
 dist/
+public/catalog.json
+public/sitemap.xml
 *.tsbuildinfo
 .DS_Store
+.playwright-cli/

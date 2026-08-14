@@ -17,11 +17,13 @@ Quality, import, and production commands:
 npm run validate:data
 npm run check:links
 npm run discover:harnesses -- --offline
+npm run prepare:site
 npm run build
 npm run preview
 ```
 
 `discover:harnesses` is always dry: it writes research and proposal artifacts under `work/` and never edits `data/harnesses.v1.json`.
+`prepare:site` publishes the validated catalog as `catalog.json` and generates the canonical sitemap used by the static deployment.
 
 ## Data
 
