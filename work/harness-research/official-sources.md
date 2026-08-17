@@ -1,7 +1,7 @@
 # official-sources
 
 Status: PARTIAL
-Run date: 2026-08-14
+Run date: 2026-08-17
 Mode: network dry run
 
 | name | company | capability | canonical URL | repository URL | evidence URL | notes |

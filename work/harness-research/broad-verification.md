@@ -1,7 +1,7 @@
 # broad-verification
 
 Status: COMPLETE
-Run date: 2026-08-14
+Run date: 2026-08-17
 Mode: network dry run
 
 | name | company | capability | canonical URL | repository URL | evidence URL | notes |
@@ -17,8 +17,8 @@ Mode: network dry run
 | RunVSAgent | wecode-ai | AI coding / project harness | https://github.com/wecode-ai/RunVSAgent | https://github.com/wecode-ai/RunVSAgent | https://github.com/wecode-ai/RunVSAgent | Compiled from discovery; exact duplicate checks passed. Human verification still required. |
 | compass-skills | dongshuyan | AI coding / project harness | https://github.com/dongshuyan/compass-skills | https://github.com/dongshuyan/compass-skills | https://github.com/dongshuyan/compass-skills | Compiled from discovery; exact duplicate checks passed. Human verification still required. |
 | PiDeck | ayuayue | AI coding / project harness | https://ayuayue.github.io/PiDeck/ | https://github.com/ayuayue/PiDeck | https://github.com/ayuayue/PiDeck | Compiled from discovery; exact duplicate checks passed. Human verification still required. |
-| h5i | h5i-dev | AI coding / project harness | https://h5i.dev | https://github.com/h5i-dev/h5i | https://github.com/h5i-dev/h5i | Compiled from discovery; exact duplicate checks passed. Human verification still required. |
 | pi-web | jmfederico | AI coding / project harness | https://pi-web.dev/ | https://github.com/jmfederico/pi-web | https://github.com/jmfederico/pi-web | Compiled from discovery; exact duplicate checks passed. Human verification still required. |
+| h5i | h5i-dev | AI coding / project harness | https://h5i.dev | https://github.com/h5i-dev/h5i | https://github.com/h5i-dev/h5i | Compiled from discovery; exact duplicate checks passed. Human verification still required. |
 | agent-kanban | saltbo | AI coding / project harness | https://agent-kanban.dev | https://github.com/saltbo/agent-kanban | https://github.com/saltbo/agent-kanban | Compiled from discovery; exact duplicate checks passed. Human verification still required. |
 | ai-assisted-engineering | JohnCrickett | AI coding / project harness | https://github.com/JohnCrickett/ai-assisted-engineering | https://github.com/JohnCrickett/ai-assisted-engineering | https://github.com/JohnCrickett/ai-assisted-engineering | Compiled from discovery; exact duplicate checks passed. Human verification still required. |
 | vix | get-vix | AI coding / project harness | https://getvix.dev | https://github.com/get-vix/vix | https://github.com/get-vix/vix | Compiled from discovery; exact duplicate checks passed. Human verification still required. |
@@ -27,8 +27,8 @@ Mode: network dry run
 | awesome-design-md | VoltAgent | AI coding / project harness | https://everyfeed.ai/ | https://github.com/VoltAgent/awesome-design-md | https://github.com/VoltAgent/awesome-design-md | Compiled from discovery; exact duplicate checks passed. Human verification still required. |
 | open-design | nexu-io | AI coding / project harness | https://open-design.ai | https://github.com/nexu-io/open-design | https://github.com/nexu-io/open-design | Compiled from discovery; exact duplicate checks passed. Human verification still required. |
 | oh-my-openagent | code-yeongyu | AI coding / project harness | https://omo.dev | https://github.com/code-yeongyu/oh-my-openagent | https://github.com/code-yeongyu/oh-my-openagent | Compiled from discovery; exact duplicate checks passed. Human verification still required. |
-| multica | multica-ai | AI coding / project harness | https://multica.ai | https://github.com/multica-ai/multica | https://github.com/multica-ai/multica | Compiled from discovery; exact duplicate checks passed. Human verification still required. |
 | orca | stablyai | AI coding / project harness | https://onOrca.dev | https://github.com/stablyai/orca | https://github.com/stablyai/orca | Compiled from discovery; exact duplicate checks passed. Human verification still required. |
+| multica | multica-ai | AI coding / project harness | https://multica.ai | https://github.com/multica-ai/multica | https://github.com/multica-ai/multica | Compiled from discovery; exact duplicate checks passed. Human verification still required. |
 | ai-website-cloner-template | JCodesMore | AI coding / project harness | https://dsc.gg/jcodesmore | https://github.com/JCodesMore/ai-website-cloner-template | https://github.com/JCodesMore/ai-website-cloner-template | Compiled from discovery; exact duplicate checks passed. Human verification still required. |
 | herdr | herdrdev | AI coding / project harness | https://herdr.dev | https://github.com/herdrdev/herdr | https://github.com/herdrdev/herdr | Compiled from discovery; exact duplicate checks passed. Human verification still required. |
 | frontend-slides | zarazhangrui | AI coding / project harness | https://github.com/zarazhangrui/frontend-slides | https://github.com/zarazhangrui/frontend-slides | https://github.com/zarazhangrui/frontend-slides | Compiled from discovery; exact duplicate checks passed. Human verification still required. |
