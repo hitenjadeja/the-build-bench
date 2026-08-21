@@ -1,6 +1,6 @@
 {
   "version": "1.1.0",
-  "generatedAt": "2026-08-14",
+  "generatedAt": "2026-08-21",
   "sources": [
     {
       "name": "best-of-Agent-Harnesses",
@@ -6593,6 +6593,535 @@
       ],
       "discoveredDate": "2026-08-14",
       "lastVerifiedDate": "2026-08-14"
+    },
+    {
+      "id": "emailhayday10-agent-doctor",
+      "name": "agent-doctor",
+      "company": "emailhayday10-coder",
+      "description": "A CLI and CI auditor for coding-agent rules, MCP configurations, hooks, secrets, context bloat, and duplicated tools, with prioritized findings and safe automated fixes.",
+      "capabilities": [
+        "Observability",
+        "Context management",
+        "Tool discovery",
+        "Headless / CI"
+      ],
+      "languages": [
+        "TypeScript"
+      ],
+      "license": "MIT",
+      "availability": "open-source",
+      "officialUrl": "https://github.com/emailhayday10-coder/agent-doctor",
+      "repositoryUrl": "https://github.com/emailhayday10-coder/agent-doctor",
+      "monogram": "AD",
+      "tags": [
+        "audit",
+        "mcp",
+        "context",
+        "ci"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "repository",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://github.com/emailhayday10-coder/agent-doctor",
+        "https://github.com/emailhayday10-coder/agent-doctor/blob/main/LICENSE"
+      ],
+      "discoveredDate": "2026-08-21",
+      "lastVerifiedDate": "2026-08-21"
+    },
+    {
+      "id": "proteus-evolve-proteus",
+      "name": "Proteus",
+      "company": "Proteus Evolve",
+      "description": "A harness-agnostic research framework that evolves agent prompts, memory, skills, tools, and control loops across isolated episodes, then measures structural and behavioral changes.",
+      "capabilities": [
+        "Harness configuration",
+        "Evaluation",
+        "Benchmarking",
+        "Sandboxed execution"
+      ],
+      "languages": [
+        "Python"
+      ],
+      "license": "MIT",
+      "availability": "open-source",
+      "officialUrl": "https://proteus-evolve.github.io/",
+      "repositoryUrl": "https://github.com/proteus-evolve/Proteus",
+      "monogram": "PR",
+      "tags": [
+        "self-evolving",
+        "evaluation",
+        "sandbox",
+        "research"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "repository and project site",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://proteus-evolve.github.io/",
+        "https://github.com/proteus-evolve/Proteus",
+        "https://github.com/proteus-evolve/Proteus/blob/main/LICENSE"
+      ],
+      "discoveredDate": "2026-08-21",
+      "lastVerifiedDate": "2026-08-21"
+    },
+    {
+      "id": "hkuds-helix",
+      "name": "Helix",
+      "company": "HKUDS",
+      "description": "A workspace for composing, searching, evaluating, and comparing modular agent harnesses, with trace labeling that turns harness-generated rollouts into training data.",
+      "capabilities": [
+        "Harness configuration",
+        "Evaluation",
+        "Benchmarking",
+        "Agent runtime"
+      ],
+      "languages": [
+        "TypeScript"
+      ],
+      "license": "MIT",
+      "availability": "open-source",
+      "officialUrl": "https://github.com/HKUDS/HELIX",
+      "repositoryUrl": "https://github.com/HKUDS/HELIX",
+      "monogram": "HX",
+      "tags": [
+        "composition",
+        "evaluation",
+        "training-data",
+        "research"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "repository and research paper",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://github.com/HKUDS/HELIX",
+        "https://arxiv.org/abs/2608.13951",
+        "https://github.com/HKUDS/HELIX/blob/main/LICENSE"
+      ],
+      "discoveredDate": "2026-08-21",
+      "lastVerifiedDate": "2026-08-21"
+    },
+    {
+      "id": "agi-fans-oh-my-dsh",
+      "name": "oh-my-dsh",
+      "company": "agi-fans",
+      "description": "A keyboard-first coding agent built as a DeepSeek Harness distribution, with repository tools, sessions, skills, plugins, and a terminal interface for iterative software work.",
+      "capabilities": [
+        "Repository operations",
+        "Terminal automation",
+        "Harness configuration",
+        "MCP & extensions"
+      ],
+      "languages": [
+        "TypeScript"
+      ],
+      "license": "MIT",
+      "availability": "open-source",
+      "officialUrl": "https://github.com/agi-fans/oh-my-dsh",
+      "repositoryUrl": "https://github.com/agi-fans/oh-my-dsh",
+      "monogram": "OMD",
+      "tags": [
+        "coding",
+        "terminal",
+        "plugins",
+        "deepseek"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "repository",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://github.com/agi-fans/oh-my-dsh",
+        "https://github.com/agi-fans/oh-my-dsh/blob/main/LICENSE"
+      ],
+      "discoveredDate": "2026-08-21",
+      "lastVerifiedDate": "2026-08-21"
+    },
+    {
+      "id": "apus-ai-lab-phonebuddy-sdk",
+      "name": "PhoneBuddy SDK",
+      "company": "APUS AI Lab",
+      "description": "An embeddable mobile agent runtime with a ReAct loop, pure-Rust virtual shell, JavaScript sandbox, scheduled tasks, human approvals, and in-memory subagent orchestration.",
+      "capabilities": [
+        "Agent SDK",
+        "Tool orchestration",
+        "Sandboxed execution",
+        "Multi-agent workflows"
+      ],
+      "languages": [
+        "Rust"
+      ],
+      "license": "Apache-2.0",
+      "availability": "open-source",
+      "officialUrl": "https://github.com/APUS-AI-Lab/PhoneBuddySDK",
+      "repositoryUrl": "https://github.com/APUS-AI-Lab/PhoneBuddySDK",
+      "monogram": "PB",
+      "tags": [
+        "mobile",
+        "runtime",
+        "sandbox",
+        "multi-agent"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "repository",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://github.com/APUS-AI-Lab/PhoneBuddySDK",
+        "https://github.com/APUS-AI-Lab/PhoneBuddySDK/blob/main/LICENSE"
+      ],
+      "discoveredDate": "2026-08-21",
+      "lastVerifiedDate": "2026-08-21"
+    },
+    {
+      "id": "ryanlab-bivor",
+      "name": "Bivor",
+      "company": "Ryan Lab",
+      "description": "A macOS workbench that embeds the Pi agent runtime and adds worktrees, checkpoints, subagents, scheduling, terminals, browser tools, memory, and sandbox integrations.",
+      "capabilities": [
+        "Repository operations",
+        "IDE integration",
+        "Multi-agent workflows",
+        "Sandboxed execution"
+      ],
+      "languages": [
+        "TypeScript"
+      ],
+      "license": "MIT",
+      "availability": "open-source",
+      "officialUrl": "https://bivor.dev/",
+      "repositoryUrl": "https://github.com/ryanlab/bivor",
+      "monogram": "BV",
+      "tags": [
+        "macos",
+        "worktrees",
+        "multi-agent",
+        "desktop"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "repository and product site",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://bivor.dev/",
+        "https://github.com/ryanlab/bivor",
+        "https://github.com/ryanlab/bivor/blob/main/LICENSE"
+      ],
+      "discoveredDate": "2026-08-21",
+      "lastVerifiedDate": "2026-08-21"
+    },
+    {
+      "id": "grpcer-ownmem",
+      "name": "ownmem",
+      "company": "grpcer",
+      "description": "A local, deterministic, Git-native memory layer that shares durable Markdown context across Claude Code, Codex, Gemini CLI, Cursor, Grok CLI, and other coding agents.",
+      "capabilities": [
+        "Memory & state",
+        "Context persistence",
+        "Context management"
+      ],
+      "languages": [
+        "JavaScript"
+      ],
+      "license": "Apache-2.0",
+      "availability": "open-source",
+      "officialUrl": "https://www.npmjs.com/package/ownmem",
+      "repositoryUrl": "https://github.com/grpcer/ownmem",
+      "monogram": "OM",
+      "tags": [
+        "memory",
+        "git-native",
+        "local",
+        "multi-harness"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "repository and package",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://github.com/grpcer/ownmem",
+        "https://www.npmjs.com/package/ownmem",
+        "https://github.com/grpcer/ownmem/blob/main/LICENSE"
+      ],
+      "discoveredDate": "2026-08-21",
+      "lastVerifiedDate": "2026-08-21"
+    },
+    {
+      "id": "azrtydxb-procoder",
+      "name": "procoder",
+      "company": "azrtydxb",
+      "description": "A coding-agent governance layer with commit gates, quality controllers, evidence checks, and a lessons loop that carries escaped-bug knowledge into later agent runs.",
+      "capabilities": [
+        "Harness configuration",
+        "Agent workflows",
+        "Memory & state",
+        "Headless / CI"
+      ],
+      "languages": [
+        "Go"
+      ],
+      "license": "Apache-2.0",
+      "availability": "open-source",
+      "officialUrl": "https://procoder.azrty.com/",
+      "repositoryUrl": "https://github.com/azrtydxb/procoder",
+      "monogram": "PC",
+      "tags": [
+        "governance",
+        "quality-gates",
+        "memory",
+        "ci"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "repository and documentation",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://procoder.azrty.com/",
+        "https://github.com/azrtydxb/procoder",
+        "https://github.com/azrtydxb/procoder/blob/main/LICENSE"
+      ],
+      "discoveredDate": "2026-08-21",
+      "lastVerifiedDate": "2026-08-21"
+    },
+    {
+      "id": "tobi-wrap",
+      "name": "wrap",
+      "company": "Tobi",
+      "description": "A microVM execution layer for coding agents and project commands, with disposable Arch Linux guests, narrow host-side file tools, default-deny networking, and host-scoped credentials.",
+      "capabilities": [
+        "Sandboxed execution",
+        "Tool orchestration",
+        "Repository operations"
+      ],
+      "languages": [
+        "Rust"
+      ],
+      "license": "Unknown",
+      "availability": "unclear",
+      "officialUrl": "https://github.com/tobi/wrap",
+      "repositoryUrl": "https://github.com/tobi/wrap",
+      "monogram": "WR",
+      "tags": [
+        "microvm",
+        "sandbox",
+        "credentials",
+        "coding"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "repository",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://github.com/tobi/wrap"
+      ],
+      "discoveredDate": "2026-08-21",
+      "lastVerifiedDate": "2026-08-21"
+    },
+    {
+      "id": "ivancernja-maestro",
+      "name": "maestro",
+      "company": "Ivan Cernja",
+      "description": "A terminal workspace for running coding agents in parallel, assigning each agent an isolated Git worktree, branch, and persistent tmux session with review and merge controls.",
+      "capabilities": [
+        "Multi-agent orchestration",
+        "Repository operations",
+        "Persistent execution",
+        "Terminal automation"
+      ],
+      "languages": [
+        "Rust"
+      ],
+      "license": "MIT",
+      "availability": "open-source",
+      "officialUrl": "https://github.com/ivancernja/maestro",
+      "repositoryUrl": "https://github.com/ivancernja/maestro",
+      "monogram": "MA",
+      "tags": [
+        "multi-agent",
+        "worktrees",
+        "tmux",
+        "terminal"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "repository",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://github.com/ivancernja/maestro",
+        "https://github.com/ivancernja/maestro/blob/main/LICENSE"
+      ],
+      "discoveredDate": "2026-08-21",
+      "lastVerifiedDate": "2026-08-21"
+    },
+    {
+      "id": "terret-org-terret",
+      "name": "Terret",
+      "company": "Terret",
+      "description": "A Ruby-native, model-agnostic agent harness with a plugin-composed loop, durable sessions, tools, MCP and ACP interfaces, context compaction, approvals, subagents, and Docker sandboxing.",
+      "capabilities": [
+        "Agent runtime",
+        "Tool orchestration",
+        "MCP & extensions",
+        "Multi-agent workflows"
+      ],
+      "languages": [
+        "Ruby"
+      ],
+      "license": "MIT",
+      "availability": "open-source",
+      "officialUrl": "https://terret.org/",
+      "repositoryUrl": "https://github.com/terret-org/terret",
+      "monogram": "TR",
+      "tags": [
+        "ruby",
+        "plugins",
+        "mcp",
+        "sandbox"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "repository and product site",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://terret.org/",
+        "https://github.com/terret-org/terret",
+        "https://github.com/terret-org/terret/blob/main/LICENSE.txt"
+      ],
+      "discoveredDate": "2026-08-21",
+      "lastVerifiedDate": "2026-08-21"
+    },
+    {
+      "id": "phantom9009-phantomx",
+      "name": "PhantomX",
+      "company": "PHANTOM9009",
+      "description": "A self-hosted coding-agent platform with multi-tenant workspaces, container-isolated tasks, subagents, child-task orchestration, MCP tools, context compression, and repository indexing.",
+      "capabilities": [
+        "Repository operations",
+        "Multi-agent workflows",
+        "Sandboxed execution",
+        "Context management"
+      ],
+      "languages": [
+        "TypeScript"
+      ],
+      "license": "Unknown",
+      "availability": "unclear",
+      "officialUrl": "https://github.com/PHANTOM9009/PhantomX-server",
+      "repositoryUrl": "https://github.com/PHANTOM9009/PhantomX-server",
+      "monogram": "PX",
+      "tags": [
+        "self-hosted",
+        "multi-agent",
+        "sandbox",
+        "coding"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "repository",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://github.com/PHANTOM9009/PhantomX-server"
+      ],
+      "discoveredDate": "2026-08-21",
+      "lastVerifiedDate": "2026-08-21"
+    },
+    {
+      "id": "ucsandman-agnostic-ai",
+      "name": "Agnostic AI",
+      "company": "ucsandman",
+      "description": "A model-agnostic coding agent plus policy harness that compiles one ruleset across 18 clients, shares skills, harvests corrections, and enforces common safety guards.",
+      "capabilities": [
+        "Repository operations",
+        "Harness configuration",
+        "Memory & state",
+        "Multi-agent workflows"
+      ],
+      "languages": [
+        "Python",
+        "JavaScript"
+      ],
+      "license": "MIT",
+      "availability": "open-source",
+      "officialUrl": "https://github.com/ucsandman/Agnostic-AI",
+      "repositoryUrl": "https://github.com/ucsandman/Agnostic-AI",
+      "monogram": "AA",
+      "tags": [
+        "coding",
+        "multi-harness",
+        "policy",
+        "memory"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "repository",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://github.com/ucsandman/Agnostic-AI",
+        "https://github.com/ucsandman/Agnostic-AI/blob/master/LICENSE"
+      ],
+      "discoveredDate": "2026-08-21",
+      "lastVerifiedDate": "2026-08-21"
+    },
+    {
+      "id": "dcosson-h2",
+      "name": "h2",
+      "company": "David Cosson",
+      "description": "An agent runner and orchestration layer that manages coding-agent processes, persistent roles, operator attachment, inter-agent messaging, and coordinated teams through existing CLI harnesses.",
+      "capabilities": [
+        "Multi-agent orchestration",
+        "Persistent execution",
+        "Agent handoffs",
+        "Terminal automation"
+      ],
+      "languages": [
+        "Go"
+      ],
+      "license": "MIT",
+      "availability": "open-source",
+      "officialUrl": "https://github.com/dcosson/h2",
+      "repositoryUrl": "https://github.com/dcosson/h2",
+      "monogram": "H2",
+      "tags": [
+        "multi-agent",
+        "runner",
+        "messaging",
+        "terminal"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "repository",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://github.com/dcosson/h2",
+        "https://github.com/dcosson/h2/blob/main/LICENSE"
+      ],
+      "discoveredDate": "2026-08-21",
+      "lastVerifiedDate": "2026-08-21"
+    },
+    {
+      "id": "herdrdev-herdr",
+      "name": "herdr",
+      "company": "Herdr",
+      "description": "A persistent terminal runtime for coding agents that keeps sessions alive, tracks working and blocked states, supports agent-driven panes and messaging, and exposes a CLI, socket API, remote access, and plugins.",
+      "capabilities": [
+        "Persistent execution",
+        "Multi-agent orchestration",
+        "Terminal automation",
+        "Agent handoffs"
+      ],
+      "languages": [
+        "Rust"
+      ],
+      "license": "Apache-2.0",
+      "availability": "open-source",
+      "officialUrl": "https://herdr.dev/",
+      "repositoryUrl": "https://github.com/herdrdev/herdr",
+      "monogram": "HD",
+      "tags": [
+        "persistent",
+        "multi-agent",
+        "terminal",
+        "remote"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "repository and documentation",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://herdr.dev/",
+        "https://github.com/herdrdev/herdr",
+        "https://github.com/herdrdev/herdr/blob/master/LICENSE"
+      ],
+      "discoveredDate": "2026-08-21",
+      "lastVerifiedDate": "2026-08-21"
     }
   ]
 }

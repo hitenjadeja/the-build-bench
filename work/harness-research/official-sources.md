@@ -1,7 +1,7 @@
 # official-sources
 
 Status: PARTIAL
-Run date: 2026-08-17
+Run date: 2026-08-21
 Mode: network dry run
 
 | name | company | capability | canonical URL | repository URL | evidence URL | notes |
@@ -263,130 +263,130 @@ Mode: network dry run
 | Autonomous Coding Harness | GantisStorm | Harness configuration | https://github.com/GantisStorm/autonomous-coding-harness | https://github.com/GantisStorm/autonomous-coding-harness | https://github.com/GantisStorm/autonomous-coding-harness | Repository identity reachable; default branch main. |
 | OpenClaw | Openclaw | Agent runtime | https://github.com/openclaw/openclaw | https://github.com/openclaw/openclaw | https://github.com/openclaw/openclaw | Repository identity reachable; default branch main. |
 | Hermes | NousResearch | Agent runtime | https://github.com/NousResearch/hermes-agent | https://github.com/NousResearch/hermes-agent | https://github.com/NousResearch/hermes-agent | Repository identity reachable; default branch main. |
-| nanobot | HKUDS | Agent runtime | https://github.com/HKUDS/nanobot | https://github.com/HKUDS/nanobot | https://github.com/HKUDS/nanobot | Repository identity reachable; default branch main. |
-| CowAgent | Zhayujie | Agent runtime | https://github.com/zhayujie/CowAgent | https://github.com/zhayujie/CowAgent | https://github.com/zhayujie/CowAgent | Repository identity reachable; default branch master. |
-| Khoj | Khoj AI | Agent runtime | https://github.com/khoj-ai/khoj | https://github.com/khoj-ai/khoj | https://github.com/khoj-ai/khoj | Repository identity reachable; default branch master. |
-| Eliza | ElizaOS | Agent runtime | https://github.com/elizaOS/eliza | https://github.com/elizaOS/eliza | https://github.com/elizaOS/eliza | Repository identity reachable; default branch develop. |
-| Agent Zero | Agent0ai | Agent runtime | https://github.com/agent0ai/agent-zero | https://github.com/agent0ai/agent-zero | https://github.com/agent0ai/agent-zero | Repository identity reachable; default branch main. |
-| OpenHarness (HKUDS) | HKUDS | Agent runtime | https://github.com/HKUDS/OpenHarness | https://github.com/HKUDS/OpenHarness | https://github.com/HKUDS/OpenHarness | Repository identity reachable; default branch main. |
-| AIlice | Myshell AI | Agent runtime | https://github.com/myshell-ai/AIlice | https://github.com/myshell-ai/AIlice | https://github.com/myshell-ai/AIlice | Repository identity reachable; default branch master. |
-| Talon | Dylanneve1 | Agent runtime | https://github.com/dylanneve1/talon | https://github.com/dylanneve1/talon | https://github.com/dylanneve1/talon | Repository identity reachable; default branch main. |
-| n8n | N8N IO | Agent framework | https://github.com/n8n-io/n8n | https://github.com/n8n-io/n8n | https://github.com/n8n-io/n8n | Repository identity reachable; default branch master. |
-| AutoGPT | Significant Gravitas | Agent framework | https://github.com/Significant-Gravitas/AutoGPT | https://github.com/Significant-Gravitas/AutoGPT | https://github.com/Significant-Gravitas/AutoGPT | Repository identity reachable; default branch master. |
-| langflow | Langflow AI | Agent framework | https://github.com/langflow-ai/langflow | https://github.com/langflow-ai/langflow | https://github.com/langflow-ai/langflow | Repository identity reachable; default branch main. |
-| Dify | Langgenius | Agent framework | https://github.com/langgenius/dify | https://github.com/langgenius/dify | https://github.com/langgenius/dify | Repository identity reachable; default branch main. |
-| langchain | Langchain AI | Agent framework | https://github.com/langchain-ai/langchain | https://github.com/langchain-ai/langchain | https://github.com/langchain-ai/langchain | Repository identity reachable; default branch master. |
-| browser-use | Browser USE | Agent framework | https://github.com/browser-use/browser-use | https://github.com/browser-use/browser-use | https://github.com/browser-use/browser-use | Repository identity reachable; default branch main. |
-| Flowise | FlowiseAI | Agent framework | https://github.com/FlowiseAI/Flowise | https://github.com/FlowiseAI/Flowise | https://github.com/FlowiseAI/Flowise | Repository identity reachable; default branch main. |
-| llama-index | RUN Llama | Agent framework | https://github.com/run-llama/llama_index | https://github.com/run-llama/llama_index | https://github.com/run-llama/llama_index | Repository identity reachable; default branch main. |
-| agno | Agno AGI | Agent framework | https://github.com/agno-agi/agno | https://github.com/agno-agi/agno | https://github.com/agno-agi/agno | Repository identity reachable; default branch main. |
-| langgraph | Langchain AI | Agent framework | https://github.com/langchain-ai/langgraph | https://github.com/langchain-ai/langgraph | https://github.com/langchain-ai/langgraph | Repository identity reachable; default branch main. |
-| semantic-kernel | Microsoft | Agent framework | https://github.com/microsoft/semantic-kernel | https://github.com/microsoft/semantic-kernel | https://github.com/microsoft/semantic-kernel | Repository identity reachable; default branch main. |
-| mastra | Mastra AI | Agent framework | https://github.com/mastra-ai/mastra | https://github.com/mastra-ai/mastra | https://github.com/mastra-ai/mastra | Repository identity reachable; default branch main. |
-| Haystack | Deepset AI | Agent framework | https://github.com/deepset-ai/haystack | https://github.com/deepset-ai/haystack | https://github.com/deepset-ai/haystack | Repository identity reachable; default branch main. |
-| letta | Letta AI | Agent framework | https://github.com/letta-ai/letta | https://github.com/letta-ai/letta | https://github.com/letta-ai/letta | Repository identity reachable; default branch main. |
-| Stagehand | Browserbase | Agent framework | https://github.com/browserbase/stagehand | https://github.com/browserbase/stagehand | https://github.com/browserbase/stagehand | Repository identity reachable; default branch main. |
-| rasa | RasaHQ | Agent framework | https://github.com/RasaHQ/rasa | https://github.com/RasaHQ/rasa | https://github.com/RasaHQ/rasa | Repository identity reachable; default branch 3.6.x. |
-| Google ADK | Google | Agent framework | https://github.com/google/adk-python | https://github.com/google/adk-python | https://github.com/google/adk-python | Repository identity reachable; default branch main. |
-| botpress | Botpress | Agent framework | https://github.com/botpress/botpress | https://github.com/botpress/botpress | https://github.com/botpress/botpress | Repository identity reachable; default branch master. |
-| R2R | SciPhi AI | Agent framework | https://github.com/SciPhi-AI/R2R | https://github.com/SciPhi-AI/R2R | https://github.com/SciPhi-AI/R2R | Repository identity reachable; default branch main. |
-| agent-squad | 2FastLabs | Agent framework | https://github.com/2FastLabs/agent-squad | https://github.com/2FastLabs/agent-squad | https://github.com/2FastLabs/agent-squad | Repository identity reachable; default branch main. |
-| AgentVerse | OpenBMB | Agent framework | https://github.com/OpenBMB/AgentVerse | https://github.com/OpenBMB/AgentVerse | https://github.com/OpenBMB/AgentVerse | Repository identity reachable; default branch main. |
-| youtu-agent | TencentCloudADP | Agent framework | https://github.com/TencentCloudADP/youtu-agent | https://github.com/TencentCloudADP/youtu-agent | https://github.com/TencentCloudADP/youtu-agent | Repository identity reachable; default branch main. |
-| Bee Agent Framework | I AM BEE | Agent framework | https://github.com/i-am-bee/beeai-framework | https://github.com/i-am-bee/beeai-framework | https://github.com/i-am-bee/beeai-framework | Repository identity reachable; default branch main. |
-| AgentStack | Agentstack AI | Agent framework | https://github.com/agentstack-ai/AgentStack | https://github.com/agentstack-ai/AgentStack | https://github.com/agentstack-ai/AgentStack | Repository identity reachable; default branch main. |
-| AgentSilex | Howl Anderson | Agent framework | https://github.com/howl-anderson/agentsilex | https://github.com/howl-anderson/agentsilex | https://github.com/howl-anderson/agentsilex | Repository identity reachable; default branch main. |
-| SuperAgentX | Superagentxai | Agent framework | https://github.com/superagentxai/superagentx | https://github.com/superagentxai/superagentx | https://github.com/superagentxai/superagentx | Repository identity reachable; default branch master. |
-| MetaGPT | FoundationAgents | Multi-agent orchestration | https://github.com/FoundationAgents/MetaGPT | https://github.com/FoundationAgents/MetaGPT | https://github.com/FoundationAgents/MetaGPT | Repository identity reachable; default branch main. |
-| autogen | Microsoft | Multi-agent orchestration | https://github.com/microsoft/autogen | https://github.com/microsoft/autogen | https://github.com/microsoft/autogen | Repository identity reachable; default branch main. |
-| OpenManus | FoundationAgents | Multi-agent orchestration | https://github.com/FoundationAgents/OpenManus | https://github.com/FoundationAgents/OpenManus | https://github.com/FoundationAgents/OpenManus | Repository identity reachable; default branch main. |
-| crewAI | CrewAIInc | Multi-agent orchestration | https://github.com/crewAIInc/crewAI | https://github.com/crewAIInc/crewAI | https://github.com/crewAIInc/crewAI | Repository identity reachable; default branch main. |
-| ChatDev | OpenBMB | Multi-agent orchestration | https://github.com/OpenBMB/ChatDev | https://github.com/OpenBMB/ChatDev | https://github.com/OpenBMB/ChatDev | Repository identity reachable; default branch main. |
-| openai-agents-python | OpenAI | Multi-agent orchestration | https://github.com/openai/openai-agents-python | https://github.com/openai/openai-agents-python | https://github.com/openai/openai-agents-python | Repository identity reachable; default branch main. |
-| Microsoft Agent Framework | Microsoft | Multi-agent orchestration | https://github.com/microsoft/agent-framework | https://github.com/microsoft/agent-framework | https://github.com/microsoft/agent-framework | Repository identity reachable; default branch main. |
-| hive | Aden Hive | Multi-agent orchestration | https://github.com/aden-hive/hive | https://github.com/aden-hive/hive | https://github.com/aden-hive/hive | Repository identity reachable; default branch main. |
-| PraisonAI | MervinPraison | Multi-agent orchestration | https://github.com/MervinPraison/PraisonAI | https://github.com/MervinPraison/PraisonAI | https://github.com/MervinPraison/PraisonAI | Repository identity reachable; default branch main. |
-| omnigent | Omnigent AI | Multi-agent orchestration | https://github.com/omnigent-ai/omnigent | https://github.com/omnigent-ai/omnigent | https://github.com/omnigent-ai/omnigent | Repository identity reachable; default branch main. |
-| AG2 | Ag2ai | Multi-agent orchestration | https://github.com/ag2ai/ag2 | https://github.com/ag2ai/ag2 | https://github.com/ag2ai/ag2 | Repository identity reachable; default branch main. |
-| AgentRL | THUDM | Multi-agent orchestration | https://github.com/THUDM/AgentRL | https://github.com/THUDM/AgentRL | https://github.com/THUDM/AgentRL | Repository identity reachable; default branch main. |
-| AgentHub | Stanshy | Multi-agent orchestration | https://github.com/Stanshy/AgentHub | https://github.com/Stanshy/AgentHub | https://github.com/Stanshy/AgentHub | Repository identity reachable; default branch main. |
-| team-harness | Writeitai | Multi-agent orchestration | https://github.com/writeitai/team-harness | https://github.com/writeitai/team-harness | https://github.com/writeitai/team-harness | Repository identity reachable; default branch main. |
-| MCP Servers | Modelcontextprotocol | Agent tooling | https://github.com/modelcontextprotocol/servers | https://github.com/modelcontextprotocol/servers | https://github.com/modelcontextprotocol/servers | Repository identity reachable; default branch main. |
-| Context7 | Upstash | Agent tooling | https://github.com/upstash/context7 | https://github.com/upstash/context7 | https://github.com/upstash/context7 | Repository identity reachable; default branch master. |
-| chrome-devtools-mcp | ChromeDevTools | Agent tooling | https://github.com/ChromeDevTools/chrome-devtools-mcp | https://github.com/ChromeDevTools/chrome-devtools-mcp | https://github.com/ChromeDevTools/chrome-devtools-mcp | Repository identity reachable; default branch main. |
-| aider | Aider AI | Agent tooling | https://github.com/Aider-AI/aider | https://github.com/Aider-AI/aider | https://github.com/Aider-AI/aider | Repository identity reachable; default branch main. |
-| Playwright MCP | Microsoft | Agent tooling | https://github.com/microsoft/playwright-mcp | https://github.com/microsoft/playwright-mcp | https://github.com/microsoft/playwright-mcp | Repository identity reachable; default branch main. |
-| continue | Continuedev | Agent tooling | https://github.com/continuedev/continue | https://github.com/continuedev/continue | https://github.com/continuedev/continue | Repository identity reachable; default branch main. |
-| github-mcp-server | GitHub | Agent tooling | https://github.com/github/github-mcp-server | https://github.com/github/github-mcp-server | https://github.com/github/github-mcp-server | Repository identity reachable; default branch main. |
-| MCP Python SDK | Modelcontextprotocol | Agent tooling | https://github.com/modelcontextprotocol/python-sdk | https://github.com/modelcontextprotocol/python-sdk | https://github.com/modelcontextprotocol/python-sdk | Repository identity reachable; default branch main. |
-| MCP TypeScript SDK | Modelcontextprotocol | Agent tooling | https://github.com/modelcontextprotocol/typescript-sdk | https://github.com/modelcontextprotocol/typescript-sdk | https://github.com/modelcontextprotocol/typescript-sdk | Repository identity reachable; default branch main. |
-| MCP Inspector | Modelcontextprotocol | Agent tooling | https://github.com/modelcontextprotocol/inspector | https://github.com/modelcontextprotocol/inspector | https://github.com/modelcontextprotocol/inspector | Repository identity reachable; default branch main. |
-| MCP Registry | Modelcontextprotocol | Agent tooling | https://github.com/modelcontextprotocol/registry | https://github.com/modelcontextprotocol/registry | https://github.com/modelcontextprotocol/registry | Repository identity reachable; default branch main. |
-| Agent Governance Toolkit | Microsoft | Agent tooling | https://github.com/microsoft/agent-governance-toolkit | https://github.com/microsoft/agent-governance-toolkit | https://github.com/microsoft/agent-governance-toolkit | Repository identity reachable; default branch main. |
-| mcp-context-forge | IBM | Agent tooling | https://github.com/IBM/mcp-context-forge | https://github.com/IBM/mcp-context-forge | https://github.com/IBM/mcp-context-forge | Repository identity reachable; default branch main. |
-| cocoindex-code | Cocoindex IO | Agent tooling | https://github.com/cocoindex-io/cocoindex-code | https://github.com/cocoindex-io/cocoindex-code | https://github.com/cocoindex-io/cocoindex-code | Repository identity reachable; default branch main. |
-| agent-vault | Infisical | Agent tooling | https://github.com/Infisical/agent-vault | https://github.com/Infisical/agent-vault | https://github.com/Infisical/agent-vault | Repository identity reachable; default branch main. |
-| Docker MCP Gateway | Docker | Agent tooling | https://github.com/docker/mcp-gateway | https://github.com/docker/mcp-gateway | https://github.com/docker/mcp-gateway | Repository identity reachable; default branch main. |
-| Swamp | Swamp Club | Agent tooling | https://github.com/swamp-club/swamp | https://github.com/swamp-club/swamp | https://github.com/swamp-club/swamp | Repository identity reachable; default branch main. |
-| puppeteer-real-browser-mcp | WithLinda | Agent tooling | https://github.com/withLinda/puppeteer-real-browser-mcp-server | https://github.com/withLinda/puppeteer-real-browser-mcp-server | https://github.com/withLinda/puppeteer-real-browser-mcp-server | Repository identity reachable; default branch main. |
-| Better-OpenCodeMCP | Ajhcs | Agent tooling | https://github.com/ajhcs/Better-OpenCodeMCP | https://github.com/ajhcs/Better-OpenCodeMCP | https://github.com/ajhcs/Better-OpenCodeMCP | Repository identity reachable; default branch main. |
-| Harness Hat | Only Cliches | Agent tooling | https://github.com/only-cliches/harness-hat | https://github.com/only-cliches/harness-hat | https://github.com/only-cliches/harness-hat | Repository identity reachable; default branch main. |
-| agentlog | RyanAlberts | Agent tooling | https://github.com/RyanAlberts/agentlog | https://github.com/RyanAlberts/agentlog | https://github.com/RyanAlberts/agentlog | Repository identity reachable; default branch main. |
-| claude-mem | Thedotmack | Memory & state | https://github.com/thedotmack/claude-mem | https://github.com/thedotmack/claude-mem | https://github.com/thedotmack/claude-mem | Repository identity reachable; default branch main. |
-| Mem0 | Mem0ai | Memory & state | https://github.com/mem0ai/mem0 | https://github.com/mem0ai/mem0 | https://github.com/mem0ai/mem0 | Repository identity reachable; default branch main. |
-| cognee | Topoteretes | Memory & state | https://github.com/topoteretes/cognee | https://github.com/topoteretes/cognee | https://github.com/topoteretes/cognee | Repository identity reachable; default branch main. |
-| Graphiti (Zep) | Getzep | Memory & state | https://github.com/getzep/graphiti | https://github.com/getzep/graphiti | https://github.com/getzep/graphiti | Repository identity reachable; default branch main. |
-| beads | Gastownhall | Memory & state | https://github.com/gastownhall/beads | https://github.com/gastownhall/beads | https://github.com/gastownhall/beads | Repository identity reachable; default branch main. |
-| Agent Lightning | Microsoft | Evaluation | https://github.com/microsoft/agent-lightning | https://github.com/microsoft/agent-lightning | https://github.com/microsoft/agent-lightning | Repository identity reachable; default branch main. |
-| SWE-bench | SWE Bench | Evaluation | https://github.com/SWE-bench/SWE-bench | https://github.com/SWE-bench/SWE-bench | https://github.com/SWE-bench/SWE-bench | Repository identity reachable; default branch main. |
-| AgentBench | THUDM | Evaluation | https://github.com/THUDM/AgentBench | https://github.com/THUDM/AgentBench | https://github.com/THUDM/AgentBench | Repository identity reachable; default branch main. |
-| inspect_ai | UKGovernmentBEIS | Evaluation | https://github.com/UKGovernmentBEIS/inspect_ai | https://github.com/UKGovernmentBEIS/inspect_ai | https://github.com/UKGovernmentBEIS/inspect_ai | Repository identity reachable; default branch main. |
-| WebArena | WEB Arena X | Evaluation | https://github.com/web-arena-x/webarena | https://github.com/web-arena-x/webarena | https://github.com/web-arena-x/webarena | Repository identity reachable; default branch main. |
-| WebVoyager | MinorJerry | Evaluation | https://github.com/MinorJerry/WebVoyager | https://github.com/MinorJerry/WebVoyager | https://github.com/MinorJerry/WebVoyager | Repository identity reachable; default branch main. |
-| ARC-AGI-2 | Arcprize | Evaluation | https://github.com/arcprize/ARC-AGI-2 | https://github.com/arcprize/ARC-AGI-2 | https://github.com/arcprize/ARC-AGI-2 | Repository identity reachable; default branch main. |
-| swe-smith | SWE Bench | Evaluation | https://github.com/SWE-bench/SWE-smith | https://github.com/SWE-bench/SWE-smith | https://github.com/SWE-bench/SWE-smith | Repository identity reachable; default branch main. |
-| SWE-Gym | SWE GYM | Evaluation | https://github.com/SWE-Gym/SWE-Gym | https://github.com/SWE-Gym/SWE-Gym | https://github.com/SWE-Gym/SWE-Gym | Repository identity reachable; default branch main. |
-| inspect_evals | UKGovernmentBEIS | Evaluation | https://github.com/UKGovernmentBEIS/inspect_evals | https://github.com/UKGovernmentBEIS/inspect_evals | https://github.com/UKGovernmentBEIS/inspect_evals | Repository identity reachable; default branch main. |
-| Terminal-Bench | Harbor Framework | Evaluation | https://github.com/harbor-framework/terminal-bench | https://github.com/harbor-framework/terminal-bench | https://github.com/harbor-framework/terminal-bench | Repository identity reachable; default branch main. |
-| arc-agi-benchmarking | Arcprize | Evaluation | https://github.com/arcprize/arc-agi-benchmarking | https://github.com/arcprize/arc-agi-benchmarking | https://github.com/arcprize/arc-agi-benchmarking | Repository identity reachable; default branch main. |
-| agent-qa | Vostride | Evaluation | https://github.com/vostride/agent-qa | https://github.com/vostride/agent-qa | https://github.com/vostride/agent-qa | Repository identity reachable; default branch main. |
-| VitaBench | Meituan Longcat | Evaluation | https://github.com/meituan-longcat/vitabench | https://github.com/meituan-longcat/vitabench | https://github.com/meituan-longcat/vitabench | Repository identity reachable; default branch main. |
-| AgencyBench | GAIR NLP | Evaluation | https://github.com/GAIR-NLP/AgencyBench | https://github.com/GAIR-NLP/AgencyBench | https://github.com/GAIR-NLP/AgencyBench | Repository identity reachable; default branch main. |
-| letta-evals | Letta AI | Evaluation | https://github.com/letta-ai/letta-evals | https://github.com/letta-ai/letta-evals | https://github.com/letta-ai/letta-evals | Repository identity reachable; default branch main. |
-| SUPER | Allenai | Evaluation | https://github.com/allenai/super-benchmark | https://github.com/allenai/super-benchmark | https://github.com/allenai/super-benchmark | Repository identity reachable; default branch main. |
-| Simple Strands Agent | Strands Labs | Evaluation | https://github.com/strands-labs/benchmark-harnesses | https://github.com/strands-labs/benchmark-harnesses | https://github.com/strands-labs/benchmark-harnesses | Repository identity reachable; default branch main. |
-| Langfuse | Langfuse | Observability | https://github.com/langfuse/langfuse | https://github.com/langfuse/langfuse | https://github.com/langfuse/langfuse | Repository identity reachable; default branch main. |
-| MLflow | Mlflow | Observability | https://github.com/mlflow/mlflow | https://github.com/mlflow/mlflow | https://github.com/mlflow/mlflow | Repository identity reachable; default branch master. |
-| Opik | Comet ML | Observability | https://github.com/comet-ml/opik | https://github.com/comet-ml/opik | https://github.com/comet-ml/opik | Repository identity reachable; default branch main. |
-| Arize Phoenix | Arize AI | Observability | https://github.com/Arize-ai/phoenix | https://github.com/Arize-ai/phoenix | https://github.com/Arize-ai/phoenix | Repository identity reachable; default branch main. |
-| DeerFlow | ByteDance | Research automation | https://github.com/bytedance/deer-flow | https://github.com/bytedance/deer-flow | https://github.com/bytedance/deer-flow | Repository identity reachable; default branch main. |
-| gpt-researcher | Assafelovic | Research automation | https://github.com/assafelovic/gpt-researcher | https://github.com/assafelovic/gpt-researcher | https://github.com/assafelovic/gpt-researcher | Repository identity reachable; default branch main. |
-| AutoResearchClaw | Aiming LAB | Research automation | https://github.com/aiming-lab/AutoResearchClaw | https://github.com/aiming-lab/AutoResearchClaw | https://github.com/aiming-lab/AutoResearchClaw | Repository identity reachable; default branch main. |
-| MiroThinker | MiroMindAI | Research automation | https://github.com/MiroMindAI/MiroThinker | https://github.com/MiroMindAI/MiroThinker | https://github.com/MiroMindAI/MiroThinker | Repository identity reachable; default branch main. |
-| openagents | OpenAgentsInc | Research automation | https://github.com/OpenAgentsInc/openagents | https://github.com/OpenAgentsInc/openagents | https://github.com/OpenAgentsInc/openagents | Repository identity reachable; default branch main. |
-| Continual Harness | Sethkarten | Research automation | https://github.com/sethkarten/continual-harness | https://github.com/sethkarten/continual-harness | https://github.com/sethkarten/continual-harness | Repository identity reachable; default branch main. |
-| MemoHarness | HowieHwong | Research automation | https://github.com/HowieHwong/MemoHarness | https://github.com/HowieHwong/MemoHarness | https://github.com/HowieHwong/MemoHarness | Repository identity reachable; default branch main. |
-| Daytona | Daytonaio | Agent SDK | https://github.com/daytonaio/daytona | https://github.com/daytonaio/daytona | https://github.com/daytonaio/daytona | Repository identity reachable; default branch main. |
-| LiteLLM | BerriAI | Agent SDK | https://github.com/BerriAI/litellm | https://github.com/BerriAI/litellm | https://github.com/BerriAI/litellm | Repository identity reachable; default branch litellm_internal_staging. |
-| Composio | ComposioHQ | Agent SDK | https://github.com/ComposioHQ/composio | https://github.com/ComposioHQ/composio | https://github.com/ComposioHQ/composio | Repository identity reachable; default branch next. |
-| smolagents | Hugging Face | Agent SDK | https://github.com/huggingface/smolagents | https://github.com/huggingface/smolagents | https://github.com/huggingface/smolagents | Repository identity reachable; default branch main. |
-| deepagents | Langchain AI | Agent SDK | https://github.com/langchain-ai/deepagents | https://github.com/langchain-ai/deepagents | https://github.com/langchain-ai/deepagents | Repository identity reachable; default branch main. |
-| vercel/ai | Vercel | Agent SDK | https://github.com/vercel/ai | https://github.com/vercel/ai | https://github.com/vercel/ai | Repository identity reachable; default branch main. |
-| pydantic-ai | Pydantic | Agent SDK | https://github.com/pydantic/pydantic-ai | https://github.com/pydantic/pydantic-ai | https://github.com/pydantic/pydantic-ai | Repository identity reachable; default branch main. |
-| E2B | E2B DEV | Agent SDK | https://github.com/e2b-dev/E2B | https://github.com/e2b-dev/E2B | https://github.com/e2b-dev/E2B | Repository identity reachable; default branch main. |
-| Steel | Steel DEV | Agent SDK | https://github.com/steel-dev/steel-browser | https://github.com/steel-dev/steel-browser | https://github.com/steel-dev/steel-browser | Repository identity reachable; default branch main. |
-| strands-agents | Strands Agents | Agent SDK | https://github.com/strands-agents/harness-sdk | https://github.com/strands-agents/harness-sdk | https://github.com/strands-agents/harness-sdk | Repository identity reachable; default branch main. |
-| Cloudflare Agents | Cloudflare | Agent SDK | https://github.com/cloudflare/agents | https://github.com/cloudflare/agents | https://github.com/cloudflare/agents | Repository identity reachable; default branch main. |
-| openai-agents-js | OpenAI | Agent SDK | https://github.com/openai/openai-agents-js | https://github.com/openai/openai-agents-js | https://github.com/openai/openai-agents-js | Repository identity reachable; default branch main. |
-| Agent Sandbox | Kubernetes Sigs | Agent SDK | https://github.com/kubernetes-sigs/agent-sandbox | https://github.com/kubernetes-sigs/agent-sandbox | https://github.com/kubernetes-sigs/agent-sandbox | Repository identity reachable; default branch main. |
-| sandbox-agent | Rivet DEV | Agent SDK | https://github.com/rivet-dev/sandbox-agent | https://github.com/rivet-dev/sandbox-agent | https://github.com/rivet-dev/sandbox-agent | Repository identity reachable; default branch main. |
-| open-harness | MaxGfeller | Agent SDK | https://github.com/MaxGfeller/open-harness | https://github.com/MaxGfeller/open-harness | https://github.com/MaxGfeller/open-harness | Repository identity reachable; default branch main. |
-| UniHarness | UnicomAI | Agent SDK | https://github.com/UnicomAI/UniHarness | https://github.com/UnicomAI/UniHarness | https://github.com/UnicomAI/UniHarness | Repository identity reachable; default branch main. |
-| LiteHarness | LiteLLM Labs | Agent SDK | https://github.com/LiteLLM-Labs/lite-harness | https://github.com/LiteLLM-Labs/lite-harness | https://github.com/LiteLLM-Labs/lite-harness | Repository identity reachable; default branch main. |
-| OpenAgentHarness | Fairyshine | Agent SDK | https://github.com/fairyshine/OpenAgentHarness | https://github.com/fairyshine/OpenAgentHarness | https://github.com/fairyshine/OpenAgentHarness | Repository identity reachable; default branch master. |
-| Community-curated agent lists | Brandonhimpfen | Agent SDK | https://github.com/brandonhimpfen/awesome-ai-agents | https://github.com/brandonhimpfen/awesome-ai-agents | https://github.com/brandonhimpfen/awesome-ai-agents | Repository identity reachable; default branch main. |
-| AgentHarness.rb | Viamin | Agent SDK | https://github.com/viamin/agent-harness | https://github.com/viamin/agent-harness | https://github.com/viamin/agent-harness | Repository identity reachable; default branch main. |
 
 ## Lane notes
 
-- https://api.github.com/repos/patronus-ai/trail-benchmark: 404 Not Found
+- https://api.github.com/repos/hkuds/nanobot: 403 rate limit exceeded
+- https://api.github.com/repos/zhayujie/cowagent: 403 rate limit exceeded
+- https://api.github.com/repos/khoj-ai/khoj: 403 rate limit exceeded
+- https://api.github.com/repos/elizaos/eliza: 403 rate limit exceeded
+- https://api.github.com/repos/agent0ai/agent-zero: 403 rate limit exceeded
+- https://api.github.com/repos/hkuds/openharness: 403 rate limit exceeded
+- https://api.github.com/repos/myshell-ai/ailice: 403 rate limit exceeded
+- https://api.github.com/repos/dylanneve1/talon: 403 rate limit exceeded
+- https://api.github.com/repos/n8n-io/n8n: 403 rate limit exceeded
+- https://api.github.com/repos/significant-gravitas/autogpt: 403 rate limit exceeded
+- https://api.github.com/repos/langflow-ai/langflow: 403 rate limit exceeded
+- https://api.github.com/repos/langgenius/dify: 403 rate limit exceeded
+- https://api.github.com/repos/langchain-ai/langchain: 403 rate limit exceeded
+- https://api.github.com/repos/browser-use/browser-use: 403 rate limit exceeded
+- https://api.github.com/repos/flowiseai/flowise: 403 rate limit exceeded
+- https://api.github.com/repos/run-llama/llama_index: 403 rate limit exceeded
+- https://api.github.com/repos/agno-agi/agno: 403 rate limit exceeded
+- https://api.github.com/repos/langchain-ai/langgraph: 403 rate limit exceeded
+- https://api.github.com/repos/microsoft/semantic-kernel: 403 rate limit exceeded
+- https://api.github.com/repos/mastra-ai/mastra: 403 rate limit exceeded
+- https://api.github.com/repos/deepset-ai/haystack: 403 rate limit exceeded
+- https://api.github.com/repos/letta-ai/letta: 403 rate limit exceeded
+- https://api.github.com/repos/browserbase/stagehand: 403 rate limit exceeded
+- https://api.github.com/repos/rasahq/rasa: 403 rate limit exceeded
+- https://api.github.com/repos/google/adk-python: 403 rate limit exceeded
+- https://api.github.com/repos/botpress/botpress: 403 rate limit exceeded
+- https://api.github.com/repos/sciphi-ai/r2r: 403 rate limit exceeded
+- https://api.github.com/repos/2fastlabs/agent-squad: 403 rate limit exceeded
+- https://api.github.com/repos/openbmb/agentverse: 403 rate limit exceeded
+- https://api.github.com/repos/tencentcloudadp/youtu-agent: 403 rate limit exceeded
+- https://api.github.com/repos/i-am-bee/beeai-framework: 403 rate limit exceeded
+- https://api.github.com/repos/agentstack-ai/agentstack: 403 rate limit exceeded
+- https://api.github.com/repos/howl-anderson/agentsilex: 403 rate limit exceeded
+- https://api.github.com/repos/superagentxai/superagentx: 403 rate limit exceeded
+- https://api.github.com/repos/foundationagents/metagpt: 403 rate limit exceeded
+- https://api.github.com/repos/microsoft/autogen: 403 rate limit exceeded
+- https://api.github.com/repos/foundationagents/openmanus: 403 rate limit exceeded
+- https://api.github.com/repos/crewaiinc/crewai: 403 rate limit exceeded
+- https://api.github.com/repos/openbmb/chatdev: 403 rate limit exceeded
+- https://api.github.com/repos/openai/openai-agents-python: 403 rate limit exceeded
+- https://api.github.com/repos/microsoft/agent-framework: 429 too many requests
+- https://api.github.com/repos/aden-hive/hive: 429 too many requests
+- https://api.github.com/repos/mervinpraison/praisonai: 429 too many requests
+- https://api.github.com/repos/omnigent-ai/omnigent: 429 too many requests
+- https://api.github.com/repos/ag2ai/ag2: 429 too many requests
+- https://api.github.com/repos/thudm/agentrl: 429 too many requests
+- https://api.github.com/repos/stanshy/agenthub: 429 too many requests
+- https://api.github.com/repos/writeitai/team-harness: 429 too many requests
+- https://api.github.com/repos/modelcontextprotocol/servers: 429 too many requests
+- https://api.github.com/repos/upstash/context7: 429 too many requests
+- https://api.github.com/repos/chromedevtools/chrome-devtools-mcp: 429 too many requests
+- https://api.github.com/repos/aider-ai/aider: 429 too many requests
+- https://api.github.com/repos/microsoft/playwright-mcp: 429 too many requests
+- https://api.github.com/repos/continuedev/continue: 429 too many requests
+- https://api.github.com/repos/github/github-mcp-server: 429 too many requests
+- https://api.github.com/repos/modelcontextprotocol/python-sdk: 429 too many requests
+- https://api.github.com/repos/modelcontextprotocol/typescript-sdk: 429 too many requests
+- https://api.github.com/repos/modelcontextprotocol/inspector: 429 too many requests
+- https://api.github.com/repos/modelcontextprotocol/registry: 429 too many requests
+- https://api.github.com/repos/microsoft/agent-governance-toolkit: 429 too many requests
+- https://api.github.com/repos/ibm/mcp-context-forge: 429 too many requests
+- https://api.github.com/repos/cocoindex-io/cocoindex-code: 429 too many requests
+- https://api.github.com/repos/infisical/agent-vault: 429 too many requests
+- https://api.github.com/repos/docker/mcp-gateway: 429 too many requests
+- https://api.github.com/repos/swamp-club/swamp: 429 too many requests
+- https://api.github.com/repos/withlinda/puppeteer-real-browser-mcp-server: 429 too many requests
+- https://api.github.com/repos/ajhcs/better-opencodemcp: 429 too many requests
+- https://api.github.com/repos/only-cliches/harness-hat: 429 too many requests
+- https://api.github.com/repos/ryanalberts/agentlog: 429 too many requests
+- https://api.github.com/repos/thedotmack/claude-mem: 429 too many requests
+- https://api.github.com/repos/mem0ai/mem0: 429 too many requests
+- https://api.github.com/repos/topoteretes/cognee: 429 too many requests
+- https://api.github.com/repos/getzep/graphiti: 429 too many requests
+- https://api.github.com/repos/gastownhall/beads: 429 too many requests
+- https://api.github.com/repos/microsoft/agent-lightning: 429 too many requests
+- https://api.github.com/repos/swe-bench/swe-bench: 429 too many requests
+- https://api.github.com/repos/thudm/agentbench: 429 too many requests
+- https://api.github.com/repos/ukgovernmentbeis/inspect_ai: 429 too many requests
+- https://api.github.com/repos/web-arena-x/webarena: 429 too many requests
+- https://api.github.com/repos/minorjerry/webvoyager: 429 too many requests
+- https://api.github.com/repos/arcprize/arc-agi-2: 429 too many requests
+- https://api.github.com/repos/swe-bench/swe-smith: 429 too many requests
+- https://api.github.com/repos/swe-gym/swe-gym: 429 too many requests
+- https://api.github.com/repos/ukgovernmentbeis/inspect_evals: 429 too many requests
+- https://api.github.com/repos/harbor-framework/terminal-bench: 429 too many requests
+- https://api.github.com/repos/arcprize/arc-agi-benchmarking: 429 too many requests
+- https://api.github.com/repos/vostride/agent-qa: 429 too many requests
+- https://api.github.com/repos/meituan-longcat/vitabench: 429 too many requests
+- https://api.github.com/repos/gair-nlp/agencybench: 429 too many requests
+- https://api.github.com/repos/letta-ai/letta-evals: 429 too many requests
+- https://api.github.com/repos/allenai/super-benchmark: 429 too many requests
+- https://api.github.com/repos/strands-labs/benchmark-harnesses: 429 too many requests
+- https://api.github.com/repos/patronus-ai/trail-benchmark: 429 too many requests
+- https://api.github.com/repos/langfuse/langfuse: 429 too many requests
+- https://api.github.com/repos/mlflow/mlflow: 429 too many requests
+- https://api.github.com/repos/comet-ml/opik: 429 too many requests
+- https://api.github.com/repos/arize-ai/phoenix: 429 too many requests
+- https://api.github.com/repos/bytedance/deer-flow: 429 too many requests
+- https://api.github.com/repos/assafelovic/gpt-researcher: 429 too many requests
+- https://api.github.com/repos/aiming-lab/autoresearchclaw: 429 too many requests
+- https://api.github.com/repos/miromindai/mirothinker: 429 too many requests
+- https://api.github.com/repos/openagentsinc/openagents: 429 too many requests
+- https://api.github.com/repos/sethkarten/continual-harness: 429 too many requests
+- https://api.github.com/repos/howiehwong/memoharness: 429 too many requests
+- https://api.github.com/repos/daytonaio/daytona: 429 too many requests
+- https://api.github.com/repos/berriai/litellm: 429 too many requests
+- https://api.github.com/repos/composiohq/composio: 429 too many requests
+- https://api.github.com/repos/huggingface/smolagents: 429 too many requests
+- https://api.github.com/repos/langchain-ai/deepagents: 429 too many requests
+- https://api.github.com/repos/vercel/ai: 429 too many requests
+- https://api.github.com/repos/pydantic/pydantic-ai: 429 too many requests
+- https://api.github.com/repos/e2b-dev/e2b: 429 too many requests
+- https://api.github.com/repos/steel-dev/steel-browser: 429 too many requests
+- https://api.github.com/repos/strands-agents/harness-sdk: 429 too many requests
+- https://api.github.com/repos/cloudflare/agents: 429 too many requests
+- https://api.github.com/repos/openai/openai-agents-js: 429 too many requests
+- https://api.github.com/repos/kubernetes-sigs/agent-sandbox: 429 too many requests
+- https://api.github.com/repos/rivet-dev/sandbox-agent: 429 too many requests
+- https://api.github.com/repos/maxgfeller/open-harness: 429 too many requests
+- https://api.github.com/repos/unicomai/uniharness: 429 too many requests
+- https://api.github.com/repos/litellm-labs/lite-harness: 429 too many requests
+- https://api.github.com/repos/fairyshine/openagentharness: 429 too many requests
+- https://api.github.com/repos/brandonhimpfen/awesome-ai-agents: 429 too many requests
+- https://api.github.com/repos/viamin/agent-harness: 429 too many requests

@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "name": "@wukonglabs/wukong",
+    "url": "https://www.npmjs.com/package/@wukonglabs/wukong",
+    "discoveredAt": "2026-08-21",
+    "signalUrl": "https://www.npmjs.com/package/@wukonglabs/wukong",
+    "reason": "The package describes a ReAct coding-agent loop, tools, skills, and CI support, but its canonical CNB repository could not be independently verified during this run."
+  },
+  {
+    "name": "Addy",
+    "url": "https://addy.md/",
+    "discoveredAt": "2026-08-21",
+    "signalUrl": "https://addy.md/",
+    "reason": "The official page describes an agentic development environment with parallel agents and persistent context, but it is notify-only and provides no dated release, install path, documentation, or source repository."
+  }
+]
