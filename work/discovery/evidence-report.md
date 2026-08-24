@@ -1,17 +1,30 @@
 # Harness discovery evidence report
 
-Run date: 2026-08-21
+Run date: 2026-08-24
 
 This is a dry research artifact. It does not modify `data/harnesses.v1.json`.
 
-- Proposed candidates: 1
-- Exact duplicates excluded: 0
+- Proposed candidates: 27
+- Exact duplicates excluded: 14
 - Fuzzy matches flagged, never merged: 0
-- Partial lanes: official-sources, github-and-curated
+- Partial lanes: none
 
 ## Duplicate flags
 
-- None
+- oh-my-pi (can1357): repository identity, normalised name + company
+- jcode (1jehuang): repository identity, normalised name + company
+- opencode (anomalyco): repository identity, canonical URL
+- codex (openai): repository identity, normalised name + company
+- pi (earendil-works): repository identity, canonical URL, normalised name + company
+- agent-skills (addyosmani): repository identity
+- openinterpreter (openinterpreter): repository identity, canonical URL, normalised name + company
+- headroom (headroomlabs-ai): repository identity, normalised name + company
+- cline (cline): repository identity, normalised name + company
+- chrome-devtools-mcp (ChromeDevTools): repository identity, normalised name + company
+- continue (continuedev): repository identity, normalised name + company
+- DeepSeek-Reasonix (esengine): repository identity, canonical URL, normalised name + company
+- herdr (herdrdev): repository identity, canonical URL
+- vibe-kanban (BloopAI): repository identity, normalised name + company
 
 ## Fuzzy flags
 
