@@ -12,5 +12,19 @@
     "discoveredAt": "2026-08-21",
     "signalUrl": "https://addy.md/",
     "reason": "The official page describes an agentic development environment with parallel agents and persistent context, but it is notify-only and provides no dated release, install path, documentation, or source repository."
+  },
+  {
+    "name": "Agent Harness (Agent Software)",
+    "url": "https://agentharness.agentsoftware.dev/docs/introduction",
+    "discoveredAt": "2026-08-28",
+    "signalUrl": "https://agentsoftware.dev/blog/release-state-report",
+    "reason": "The vendor documents an execution layer for AI coding workflows, but its current official release-state report says Agent Harness remains in development and does not identify a released package or repository."
+  },
+  {
+    "name": "@ai-sdk-tool/harness",
+    "url": "https://www.npmjs.com/package/@ai-sdk-tool/harness",
+    "discoveredAt": "2026-08-28",
+    "signalUrl": "https://www.npmjs.com/package/@ai-sdk-tool/harness",
+    "reason": "The package page describes an agent loop, tools, checkpoints, and a runtime API, but this run did not establish an official source repository, maintainer identity, or independently reviewable license and documentation set."
   }
 ]

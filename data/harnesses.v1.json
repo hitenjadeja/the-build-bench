@@ -1,6 +1,6 @@
 {
   "version": "1.1.0",
-  "generatedAt": "2026-08-21",
+  "generatedAt": "2026-08-28",
   "sources": [
     {
       "name": "best-of-Agent-Harnesses",
@@ -7122,6 +7122,1142 @@
       ],
       "discoveredDate": "2026-08-21",
       "lastVerifiedDate": "2026-08-21"
+    },
+    {
+      "id": "salesforce-slack-code",
+      "name": "Slack Code",
+      "company": "Salesforce",
+      "description": "A collaborative coding-agent surface in Slack that creates project-scoped code channels with shared context, plans, diffs, previews, approvals, and durable session history.",
+      "capabilities": [
+        "Multi-agent collaboration",
+        "Code review",
+        "Artifact previews",
+        "Agent handoffs"
+      ],
+      "languages": [
+        "Proprietary"
+      ],
+      "license": "Commercial terms",
+      "availability": "proprietary",
+      "officialUrl": "https://docs.slack.dev/changelog/2026/08/20/slack-code/",
+      "repositoryUrl": null,
+      "monogram": "SC",
+      "tags": [
+        "slack",
+        "collaboration",
+        "code-review",
+        "previews"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "official announcement and documentation",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://docs.slack.dev/changelog/2026/08/20/slack-code/"
+      ],
+      "discoveredDate": "2026-08-28",
+      "lastVerifiedDate": "2026-08-28"
+    },
+    {
+      "id": "onecli-onecli",
+      "name": "OneCLI",
+      "company": "OneCLI",
+      "description": "A team agent harness that provisions one durable sandboxed agent per employee, with shared policy enforcement, credential injection, approvals, memory, skills, schedules, Slack access, and self-hosted runners.",
+      "capabilities": [
+        "Sandboxed execution",
+        "Policy enforcement",
+        "Memory & state",
+        "Multi-agent management"
+      ],
+      "languages": [
+        "TypeScript",
+        "Rust"
+      ],
+      "license": "Apache-2.0 with enterprise-licensed modules",
+      "availability": "open-source",
+      "officialUrl": "https://onecli.sh",
+      "repositoryUrl": "https://github.com/onecli/onecli",
+      "monogram": "OC",
+      "tags": [
+        "teams",
+        "sandbox",
+        "policy",
+        "credentials"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "repository and product site",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://onecli.sh",
+        "https://github.com/onecli/onecli",
+        "https://github.com/onecli/onecli/blob/main/LICENSE"
+      ],
+      "discoveredDate": "2026-08-28",
+      "lastVerifiedDate": "2026-08-28"
+    },
+    {
+      "id": "apodexai-frontieragent",
+      "name": "FrontierAgent",
+      "company": "Apodex AI",
+      "description": "An open-source terminal agent runtime and evaluation suite with stateful ReAct and coordinated agent-team workflows, task-scoped sandboxes, approvals, checkpoints, traces, recovery, and benchmark runners.",
+      "capabilities": [
+        "Agent runtime",
+        "Multi-agent workflows",
+        "Sandboxed execution",
+        "Evaluation harness"
+      ],
+      "languages": [
+        "Python"
+      ],
+      "license": "Apache-2.0",
+      "availability": "open-source",
+      "officialUrl": "https://www.apodex.ai",
+      "repositoryUrl": "https://github.com/ApodexAI/FrontierAgent",
+      "monogram": "FA",
+      "tags": [
+        "terminal",
+        "multi-agent",
+        "sandbox",
+        "evaluation"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "repository and product site",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://www.apodex.ai",
+        "https://github.com/ApodexAI/FrontierAgent",
+        "https://github.com/ApodexAI/FrontierAgent/blob/main/LICENSE"
+      ],
+      "discoveredDate": "2026-08-28",
+      "lastVerifiedDate": "2026-08-28"
+    },
+    {
+      "id": "s1n6h-pentest-harness",
+      "name": "Pentest Harness",
+      "company": "S1N6H",
+      "description": "A self-hosted agent harness for authorized security testing with replaceable model providers, shell and filesystem tools, subagents, background jobs, durable sessions, context compaction, and local credential storage.",
+      "capabilities": [
+        "Agent runtime",
+        "Terminal automation",
+        "Multi-agent workflows",
+        "Memory & state"
+      ],
+      "languages": [
+        "TypeScript"
+      ],
+      "license": "MIT",
+      "availability": "open-source",
+      "officialUrl": "https://github.com/S1N6H/pentest-harness",
+      "repositoryUrl": "https://github.com/S1N6H/pentest-harness",
+      "monogram": "PH",
+      "tags": [
+        "security",
+        "self-hosted",
+        "subagents",
+        "sessions"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "repository",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://github.com/S1N6H/pentest-harness",
+        "https://github.com/S1N6H/pentest-harness/blob/main/LICENSE"
+      ],
+      "discoveredDate": "2026-08-28",
+      "lastVerifiedDate": "2026-08-28"
+    },
+    {
+      "id": "acryldev-acryl",
+      "name": "ACRYL",
+      "company": "ACRYL",
+      "description": "An agent-agnostic development environment and continuity layer that owns persistent workspaces, canonical context, tasks, artifacts, checkpoints, and structured handoffs while treating coding agents as replaceable workers.",
+      "capabilities": [
+        "Context management",
+        "Persistent workspaces",
+        "Agent handoffs",
+        "Plugin system"
+      ],
+      "languages": [
+        "TypeScript"
+      ],
+      "license": "MIT",
+      "availability": "open-source",
+      "officialUrl": "https://acryl.dev",
+      "repositoryUrl": "https://github.com/acryldev/acryl",
+      "monogram": "AC",
+      "tags": [
+        "continuity",
+        "cross-agent",
+        "workspace",
+        "early-development"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "repository and documentation",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://acryl.dev",
+        "https://github.com/acryldev/acryl",
+        "https://github.com/acryldev/acryl/blob/main/LICENSE"
+      ],
+      "discoveredDate": "2026-08-28",
+      "lastVerifiedDate": "2026-08-28"
+    },
+    {
+      "id": "singula-ai-alego",
+      "name": "Alego",
+      "company": "Singula AI",
+      "description": "A developer-preview agent harness derived from DeepSeek Harness whose model providers, tools, sessions, interfaces, and other capabilities are composed as replaceable Cordis plugins.",
+      "capabilities": [
+        "Agent runtime",
+        "Plugin system",
+        "Tool orchestration",
+        "Memory & state"
+      ],
+      "languages": [
+        "TypeScript"
+      ],
+      "license": "MIT",
+      "availability": "open-source",
+      "officialUrl": "https://github.com/singula-ai/alego",
+      "repositoryUrl": "https://github.com/singula-ai/alego",
+      "monogram": "AL",
+      "tags": [
+        "plugins",
+        "developer-preview",
+        "cordis",
+        "web-ui"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "repository",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://github.com/singula-ai/alego",
+        "https://github.com/singula-ai/alego/blob/main/LICENSE"
+      ],
+      "discoveredDate": "2026-08-28",
+      "lastVerifiedDate": "2026-08-28"
+    },
+    {
+      "id": "browser-use-windows-harness",
+      "name": "Windows Harness",
+      "company": "Browser Use",
+      "description": "A thin computer-use harness that gives agents a persistent Python process with Windows capture and input primitives, accessibility inspection, shell and filesystem access, and an optional connection to a logged-in browser.",
+      "capabilities": [
+        "Computer use",
+        "Browser automation",
+        "Terminal automation",
+        "Tool orchestration"
+      ],
+      "languages": [
+        "Python"
+      ],
+      "license": "MIT",
+      "availability": "open-source",
+      "officialUrl": "https://github.com/browser-use/windows-harness",
+      "repositoryUrl": "https://github.com/browser-use/windows-harness",
+      "monogram": "WH",
+      "tags": [
+        "windows",
+        "computer-use",
+        "browser",
+        "python"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "repository",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://github.com/browser-use/windows-harness",
+        "https://github.com/browser-use/windows-harness/blob/main/LICENSE"
+      ],
+      "discoveredDate": "2026-08-28",
+      "lastVerifiedDate": "2026-08-28"
+    },
+    {
+      "id": "rome-os-rome",
+      "name": "Rome",
+      "company": "Rome AI Lab",
+      "description": "A guardrailed agentic operating environment where people and agents build reusable harnesses, procedures, tools, workflows, memory, and interfaces, available as a cloud preview or self-hosted Docker stack.",
+      "capabilities": [
+        "Agent runtime",
+        "Workflow orchestration",
+        "Memory & state",
+        "Human-in-the-loop"
+      ],
+      "languages": [
+        "TypeScript"
+      ],
+      "license": "MIT",
+      "availability": "open-source",
+      "officialUrl": "https://romeos.cc",
+      "repositoryUrl": "https://github.com/rome-os/rome",
+      "monogram": "RO",
+      "tags": [
+        "agentic-os",
+        "self-hosted",
+        "guardrails",
+        "workflows"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "repository and product site",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://romeos.cc",
+        "https://github.com/rome-os/rome",
+        "https://github.com/rome-os/rome/blob/main/LICENSE"
+      ],
+      "discoveredDate": "2026-08-28",
+      "lastVerifiedDate": "2026-08-28"
+    },
+    {
+      "id": "2youg1-sprawling",
+      "name": "sprawling",
+      "company": "2youg1",
+      "description": "A local multi-agent control plane that runs persistent teams in isolated workspaces, coordinates direct agent messaging, records an append-only event ledger, supports worktree-based collaboration, and tracks spend and approvals.",
+      "capabilities": [
+        "Multi-agent orchestration",
+        "Persistent execution",
+        "Memory & state",
+        "Repository isolation"
+      ],
+      "languages": [
+        "Rust"
+      ],
+      "license": "MPL-2.0",
+      "availability": "open-source",
+      "officialUrl": "https://github.com/2youg1/sprawling",
+      "repositoryUrl": "https://github.com/2youg1/sprawling",
+      "monogram": "SP",
+      "tags": [
+        "multi-agent",
+        "local-first",
+        "event-sourced",
+        "pre-alpha"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "repository",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://github.com/2youg1/sprawling",
+        "https://github.com/2youg1/sprawling/blob/main/LICENSE"
+      ],
+      "discoveredDate": "2026-08-28",
+      "lastVerifiedDate": "2026-08-28"
+    },
+    {
+      "id": "yogthos-samizdat",
+      "name": "samizdat",
+      "company": "yogthos",
+      "description": "A self-hosting Clojure development harness whose journaled agent loop is a live workflow manifest that agents can inspect and revise behind validation, soak, and rollback gates, with subagents and resumable state.",
+      "capabilities": [
+        "Agent runtime",
+        "Self-modification",
+        "Multi-agent workflows",
+        "Memory & state"
+      ],
+      "languages": [
+        "Clojure"
+      ],
+      "license": "GPL-3.0",
+      "availability": "open-source",
+      "officialUrl": "https://github.com/yogthos/samizdat",
+      "repositoryUrl": "https://github.com/yogthos/samizdat",
+      "monogram": "SZ",
+      "tags": [
+        "clojure",
+        "self-hosting",
+        "journal",
+        "subagents"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "repository",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://github.com/yogthos/samizdat",
+        "https://github.com/yogthos/samizdat/blob/main/LICENSE"
+      ],
+      "discoveredDate": "2026-08-28",
+      "lastVerifiedDate": "2026-08-28"
+    },
+    {
+      "id": "agiflow-doompi",
+      "name": "DoomPi",
+      "company": "AgiFlow",
+      "description": "An opinionated Pi coding-agent distribution that composes explicit modes, domains, profiles, skills, MCP servers, workflows, agent teams, persistent tasks, scoped tools, and automation from auditable configuration.",
+      "capabilities": [
+        "Harness configuration",
+        "Context management",
+        "Multi-agent workflows",
+        "MCP & extensions"
+      ],
+      "languages": [
+        "TypeScript"
+      ],
+      "license": "MIT",
+      "availability": "open-source",
+      "officialUrl": "https://github.com/AgiFlow/doompi",
+      "repositoryUrl": "https://github.com/AgiFlow/doompi",
+      "monogram": "DP",
+      "tags": [
+        "pi",
+        "distribution",
+        "context",
+        "automation"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "repository",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://github.com/AgiFlow/doompi",
+        "https://github.com/AgiFlow/doompi/blob/main/LICENSE"
+      ],
+      "discoveredDate": "2026-08-28",
+      "lastVerifiedDate": "2026-08-28"
+    },
+    {
+      "id": "sodiumsun-agenttrail",
+      "name": "agenttrail",
+      "company": "sodiumsun",
+      "description": "A local observability layer for coding agents that maps plans, tool activity, file changes, progress, and provenance into a live repository view without sending prompts or modifying code during observation.",
+      "capabilities": [
+        "Observability",
+        "Repository monitoring",
+        "Progress tracking",
+        "Agent provenance"
+      ],
+      "languages": [
+        "JavaScript"
+      ],
+      "license": "MIT",
+      "availability": "open-source",
+      "officialUrl": "https://github.com/sodiumsun/agenttrail",
+      "repositoryUrl": "https://github.com/sodiumsun/agenttrail",
+      "monogram": "AT",
+      "tags": [
+        "observability",
+        "local-first",
+        "repository-map",
+        "hooks"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "repository",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://github.com/sodiumsun/agenttrail",
+        "https://github.com/sodiumsun/agenttrail/blob/main/LICENSE"
+      ],
+      "discoveredDate": "2026-08-28",
+      "lastVerifiedDate": "2026-08-28"
+    },
+    {
+      "id": "morningstar202604-agentseed",
+      "name": "AgentSeed",
+      "company": "Morningstar202604",
+      "description": "A verification gate for coding agents that combines an Agent Plugins skill, MCP server, optional client hook, CLI, and CI checks to detect invented APIs, unsupported completion claims, and risky package references.",
+      "capabilities": [
+        "Safety guardrails",
+        "Code verification",
+        "MCP & extensions",
+        "CI integration"
+      ],
+      "languages": [
+        "Python"
+      ],
+      "license": "Apache-2.0",
+      "availability": "open-source",
+      "officialUrl": "https://github.com/Morningstar202604/agentseed-mcp",
+      "repositoryUrl": "https://github.com/Morningstar202604/agentseed-mcp",
+      "monogram": "AS",
+      "tags": [
+        "verification",
+        "guardrails",
+        "mcp",
+        "ci"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "repository",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://github.com/Morningstar202604/agentseed-mcp",
+        "https://github.com/Morningstar202604/agentseed-mcp/blob/main/LICENSE"
+      ],
+      "discoveredDate": "2026-08-28",
+      "lastVerifiedDate": "2026-08-28"
+    },
+    {
+      "id": "davidcarliez-cover",
+      "name": "Cover",
+      "company": "David Carliez",
+      "description": "A bidirectional privacy proxy for cloud coding agents that replaces sensitive local values with deterministic stand-ins before requests leave the machine and restores them in normal and streaming responses.",
+      "capabilities": [
+        "Privacy controls",
+        "Safety guardrails",
+        "Request filtering",
+        "Agent integrations"
+      ],
+      "languages": [
+        "Go"
+      ],
+      "license": "Apache-2.0",
+      "availability": "open-source",
+      "officialUrl": "https://github.com/DavidCarliez/cover",
+      "repositoryUrl": "https://github.com/DavidCarliez/cover",
+      "monogram": "CV",
+      "tags": [
+        "privacy",
+        "proxy",
+        "secrets",
+        "local-first"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "repository",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://github.com/DavidCarliez/cover",
+        "https://github.com/DavidCarliez/cover/blob/main/LICENSE"
+      ],
+      "discoveredDate": "2026-08-28",
+      "lastVerifiedDate": "2026-08-28"
+    },
+    {
+      "id": "tiammomo-reposteward",
+      "name": "RepoSteward",
+      "company": "tiammomo",
+      "description": "A local-first control plane that turns GitHub issues into policy-gated coding-agent work, verifies resulting artifacts, and routes proposed pull requests through explicit human review.",
+      "capabilities": [
+        "Background agents",
+        "Policy enforcement",
+        "Repository operations",
+        "Human-in-the-loop"
+      ],
+      "languages": [
+        "Python"
+      ],
+      "license": "MIT",
+      "availability": "open-source",
+      "officialUrl": "https://github.com/tiammomo/RepoSteward",
+      "repositoryUrl": "https://github.com/tiammomo/RepoSteward",
+      "monogram": "RS",
+      "tags": [
+        "issues",
+        "policy",
+        "verification",
+        "local-first"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "repository",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://github.com/tiammomo/RepoSteward",
+        "https://github.com/tiammomo/RepoSteward/blob/main/LICENSE"
+      ],
+      "discoveredDate": "2026-08-28",
+      "lastVerifiedDate": "2026-08-28"
+    },
+    {
+      "id": "luxorlabs-jardinero",
+      "name": "Jardinero",
+      "company": "Luxor Labs",
+      "description": "An always-on coding-agent service that implements Linear tickets, maintains pull requests, reviews production logs, and runs each workflow as a durable state machine in a disposable sandbox with operator visibility.",
+      "capabilities": [
+        "Background agents",
+        "Sandboxed execution",
+        "Repository operations",
+        "Workflow orchestration"
+      ],
+      "languages": [
+        "TypeScript"
+      ],
+      "license": "MIT",
+      "availability": "open-source",
+      "officialUrl": "https://jardinero.dev",
+      "repositoryUrl": "https://github.com/LuxorLabs/jardinero",
+      "monogram": "JA",
+      "tags": [
+        "always-on",
+        "linear",
+        "pull-requests",
+        "sandbox"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "repository and product site",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://jardinero.dev",
+        "https://github.com/LuxorLabs/jardinero",
+        "https://github.com/LuxorLabs/jardinero/blob/main/LICENSE"
+      ],
+      "discoveredDate": "2026-08-28",
+      "lastVerifiedDate": "2026-08-28"
+    },
+    {
+      "id": "agentic-spring-ai",
+      "name": "Agentic Spring AI",
+      "company": "Agentic Spring AI",
+      "description": "A Spring AI framework and graph runtime for Java agents and multi-agent applications with context compaction, tool retries, planning, human interruption, persistent workflows, recovery, sandboxed tools, A2A, and visual debugging.",
+      "capabilities": [
+        "Agent runtime",
+        "Multi-agent workflows",
+        "Context management",
+        "Sandboxed execution"
+      ],
+      "languages": [
+        "Java"
+      ],
+      "license": "Apache-2.0",
+      "availability": "open-source",
+      "officialUrl": "https://agentic-spring-ai.github.io/website/en/",
+      "repositoryUrl": "https://github.com/agentic-spring-ai/agentic-spring-ai",
+      "monogram": "SA",
+      "tags": [
+        "java",
+        "spring-ai",
+        "graph-runtime",
+        "a2a"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "repository and documentation",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://agentic-spring-ai.github.io/website/en/",
+        "https://github.com/agentic-spring-ai/agentic-spring-ai",
+        "https://github.com/agentic-spring-ai/agentic-spring-ai/blob/main/LICENSE"
+      ],
+      "discoveredDate": "2026-08-28",
+      "lastVerifiedDate": "2026-08-28"
+    },
+    {
+      "id": "rexadbapp-io",
+      "name": "io",
+      "company": "rexadbapp",
+      "description": "A small self-contained terminal coding agent with file editing, shell, search and fetch tools, streaming model access, persistent sessions, automatic context compaction, and cross-platform single-binary releases.",
+      "capabilities": [
+        "Repository operations",
+        "Terminal automation",
+        "Context management",
+        "Memory & state"
+      ],
+      "languages": [
+        "Zig"
+      ],
+      "license": "MIT",
+      "availability": "open-source",
+      "officialUrl": "https://github.com/rexadbapp/io",
+      "repositoryUrl": "https://github.com/rexadbapp/io",
+      "monogram": "IO",
+      "tags": [
+        "terminal",
+        "single-binary",
+        "multi-provider",
+        "compaction"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "repository",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://github.com/rexadbapp/io",
+        "https://github.com/rexadbapp/io/blob/master/LICENSE"
+      ],
+      "discoveredDate": "2026-08-28",
+      "lastVerifiedDate": "2026-08-28"
+    },
+    {
+      "id": "orz-i-gaoge-agent-runtime",
+      "name": "Gaoge Agent Runtime",
+      "company": "orz-i",
+      "description": "A framework-neutral durable agent runtime with deterministic run state, tool loops, teams, queues, evaluation, delegation timelines, HTTP and SSE interfaces, PostgreSQL and Redis persistence, MCP, A2A, and a TypeScript client.",
+      "capabilities": [
+        "Agent runtime",
+        "Durable execution",
+        "Multi-agent workflows",
+        "MCP & extensions"
+      ],
+      "languages": [
+        "Go",
+        "TypeScript"
+      ],
+      "license": "Apache-2.0",
+      "availability": "open-source",
+      "officialUrl": "https://github.com/orz-i/Gaoge-Agent-Runtime",
+      "repositoryUrl": "https://github.com/orz-i/Gaoge-Agent-Runtime",
+      "monogram": "GR",
+      "tags": [
+        "durable",
+        "mcp",
+        "a2a",
+        "beta"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "repository",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://github.com/orz-i/Gaoge-Agent-Runtime",
+        "https://github.com/orz-i/Gaoge-Agent-Runtime/blob/main/LICENSE"
+      ],
+      "discoveredDate": "2026-08-28",
+      "lastVerifiedDate": "2026-08-28"
+    },
+    {
+      "id": "amazon-bedrock-agentcore-harness",
+      "name": "Amazon Bedrock AgentCore Harness",
+      "company": "Amazon Web Services",
+      "description": "A managed harness that turns configured models, tools, skills, and instructions into isolated production agents with a filesystem, shell, context management, cross-session memory, browsing, observability, and failure recovery.",
+      "capabilities": [
+        "Managed agent runtime",
+        "Sandboxed execution",
+        "Memory & state",
+        "Tool orchestration"
+      ],
+      "languages": [
+        "Managed service"
+      ],
+      "license": "Commercial terms",
+      "availability": "proprietary",
+      "officialUrl": "https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/harness.html",
+      "repositoryUrl": null,
+      "monogram": "AH",
+      "tags": [
+        "aws",
+        "managed",
+        "sandbox",
+        "memory"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "official documentation and announcement",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/harness.html",
+        "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-bedrock-agentcore-harness-generally-available/"
+      ],
+      "discoveredDate": "2026-08-28",
+      "lastVerifiedDate": "2026-08-28"
+    },
+    {
+      "id": "q00-ouroboros",
+      "name": "Ouroboros",
+      "company": "Q00",
+      "description": "A local-first agent operating layer that converts coding work into specification-first, replayable, observable, policy-bound workflows with interviews, immutable seeds, event ledgers, evaluation, evolution, MCP, and adapters for multiple coding agents.",
+      "capabilities": [
+        "Harness configuration",
+        "Evaluation loops",
+        "Memory & state",
+        "Multi-harness integration"
+      ],
+      "languages": [
+        "Python"
+      ],
+      "license": "MIT",
+      "availability": "open-source",
+      "officialUrl": "https://ouroboros.page/",
+      "repositoryUrl": "https://github.com/Q00/ouroboros",
+      "monogram": "OU",
+      "tags": [
+        "specification-first",
+        "replay",
+        "evaluation",
+        "mcp"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "repository and documentation",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://ouroboros.page/",
+        "https://github.com/Q00/ouroboros",
+        "https://github.com/Q00/ouroboros/blob/main/LICENSE"
+      ],
+      "discoveredDate": "2026-08-28",
+      "lastVerifiedDate": "2026-08-28"
+    },
+    {
+      "id": "graykode-abtop",
+      "name": "abtop",
+      "company": "graykode",
+      "description": "A read-only terminal observability dashboard for Claude Code, Codex CLI, and OpenCode sessions, including token and context usage, rate limits, current tasks, git state, child processes, ports, subagents, and terminal focus shortcuts.",
+      "capabilities": [
+        "Observability",
+        "Session monitoring",
+        "Resource monitoring",
+        "Agent provenance"
+      ],
+      "languages": [
+        "Rust"
+      ],
+      "license": "MIT",
+      "availability": "open-source",
+      "officialUrl": "https://github.com/graykode/abtop",
+      "repositoryUrl": "https://github.com/graykode/abtop",
+      "monogram": "AB",
+      "tags": [
+        "terminal",
+        "observability",
+        "tokens",
+        "rate-limits"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "repository",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://github.com/graykode/abtop",
+        "https://github.com/graykode/abtop/blob/main/LICENSE"
+      ],
+      "discoveredDate": "2026-08-28",
+      "lastVerifiedDate": "2026-08-28"
+    },
+    {
+      "id": "wrtnlabs-autobe",
+      "name": "AutoBE",
+      "company": "Wrtn Technologies",
+      "description": "An agentic backend builder that turns natural-language requirements into analysis, database schemas, API specifications, executable tests, and TypeScript backend implementations using compiler-backed validation and multi-session model orchestration.",
+      "capabilities": [
+        "Code generation",
+        "Specification workflows",
+        "Test generation",
+        "Tool orchestration"
+      ],
+      "languages": [
+        "TypeScript"
+      ],
+      "license": "AGPL-3.0",
+      "availability": "open-source",
+      "officialUrl": "https://autobe.dev",
+      "repositoryUrl": "https://github.com/wrtnlabs/autobe",
+      "monogram": "BE",
+      "tags": [
+        "backend",
+        "compiler",
+        "specifications",
+        "testing"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "repository and documentation",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://autobe.dev",
+        "https://github.com/wrtnlabs/autobe",
+        "https://github.com/wrtnlabs/autobe/blob/master/LICENSE"
+      ],
+      "discoveredDate": "2026-08-28",
+      "lastVerifiedDate": "2026-08-28"
+    },
+    {
+      "id": "proxysoul-empryo",
+      "name": "Empryo",
+      "company": "proxysoul",
+      "description": "A graph-powered coding agent and issue workspace that uses AST- and LSP-aware symbol editing, repository structure, live code intelligence, and the SoulForge agent runtime to plan and apply code changes.",
+      "capabilities": [
+        "Repository operations",
+        "Code intelligence",
+        "Agent runtime",
+        "Task orchestration"
+      ],
+      "languages": [
+        "TypeScript"
+      ],
+      "license": "Unknown",
+      "availability": "unclear",
+      "officialUrl": "https://empryo.com/",
+      "repositoryUrl": "https://github.com/proxysoul/Empryo",
+      "monogram": "EM",
+      "tags": [
+        "ast",
+        "lsp",
+        "code-graph",
+        "issue-tracking"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "repository and product site",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://empryo.com/",
+        "https://github.com/proxysoul/Empryo"
+      ],
+      "discoveredDate": "2026-08-28",
+      "lastVerifiedDate": "2026-08-28"
+    },
+    {
+      "id": "ayuayue-pideck",
+      "name": "PiDeck",
+      "company": "ayuayue",
+      "description": "A local desktop workbench for managing Pi coding-agent sessions across projects, importing Codex and Claude histories, restoring sessions, inspecting git state, running terminals, configuring models, and managing plugins.",
+      "capabilities": [
+        "Session management",
+        "Persistent workspaces",
+        "Terminal automation",
+        "Repository operations"
+      ],
+      "languages": [
+        "TypeScript"
+      ],
+      "license": "MIT",
+      "availability": "open-source",
+      "officialUrl": "https://ayuayue.github.io/PiDeck/",
+      "repositoryUrl": "https://github.com/ayuayue/PiDeck",
+      "monogram": "PD",
+      "tags": [
+        "desktop",
+        "pi",
+        "sessions",
+        "electron"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "repository and product site",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://ayuayue.github.io/PiDeck/",
+        "https://github.com/ayuayue/PiDeck",
+        "https://github.com/ayuayue/PiDeck/blob/main/LICENSE"
+      ],
+      "discoveredDate": "2026-08-28",
+      "lastVerifiedDate": "2026-08-28"
+    },
+    {
+      "id": "jmfederico-pi-web",
+      "name": "pi-web",
+      "company": "jmfederico",
+      "description": "A self-hosted web interface and persistent process layer for Pi coding agents that keeps sessions alive in real project workspaces and makes them accessible from a browser.",
+      "capabilities": [
+        "Persistent execution",
+        "Session management",
+        "Remote access",
+        "Repository operations"
+      ],
+      "languages": [
+        "TypeScript"
+      ],
+      "license": "MIT",
+      "availability": "open-source",
+      "officialUrl": "https://pi-web.dev/",
+      "repositoryUrl": "https://github.com/jmfederico/pi-web",
+      "monogram": "PW",
+      "tags": [
+        "pi",
+        "web-ui",
+        "persistent",
+        "self-hosted"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "repository and product site",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://pi-web.dev/",
+        "https://github.com/jmfederico/pi-web",
+        "https://github.com/jmfederico/pi-web/blob/main/LICENSE"
+      ],
+      "discoveredDate": "2026-08-28",
+      "lastVerifiedDate": "2026-08-28"
+    },
+    {
+      "id": "h5i-dev-h5i",
+      "name": "h5i",
+      "company": "h5i",
+      "description": "A secure and auditable browser execution substrate for agents, implemented in Rust without Chromium or V8 and designed for deterministic navigation, inspection, and controlled web interaction.",
+      "capabilities": [
+        "Browser automation",
+        "Sandboxed execution",
+        "Audit trails",
+        "Agent tooling"
+      ],
+      "languages": [
+        "Rust"
+      ],
+      "license": "Apache-2.0",
+      "availability": "open-source",
+      "officialUrl": "https://h5i.dev",
+      "repositoryUrl": "https://github.com/h5i-dev/h5i",
+      "monogram": "H5",
+      "tags": [
+        "browser",
+        "rust",
+        "audit",
+        "security"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "repository and product site",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://h5i.dev",
+        "https://github.com/h5i-dev/h5i",
+        "https://github.com/h5i-dev/h5i/blob/main/LICENSE"
+      ],
+      "discoveredDate": "2026-08-28",
+      "lastVerifiedDate": "2026-08-28"
+    },
+    {
+      "id": "saltbo-agent-kanban",
+      "name": "agent-kanban",
+      "company": "saltbo",
+      "description": "An agent-first task board and control surface for coordinating AI workers, tracking task state and progress, and operating multiple agent workstreams from one interface.",
+      "capabilities": [
+        "Task orchestration",
+        "Multi-agent management",
+        "Progress tracking",
+        "Human-in-the-loop"
+      ],
+      "languages": [
+        "TypeScript"
+      ],
+      "license": "Unknown",
+      "availability": "unclear",
+      "officialUrl": "https://agent-kanban.dev",
+      "repositoryUrl": "https://github.com/saltbo/agent-kanban",
+      "monogram": "AK",
+      "tags": [
+        "kanban",
+        "control-plane",
+        "multi-agent",
+        "tasks"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "repository and product site",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://agent-kanban.dev",
+        "https://github.com/saltbo/agent-kanban"
+      ],
+      "discoveredDate": "2026-08-28",
+      "lastVerifiedDate": "2026-08-28"
+    },
+    {
+      "id": "get-vix-vix",
+      "name": "vix",
+      "company": "get-vix",
+      "description": "A token-efficient terminal coding agent that reads and edits repositories, runs development commands, manages model context, and exposes a fast local workflow through a Go-based CLI.",
+      "capabilities": [
+        "Repository operations",
+        "Terminal automation",
+        "Context management",
+        "Agent runtime"
+      ],
+      "languages": [
+        "Go"
+      ],
+      "license": "AGPL-3.0",
+      "availability": "open-source",
+      "officialUrl": "https://getvix.dev",
+      "repositoryUrl": "https://github.com/get-vix/vix",
+      "monogram": "VX",
+      "tags": [
+        "terminal",
+        "coding-agent",
+        "token-efficient",
+        "go"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "repository and product site",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://getvix.dev",
+        "https://github.com/get-vix/vix",
+        "https://github.com/get-vix/vix/blob/main/LICENSE"
+      ],
+      "discoveredDate": "2026-08-28",
+      "lastVerifiedDate": "2026-08-28"
+    },
+    {
+      "id": "code-yeongyu-oh-my-openagent",
+      "name": "Oh My OpenAgent",
+      "company": "Sisyphus Labs",
+      "description": "A multi-harness agent distribution for OpenCode, Codex, and a standalone runtime, combining specialized agents, lifecycle hooks, MCP servers, team mode, goal loops, code intelligence, skills, and autonomous continuation.",
+      "capabilities": [
+        "Multi-agent workflows",
+        "Harness configuration",
+        "MCP & extensions",
+        "Persistent execution"
+      ],
+      "languages": [
+        "TypeScript"
+      ],
+      "license": "SUL-1.0",
+      "availability": "unclear",
+      "officialUrl": "https://omo.dev",
+      "repositoryUrl": "https://github.com/code-yeongyu/oh-my-openagent",
+      "monogram": "OM",
+      "tags": [
+        "multi-harness",
+        "team-mode",
+        "hooks",
+        "mcp"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "repository and documentation",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://omo.dev",
+        "https://github.com/code-yeongyu/oh-my-openagent",
+        "https://github.com/code-yeongyu/oh-my-openagent/blob/dev/LICENSE.md"
+      ],
+      "discoveredDate": "2026-08-28",
+      "lastVerifiedDate": "2026-08-28"
+    },
+    {
+      "id": "stablyai-orca",
+      "name": "Orca",
+      "company": "Stably AI",
+      "description": "An agentic development environment for running Codex, Claude Code, OpenCode, and Pi in parallel isolated worktrees with persistent terminals, mobile steering, remote SSH execution, task integrations, diff review, and browser-assisted design.",
+      "capabilities": [
+        "Multi-agent orchestration",
+        "Repository isolation",
+        "Remote execution",
+        "Code review"
+      ],
+      "languages": [
+        "TypeScript"
+      ],
+      "license": "MIT",
+      "availability": "open-source",
+      "officialUrl": "https://onorca.dev",
+      "repositoryUrl": "https://github.com/stablyai/orca",
+      "monogram": "OR",
+      "tags": [
+        "ade",
+        "worktrees",
+        "mobile",
+        "remote"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "repository and product site",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://onorca.dev",
+        "https://github.com/stablyai/orca",
+        "https://github.com/stablyai/orca/blob/main/LICENSE"
+      ],
+      "discoveredDate": "2026-08-28",
+      "lastVerifiedDate": "2026-08-28"
+    },
+    {
+      "id": "hmbown-codewhale",
+      "name": "Codewhale",
+      "company": "Hmbown",
+      "description": "A provider-neutral terminal coding agent with repository editing, command execution, approval modes, undo and workspace restore, persistent sessions and goals, agent teams, workflows, MCP, skills, hooks, and optional OS sandboxing.",
+      "capabilities": [
+        "Repository operations",
+        "Terminal automation",
+        "Multi-agent workflows",
+        "Sandboxed execution"
+      ],
+      "languages": [
+        "Rust"
+      ],
+      "license": "MIT",
+      "availability": "open-source",
+      "officialUrl": "https://codewhale.net/",
+      "repositoryUrl": "https://github.com/Hmbown/CodeWhale",
+      "monogram": "CW",
+      "tags": [
+        "terminal",
+        "coding-agent",
+        "approvals",
+        "agent-teams"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "repository and product site",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://codewhale.net/",
+        "https://github.com/Hmbown/CodeWhale",
+        "https://github.com/Hmbown/CodeWhale/blob/main/LICENSE"
+      ],
+      "discoveredDate": "2026-08-28",
+      "lastVerifiedDate": "2026-08-28"
     }
   ]
 }
