@@ -1,7 +1,7 @@
 # official-sources
 
 Status: COMPLETE
-Run date: 2026-08-28
+Run date: 2026-08-31
 Mode: network dry run
 
 | name | company | capability | canonical URL | repository URL | evidence URL | notes |
@@ -460,7 +460,7 @@ Mode: network dry run
 | samizdat | yogthos | Agent runtime | https://github.com/yogthos/samizdat | https://github.com/yogthos/samizdat | https://github.com/yogthos/samizdat | Repository identity reachable; default branch main. |
 | DoomPi | AgiFlow | Harness configuration | https://github.com/AgiFlow/doompi | https://github.com/AgiFlow/doompi | https://github.com/AgiFlow/doompi | Repository identity reachable; default branch main. |
 | agenttrail | sodiumsun | Observability | https://github.com/sodiumsun/agenttrail | https://github.com/sodiumsun/agenttrail | https://github.com/sodiumsun/agenttrail | Repository identity reachable; default branch main. |
-| AgentSeed | Morningstar202604 | Safety guardrails | https://github.com/Morningstar202604/agentseed-mcp | https://github.com/Morningstar202604/agentseed-mcp | https://github.com/Morningstar202604/agentseed-mcp | Repository identity reachable; default branch main. |
+| AgentSeed | Morningstar202604 | Safety guardrails | https://github.com/Morningstar202604/agentseed-mcp | https://github.com/Morningstar202604/agentseed-mcp | https://github.com/Morningstar202604/AgentSeed | Repository identity reachable; default branch main. |
 | Cover | David Carliez | Privacy controls | https://github.com/DavidCarliez/cover | https://github.com/DavidCarliez/cover | https://github.com/DavidCarliez/cover | Repository identity reachable; default branch main. |
 | RepoSteward | tiammomo | Background agents | https://github.com/tiammomo/RepoSteward | https://github.com/tiammomo/RepoSteward | https://github.com/tiammomo/RepoSteward | Repository identity reachable; default branch main. |
 | Jardinero | Luxor Labs | Background agents | https://jardinero.dev | https://github.com/LuxorLabs/jardinero | https://github.com/LuxorLabs/jardinero | Repository identity reachable; default branch main. |
