@@ -1,12 +1,5 @@
 [
   {
-    "name": "@wukonglabs/wukong",
-    "url": "https://www.npmjs.com/package/@wukonglabs/wukong",
-    "discoveredAt": "2026-08-21",
-    "signalUrl": "https://www.npmjs.com/package/@wukonglabs/wukong",
-    "reason": "The package describes a ReAct coding-agent loop, tools, skills, and CI support, but its canonical CNB repository could not be independently verified during this run."
-  },
-  {
     "name": "Addy",
     "url": "https://addy.md/",
     "discoveredAt": "2026-08-21",
@@ -25,6 +18,20 @@
     "url": "https://www.npmjs.com/package/@ai-sdk-tool/harness",
     "discoveredAt": "2026-08-28",
     "signalUrl": "https://www.npmjs.com/package/@ai-sdk-tool/harness",
-    "reason": "The package page describes an agent loop, tools, checkpoints, and a runtime API, but this run did not establish an official source repository, maintainer identity, or independently reviewable license and documentation set."
+    "reason": "npm metadata now resolves the package to github.com/minpeter/plugsuits/packages/harness, but the official monorepo is archived and declares no repository license; keep deferred until a maintained, licensable source or successor is published."
+  },
+  {
+    "name": "ClawDE",
+    "url": "https://clawde.io/",
+    "discoveredAt": "2026-09-04",
+    "signalUrl": "https://clawde.io/",
+    "reason": "The official page describes a host-first multi-agent development environment with local execution, shared context, drift checks, and cross-device sessions, but it is still marked early access and only offers launch notification rather than a public download or source repository."
+  },
+  {
+    "name": "Decispher",
+    "url": "https://news.ycombinator.com/item?id=49509142",
+    "discoveredAt": "2026-09-04",
+    "signalUrl": "https://news.ycombinator.com/item?id=49509142",
+    "reason": "The founder's launch post describes a context engine, persistent memory plane, sandboxed worker agent, and npm setup commands, but it does not link an official product, documentation, package, or repository page that could independently verify the released artifact."
   }
 ]
