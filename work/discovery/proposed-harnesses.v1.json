@@ -1,6 +1,6 @@
 {
   "version": "1.1.0",
-  "generatedAt": "2026-08-31",
+  "generatedAt": "2026-09-07",
   "sources": [
     {
       "name": "best-of-Agent-Harnesses",
@@ -46,8 +46,8 @@
         "https://github.com/alirezarezvani/claude-skills",
         "https://alirezarezvani.medium.com/"
       ],
-      "discoveredDate": "2026-08-31",
-      "lastVerifiedDate": "2026-08-31"
+      "discoveredDate": "2026-09-07",
+      "lastVerifiedDate": "2026-09-07"
     },
     {
       "id": "amelnagdy-delegateskills",
@@ -79,8 +79,8 @@
         "https://github.com/amElnagdy/delegate-skills",
         "https://www.skills.sh/amelnagdy/delegate-skills"
       ],
-      "discoveredDate": "2026-08-31",
-      "lastVerifiedDate": "2026-08-31"
+      "discoveredDate": "2026-09-07",
+      "lastVerifiedDate": "2026-09-07"
     },
     {
       "id": "repowisedev-claudecodeprompts",
@@ -111,8 +111,8 @@
         "https://api.github.com/search/repositories?sort=stars&order=desc&per_page=20&q=topic%3Aai-coding-agent%20archived%3Afalse",
         "https://github.com/repowise-dev/claude-code-prompts"
       ],
-      "discoveredDate": "2026-08-31",
-      "lastVerifiedDate": "2026-08-31"
+      "discoveredDate": "2026-09-07",
+      "lastVerifiedDate": "2026-09-07"
     },
     {
       "id": "friuns2-codexmobile",
@@ -144,40 +144,8 @@
         "https://github.com/friuns2/codex-mobile",
         "https://friuns2.github.io/codex-mobile/"
       ],
-      "discoveredDate": "2026-08-31",
-      "lastVerifiedDate": "2026-08-31"
-    },
-    {
-      "id": "wecodeai-runvsagent",
-      "name": "RunVSAgent",
-      "company": "wecode-ai",
-      "description": "Run VSCode-based coding agents and extensions seamlessly within other IDE platforms - bridging the gap between VSCode ecosystem and other development environment.",
-      "capabilities": [
-        "Repository operations"
-      ],
-      "languages": [
-        "Kotlin"
-      ],
-      "license": "Apache-2.0",
-      "availability": "unclear",
-      "officialUrl": "https://github.com/wecode-ai/RunVSAgent",
-      "repositoryUrl": "https://github.com/wecode-ai/RunVSAgent",
-      "monogram": "RU",
-      "tags": [
-        "ai-coding-agent",
-        "cline",
-        "discovered",
-        "needs review"
-      ],
-      "reviewStatus": "needs-review",
-      "sourceKind": "discovery-candidate",
-      "provenance": "independent-discovery",
-      "sourceUrls": [
-        "https://api.github.com/search/repositories?sort=stars&order=desc&per_page=20&q=topic%3Aai-coding-agent%20archived%3Afalse",
-        "https://github.com/wecode-ai/RunVSAgent"
-      ],
-      "discoveredDate": "2026-08-31",
-      "lastVerifiedDate": "2026-08-31"
+      "discoveredDate": "2026-09-07",
+      "lastVerifiedDate": "2026-09-07"
     },
     {
       "id": "dongshuyan-compassskills",
@@ -208,8 +176,40 @@
         "https://api.github.com/search/repositories?sort=stars&order=desc&per_page=20&q=topic%3Aai-coding-agent%20archived%3Afalse",
         "https://github.com/dongshuyan/compass-skills"
       ],
-      "discoveredDate": "2026-08-31",
-      "lastVerifiedDate": "2026-08-31"
+      "discoveredDate": "2026-09-07",
+      "lastVerifiedDate": "2026-09-07"
+    },
+    {
+      "id": "wecodeai-runvsagent",
+      "name": "RunVSAgent",
+      "company": "wecode-ai",
+      "description": "Run VSCode-based coding agents and extensions seamlessly within other IDE platforms - bridging the gap between VSCode ecosystem and other development environment.",
+      "capabilities": [
+        "Repository operations"
+      ],
+      "languages": [
+        "Kotlin"
+      ],
+      "license": "Apache-2.0",
+      "availability": "unclear",
+      "officialUrl": "https://github.com/wecode-ai/RunVSAgent",
+      "repositoryUrl": "https://github.com/wecode-ai/RunVSAgent",
+      "monogram": "RU",
+      "tags": [
+        "ai-coding-agent",
+        "cline",
+        "discovered",
+        "needs review"
+      ],
+      "reviewStatus": "needs-review",
+      "sourceKind": "discovery-candidate",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://api.github.com/search/repositories?sort=stars&order=desc&per_page=20&q=topic%3Aai-coding-agent%20archived%3Afalse",
+        "https://github.com/wecode-ai/RunVSAgent"
+      ],
+      "discoveredDate": "2026-09-07",
+      "lastVerifiedDate": "2026-09-07"
     },
     {
       "id": "johncrickett-aiassistedengineering",
@@ -240,8 +240,8 @@
         "https://api.github.com/search/repositories?sort=stars&order=desc&per_page=20&q=topic%3Aai-coding-agent%20archived%3Afalse",
         "https://github.com/JohnCrickett/ai-assisted-engineering"
       ],
-      "discoveredDate": "2026-08-31",
-      "lastVerifiedDate": "2026-08-31"
+      "discoveredDate": "2026-09-07",
+      "lastVerifiedDate": "2026-09-07"
     },
     {
       "id": "decodingaimagazine-buildingacodingagentfromscratchcourse",
@@ -272,8 +272,8 @@
         "https://api.github.com/search/repositories?sort=stars&order=desc&per_page=20&q=topic%3Aai-coding-agent%20archived%3Afalse",
         "https://github.com/decodingai-magazine/building-a-coding-agent-from-scratch-course"
       ],
-      "discoveredDate": "2026-08-31",
-      "lastVerifiedDate": "2026-08-31"
+      "discoveredDate": "2026-09-07",
+      "lastVerifiedDate": "2026-09-07"
     },
     {
       "id": "rrezartprebreza-springbootskills",
@@ -304,8 +304,41 @@
         "https://api.github.com/search/repositories?sort=stars&order=desc&per_page=20&q=topic%3Aai-coding-agent%20archived%3Afalse",
         "https://github.com/rrezartprebreza/spring-boot-skills"
       ],
-      "discoveredDate": "2026-08-31",
-      "lastVerifiedDate": "2026-08-31"
+      "discoveredDate": "2026-09-07",
+      "lastVerifiedDate": "2026-09-07"
+    },
+    {
+      "id": "morganlinton-albatross",
+      "name": "Albatross",
+      "company": "morganlinton",
+      "description": "Open source, terminal-first AI coding agent with fully transparent multi-model routing. Local (Ollama, LM Studio, MLX, llama.cpp) or cloud, your keys, one TUI. No black box.",
+      "capabilities": [
+        "Repository operations"
+      ],
+      "languages": [
+        "Rust"
+      ],
+      "license": "MIT",
+      "availability": "unclear",
+      "officialUrl": "https://albatross.sh",
+      "repositoryUrl": "https://github.com/morganlinton/Albatross",
+      "monogram": "AL",
+      "tags": [
+        "ai-coding-agent",
+        "ai-coding-assistant",
+        "discovered",
+        "needs review"
+      ],
+      "reviewStatus": "needs-review",
+      "sourceKind": "discovery-candidate",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://api.github.com/search/repositories?sort=stars&order=desc&per_page=20&q=topic%3Aai-coding-agent%20archived%3Afalse",
+        "https://github.com/morganlinton/Albatross",
+        "https://albatross.sh"
+      ],
+      "discoveredDate": "2026-09-07",
+      "lastVerifiedDate": "2026-09-07"
     },
     {
       "id": "voltagent-awesomedesignmd",
@@ -337,8 +370,8 @@
         "https://github.com/VoltAgent/awesome-design-md",
         "https://getdesign.md/"
       ],
-      "discoveredDate": "2026-08-31",
-      "lastVerifiedDate": "2026-08-31"
+      "discoveredDate": "2026-09-07",
+      "lastVerifiedDate": "2026-09-07"
     },
     {
       "id": "nexuio-opendesign",
@@ -349,7 +382,7 @@
         "Repository operations"
       ],
       "languages": [
-        "Unknown"
+        "TypeScript"
       ],
       "license": "Apache-2.0",
       "availability": "unclear",
@@ -370,8 +403,8 @@
         "https://github.com/nexu-io/open-design",
         "https://open-design.ai"
       ],
-      "discoveredDate": "2026-08-31",
-      "lastVerifiedDate": "2026-08-31"
+      "discoveredDate": "2026-09-07",
+      "lastVerifiedDate": "2026-09-07"
     },
     {
       "id": "jcodesmore-aiwebsiteclonertemplate",
@@ -403,8 +436,8 @@
         "https://github.com/JCodesMore/ai-website-cloner-template",
         "https://dsc.gg/jcodesmore"
       ],
-      "discoveredDate": "2026-08-31",
-      "lastVerifiedDate": "2026-08-31"
+      "discoveredDate": "2026-09-07",
+      "lastVerifiedDate": "2026-09-07"
     },
     {
       "id": "zarazhangrui-frontendslides",
@@ -435,8 +468,41 @@
         "https://api.github.com/search/repositories?sort=stars&order=desc&per_page=20&q=%22coding%20agent%22%20in%3Aname%2Cdescription%20stars%3A%3E500%20archived%3Afalse",
         "https://github.com/zarazhangrui/frontend-slides"
       ],
-      "discoveredDate": "2026-08-31",
-      "lastVerifiedDate": "2026-08-31"
+      "discoveredDate": "2026-09-07",
+      "lastVerifiedDate": "2026-09-07"
+    },
+    {
+      "id": "rohitg00-agentmemory",
+      "name": "agentmemory",
+      "company": "rohitg00",
+      "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+      "capabilities": [
+        "Repository operations"
+      ],
+      "languages": [
+        "TypeScript"
+      ],
+      "license": "Apache-2.0",
+      "availability": "unclear",
+      "officialUrl": "https://agent-memory.dev",
+      "repositoryUrl": "https://github.com/rohitg00/agentmemory",
+      "monogram": "AG",
+      "tags": [
+        "agentmemory",
+        "agents",
+        "discovered",
+        "needs review"
+      ],
+      "reviewStatus": "needs-review",
+      "sourceKind": "discovery-candidate",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://api.github.com/search/repositories?sort=stars&order=desc&per_page=20&q=%22coding%20agent%22%20in%3Aname%2Cdescription%20stars%3A%3E500%20archived%3Afalse",
+        "https://github.com/rohitg00/agentmemory",
+        "https://agent-memory.dev"
+      ],
+      "discoveredDate": "2026-09-07",
+      "lastVerifiedDate": "2026-09-07"
     },
     {
       "id": "songdongdong-wukonglabswukong",
@@ -467,8 +533,8 @@
         "https://www.npmjs.com/package/@wukonglabs/wukong",
         "https://cnb.cool/O.o/wukong.git"
       ],
-      "discoveredDate": "2026-08-31",
-      "lastVerifiedDate": "2026-08-31"
+      "discoveredDate": "2026-09-07",
+      "lastVerifiedDate": "2026-09-07"
     }
   ]
 }
