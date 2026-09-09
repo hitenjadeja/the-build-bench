@@ -4,7 +4,7 @@ The canonical, public, source-verified directory of AI agent harnesses. The site
 
 Live site: <https://hitenjadeja.github.io/the-build-bench/>
 
-Maintain this repository at `/Users/hiten/workspace/the-build-bench`. World of Harnesses is the frozen historical source and legacy redirect; new catalog and interface work belongs here. Search (`q`) and name sorting (`sort=name` or `sort=name-desc`) can be shared in the page URL.
+Maintain this repository at `/Users/hiten/workspace/the-build-bench`. World of Harnesses is the retired historical source; new catalog and interface work belongs here. Search (`q`) and name sorting (`sort=name` or `sort=name-desc`) can be shared in the page URL.
 
 ## Local use
 

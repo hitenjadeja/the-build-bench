@@ -1,7 +1,7 @@
 # Project workflow
 
 - This repository, `hitenjadeja/the-build-bench`, is the production source for `https://hitenjadeja.github.io/the-build-bench/`. Do not create or publish catalog changes from an alternate repository.
-- Maintain the durable checkout at `/Users/hiten/workspace/the-build-bench`; the World of Harnesses checkout is a frozen legacy source and redirect, not a second catalog.
+- Maintain the durable checkout at `/Users/hiten/workspace/the-build-bench`; the World of Harnesses checkout is a frozen historical source, not a second catalog.
 - Discovery scripts only produce proposals. An authorized discovery sweep may promote entries after reviewing primary sources, identity, license, provenance, and duplicates; unresolved evidence or fuzzy matches remain deferred.
 - After completing and validating changes, commit and push them to `origin` unless the user explicitly says not to.
 - Do not open pull requests for this project. Push validated changes directly to `main`, including scheduled discovery evidence updates.
