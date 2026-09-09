@@ -436,6 +436,11 @@ kbd {
   min-width: 0;
 }
 
+.sort-control {
+  width: min(100%, 220px);
+  flex-shrink: 0;
+}
+
 .filter-control > span {
   font: 700 0.68rem/1 var(--mono);
   letter-spacing: 0.08em;
@@ -1205,8 +1210,9 @@ kbd {
     align-items: flex-start;
   }
 
-  .gallery-heading > p {
-    display: none;
+  .gallery-heading {
+    flex-direction: column;
+    gap: 20px;
   }
 
   .harness-gallery {

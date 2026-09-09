@@ -1,8 +1,10 @@
 # The Build Bench
 
-A public, source-verified directory of AI project harnesses for the World of Harnesses project. The site is a static Vite + React + TypeScript build designed for GitHub Pages.
+The canonical, public, source-verified directory of AI agent harnesses. The site is a static Vite + React + TypeScript build designed for GitHub Pages.
 
 Live site: <https://hitenjadeja.github.io/the-build-bench/>
+
+Maintain this repository at `/Users/hiten/workspace/the-build-bench`. World of Harnesses is the frozen historical source and legacy redirect; new catalog and interface work belongs here. Search (`q`) and name sorting (`sort=name` or `sort=name-desc`) can be shared in the page URL.
 
 ## Local use
 

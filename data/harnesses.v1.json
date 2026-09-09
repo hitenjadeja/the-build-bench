@@ -1,6 +1,6 @@
 {
   "version": "1.1.0",
-  "generatedAt": "2026-09-04",
+  "generatedAt": "2026-09-09",
   "sources": [
     {
       "name": "best-of-Agent-Harnesses",
@@ -8763,6 +8763,77 @@
       "sourceUrls": ["https://cnb.cool/O.o/wukong", "https://www.npmjs.com/package/@wukonglabs/wukong"],
       "discoveredDate": "2026-08-21",
       "lastVerifiedDate": "2026-09-04"
+    },
+    {
+      "id": "huggingface-tau",
+      "name": "Tau",
+      "company": "Hugging Face",
+      "description": "An educational Python terminal coding agent with a readable agent loop, file and shell tools, durable branching sessions, project instructions, skills, and a Textual interface.",
+      "capabilities": [
+        "Repository operations",
+        "Terminal automation",
+        "Session management",
+        "Agent SDK"
+      ],
+      "languages": [
+        "Python"
+      ],
+      "license": "MIT",
+      "availability": "open-source",
+      "officialUrl": "https://twotimespi.dev/",
+      "repositoryUrl": "https://github.com/huggingface/tau",
+      "monogram": "TA",
+      "tags": [
+        "terminal",
+        "Python",
+        "sessions",
+        "skills"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "official-product-page",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://twotimespi.dev/",
+        "https://github.com/huggingface/tau",
+        "https://github.com/huggingface/tau/blob/main/LICENSE"
+      ],
+      "discoveredDate": "2026-08-15",
+      "lastVerifiedDate": "2026-09-09"
+    },
+    {
+      "id": "awslabs-aidlc-workflows",
+      "name": "AI-DLC Workflows",
+      "company": "AWS Labs",
+      "description": "A software-delivery workflow engine for AI coding agents, with stage orchestration, human approval gates, persistent state, audit trails, and shared knowledge across supported coding harnesses.",
+      "capabilities": [
+        "Agent workflows",
+        "Workflow orchestration",
+        "Human-in-the-loop",
+        "Audit trails"
+      ],
+      "languages": [
+        "TypeScript"
+      ],
+      "license": "MIT-0",
+      "availability": "open-source",
+      "officialUrl": "https://github.com/awslabs/aidlc-workflows",
+      "repositoryUrl": "https://github.com/awslabs/aidlc-workflows",
+      "monogram": "AD",
+      "tags": [
+        "workflow",
+        "orchestration",
+        "approvals",
+        "audit"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "repository",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://github.com/awslabs/aidlc-workflows",
+        "https://github.com/awslabs/aidlc-workflows/blob/main/LICENSE"
+      ],
+      "discoveredDate": "2026-09-08",
+      "lastVerifiedDate": "2026-09-09"
     }
   ]
 }

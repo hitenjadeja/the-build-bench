@@ -3,6 +3,10 @@ import rawData from '../data/harnesses.v1.json'
 import type { Availability, Harness, HarnessData, ReviewStatus } from './types'
 
 const data = rawData as HarnessData
+type SortOrder = 'catalog' | 'name' | 'name-desc'
+const initialParams = new URLSearchParams(window.location.search)
+const initialSort = initialParams.get('sort')
+const defaultSort: SortOrder = initialSort === 'name' || initialSort === 'name-desc' ? initialSort : 'catalog'
 
 type Filters = {
   capability: string
@@ -157,7 +161,8 @@ function FilterSelect({
 }
 
 function App() {
-  const [query, setQuery] = useState('')
+  const [query, setQuery] = useState(initialParams.get('q') ?? '')
+  const [sort, setSort] = useState<SortOrder>(defaultSort)
   const [filters, setFilters] = useState<Filters>(emptyFilters)
   const [filterOpen, setFilterOpen] = useState(false)
   const searchRef = useRef<HTMLInputElement>(null)
@@ -175,7 +180,7 @@ function App() {
   const results = useMemo(() => {
     const normalisedQuery = query.trim().toLocaleLowerCase()
 
-    return data.harnesses.filter((harness) => {
+    const matches = data.harnesses.filter((harness) => {
       const searchText = [
         harness.name,
         harness.company,
@@ -198,7 +203,22 @@ function App() {
         (!filters.reviewStatus || harness.reviewStatus === filters.reviewStatus)
       )
     })
-  }, [filters, query])
+    if (sort === 'catalog') return matches
+    return matches.sort((left, right) =>
+      sort === 'name'
+        ? left.name.localeCompare(right.name, 'en')
+        : right.name.localeCompare(left.name, 'en'),
+    )
+  }, [filters, query, sort])
+
+  useEffect(() => {
+    const url = new URL(window.location.href)
+    if (query) url.searchParams.set('q', query)
+    else url.searchParams.delete('q')
+    if (sort !== 'catalog') url.searchParams.set('sort', sort)
+    else url.searchParams.delete('sort')
+    window.history.replaceState(null, '', `${url.pathname}${url.search}${url.hash}`)
+  }, [query, sort])
 
   const activeFilterCount = Object.values(filters).filter(Boolean).length
   const upstreamCount = data.harnesses.filter(
@@ -275,6 +295,7 @@ function App() {
   const clearAll = () => {
     setQuery('')
     setFilters(emptyFilters)
+    setSort('catalog')
     searchRef.current?.focus()
   }
 
@@ -394,7 +415,14 @@ function App() {
                 Available units <span className="gallery-count" aria-hidden="true">{results.length}/{data.harnesses.length}</span>
               </h2>
             </div>
-            <p>Use <kbd>←</kbd> <kbd>→</kbd> between focused cards</p>
+            <label className="filter-control sort-control" htmlFor="harness-sort">
+              <span>Sort by</span>
+              <select id="harness-sort" value={sort} onChange={(event) => setSort(event.target.value as SortOrder)}>
+                <option value="catalog">Curated order</option>
+                <option value="name">Name A–Z</option>
+                <option value="name-desc">Name Z–A</option>
+              </select>
+            </label>
           </div>
 
           {results.length > 0 ? (
@@ -430,7 +458,7 @@ function App() {
           <ol className="method-steps">
             <li><span>01</span><div><strong>Discover</strong><p>Bounded research lanes collect candidates without touching published data.</p></div></li>
             <li><span>02</span><div><strong>Verify</strong><p>Canonical URLs, repository identity, organisation, and license evidence are checked.</p></div></li>
-            <li><span>03</span><div><strong>Review</strong><p>Fuzzy matches are flagged. A human approves every directory change in a pull request.</p></div></li>
+            <li><span>03</span><div><strong>Review</strong><p>Source evidence is reviewed before publication. Ambiguous matches stay deferred until resolved.</p></div></li>
           </ol>
         </section>
       </main>
@@ -438,7 +466,7 @@ function App() {
       <footer className="site-footer">
         <div>
           <span className="footer-bolt" aria-hidden="true" />
-          <p><strong>The Build Bench</strong><br />A public directory in the World of Harnesses.</p>
+          <p><strong>The Build Bench</strong><br />A source-checked directory of AI agent harnesses.</p>
         </div>
         <div className="codex-mark" aria-label="Built with Codex">
           <span aria-hidden="true">⌬</span>

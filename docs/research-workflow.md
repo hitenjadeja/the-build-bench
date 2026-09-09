@@ -1,6 +1,6 @@
 # Harness research workflow
 
-Discovery is evidence gathering, not publication. Human review is the gate between proposed records and the public directory.
+Deterministic discovery gathers evidence and proposals without changing the public directory. Promotion requires source review: verify identity, description, canonical URLs, license, dates, provenance, and duplicates. An authorized Codex sweep can perform this review and publish verified records under `AGENTS.md`; unresolved evidence and fuzzy matches require a user decision and remain deferred.
 
 ## Source lanes
 
@@ -29,7 +29,7 @@ Candidate evidence tables use exactly these fields:
 5. Validate the currently published dataset. Discovery must never modify it.
 6. Commit the refreshed evidence and proposed records directly to `main`. Do not promote proposals into the published catalog automatically and do not open a pull request.
 
-Before a reviewer promotes any proposal into `data/harnesses.v1.json`, they must confirm the factual description, organisation, canonical URLs, repository identity, license, source evidence, dates, and logo permission or use the neutral monogram fallback. Scheduled output is never published without this review.
+Before a reviewer promotes any proposal into `data/harnesses.v1.json`, they must confirm the factual description, organisation, canonical URLs, repository identity, license, source evidence, dates, and logo permission or use the neutral monogram fallback. Scheduled output is never published without this review. The Monday GitHub Action is evidence-only; the authorized Codex sweep performs the broader source review and may promote verified records. Neither the script nor a successful validation alone is publication approval.
 
 ## Catalog imports
 

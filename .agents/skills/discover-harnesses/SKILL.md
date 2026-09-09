@@ -5,7 +5,7 @@ description: Discover, verify, and catalog newly launched AI agent harnesses and
 
 # Discover Harnesses
 
-Run a coverage-driven search, trace candidates to primary sources, and leave an auditable result even when no entry is published.
+Work only in `hitenjadeja/the-build-bench` (durable checkout: `/Users/hiten/workspace/the-build-bench`). If invoked from the legacy World of Harnesses project, hand off to this checkout before editing. Run a coverage-driven search, trace candidates to primary sources, and leave an auditable result even when no entry is published.
 
 ## Run the sweep
 
@@ -43,7 +43,7 @@ Deduplicate against `data/harnesses.v1.json` and `data/discovery-candidates.json
 
 ## Publish verified entries
 
-1. Add the source-backed record to `data/harnesses.v1.json` using the repository schema and neutral monogram fallback when logo rights are unclear.
+1. Review the primary source, identity, license, provenance, and duplicates before promotion. An authorized sweep may publish reviewed records; keep unresolved evidence and fuzzy matches deferred. The deterministic discovery script only writes proposals. Add the source-backed record to `data/harnesses.v1.json` using the repository schema and neutral monogram fallback when logo rights are unclear.
 2. Run `npm test` and `npm run check:links`.
 3. Commit and push directly to `hitenjadeja/the-build-bench/main` unless the user explicitly says not to. Never open a pull request for this project.
 4. Monitor the Pages workflow and verify `https://hitenjadeja.github.io/the-build-bench/` returns HTTP 200, the deployed `catalog.json` contains the record, and the live search bundle includes its name.

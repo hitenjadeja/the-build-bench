@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://world-of-harnesses.github.io/schemas/harnesses.v1.schema.json",
+  "$id": "https://raw.githubusercontent.com/hitenjadeja/the-build-bench/main/data/harnesses.v1.schema.json",
   "title": "The Build Bench harness directory",
   "type": "object",
   "additionalProperties": false,

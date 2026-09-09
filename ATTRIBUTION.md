@@ -8,7 +8,7 @@ The Build Bench dataset combines three reviewed source lanes:
 2. **34 independent primary-source records** researched for World of Harnesses using official repositories, vendor documentation, product pages, and engineering posts on 2026-08-14.
 3. **One existing Build Bench record**, Grok Build, retained after the union was deduplicated.
 
-The resulting version 1.1 catalog contains 196 unique records. Deduplication precedence is canonical repository identity, canonical product URL, then normalized name plus organization. Exact matches are merged; fuzzy matches are reported for review and are never merged automatically.
+The initial 2026-08-14 version 1.1 integration contained 196 unique records. Later reviewed discoveries and the transfer of Tau and AI-DLC Workflows from the legacy catalog extend that baseline; the current count is recorded in `data/harnesses.v1.json`. Deduplication precedence is canonical repository identity, canonical product URL, then normalized name plus organization. Exact matches are merged; fuzzy matches are reported for review and are never merged automatically.
 
 ## Important inclusions
 

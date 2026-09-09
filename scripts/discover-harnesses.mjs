@@ -60,7 +60,7 @@ async function fetchJson(url, lane) {
 
   const headers = {
     Accept: 'application/vnd.github+json, application/json',
-    'User-Agent': 'world-of-harnesses-discovery',
+    'User-Agent': 'the-build-bench-discovery',
   }
   if (process.env.GITHUB_TOKEN && url.includes('api.github.com')) {
     headers.Authorization = `Bearer ${process.env.GITHUB_TOKEN}`
