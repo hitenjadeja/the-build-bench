@@ -1,0 +1,28 @@
+{
+  "base": "c81b202ce6388c2d56c56f049dabf413288bb9da",
+  "commits": 27,
+  "added": [
+    "getzep/graphiti",
+    "browserbase/stagehand",
+    "kubernetes-sigs/agent-sandbox",
+    "harbor-framework/terminal-bench",
+    "yylo-dev/yylo",
+    "Mintplex-Labs/anything-llm",
+    "TIGER-AI-Lab/ClawBench",
+    "comet-ml/opik",
+    "Arize-ai/phoenix",
+    "steel-dev/steel-browser",
+    "deepseek-ai/deepseek-harness",
+    "google-antigravity/antigravity-sdk-python",
+    "Continuum-AI-Corp/OrcaReplay",
+    "JanYork/llm-wiki-cli",
+    "msaleme/red-team-blue-team-agent-fabric",
+    "rxdt/loopgate_harness",
+    "hjqcan/GoodMemory",
+    "jackispm/nausicaa-harness",
+    "labmimors/dsh-mcp-lens",
+    "AmariahAK/atlarix-releases",
+    "S1LV3RJ1NX/mcp-guardian"
+  ],
+  "removed": []
+}

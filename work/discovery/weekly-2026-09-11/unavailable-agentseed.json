@@ -1,0 +1,35 @@
+{
+  "id": "morningstar202604-agentseed",
+  "name": "AgentSeed",
+  "company": "Morningstar202604",
+  "description": "A verification gate for coding agents that combines an Agent Plugins skill, MCP server, optional client hook, CLI, and CI checks to detect invented APIs, unsupported completion claims, and risky package references.",
+  "capabilities": [
+    "Safety guardrails",
+    "Code verification",
+    "MCP & extensions",
+    "CI integration"
+  ],
+  "languages": [
+    "Python"
+  ],
+  "license": "Apache-2.0",
+  "availability": "open-source",
+  "officialUrl": "https://github.com/Morningstar202604/agentseed-mcp",
+  "repositoryUrl": "https://github.com/Morningstar202604/agentseed-mcp",
+  "monogram": "AS",
+  "tags": [
+    "verification",
+    "guardrails",
+    "mcp",
+    "ci"
+  ],
+  "reviewStatus": "source-verified",
+  "sourceKind": "repository",
+  "provenance": "independent-discovery",
+  "sourceUrls": [
+    "https://github.com/Morningstar202604/agentseed-mcp",
+    "https://github.com/Morningstar202604/agentseed-mcp/blob/main/LICENSE"
+  ],
+  "discoveredDate": "2026-08-28",
+  "lastVerifiedDate": "2026-08-28"
+}

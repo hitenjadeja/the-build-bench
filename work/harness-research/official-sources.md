@@ -1,7 +1,7 @@
 # official-sources
 
-Status: COMPLETE
-Run date: 2026-09-07
+Status: PARTIAL
+Run date: 2026-09-11
 Mode: network dry run
 
 | name | company | capability | canonical URL | repository URL | evidence URL | notes |
@@ -275,6 +275,8 @@ Mode: network dry run
 | EnvHarness | Google Research | Evaluation, Agent training, Environment orchestration, Tool execution | https://github.com/google-research/envharness | https://github.com/google-research/envharness | https://github.com/google-research/envharness | Published source-verified; last verified 2026-09-04. |
 | camelCode | camelAI | Code generation, Persistent execution, Persistent memory, Background agents | https://camelai.com/code | null | https://camelai.com/code | Published source-verified; last verified 2026-09-04. |
 | Wukong | Wukong Labs | Repository operations, Terminal automation, Headless / CI, Skill management | https://cnb.cool/O.o/wukong | https://cnb.cool/O.o/wukong | https://cnb.cool/O.o/wukong | Published source-verified; last verified 2026-09-04. |
+| Tau | Hugging Face | Repository operations, Terminal automation, Session management, Agent SDK | https://twotimespi.dev/ | https://github.com/huggingface/tau | https://twotimespi.dev/ | Published source-verified; last verified 2026-09-09. |
+| AI-DLC Workflows | AWS Labs | Agent workflows, Workflow orchestration, Human-in-the-loop, Audit trails | https://github.com/awslabs/aidlc-workflows | https://github.com/awslabs/aidlc-workflows | https://github.com/awslabs/aidlc-workflows | Published source-verified; last verified 2026-09-09. |
 | Codex | OpenAI | Repository operations | https://developers.openai.com/codex/ | https://github.com/openai/codex | https://github.com/openai/codex | Repository identity reachable; default branch main. |
 | Claude Code | Anthropic | Repository operations | https://code.claude.com/docs/en/overview | https://github.com/anthropics/claude-code | https://github.com/anthropics/claude-code | Repository identity reachable; default branch main. |
 | Grok Build | SpaceXAI | Repository operations | https://x.ai/cli | https://github.com/xai-org/grok-build | https://github.com/xai-org/grok-build | Repository identity reachable; default branch main. |
@@ -485,7 +487,6 @@ Mode: network dry run
 | samizdat | yogthos | Agent runtime | https://github.com/yogthos/samizdat | https://github.com/yogthos/samizdat | https://github.com/yogthos/samizdat | Repository identity reachable; default branch main. |
 | DoomPi | AgiFlow | Harness configuration | https://github.com/AgiFlow/doompi | https://github.com/AgiFlow/doompi | https://github.com/AgiFlow/doompi | Repository identity reachable; default branch main. |
 | agenttrail | sodiumsun | Observability | https://github.com/sodiumsun/agenttrail | https://github.com/sodiumsun/agenttrail | https://github.com/sodiumsun/agenttrail | Repository identity reachable; default branch main. |
-| AgentSeed | Morningstar202604 | Safety guardrails | https://github.com/Morningstar202604/agentseed-mcp | https://github.com/Morningstar202604/agentseed-mcp | https://github.com/Morningstar202604/AgentSeed | Repository identity reachable; default branch main. |
 | Cover | David Carliez | Privacy controls | https://github.com/DavidCarliez/cover | https://github.com/DavidCarliez/cover | https://github.com/DavidCarliez/cover | Repository identity reachable; default branch main. |
 | RepoSteward | tiammomo | Background agents | https://github.com/tiammomo/RepoSteward | https://github.com/tiammomo/RepoSteward | https://github.com/tiammomo/RepoSteward | Repository identity reachable; default branch main. |
 | Jardinero | Luxor Labs | Background agents | https://jardinero.dev | https://github.com/LuxorLabs/jardinero | https://github.com/LuxorLabs/jardinero | Repository identity reachable; default branch main. |
@@ -524,3 +525,9 @@ Mode: network dry run
 | Zhizhi Agent Runtime | cocoyes | Agent runtime | https://github.com/cocoyes/zhizhi-agent-runtime | https://github.com/cocoyes/zhizhi-agent-runtime | https://github.com/cocoyes/zhizhi-agent-runtime | Repository identity reachable; default branch master. |
 | AgentKit | Akino Kaede | Agent runtime | https://github.com/AkinoKaede/AgentKit | https://github.com/AkinoKaede/AgentKit | https://github.com/AkinoKaede/AgentKit | Repository identity reachable; default branch main. |
 | EnvHarness | Google Research | Evaluation | https://github.com/google-research/envharness | https://github.com/google-research/envharness | https://github.com/google-research/envharness | Repository identity reachable; default branch main. |
+| Tau | Hugging Face | Repository operations | https://twotimespi.dev/ | https://github.com/huggingface/tau | https://github.com/huggingface/tau | Repository identity reachable; default branch main. |
+| AI-DLC Workflows | AWS Labs | Agent workflows | https://github.com/awslabs/aidlc-workflows | https://github.com/awslabs/aidlc-workflows | https://github.com/awslabs/aidlc-workflows | Repository identity reachable; default branch main. |
+
+## Lane notes
+
+- https://api.github.com/repos/morningstar202604/agentseed-mcp: 404 Not Found

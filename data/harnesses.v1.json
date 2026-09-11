@@ -1,6 +1,6 @@
 {
   "version": "1.1.0",
-  "generatedAt": "2026-09-09",
+  "generatedAt": "2026-09-11",
   "sources": [
     {
       "name": "best-of-Agent-Harnesses",
@@ -7547,41 +7547,6 @@
       "lastVerifiedDate": "2026-08-28"
     },
     {
-      "id": "morningstar202604-agentseed",
-      "name": "AgentSeed",
-      "company": "Morningstar202604",
-      "description": "A verification gate for coding agents that combines an Agent Plugins skill, MCP server, optional client hook, CLI, and CI checks to detect invented APIs, unsupported completion claims, and risky package references.",
-      "capabilities": [
-        "Safety guardrails",
-        "Code verification",
-        "MCP & extensions",
-        "CI integration"
-      ],
-      "languages": [
-        "Python"
-      ],
-      "license": "Apache-2.0",
-      "availability": "open-source",
-      "officialUrl": "https://github.com/Morningstar202604/agentseed-mcp",
-      "repositoryUrl": "https://github.com/Morningstar202604/agentseed-mcp",
-      "monogram": "AS",
-      "tags": [
-        "verification",
-        "guardrails",
-        "mcp",
-        "ci"
-      ],
-      "reviewStatus": "source-verified",
-      "sourceKind": "repository",
-      "provenance": "independent-discovery",
-      "sourceUrls": [
-        "https://github.com/Morningstar202604/agentseed-mcp",
-        "https://github.com/Morningstar202604/agentseed-mcp/blob/main/LICENSE"
-      ],
-      "discoveredDate": "2026-08-28",
-      "lastVerifiedDate": "2026-08-28"
-    },
-    {
       "id": "davidcarliez-cover",
       "name": "Cover",
       "company": "David Carliez",
@@ -8263,18 +8228,34 @@
       "name": "Muse Code",
       "company": "Meta",
       "description": "Meta's terminal and CI coding agent, with parallel worker and reviewer agents, session messaging, checkpoints, SDK control, project memory, skills, rules, hooks, and configurable permissions.",
-      "capabilities": ["Repository operations", "Terminal automation", "Multi-agent workflows", "Headless / CI"],
-      "languages": ["TypeScript / JavaScript"],
+      "capabilities": [
+        "Repository operations",
+        "Terminal automation",
+        "Multi-agent workflows",
+        "Headless / CI"
+      ],
+      "languages": [
+        "TypeScript / JavaScript"
+      ],
       "license": "Commercial terms / MIT SDK",
       "availability": "proprietary",
       "officialUrl": "https://developer.meta.com/ai/products/muse-code/",
       "repositoryUrl": "https://github.com/meta-models/muse-code-sdk",
       "monogram": "MC",
-      "tags": ["terminal", "multi-agent", "sdk", "ci"],
+      "tags": [
+        "terminal",
+        "multi-agent",
+        "sdk",
+        "ci"
+      ],
       "reviewStatus": "source-verified",
       "sourceKind": "official product, documentation, and SDK",
       "provenance": "independent-discovery",
-      "sourceUrls": ["https://developer.meta.com/ai/products/muse-code/", "https://ai.developer.meta.com/docs/muse-code/", "https://github.com/meta-models/muse-code-sdk"],
+      "sourceUrls": [
+        "https://developer.meta.com/ai/products/muse-code/",
+        "https://ai.developer.meta.com/docs/muse-code/",
+        "https://github.com/meta-models/muse-code-sdk"
+      ],
       "discoveredDate": "2026-09-04",
       "lastVerifiedDate": "2026-09-04"
     },
@@ -8283,18 +8264,33 @@
       "name": "Harness Agents",
       "company": "Harness",
       "description": "Governed worker agents that run inside Harness pipelines, combining reusable prompts, model connectors, MCP data sources, scoped tokens, policy checks, isolated execution, marketplace distribution, and CI/CD stage integration.",
-      "capabilities": ["Background agents", "Pipeline automation", "Policy governance", "MCP & extensions"],
-      "languages": ["Container / YAML"],
+      "capabilities": [
+        "Background agents",
+        "Pipeline automation",
+        "Policy governance",
+        "MCP & extensions"
+      ],
+      "languages": [
+        "Container / YAML"
+      ],
       "license": "Commercial terms",
       "availability": "proprietary",
       "officialUrl": "https://developer.harness.io/harness-ai/3.0/use-harness-ai/ai-agents/harness-agents",
       "repositoryUrl": null,
       "monogram": "HA",
-      "tags": ["pipelines", "worker-agents", "governance", "mcp"],
+      "tags": [
+        "pipelines",
+        "worker-agents",
+        "governance",
+        "mcp"
+      ],
       "reviewStatus": "source-verified",
       "sourceKind": "official documentation",
       "provenance": "independent-discovery",
-      "sourceUrls": ["https://developer.harness.io/harness-ai/3.0/use-harness-ai/ai-agents/harness-agents", "https://developer.harness.io/harness-ai/3.0/use-harness-ai/ai-agents/create-agent"],
+      "sourceUrls": [
+        "https://developer.harness.io/harness-ai/3.0/use-harness-ai/ai-agents/harness-agents",
+        "https://developer.harness.io/harness-ai/3.0/use-harness-ai/ai-agents/create-agent"
+      ],
       "discoveredDate": "2026-09-04",
       "lastVerifiedDate": "2026-09-04"
     },
@@ -8303,18 +8299,33 @@
       "name": "Kepler",
       "company": "GitKraken",
       "description": "A public-preview agentic development environment that turns issues and pull requests into isolated worktree tasks, connects bring-your-own coding agents, supplies tracker context, supports remote environments, and guides changes through review.",
-      "capabilities": ["Task orchestration", "Repository isolation", "Issue tracker integration", "Code review"],
-      "languages": ["Desktop application"],
+      "capabilities": [
+        "Task orchestration",
+        "Repository isolation",
+        "Issue tracker integration",
+        "Code review"
+      ],
+      "languages": [
+        "Desktop application"
+      ],
       "license": "Commercial terms",
       "availability": "proprietary",
       "officialUrl": "https://help.gitkraken.com/kepler/kepler-getting-started/",
       "repositoryUrl": null,
       "monogram": "KP",
-      "tags": ["ade", "worktrees", "bring-your-own-agent", "public-preview"],
+      "tags": [
+        "ade",
+        "worktrees",
+        "bring-your-own-agent",
+        "public-preview"
+      ],
       "reviewStatus": "source-verified",
       "sourceKind": "official documentation",
       "provenance": "independent-discovery",
-      "sourceUrls": ["https://help.gitkraken.com/kepler/kepler-getting-started/", "https://www.gitkraken.com/kepler/download"],
+      "sourceUrls": [
+        "https://help.gitkraken.com/kepler/kepler-getting-started/",
+        "https://www.gitkraken.com/kepler/download"
+      ],
       "discoveredDate": "2026-09-04",
       "lastVerifiedDate": "2026-09-04"
     },
@@ -8323,18 +8334,33 @@
       "name": "Ardent",
       "company": "Ardent AI",
       "description": "A public-beta desktop agent for collaborative knowledge work that generates code in a permissioned sandbox, connects business systems, stores memory, supports MCP, and turns repeatable solutions into organization-wide reusable abilities.",
-      "capabilities": ["Code execution", "Sandboxed execution", "Persistent memory", "Workflow reuse"],
-      "languages": ["TypeScript / Deno"],
+      "capabilities": [
+        "Code execution",
+        "Sandboxed execution",
+        "Persistent memory",
+        "Workflow reuse"
+      ],
+      "languages": [
+        "TypeScript / Deno"
+      ],
       "license": "Commercial terms",
       "availability": "proprietary",
       "officialUrl": "https://ardent.ai/",
       "repositoryUrl": null,
       "monogram": "AR",
-      "tags": ["desktop", "knowledge-work", "abilities", "sandbox"],
+      "tags": [
+        "desktop",
+        "knowledge-work",
+        "abilities",
+        "sandbox"
+      ],
       "reviewStatus": "source-verified",
       "sourceKind": "official product site and launch post",
       "provenance": "independent-discovery",
-      "sourceUrls": ["https://ardent.ai/", "https://ardent.ai/blog/our-agent-writes-its-own-tools"],
+      "sourceUrls": [
+        "https://ardent.ai/",
+        "https://ardent.ai/blog/our-agent-writes-its-own-tools"
+      ],
       "discoveredDate": "2026-09-04",
       "lastVerifiedDate": "2026-09-04"
     },
@@ -8343,18 +8369,32 @@
       "name": "SuperQode",
       "company": "Superagentic AI",
       "description": "A harness interoperability layer that connects coding agents over ACP, A2A, and UHP, providing one interface for launching, routing, and composing local and remote harnesses and agent-to-agent workflows.",
-      "capabilities": ["Harness interoperability", "Agent protocol support", "Multi-agent orchestration"],
-      "languages": ["Python"],
+      "capabilities": [
+        "Harness interoperability",
+        "Agent protocol support",
+        "Multi-agent orchestration"
+      ],
+      "languages": [
+        "Python"
+      ],
       "license": "Apache-2.0",
       "availability": "open-source",
       "officialUrl": "https://superqode.dev/",
       "repositoryUrl": "https://github.com/SuperagenticAI/superqode",
       "monogram": "SQ",
-      "tags": ["acp", "a2a", "interoperability", "orchestration"],
+      "tags": [
+        "acp",
+        "a2a",
+        "interoperability",
+        "orchestration"
+      ],
       "reviewStatus": "source-verified",
       "sourceKind": "repository and product site",
       "provenance": "independent-discovery",
-      "sourceUrls": ["https://superqode.dev/", "https://github.com/SuperagenticAI/superqode"],
+      "sourceUrls": [
+        "https://superqode.dev/",
+        "https://github.com/SuperagenticAI/superqode"
+      ],
       "discoveredDate": "2026-09-04",
       "lastVerifiedDate": "2026-09-04"
     },
@@ -8363,19 +8403,34 @@
       "name": "Raven",
       "company": "EverMind AI",
       "description": "A persistent, self-improving multi-agent harness with terminal execution, local tracing, durable memory, skill evolution, approvals, and coordinated agent roles for long-running work across domains.",
-      "capabilities": ["Multi-agent orchestration", "Persistent memory", "Terminal automation", "Self-improvement"],
-      "languages": ["Python"],
+      "capabilities": [
+        "Multi-agent orchestration",
+        "Persistent memory",
+        "Terminal automation",
+        "Self-improvement"
+      ],
+      "languages": [
+        "Python"
+      ],
       "license": "Apache-2.0",
       "availability": "open-source",
       "officialUrl": "https://raven.evermind.ai",
       "repositoryUrl": "https://github.com/EverMind-AI/Raven",
       "logo": "https://github.com/EverMind-AI.png?size=160",
       "monogram": "RV",
-      "tags": ["multi-agent", "memory", "self-improving", "terminal"],
+      "tags": [
+        "multi-agent",
+        "memory",
+        "self-improving",
+        "terminal"
+      ],
       "reviewStatus": "source-verified",
       "sourceKind": "repository and product site",
       "provenance": "independent-discovery",
-      "sourceUrls": ["https://raven.evermind.ai", "https://github.com/EverMind-AI/Raven"],
+      "sourceUrls": [
+        "https://raven.evermind.ai",
+        "https://github.com/EverMind-AI/Raven"
+      ],
       "discoveredDate": "2026-09-04",
       "lastVerifiedDate": "2026-09-04"
     },
@@ -8384,19 +8439,35 @@
       "name": "Agent Orchestrator",
       "company": "Untrivial AI",
       "description": "An agent IDE for managing coding-agent fleets that plans work, creates isolated worktrees, spawns parallel agents, and autonomously handles CI failures, merge conflicts, code reviews, and branch integration.",
-      "capabilities": ["Multi-agent orchestration", "Repository isolation", "CI remediation", "Code review"],
-      "languages": ["Go", "TypeScript"],
+      "capabilities": [
+        "Multi-agent orchestration",
+        "Repository isolation",
+        "CI remediation",
+        "Code review"
+      ],
+      "languages": [
+        "Go",
+        "TypeScript"
+      ],
       "license": "Apache-2.0",
       "availability": "open-source",
       "officialUrl": "https://aoagents.dev/",
       "repositoryUrl": "https://github.com/Untrivial-ai/agent-orchestrator",
       "logo": "https://github.com/Untrivial-ai.png?size=160",
       "monogram": "AO",
-      "tags": ["agent-ide", "worktrees", "ci", "agent-fleet"],
+      "tags": [
+        "agent-ide",
+        "worktrees",
+        "ci",
+        "agent-fleet"
+      ],
       "reviewStatus": "source-verified",
       "sourceKind": "repository and product site",
       "provenance": "independent-discovery",
-      "sourceUrls": ["https://aoagents.dev/", "https://github.com/Untrivial-ai/agent-orchestrator"],
+      "sourceUrls": [
+        "https://aoagents.dev/",
+        "https://github.com/Untrivial-ai/agent-orchestrator"
+      ],
       "discoveredDate": "2026-09-04",
       "lastVerifiedDate": "2026-09-04"
     },
@@ -8405,18 +8476,33 @@
       "name": "Harness Remote",
       "company": "Giulia Stro",
       "description": "A local-first control plane for starting, resuming, monitoring, and handing off native Codex, Claude Code, OpenCode, OMP, and Pi sessions across desktop and mobile devices over private networks.",
-      "capabilities": ["Remote execution", "Session management", "Multi-harness control"],
-      "languages": ["JavaScript", "Kotlin"],
+      "capabilities": [
+        "Remote execution",
+        "Session management",
+        "Multi-harness control"
+      ],
+      "languages": [
+        "JavaScript",
+        "Kotlin"
+      ],
       "license": "Apache-2.0",
       "availability": "open-source",
       "officialUrl": "https://giuliastro.github.io/harness-remote/v3/",
       "repositoryUrl": "https://github.com/giuliastro/harness-remote",
       "monogram": "HR",
-      "tags": ["remote", "mobile", "local-first", "sessions"],
+      "tags": [
+        "remote",
+        "mobile",
+        "local-first",
+        "sessions"
+      ],
       "reviewStatus": "source-verified",
       "sourceKind": "repository and documentation",
       "provenance": "independent-discovery",
-      "sourceUrls": ["https://giuliastro.github.io/harness-remote/v3/", "https://github.com/giuliastro/harness-remote"],
+      "sourceUrls": [
+        "https://giuliastro.github.io/harness-remote/v3/",
+        "https://github.com/giuliastro/harness-remote"
+      ],
       "discoveredDate": "2026-09-04",
       "lastVerifiedDate": "2026-09-04"
     },
@@ -8425,18 +8511,33 @@
       "name": "VT Code",
       "company": "Vinh Nguyen",
       "description": "A Rust terminal coding agent with tool execution, context management, sandboxing, permissions, verification, long-running sessions, subagents, provider support, MCP, Agent Skills, and Agent Client Protocol integration.",
-      "capabilities": ["Repository operations", "Terminal automation", "Sandboxed execution", "Subagents"],
-      "languages": ["Rust"],
+      "capabilities": [
+        "Repository operations",
+        "Terminal automation",
+        "Sandboxed execution",
+        "Subagents"
+      ],
+      "languages": [
+        "Rust"
+      ],
       "license": "Apache-2.0",
       "availability": "open-source",
       "officialUrl": "https://vinhnx.github.io/VTCode/",
       "repositoryUrl": "https://github.com/vinhnx/VTCode",
       "monogram": "VT",
-      "tags": ["terminal", "rust", "acp", "sandbox"],
+      "tags": [
+        "terminal",
+        "rust",
+        "acp",
+        "sandbox"
+      ],
       "reviewStatus": "source-verified",
       "sourceKind": "repository and documentation",
       "provenance": "independent-discovery",
-      "sourceUrls": ["https://vinhnx.github.io/VTCode/", "https://github.com/vinhnx/VTCode"],
+      "sourceUrls": [
+        "https://vinhnx.github.io/VTCode/",
+        "https://github.com/vinhnx/VTCode"
+      ],
       "discoveredDate": "2026-09-04",
       "lastVerifiedDate": "2026-09-04"
     },
@@ -8445,18 +8546,32 @@
       "name": "Kit",
       "company": "Speakeasy",
       "description": "A concise coding-agent runtime distributed as one static binary, with a terminal client, a composable single-tool execution language, dynamic skills and MCP reload, ACP client and server support, A2A endpoints, and subagent orchestration.",
-      "capabilities": ["Terminal automation", "Agent runtime", "Agent protocol support", "Subagents"],
-      "languages": ["Rust"],
+      "capabilities": [
+        "Terminal automation",
+        "Agent runtime",
+        "Agent protocol support",
+        "Subagents"
+      ],
+      "languages": [
+        "Rust"
+      ],
       "license": "MIT",
       "availability": "open-source",
       "officialUrl": "https://github.com/speakeasy-api/kit",
       "repositoryUrl": "https://github.com/speakeasy-api/kit",
       "monogram": "KT",
-      "tags": ["terminal", "acp", "a2a", "static-binary"],
+      "tags": [
+        "terminal",
+        "acp",
+        "a2a",
+        "static-binary"
+      ],
       "reviewStatus": "source-verified",
       "sourceKind": "repository",
       "provenance": "independent-discovery",
-      "sourceUrls": ["https://github.com/speakeasy-api/kit"],
+      "sourceUrls": [
+        "https://github.com/speakeasy-api/kit"
+      ],
       "discoveredDate": "2026-09-04",
       "lastVerifiedDate": "2026-09-04"
     },
@@ -8465,19 +8580,33 @@
       "name": "Ante",
       "company": "Antigma Labs",
       "description": "A self-contained, model-neutral terminal coding-agent harness with a Rust core, tool use, repository operations, context management, and local execution designed to avoid proprietary agent dependencies.",
-      "capabilities": ["Repository operations", "Terminal automation", "Agent runtime"],
-      "languages": ["Rust"],
+      "capabilities": [
+        "Repository operations",
+        "Terminal automation",
+        "Agent runtime"
+      ],
+      "languages": [
+        "Rust"
+      ],
       "license": "Apache-2.0",
       "availability": "open-source",
       "officialUrl": "https://antigma.ai",
       "repositoryUrl": "https://github.com/AntigmaLabs/ante",
       "logo": "https://github.com/AntigmaLabs.png?size=160",
       "monogram": "AN",
-      "tags": ["terminal", "rust", "model-neutral", "self-contained"],
+      "tags": [
+        "terminal",
+        "rust",
+        "model-neutral",
+        "self-contained"
+      ],
       "reviewStatus": "source-verified",
       "sourceKind": "repository and product site",
       "provenance": "independent-discovery",
-      "sourceUrls": ["https://antigma.ai", "https://github.com/AntigmaLabs/ante"],
+      "sourceUrls": [
+        "https://antigma.ai",
+        "https://github.com/AntigmaLabs/ante"
+      ],
       "discoveredDate": "2026-09-04",
       "lastVerifiedDate": "2026-09-04"
     },
@@ -8486,19 +8615,36 @@
       "name": "Vicoa",
       "company": "Vicoa AI",
       "description": "A self-hostable agentic development environment for directing teams of coding agents from desktop, mobile, or VPS, with task orchestration, remote access, shared workspaces, and support for Claude Code, Codex, and OpenCode.",
-      "capabilities": ["Multi-agent orchestration", "Remote execution", "Session management", "Task orchestration"],
-      "languages": ["Python", "TypeScript", "Dart"],
+      "capabilities": [
+        "Multi-agent orchestration",
+        "Remote execution",
+        "Session management",
+        "Task orchestration"
+      ],
+      "languages": [
+        "Python",
+        "TypeScript",
+        "Dart"
+      ],
       "license": "AGPL-3.0",
       "availability": "open-source",
       "officialUrl": "https://vicoa.ai",
       "repositoryUrl": "https://github.com/vicoa-ai/vicoa",
       "logo": "https://github.com/vicoa-ai.png?size=160",
       "monogram": "VC",
-      "tags": ["ade", "mobile", "self-hosted", "remote"],
+      "tags": [
+        "ade",
+        "mobile",
+        "self-hosted",
+        "remote"
+      ],
       "reviewStatus": "source-verified",
       "sourceKind": "repository and product site",
       "provenance": "independent-discovery",
-      "sourceUrls": ["https://vicoa.ai", "https://github.com/vicoa-ai/vicoa"],
+      "sourceUrls": [
+        "https://vicoa.ai",
+        "https://github.com/vicoa-ai/vicoa"
+      ],
       "discoveredDate": "2026-09-04",
       "lastVerifiedDate": "2026-09-04"
     },
@@ -8507,18 +8653,31 @@
       "name": "Agent",
       "company": "HowProgrammingWorks",
       "description": "A small modular Node.js coding-agent harness that exposes a readable model loop, tool registry, repository file operations, command execution, and provider adapters for studying or extending core harness behavior.",
-      "capabilities": ["Agent runtime", "Repository operations", "Terminal automation"],
-      "languages": ["JavaScript"],
+      "capabilities": [
+        "Agent runtime",
+        "Repository operations",
+        "Terminal automation"
+      ],
+      "languages": [
+        "JavaScript"
+      ],
       "license": "MIT",
       "availability": "open-source",
       "officialUrl": "https://github.com/HowProgrammingWorks/Agent",
       "repositoryUrl": "https://github.com/HowProgrammingWorks/Agent",
       "monogram": "AG",
-      "tags": ["nodejs", "modular", "coding-agent", "educational"],
+      "tags": [
+        "nodejs",
+        "modular",
+        "coding-agent",
+        "educational"
+      ],
       "reviewStatus": "source-verified",
       "sourceKind": "repository",
       "provenance": "independent-discovery",
-      "sourceUrls": ["https://github.com/HowProgrammingWorks/Agent"],
+      "sourceUrls": [
+        "https://github.com/HowProgrammingWorks/Agent"
+      ],
       "discoveredDate": "2026-09-04",
       "lastVerifiedDate": "2026-09-04"
     },
@@ -8527,18 +8686,32 @@
       "name": "MagicGUI Agent Harness",
       "company": "MagicGUI",
       "description": "A self-iterating GUI-agent harness that learns from real execution failures, proposes corrective experience, replays candidates against actual tasks, and promotes validated behavior into reusable verified skills.",
-      "capabilities": ["Computer use", "Self-improvement", "Evaluation", "Skill management"],
-      "languages": ["Python"],
+      "capabilities": [
+        "Computer use",
+        "Self-improvement",
+        "Evaluation",
+        "Skill management"
+      ],
+      "languages": [
+        "Python"
+      ],
       "license": "Apache-2.0",
       "availability": "open-source",
       "officialUrl": "https://github.com/MagicGUI/MagicGUI-Agent-Harness",
       "repositoryUrl": "https://github.com/MagicGUI/MagicGUI-Agent-Harness",
       "monogram": "MG",
-      "tags": ["gui-agent", "replay", "skills", "self-improving"],
+      "tags": [
+        "gui-agent",
+        "replay",
+        "skills",
+        "self-improving"
+      ],
       "reviewStatus": "source-verified",
       "sourceKind": "repository",
       "provenance": "independent-discovery",
-      "sourceUrls": ["https://github.com/MagicGUI/MagicGUI-Agent-Harness"],
+      "sourceUrls": [
+        "https://github.com/MagicGUI/MagicGUI-Agent-Harness"
+      ],
       "discoveredDate": "2026-09-04",
       "lastVerifiedDate": "2026-09-04"
     },
@@ -8547,18 +8720,33 @@
       "name": "SAM Agentic Harness",
       "company": "Social Ads Mentor",
       "description": "A production-derived Claude Code harness configuration with always-on rules, on-demand skills, hooks, model-scored subagents, three-tier memory, and a human-gated self-improvement loop plus an installation fit check.",
-      "capabilities": ["Harness configuration", "Persistent memory", "Subagents", "Self-improvement"],
-      "languages": ["JavaScript", "Markdown"],
+      "capabilities": [
+        "Harness configuration",
+        "Persistent memory",
+        "Subagents",
+        "Self-improvement"
+      ],
+      "languages": [
+        "JavaScript",
+        "Markdown"
+      ],
       "license": "MIT",
       "availability": "open-source",
       "officialUrl": "https://github.com/socialadsmentor/sam-agentic-harness",
       "repositoryUrl": "https://github.com/socialadsmentor/sam-agentic-harness",
       "monogram": "SA",
-      "tags": ["claude-code", "hooks", "memory", "skills"],
+      "tags": [
+        "claude-code",
+        "hooks",
+        "memory",
+        "skills"
+      ],
       "reviewStatus": "source-verified",
       "sourceKind": "repository",
       "provenance": "independent-discovery",
-      "sourceUrls": ["https://github.com/socialadsmentor/sam-agentic-harness"],
+      "sourceUrls": [
+        "https://github.com/socialadsmentor/sam-agentic-harness"
+      ],
       "discoveredDate": "2026-09-04",
       "lastVerifiedDate": "2026-09-04"
     },
@@ -8567,18 +8755,33 @@
       "name": "Shipwright",
       "company": "ABJ360",
       "description": "An autonomous coding agent with planning, repository editing, testing, and a hardened gVisor-backed sandbox that isolates generated commands and code while preserving an inspectable task workflow.",
-      "capabilities": ["Repository operations", "Terminal automation", "Sandboxed execution", "Task planning"],
-      "languages": ["Python", "TypeScript"],
+      "capabilities": [
+        "Repository operations",
+        "Terminal automation",
+        "Sandboxed execution",
+        "Task planning"
+      ],
+      "languages": [
+        "Python",
+        "TypeScript"
+      ],
       "license": "MIT",
       "availability": "open-source",
       "officialUrl": "https://github.com/abj360/shipwright",
       "repositoryUrl": "https://github.com/abj360/shipwright",
       "monogram": "SW",
-      "tags": ["coding-agent", "gvisor", "sandbox", "autonomous"],
+      "tags": [
+        "coding-agent",
+        "gvisor",
+        "sandbox",
+        "autonomous"
+      ],
       "reviewStatus": "source-verified",
       "sourceKind": "repository",
       "provenance": "independent-discovery",
-      "sourceUrls": ["https://github.com/abj360/shipwright"],
+      "sourceUrls": [
+        "https://github.com/abj360/shipwright"
+      ],
       "discoveredDate": "2026-09-04",
       "lastVerifiedDate": "2026-09-04"
     },
@@ -8587,18 +8790,32 @@
       "name": "Agentdeck",
       "company": "Dark Necrocities",
       "description": "A local-first remote engineering control plane for monitoring, prompting, and steering coding agents running on a Mac from a phone over a private Tailscale mesh.",
-      "capabilities": ["Remote execution", "Session management", "Agent monitoring"],
-      "languages": ["Dart", "Swift"],
+      "capabilities": [
+        "Remote execution",
+        "Session management",
+        "Agent monitoring"
+      ],
+      "languages": [
+        "Dart",
+        "Swift"
+      ],
       "license": "No license declared",
       "availability": "unclear",
       "officialUrl": "https://github.com/darknecrocities/Agentdeck",
       "repositoryUrl": "https://github.com/darknecrocities/Agentdeck",
       "monogram": "AD",
-      "tags": ["mobile", "tailscale", "local-first", "remote"],
+      "tags": [
+        "mobile",
+        "tailscale",
+        "local-first",
+        "remote"
+      ],
       "reviewStatus": "source-verified",
       "sourceKind": "repository",
       "provenance": "independent-discovery",
-      "sourceUrls": ["https://github.com/darknecrocities/Agentdeck"],
+      "sourceUrls": [
+        "https://github.com/darknecrocities/Agentdeck"
+      ],
       "discoveredDate": "2026-09-04",
       "lastVerifiedDate": "2026-09-04"
     },
@@ -8607,18 +8824,31 @@
       "name": "Amadeus",
       "company": "Godric-W",
       "description": "A Go-based Codex-like coding agent that accepts natural-language tasks, inspects and edits repositories, executes commands, and runs an iterative tool-using agent loop from the terminal.",
-      "capabilities": ["Repository operations", "Terminal automation", "Agent runtime"],
-      "languages": ["Go"],
+      "capabilities": [
+        "Repository operations",
+        "Terminal automation",
+        "Agent runtime"
+      ],
+      "languages": [
+        "Go"
+      ],
       "license": "No license declared",
       "availability": "unclear",
       "officialUrl": "https://github.com/Godric-W/Amadeus",
       "repositoryUrl": "https://github.com/Godric-W/Amadeus",
       "monogram": "AM",
-      "tags": ["terminal", "coding-agent", "go", "tool-use"],
+      "tags": [
+        "terminal",
+        "coding-agent",
+        "go",
+        "tool-use"
+      ],
       "reviewStatus": "source-verified",
       "sourceKind": "repository",
       "provenance": "independent-discovery",
-      "sourceUrls": ["https://github.com/Godric-W/Amadeus"],
+      "sourceUrls": [
+        "https://github.com/Godric-W/Amadeus"
+      ],
       "discoveredDate": "2026-09-04",
       "lastVerifiedDate": "2026-09-04"
     },
@@ -8627,18 +8857,33 @@
       "name": "TMT",
       "company": "lllons",
       "description": "A terminal coding agent built around a broad tool surface, repository editing, command execution, agentic workflows, and orchestration primitives for delegating and completing software tasks.",
-      "capabilities": ["Repository operations", "Terminal automation", "Agent runtime", "Task orchestration"],
-      "languages": ["Python"],
+      "capabilities": [
+        "Repository operations",
+        "Terminal automation",
+        "Agent runtime",
+        "Task orchestration"
+      ],
+      "languages": [
+        "Python"
+      ],
       "license": "Apache-2.0",
       "availability": "open-source",
       "officialUrl": "https://tmtcode.com/",
       "repositoryUrl": "https://github.com/lllons/TMT",
       "monogram": "TMT",
-      "tags": ["terminal", "coding-agent", "tool-use", "orchestration"],
+      "tags": [
+        "terminal",
+        "coding-agent",
+        "tool-use",
+        "orchestration"
+      ],
       "reviewStatus": "source-verified",
       "sourceKind": "repository and product site",
       "provenance": "independent-discovery",
-      "sourceUrls": ["https://tmtcode.com/", "https://github.com/lllons/TMT"],
+      "sourceUrls": [
+        "https://tmtcode.com/",
+        "https://github.com/lllons/TMT"
+      ],
       "discoveredDate": "2026-09-04",
       "lastVerifiedDate": "2026-09-04"
     },
@@ -8647,19 +8892,34 @@
       "name": "Termio",
       "company": "Termio",
       "description": "A terminal-first agentic development environment and multiplexer for running parallel CLI coding agents locally or on remote Linux hosts, with persistent sessions, mobile access, and workspace coordination.",
-      "capabilities": ["Multi-agent orchestration", "Terminal automation", "Remote execution", "Session management"],
-      "languages": ["Swift"],
+      "capabilities": [
+        "Multi-agent orchestration",
+        "Terminal automation",
+        "Remote execution",
+        "Session management"
+      ],
+      "languages": [
+        "Swift"
+      ],
       "license": "MIT",
       "availability": "open-source",
       "officialUrl": "https://termio.sh",
       "repositoryUrl": "https://github.com/termio-sh/termio",
       "logo": "https://github.com/termio-sh.png?size=160",
       "monogram": "TM",
-      "tags": ["terminal", "multiplexer", "remote", "parallel-agents"],
+      "tags": [
+        "terminal",
+        "multiplexer",
+        "remote",
+        "parallel-agents"
+      ],
       "reviewStatus": "source-verified",
       "sourceKind": "repository and product site",
       "provenance": "independent-discovery",
-      "sourceUrls": ["https://termio.sh", "https://github.com/termio-sh/termio"],
+      "sourceUrls": [
+        "https://termio.sh",
+        "https://github.com/termio-sh/termio"
+      ],
       "discoveredDate": "2026-09-04",
       "lastVerifiedDate": "2026-09-04"
     },
@@ -8668,18 +8928,32 @@
       "name": "Zhizhi Agent Runtime",
       "company": "cocoyes",
       "description": "A model-agnostic stateless Go runtime with dual-IR planning, dependency-aware batch scheduling, capability-driven MCP and tool orchestration, conditional replanning, side-effect controls, policy-based recovery, and execution observability.",
-      "capabilities": ["Agent runtime", "Task orchestration", "Failure recovery", "Observability"],
-      "languages": ["Go"],
+      "capabilities": [
+        "Agent runtime",
+        "Task orchestration",
+        "Failure recovery",
+        "Observability"
+      ],
+      "languages": [
+        "Go"
+      ],
       "license": "MIT",
       "availability": "open-source",
       "officialUrl": "https://github.com/cocoyes/zhizhi-agent-runtime",
       "repositoryUrl": "https://github.com/cocoyes/zhizhi-agent-runtime",
       "monogram": "ZZ",
-      "tags": ["runtime", "mcp", "replanning", "go"],
+      "tags": [
+        "runtime",
+        "mcp",
+        "replanning",
+        "go"
+      ],
       "reviewStatus": "source-verified",
       "sourceKind": "repository",
       "provenance": "independent-discovery",
-      "sourceUrls": ["https://github.com/cocoyes/zhizhi-agent-runtime"],
+      "sourceUrls": [
+        "https://github.com/cocoyes/zhizhi-agent-runtime"
+      ],
       "discoveredDate": "2026-09-04",
       "lastVerifiedDate": "2026-09-04"
     },
@@ -8688,18 +8962,31 @@
       "name": "AgentKit",
       "company": "Akino Kaede",
       "description": "A compact Swift runtime for embedding tool-calling agents in Apple-platform applications, with model requests, typed tool registration, iterative execution, and application-controlled agent state.",
-      "capabilities": ["Agent runtime", "Tool execution", "Application embedding"],
-      "languages": ["Swift"],
+      "capabilities": [
+        "Agent runtime",
+        "Tool execution",
+        "Application embedding"
+      ],
+      "languages": [
+        "Swift"
+      ],
       "license": "MIT",
       "availability": "open-source",
       "officialUrl": "https://github.com/AkinoKaede/AgentKit",
       "repositoryUrl": "https://github.com/AkinoKaede/AgentKit",
       "monogram": "AK",
-      "tags": ["swift", "tool-calling", "sdk", "apple"],
+      "tags": [
+        "swift",
+        "tool-calling",
+        "sdk",
+        "apple"
+      ],
       "reviewStatus": "source-verified",
       "sourceKind": "repository",
       "provenance": "independent-discovery",
-      "sourceUrls": ["https://github.com/AkinoKaede/AgentKit"],
+      "sourceUrls": [
+        "https://github.com/AkinoKaede/AgentKit"
+      ],
       "discoveredDate": "2026-09-04",
       "lastVerifiedDate": "2026-09-04"
     },
@@ -8708,19 +8995,33 @@
       "name": "EnvHarness",
       "company": "Google Research",
       "description": "A programmable environment layer for agent training and evaluation that wraps static task environments with adaptive tools, memory, curriculum logic, reset and step control, and repeatable execution interfaces.",
-      "capabilities": ["Evaluation", "Agent training", "Environment orchestration", "Tool execution"],
-      "languages": ["Python"],
+      "capabilities": [
+        "Evaluation",
+        "Agent training",
+        "Environment orchestration",
+        "Tool execution"
+      ],
+      "languages": [
+        "Python"
+      ],
       "license": "Apache-2.0",
       "availability": "open-source",
       "officialUrl": "https://github.com/google-research/envharness",
       "repositoryUrl": "https://github.com/google-research/envharness",
       "logo": "https://github.com/google-research.png?size=160",
       "monogram": "EH",
-      "tags": ["training", "evaluation", "environments", "research"],
+      "tags": [
+        "training",
+        "evaluation",
+        "environments",
+        "research"
+      ],
       "reviewStatus": "source-verified",
       "sourceKind": "official repository",
       "provenance": "independent-discovery",
-      "sourceUrls": ["https://github.com/google-research/envharness"],
+      "sourceUrls": [
+        "https://github.com/google-research/envharness"
+      ],
       "discoveredDate": "2026-09-04",
       "lastVerifiedDate": "2026-09-04"
     },
@@ -8729,18 +9030,32 @@
       "name": "camelCode",
       "company": "camelAI",
       "description": "A persistent coding and app-building agent with a durable 100 GB workspace, compounding project memory, full-stack generation, instant deployment, scheduled background workers, team collaboration, and business-system integrations.",
-      "capabilities": ["Code generation", "Persistent execution", "Persistent memory", "Background agents"],
-      "languages": ["Cloud service"],
+      "capabilities": [
+        "Code generation",
+        "Persistent execution",
+        "Persistent memory",
+        "Background agents"
+      ],
+      "languages": [
+        "Cloud service"
+      ],
       "license": "MIT claimed; source repository not linked",
       "availability": "unclear",
       "officialUrl": "https://camelai.com/code",
       "repositoryUrl": null,
       "monogram": "CA",
-      "tags": ["persistent-workspace", "app-builder", "scheduled", "collaboration"],
+      "tags": [
+        "persistent-workspace",
+        "app-builder",
+        "scheduled",
+        "collaboration"
+      ],
       "reviewStatus": "source-verified",
       "sourceKind": "official product site",
       "provenance": "independent-discovery",
-      "sourceUrls": ["https://camelai.com/code"],
+      "sourceUrls": [
+        "https://camelai.com/code"
+      ],
       "discoveredDate": "2026-09-04",
       "lastVerifiedDate": "2026-09-04"
     },
@@ -8749,18 +9064,33 @@
       "name": "Wukong",
       "company": "Wukong Labs",
       "description": "A CI-first coding agent offered as a CLI and embeddable Node.js SDK, sharing a ReAct loop, built-in repository and command tools, skills, persistent sessions, JSON automation output, multimodal input, and an interactive TUI.",
-      "capabilities": ["Repository operations", "Terminal automation", "Headless / CI", "Skill management"],
-      "languages": ["TypeScript"],
+      "capabilities": [
+        "Repository operations",
+        "Terminal automation",
+        "Headless / CI",
+        "Skill management"
+      ],
+      "languages": [
+        "TypeScript"
+      ],
       "license": "MIT",
       "availability": "open-source",
       "officialUrl": "https://cnb.cool/O.o/wukong",
       "repositoryUrl": "https://cnb.cool/O.o/wukong",
       "monogram": "WK",
-      "tags": ["terminal", "ci", "sdk", "skills"],
+      "tags": [
+        "terminal",
+        "ci",
+        "sdk",
+        "skills"
+      ],
       "reviewStatus": "source-verified",
       "sourceKind": "official repository and npm package",
       "provenance": "independent-discovery",
-      "sourceUrls": ["https://cnb.cool/O.o/wukong", "https://www.npmjs.com/package/@wukonglabs/wukong"],
+      "sourceUrls": [
+        "https://cnb.cool/O.o/wukong",
+        "https://www.npmjs.com/package/@wukonglabs/wukong"
+      ],
       "discoveredDate": "2026-08-21",
       "lastVerifiedDate": "2026-09-04"
     },
@@ -8834,6 +9164,2317 @@
       ],
       "discoveredDate": "2026-09-08",
       "lastVerifiedDate": "2026-09-09"
+    },
+    {
+      "id": "yylo-dev-yylo",
+      "name": "YYLO",
+      "company": "YYLO",
+      "description": "A command-line coding-agent orchestrator with typed tasks, isolated repository work, validation gates, merge queues, and durable evidence for repeatable delivery workflows.",
+      "capabilities": [
+        "Multi-agent orchestration",
+        "Repository operations",
+        "Quality gates"
+      ],
+      "languages": [
+        "Python"
+      ],
+      "license": "MIT",
+      "availability": "open-source",
+      "officialUrl": "https://github.com/yylo-dev/yylo",
+      "repositoryUrl": "https://github.com/yylo-dev/yylo",
+      "monogram": "YY",
+      "tags": [
+        "multi-agent orchestration",
+        "repository operations",
+        "quality gates"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "official repository",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://github.com/yylo-dev/yylo",
+        "https://github.com/yylo-dev/yylo/blob/main/LICENSE"
+      ],
+      "discoveredDate": "2026-09-11",
+      "lastVerifiedDate": "2026-09-11"
+    },
+    {
+      "id": "mintplex-labs-anything-llm",
+      "name": "AnythingLLM",
+      "company": "Mintplex Labs",
+      "description": "A local-first agent application combining document retrieval, workspace memory, scheduled tasks, model routing, MCP tools, and configurable agent workflows.",
+      "capabilities": [
+        "Agent workflows",
+        "Memory",
+        "Tool integration"
+      ],
+      "languages": [
+        "JavaScript"
+      ],
+      "license": "MIT",
+      "availability": "open-source",
+      "officialUrl": "https://github.com/Mintplex-Labs/anything-llm",
+      "repositoryUrl": "https://github.com/Mintplex-Labs/anything-llm",
+      "monogram": "AN",
+      "tags": [
+        "agent workflows",
+        "memory",
+        "tool integration"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "official repository",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://github.com/Mintplex-Labs/anything-llm",
+        "https://github.com/Mintplex-Labs/anything-llm/blob/master/LICENSE"
+      ],
+      "discoveredDate": "2026-09-11",
+      "lastVerifiedDate": "2026-09-11"
+    },
+    {
+      "id": "tiger-ai-lab-clawbench",
+      "name": "ClawBench",
+      "company": "TIGER AI Lab",
+      "description": "A browser-agent evaluation harness with executable everyday web tasks, layered interaction recording, human reference traces, and agentic evaluation of end-to-end results.",
+      "capabilities": [
+        "Evaluation",
+        "Browser automation",
+        "Observability"
+      ],
+      "languages": [
+        "Python"
+      ],
+      "license": "Apache-2.0",
+      "availability": "open-source",
+      "officialUrl": "https://github.com/TIGER-AI-Lab/ClawBench",
+      "repositoryUrl": "https://github.com/TIGER-AI-Lab/ClawBench",
+      "monogram": "CL",
+      "tags": [
+        "evaluation",
+        "browser automation",
+        "observability"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "official repository",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://github.com/TIGER-AI-Lab/ClawBench",
+        "https://github.com/TIGER-AI-Lab/ClawBench/blob/main/LICENSE"
+      ],
+      "discoveredDate": "2026-09-11",
+      "lastVerifiedDate": "2026-09-11"
+    },
+    {
+      "id": "continuum-ai-corp-orcareplay",
+      "name": "OrcaReplay",
+      "company": "Continuum AI",
+      "description": "A recording and replay layer for coding agents, with offline trace playback, checkpoint-based model comparisons, and inspectable execution evidence.",
+      "capabilities": [
+        "Evaluation",
+        "Session replay",
+        "Observability"
+      ],
+      "languages": [
+        "TypeScript"
+      ],
+      "license": "Apache-2.0",
+      "availability": "open-source",
+      "officialUrl": "https://github.com/Continuum-AI-Corp/OrcaReplay",
+      "repositoryUrl": "https://github.com/Continuum-AI-Corp/OrcaReplay",
+      "monogram": "OR",
+      "tags": [
+        "evaluation",
+        "session replay",
+        "observability"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "official repository",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://github.com/Continuum-AI-Corp/OrcaReplay",
+        "https://github.com/Continuum-AI-Corp/OrcaReplay/blob/main/LICENSE"
+      ],
+      "discoveredDate": "2026-09-11",
+      "lastVerifiedDate": "2026-09-11"
+    },
+    {
+      "id": "rxdt-loopgate-harness",
+      "name": "LoopGate",
+      "company": "rxdt",
+      "description": "An installable coding-agent execution loop with configurable quality gates, bounded fresh-context iterations, protected files, persistent logs, and repository-based working memory.",
+      "capabilities": [
+        "Quality gates",
+        "Agent workflows",
+        "Memory"
+      ],
+      "languages": [
+        "Python"
+      ],
+      "license": "MIT",
+      "availability": "open-source",
+      "officialUrl": "https://github.com/rxdt/loopgate_harness",
+      "repositoryUrl": "https://github.com/rxdt/loopgate_harness",
+      "monogram": "LO",
+      "tags": [
+        "quality gates",
+        "agent workflows",
+        "memory"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "official repository",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://github.com/rxdt/loopgate_harness",
+        "https://github.com/rxdt/loopgate_harness/blob/main/LICENSE"
+      ],
+      "discoveredDate": "2026-09-11",
+      "lastVerifiedDate": "2026-09-11"
+    },
+    {
+      "id": "janyork-llm-wiki-cli",
+      "name": "LLM Wiki CLI",
+      "company": "JanYork",
+      "description": "A Rust memory CLI that lets agents maintain source-grounded wiki pages, citations, links, indexes, and revision history across sessions and coding tools.",
+      "capabilities": [
+        "Memory",
+        "Context management",
+        "Knowledge management"
+      ],
+      "languages": [
+        "Rust"
+      ],
+      "license": "Apache-2.0",
+      "availability": "open-source",
+      "officialUrl": "https://github.com/JanYork/llm-wiki-cli",
+      "repositoryUrl": "https://github.com/JanYork/llm-wiki-cli",
+      "monogram": "LL",
+      "tags": [
+        "memory",
+        "context management",
+        "knowledge management"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "official repository",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://github.com/JanYork/llm-wiki-cli",
+        "https://github.com/JanYork/llm-wiki-cli/blob/main/LICENSE"
+      ],
+      "discoveredDate": "2026-09-11",
+      "lastVerifiedDate": "2026-09-11"
+    },
+    {
+      "id": "msaleme-red-team-blue-team-agent-fabric",
+      "name": "Agent Security Harness",
+      "company": "msaleme",
+      "description": "An adversarial evaluation harness for live agent endpoints that records serviced requests and distinguishes passing, failing, and inconclusive control checks.",
+      "capabilities": [
+        "Evaluation",
+        "Security",
+        "Audit trails"
+      ],
+      "languages": [
+        "Python"
+      ],
+      "license": "Apache-2.0",
+      "availability": "open-source",
+      "officialUrl": "https://github.com/msaleme/red-team-blue-team-agent-fabric",
+      "repositoryUrl": "https://github.com/msaleme/red-team-blue-team-agent-fabric",
+      "monogram": "AG",
+      "tags": [
+        "evaluation",
+        "security",
+        "audit trails"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "official repository",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://github.com/msaleme/red-team-blue-team-agent-fabric",
+        "https://github.com/msaleme/red-team-blue-team-agent-fabric/blob/main/LICENSE"
+      ],
+      "discoveredDate": "2026-09-11",
+      "lastVerifiedDate": "2026-09-11"
+    },
+    {
+      "id": "hjqcan-goodmemory",
+      "name": "GoodMemory",
+      "company": "hjqcan",
+      "description": "A persistent memory layer for agent hosts and applications with recall, context assembly, feedback, deletion, audit evidence, and coding-agent hooks.",
+      "capabilities": [
+        "Memory",
+        "Context management",
+        "Audit trails"
+      ],
+      "languages": [
+        "TypeScript"
+      ],
+      "license": "MIT",
+      "availability": "open-source",
+      "officialUrl": "https://github.com/hjqcan/GoodMemory",
+      "repositoryUrl": "https://github.com/hjqcan/GoodMemory",
+      "monogram": "GO",
+      "tags": [
+        "memory",
+        "context management",
+        "audit trails"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "official repository",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://github.com/hjqcan/GoodMemory",
+        "https://github.com/hjqcan/GoodMemory/blob/main/LICENSE"
+      ],
+      "discoveredDate": "2026-09-11",
+      "lastVerifiedDate": "2026-09-11"
+    },
+    {
+      "id": "jackispm-nausicaa-harness",
+      "name": "Nausicaa",
+      "company": "jackispm",
+      "description": "A beta general-purpose agent runtime with independently addressable workers, observer agents, dynamic team topologies, inter-agent messaging, persistent state, and recovery.",
+      "capabilities": [
+        "Agent runtime",
+        "Multi-agent orchestration",
+        "Session management"
+      ],
+      "languages": [
+        "TypeScript"
+      ],
+      "license": "MIT",
+      "availability": "open-source",
+      "officialUrl": "https://github.com/jackispm/nausicaa-harness",
+      "repositoryUrl": "https://github.com/jackispm/nausicaa-harness",
+      "monogram": "NA",
+      "tags": [
+        "agent runtime",
+        "multi-agent orchestration",
+        "session management"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "official repository",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://github.com/jackispm/nausicaa-harness",
+        "https://github.com/jackispm/nausicaa-harness/blob/main/LICENSE"
+      ],
+      "discoveredDate": "2026-09-11",
+      "lastVerifiedDate": "2026-09-11"
+    },
+    {
+      "id": "labmimors-dsh-mcp-lens",
+      "name": "MCP Lens",
+      "company": "labmimors",
+      "description": "A DeepSeek Harness tool-discovery plugin that searches MCP catalogs on demand, returns exact schemas, opens connections lazily, and preserves structured tool results.",
+      "capabilities": [
+        "Tool discovery",
+        "Context management",
+        "MCP"
+      ],
+      "languages": [
+        "TypeScript"
+      ],
+      "license": "MIT",
+      "availability": "open-source",
+      "officialUrl": "https://github.com/labmimors/dsh-mcp-lens",
+      "repositoryUrl": "https://github.com/labmimors/dsh-mcp-lens",
+      "monogram": "MC",
+      "tags": [
+        "tool discovery",
+        "context management",
+        "mcp"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "official repository",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://github.com/labmimors/dsh-mcp-lens",
+        "https://github.com/labmimors/dsh-mcp-lens/blob/main/LICENSE"
+      ],
+      "discoveredDate": "2026-09-11",
+      "lastVerifiedDate": "2026-09-11"
+    },
+    {
+      "id": "huggingface-funes",
+      "name": "funes",
+      "company": "Hugging Face",
+      "description": "A durable coding-agent memory CLI that indexes sessions across tools, retrieves prior decisions with source references, and optionally shares memory through Hugging Face datasets.",
+      "capabilities": [
+        "Memory",
+        "Context management",
+        "Session management"
+      ],
+      "languages": [
+        "Rust"
+      ],
+      "license": "Apache-2.0",
+      "availability": "open-source",
+      "officialUrl": "https://github.com/huggingface/funes",
+      "repositoryUrl": "https://github.com/huggingface/funes",
+      "monogram": "FU",
+      "tags": [
+        "memory",
+        "context management",
+        "session management"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "official repository",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://github.com/huggingface/funes",
+        "https://github.com/huggingface/funes/blob/main/LICENSE"
+      ],
+      "discoveredDate": "2026-09-11",
+      "lastVerifiedDate": "2026-09-11"
+    },
+    {
+      "id": "truefoundry-trueforge",
+      "name": "TrueForge",
+      "company": "TrueFoundry",
+      "description": "An agent harness with a chat UI and SDKs that manages model calls, MCP tools, skills, sandbox execution, approvals, subagents, compaction, and persistent sessions.",
+      "capabilities": [
+        "Agent runtime",
+        "Tool integration",
+        "Sandboxing",
+        "Multi-agent orchestration"
+      ],
+      "languages": [
+        "TypeScript"
+      ],
+      "license": "MIT",
+      "availability": "open-source",
+      "officialUrl": "https://github.com/truefoundry/trueforge",
+      "repositoryUrl": "https://github.com/truefoundry/trueforge",
+      "monogram": "TR",
+      "tags": [
+        "agent runtime",
+        "tool integration",
+        "sandboxing",
+        "multi-agent orchestration"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "official repository",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://github.com/truefoundry/trueforge",
+        "https://github.com/truefoundry/trueforge/blob/main/LICENSE"
+      ],
+      "discoveredDate": "2026-09-11",
+      "lastVerifiedDate": "2026-09-11"
+    },
+    {
+      "id": "jolexxa-bestie",
+      "name": "Bestie",
+      "company": "jolexxa",
+      "description": "An alpha terminal coding-agent harness with visible tool inputs and outputs, configurable sandbox permissions, saved sessions, background jobs, subagents, and context compaction.",
+      "capabilities": [
+        "Repository operations",
+        "Terminal automation",
+        "Sandboxing",
+        "Session management"
+      ],
+      "languages": [
+        "Dart"
+      ],
+      "license": "MPL-2.0",
+      "availability": "open-source",
+      "officialUrl": "https://github.com/jolexxa/bestie",
+      "repositoryUrl": "https://github.com/jolexxa/bestie",
+      "monogram": "BE",
+      "tags": [
+        "repository operations",
+        "terminal automation",
+        "sandboxing",
+        "session management"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "official repository",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://github.com/jolexxa/bestie",
+        "https://github.com/jolexxa/bestie/blob/main/LICENSE.md"
+      ],
+      "discoveredDate": "2026-09-11",
+      "lastVerifiedDate": "2026-09-11"
+    },
+    {
+      "id": "nafeeur-maskshift",
+      "name": "MaskShift",
+      "company": "nafeeur",
+      "description": "A Node.js coding-agent harness with lazily exposed tools, repository context, persistent memory, MCP integration, scheduled work, and parallel agent sessions.",
+      "capabilities": [
+        "Repository operations",
+        "Tool discovery",
+        "Memory",
+        "Multi-agent orchestration"
+      ],
+      "languages": [
+        "JavaScript"
+      ],
+      "license": "GPL-3.0",
+      "availability": "open-source",
+      "officialUrl": "https://github.com/nafeeur/MaskShift",
+      "repositoryUrl": "https://github.com/nafeeur/MaskShift",
+      "monogram": "MA",
+      "tags": [
+        "repository operations",
+        "tool discovery",
+        "memory",
+        "multi-agent orchestration"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "official repository",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://github.com/nafeeur/MaskShift",
+        "https://github.com/nafeeur/MaskShift/blob/main/LICENSE"
+      ],
+      "discoveredDate": "2026-09-11",
+      "lastVerifiedDate": "2026-09-11"
+    },
+    {
+      "id": "google-mantis",
+      "name": "Mantis",
+      "company": "Google",
+      "description": "A security-review toolkit and ADK reference harness for orchestrating vulnerability discovery, triage, reproduction, patching, and evidence-backed feedback across coding agents.",
+      "capabilities": [
+        "Security",
+        "Agent workflows",
+        "Evaluation"
+      ],
+      "languages": [
+        "Python"
+      ],
+      "license": "Apache-2.0",
+      "availability": "open-source",
+      "officialUrl": "https://github.com/google/mantis",
+      "repositoryUrl": "https://github.com/google/mantis",
+      "monogram": "MA",
+      "tags": [
+        "security",
+        "agent workflows",
+        "evaluation"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "official repository",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://github.com/google/mantis",
+        "https://github.com/google/mantis/blob/main/LICENSE"
+      ],
+      "discoveredDate": "2026-09-11",
+      "lastVerifiedDate": "2026-09-11"
+    },
+    {
+      "id": "browser-use-macos-harness",
+      "name": "macOS Harness",
+      "company": "Browser Use",
+      "description": "A persistent Python execution environment exposing macOS screenshots, keyboard and pointer input, accessibility, scripting, browser control, and filesystem tools to agents.",
+      "capabilities": [
+        "Computer use",
+        "Browser automation",
+        "Tool integration"
+      ],
+      "languages": [
+        "Python"
+      ],
+      "license": "MIT",
+      "availability": "open-source",
+      "officialUrl": "https://github.com/browser-use/macos-harness",
+      "repositoryUrl": "https://github.com/browser-use/macos-harness",
+      "monogram": "MA",
+      "tags": [
+        "computer use",
+        "browser automation",
+        "tool integration"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "official repository",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://github.com/browser-use/macos-harness",
+        "https://github.com/browser-use/macos-harness/blob/main/LICENSE"
+      ],
+      "discoveredDate": "2026-09-11",
+      "lastVerifiedDate": "2026-09-11"
+    },
+    {
+      "id": "human-agent-society-reef",
+      "name": "Reef",
+      "company": "Human Agent Society",
+      "description": "Infrastructure for continual agent improvement that connects inference traces and feedback to harness or model updates, evaluation, versioned artifacts, and delivery.",
+      "capabilities": [
+        "Agent runtime",
+        "Evaluation",
+        "Continual learning"
+      ],
+      "languages": [
+        "Python"
+      ],
+      "license": "Apache-2.0",
+      "availability": "open-source",
+      "officialUrl": "https://github.com/Human-Agent-Society/reef",
+      "repositoryUrl": "https://github.com/Human-Agent-Society/reef",
+      "monogram": "RE",
+      "tags": [
+        "agent runtime",
+        "evaluation",
+        "continual learning"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "official repository",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://github.com/Human-Agent-Society/reef",
+        "https://github.com/Human-Agent-Society/reef/blob/main/LICENSE"
+      ],
+      "discoveredDate": "2026-09-11",
+      "lastVerifiedDate": "2026-09-11"
+    },
+    {
+      "id": "hardbeat920-monocode",
+      "name": "MonoCode",
+      "company": "hardbeat920",
+      "description": "A cross-platform desktop session interface that runs installed coding agents through their existing accounts and keeps multiple agent conversations in tabs.",
+      "capabilities": [
+        "Session management",
+        "Agent workflows"
+      ],
+      "languages": [
+        "TypeScript"
+      ],
+      "license": "MIT",
+      "availability": "open-source",
+      "officialUrl": "https://github.com/hardbeat920/monocode",
+      "repositoryUrl": "https://github.com/hardbeat920/monocode",
+      "monogram": "MO",
+      "tags": [
+        "session management",
+        "agent workflows"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "official repository",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://github.com/hardbeat920/monocode",
+        "https://github.com/hardbeat920/monocode/blob/main/LICENSE"
+      ],
+      "discoveredDate": "2026-09-11",
+      "lastVerifiedDate": "2026-09-11"
+    },
+    {
+      "id": "techjarves-mobile-harness",
+      "name": "Mobile Harness",
+      "company": "techjarves",
+      "description": "An Android coding-agent workspace with a Linux userspace, Claude Code integration, terminal execution, persistent project sessions, file editing, and local web previews.",
+      "capabilities": [
+        "Terminal automation",
+        "Repository operations",
+        "Session management"
+      ],
+      "languages": [
+        "Kotlin"
+      ],
+      "license": "MIT",
+      "availability": "open-source",
+      "officialUrl": "https://github.com/techjarves/Mobile-Harness",
+      "repositoryUrl": "https://github.com/techjarves/Mobile-Harness",
+      "monogram": "MO",
+      "tags": [
+        "terminal automation",
+        "repository operations",
+        "session management"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "official repository",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://github.com/techjarves/Mobile-Harness",
+        "https://github.com/techjarves/Mobile-Harness/blob/main/LICENSE"
+      ],
+      "discoveredDate": "2026-09-11",
+      "lastVerifiedDate": "2026-09-11"
+    },
+    {
+      "id": "yetone-cumora",
+      "name": "Cumora",
+      "company": "yetone",
+      "description": "A collaboration platform where human and agent teammates share conversations, tasks, memory, and tools, with managed agent pods or locally connected coding-agent runtimes.",
+      "capabilities": [
+        "Multi-agent orchestration",
+        "Memory",
+        "Remote execution"
+      ],
+      "languages": [
+        "TypeScript"
+      ],
+      "license": "MIT",
+      "availability": "open-source",
+      "officialUrl": "https://github.com/yetone/cumora",
+      "repositoryUrl": "https://github.com/yetone/cumora",
+      "monogram": "CU",
+      "tags": [
+        "multi-agent orchestration",
+        "memory",
+        "remote execution"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "official repository",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://github.com/yetone/cumora",
+        "https://github.com/yetone/cumora/blob/main/LICENSE"
+      ],
+      "discoveredDate": "2026-09-11",
+      "lastVerifiedDate": "2026-09-11"
+    },
+    {
+      "id": "okf-memory-okf-agent-memory",
+      "name": "OKF Agent Memory",
+      "company": "OKF Memory",
+      "description": "A Git-native project memory library and CLI using Markdown, structured metadata, local BM25 retrieval, validation, and an embedded MCP server.",
+      "capabilities": [
+        "Memory",
+        "Context management",
+        "MCP"
+      ],
+      "languages": [
+        "Go"
+      ],
+      "license": "MIT",
+      "availability": "open-source",
+      "officialUrl": "https://github.com/okf-memory/okf-agent-memory",
+      "repositoryUrl": "https://github.com/okf-memory/okf-agent-memory",
+      "monogram": "OK",
+      "tags": [
+        "memory",
+        "context management",
+        "mcp"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "official repository",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://github.com/okf-memory/okf-agent-memory",
+        "https://github.com/okf-memory/okf-agent-memory/blob/main/LICENSE"
+      ],
+      "discoveredDate": "2026-09-11",
+      "lastVerifiedDate": "2026-09-11"
+    },
+    {
+      "id": "tigerless-labs-agent-memory",
+      "name": "agent-memory",
+      "company": "Tigerless Labs",
+      "description": "A long-term agent memory runtime with a shared Markdown store, local ranked retrieval, conversation-boundary writes, and independent consolidation and forgetting passes.",
+      "capabilities": [
+        "Memory",
+        "Context management"
+      ],
+      "languages": [
+        "Python"
+      ],
+      "license": "MIT",
+      "availability": "open-source",
+      "officialUrl": "https://github.com/tigerless-labs/agent-memory",
+      "repositoryUrl": "https://github.com/tigerless-labs/agent-memory",
+      "monogram": "AG",
+      "tags": [
+        "memory",
+        "context management"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "official repository",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://github.com/tigerless-labs/agent-memory",
+        "https://github.com/tigerless-labs/agent-memory/blob/main/LICENSE"
+      ],
+      "discoveredDate": "2026-09-11",
+      "lastVerifiedDate": "2026-09-11"
+    },
+    {
+      "id": "nduc99911-repo-context-mcp",
+      "name": "repo-context-mcp",
+      "company": "nduc99911",
+      "description": "A local MCP server and CLI providing repository maps, code search with file-and-line references, and token-budgeted context packs for coding agents.",
+      "capabilities": [
+        "Context management",
+        "Repository operations",
+        "MCP"
+      ],
+      "languages": [
+        "TypeScript"
+      ],
+      "license": "MIT",
+      "availability": "open-source",
+      "officialUrl": "https://github.com/nduc99911/repo-context-mcp",
+      "repositoryUrl": "https://github.com/nduc99911/repo-context-mcp",
+      "monogram": "RE",
+      "tags": [
+        "context management",
+        "repository operations",
+        "mcp"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "official repository",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://github.com/nduc99911/repo-context-mcp",
+        "https://github.com/nduc99911/repo-context-mcp/blob/main/LICENSE"
+      ],
+      "discoveredDate": "2026-09-11",
+      "lastVerifiedDate": "2026-09-11"
+    },
+    {
+      "id": "starroyhq-agentkib",
+      "name": "AgentKib",
+      "company": "Starroy",
+      "description": "A local desktop control plane for inspecting coding-agent context, managing pinned skills, diagnosing configuration drift, and preparing reviewed session handoffs.",
+      "capabilities": [
+        "Context management",
+        "Skill management",
+        "Session management"
+      ],
+      "languages": [
+        "Rust"
+      ],
+      "license": "MIT",
+      "availability": "open-source",
+      "officialUrl": "https://github.com/starroyhq/agentkib",
+      "repositoryUrl": "https://github.com/starroyhq/agentkib",
+      "monogram": "AG",
+      "tags": [
+        "context management",
+        "skill management",
+        "session management"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "official repository",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://github.com/starroyhq/agentkib",
+        "https://github.com/starroyhq/agentkib/blob/main/LICENSE"
+      ],
+      "discoveredDate": "2026-09-11",
+      "lastVerifiedDate": "2026-09-11"
+    },
+    {
+      "id": "bojieli-agentreach",
+      "name": "AgentReach",
+      "company": "bojieli",
+      "description": "An execution bridge that keeps a coding agent on the local machine while forwarding supported shell and file operations to an SSH-accessible target.",
+      "capabilities": [
+        "Remote execution",
+        "Terminal automation",
+        "Repository operations"
+      ],
+      "languages": [
+        "Go"
+      ],
+      "license": "MIT",
+      "availability": "open-source",
+      "officialUrl": "https://github.com/bojieli/agentreach",
+      "repositoryUrl": "https://github.com/bojieli/agentreach",
+      "monogram": "AG",
+      "tags": [
+        "remote execution",
+        "terminal automation",
+        "repository operations"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "official repository",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://github.com/bojieli/agentreach",
+        "https://github.com/bojieli/agentreach/blob/main/LICENSE"
+      ],
+      "discoveredDate": "2026-09-11",
+      "lastVerifiedDate": "2026-09-11"
+    },
+    {
+      "id": "codejunkie99-agentic-stack-desktop",
+      "name": "Agentic Stack",
+      "company": "codejunkie99",
+      "description": "A macOS coding-agent workspace with streamed conversations, reusable agent roles, and an inspectable knowledge graph built from approved local session history.",
+      "capabilities": [
+        "Memory",
+        "Session management",
+        "Context management"
+      ],
+      "languages": [
+        "Python"
+      ],
+      "license": "Apache-2.0",
+      "availability": "open-source",
+      "officialUrl": "https://github.com/codejunkie99/agentic-stack-desktop",
+      "repositoryUrl": "https://github.com/codejunkie99/agentic-stack-desktop",
+      "monogram": "AG",
+      "tags": [
+        "memory",
+        "session management",
+        "context management"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "official repository",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://github.com/codejunkie99/agentic-stack-desktop",
+        "https://github.com/codejunkie99/agentic-stack-desktop/blob/main/LICENSE"
+      ],
+      "discoveredDate": "2026-09-11",
+      "lastVerifiedDate": "2026-09-11"
+    },
+    {
+      "id": "lohoz-agenthist",
+      "name": "AgentHist",
+      "company": "lohoz",
+      "description": "A coding-agent history manager for browsing, searching, migrating, and converting sessions, with transactional imports and evidence-backed extraction of recurring experience.",
+      "capabilities": [
+        "Session management",
+        "Memory",
+        "Context management"
+      ],
+      "languages": [
+        "TypeScript"
+      ],
+      "license": "MIT",
+      "availability": "open-source",
+      "officialUrl": "https://github.com/lohoz/agenthist",
+      "repositoryUrl": "https://github.com/lohoz/agenthist",
+      "monogram": "AG",
+      "tags": [
+        "session management",
+        "memory",
+        "context management"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "official repository",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://github.com/lohoz/agenthist",
+        "https://github.com/lohoz/agenthist/blob/main/LICENSE"
+      ],
+      "discoveredDate": "2026-09-11",
+      "lastVerifiedDate": "2026-09-11"
+    },
+    {
+      "id": "gamephanesstudio-gamephanes",
+      "name": "GameForgeBench",
+      "company": "GamePhanes Studio",
+      "description": "A Harbor-compatible coding-agent benchmark with executable game-engine tasks, protected evaluation probes, runtime feedback, and regression checks.",
+      "capabilities": [
+        "Evaluation",
+        "Repository operations"
+      ],
+      "languages": [
+        "JavaScript"
+      ],
+      "license": "MIT",
+      "availability": "open-source",
+      "officialUrl": "https://github.com/GamePhanesStudio/GamePhanes",
+      "repositoryUrl": "https://github.com/GamePhanesStudio/GamePhanes",
+      "monogram": "GA",
+      "tags": [
+        "evaluation",
+        "repository operations"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "official repository",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://github.com/GamePhanesStudio/GamePhanes",
+        "https://github.com/GamePhanesStudio/GamePhanes/blob/main/LICENSE"
+      ],
+      "discoveredDate": "2026-09-11",
+      "lastVerifiedDate": "2026-09-11"
+    },
+    {
+      "id": "sulabhdubey-rta-smriti-brain",
+      "name": "Rta-Smriti Brain",
+      "company": "sulabhdubey",
+      "description": "An early-adopter local project-memory layer that preserves repository structure, agent sessions, decisions, evidence, and continuation state, with optional encrypted collaboration.",
+      "capabilities": [
+        "Memory",
+        "Context management",
+        "Audit trails"
+      ],
+      "languages": [
+        "Python"
+      ],
+      "license": "MIT",
+      "availability": "open-source",
+      "officialUrl": "https://github.com/sulabhdubey/rta-smriti-brain",
+      "repositoryUrl": "https://github.com/sulabhdubey/rta-smriti-brain",
+      "monogram": "RT",
+      "tags": [
+        "memory",
+        "context management",
+        "audit trails"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "official repository",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://github.com/sulabhdubey/rta-smriti-brain",
+        "https://github.com/sulabhdubey/rta-smriti-brain/blob/main/LICENSE"
+      ],
+      "discoveredDate": "2026-09-11",
+      "lastVerifiedDate": "2026-09-11"
+    },
+    {
+      "id": "wemux-ai-wemux",
+      "name": "Wemux",
+      "company": "Wemux",
+      "description": "A self-hostable agent collaboration platform with planning and review in a control plane and coding work executed by worker daemons in isolated Git worktrees.",
+      "capabilities": [
+        "Multi-agent orchestration",
+        "Remote execution",
+        "Audit trails"
+      ],
+      "languages": [
+        "TypeScript"
+      ],
+      "license": "Apache-2.0",
+      "availability": "open-source",
+      "officialUrl": "https://github.com/wemux-ai/wemux",
+      "repositoryUrl": "https://github.com/wemux-ai/wemux",
+      "monogram": "WE",
+      "tags": [
+        "multi-agent orchestration",
+        "remote execution",
+        "audit trails"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "official repository",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://github.com/wemux-ai/wemux",
+        "https://github.com/wemux-ai/wemux/blob/main/LICENSE"
+      ],
+      "discoveredDate": "2026-09-11",
+      "lastVerifiedDate": "2026-09-11"
+    },
+    {
+      "id": "phungkaizen-maintainer-autopilot",
+      "name": "Maintainer Autopilot",
+      "company": "phungkaizen",
+      "description": "A public-beta maintenance CLI with resumable coding pipelines, a single-writer lock, repair lineage, read-only review, verification gates, and optional GitHub integration.",
+      "capabilities": [
+        "Agent workflows",
+        "Quality gates",
+        "Repository operations"
+      ],
+      "languages": [
+        "JavaScript"
+      ],
+      "license": "MIT",
+      "availability": "open-source",
+      "officialUrl": "https://github.com/phungkaizen/maintainer-autopilot",
+      "repositoryUrl": "https://github.com/phungkaizen/maintainer-autopilot",
+      "monogram": "MA",
+      "tags": [
+        "agent workflows",
+        "quality gates",
+        "repository operations"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "official repository",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://github.com/phungkaizen/maintainer-autopilot",
+        "https://github.com/phungkaizen/maintainer-autopilot/blob/main/LICENSE"
+      ],
+      "discoveredDate": "2026-09-11",
+      "lastVerifiedDate": "2026-09-11"
+    },
+    {
+      "id": "xhluca-open-agent-view",
+      "name": "Open Agent View",
+      "company": "xhluca",
+      "description": "A terminal dashboard that discovers coding-agent sessions across harnesses, groups them by status, launches tasks, and reopens native sessions while background work continues.",
+      "capabilities": [
+        "Session management",
+        "Observability",
+        "Terminal automation"
+      ],
+      "languages": [
+        "Rust"
+      ],
+      "license": "MIT",
+      "availability": "open-source",
+      "officialUrl": "https://github.com/xhluca/open-agent-view",
+      "repositoryUrl": "https://github.com/xhluca/open-agent-view",
+      "monogram": "OP",
+      "tags": [
+        "session management",
+        "observability",
+        "terminal automation"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "official repository",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://github.com/xhluca/open-agent-view",
+        "https://github.com/xhluca/open-agent-view/blob/main/LICENSE"
+      ],
+      "discoveredDate": "2026-09-11",
+      "lastVerifiedDate": "2026-09-11"
+    },
+    {
+      "id": "naw103-foremerge",
+      "name": "Foremerge",
+      "company": "naw103",
+      "description": "A local-first coordination protocol above Git that tracks agent intent, semantic claims, dependencies, provisional changes, provenance, and verification-gated handoffs.",
+      "capabilities": [
+        "Multi-agent orchestration",
+        "Repository operations",
+        "Quality gates"
+      ],
+      "languages": [
+        "Rust"
+      ],
+      "license": "Apache-2.0",
+      "availability": "open-source",
+      "officialUrl": "https://github.com/naw103/foremerge",
+      "repositoryUrl": "https://github.com/naw103/foremerge",
+      "monogram": "FO",
+      "tags": [
+        "multi-agent orchestration",
+        "repository operations",
+        "quality gates"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "official repository",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://github.com/naw103/foremerge",
+        "https://github.com/naw103/foremerge/blob/main/LICENSE"
+      ],
+      "discoveredDate": "2026-09-11",
+      "lastVerifiedDate": "2026-09-11"
+    },
+    {
+      "id": "2akouwu-reverify",
+      "name": "Reverify",
+      "company": "2akouwu",
+      "description": "A CLI and MCP verification layer that checks agent claims against artifacts, records supporting evidence, and preserves working context through explicit session rollover.",
+      "capabilities": [
+        "Evaluation",
+        "Context management",
+        "MCP"
+      ],
+      "languages": [
+        "Python"
+      ],
+      "license": "MIT",
+      "availability": "open-source",
+      "officialUrl": "https://github.com/2akouwu/reverify",
+      "repositoryUrl": "https://github.com/2akouwu/reverify",
+      "monogram": "RE",
+      "tags": [
+        "evaluation",
+        "context management",
+        "mcp"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "official repository",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://github.com/2akouwu/reverify",
+        "https://github.com/2akouwu/reverify/blob/main/LICENSE"
+      ],
+      "discoveredDate": "2026-09-11",
+      "lastVerifiedDate": "2026-09-11"
+    },
+    {
+      "id": "google-artemis",
+      "name": "ARTEMIS",
+      "company": "Google",
+      "description": "An Android automation agent and MCP integration that executes natural-language testing workflows, observes device state, captures diagnostics, and supports exploratory runs.",
+      "capabilities": [
+        "Computer use",
+        "Evaluation",
+        "MCP"
+      ],
+      "languages": [
+        "Python"
+      ],
+      "license": "Apache-2.0",
+      "availability": "open-source",
+      "officialUrl": "https://github.com/google/artemis",
+      "repositoryUrl": "https://github.com/google/artemis",
+      "monogram": "AR",
+      "tags": [
+        "computer use",
+        "evaluation",
+        "mcp"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "official repository",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://github.com/google/artemis",
+        "https://github.com/google/artemis/blob/main/LICENSE"
+      ],
+      "discoveredDate": "2026-09-11",
+      "lastVerifiedDate": "2026-09-11"
+    },
+    {
+      "id": "originoneai-agent-work-runtime",
+      "name": "Agent Work Runtime",
+      "company": "OriginOne AI",
+      "description": "A Rust CLI and MCP runtime that indexes project sources, persists checkpoints and open work, and compiles bounded context packets with revision-checked state updates.",
+      "capabilities": [
+        "Memory",
+        "Context management",
+        "Session management"
+      ],
+      "languages": [
+        "Rust"
+      ],
+      "license": "Apache-2.0",
+      "availability": "open-source",
+      "officialUrl": "https://github.com/originoneai/agent-work-runtime",
+      "repositoryUrl": "https://github.com/originoneai/agent-work-runtime",
+      "monogram": "AG",
+      "tags": [
+        "memory",
+        "context management",
+        "session management"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "official repository",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://github.com/originoneai/agent-work-runtime",
+        "https://github.com/originoneai/agent-work-runtime/blob/main/LICENSE"
+      ],
+      "discoveredDate": "2026-09-11",
+      "lastVerifiedDate": "2026-09-11"
+    },
+    {
+      "id": "wkbin-taixu",
+      "name": "Taixu",
+      "company": "wkbin",
+      "description": "An Android agent workspace combining a Linux userspace, native PTY terminals, model tool loops, approvals, session snapshots, semantic memory, and subagent coordination.",
+      "capabilities": [
+        "Agent runtime",
+        "Terminal automation",
+        "Memory"
+      ],
+      "languages": [
+        "Kotlin"
+      ],
+      "license": "GPL-3.0",
+      "availability": "open-source",
+      "officialUrl": "https://github.com/wkbin/taixu",
+      "repositoryUrl": "https://github.com/wkbin/taixu",
+      "monogram": "TA",
+      "tags": [
+        "agent runtime",
+        "terminal automation",
+        "memory"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "official repository",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://github.com/wkbin/taixu",
+        "https://github.com/wkbin/taixu/blob/main/LICENSE"
+      ],
+      "discoveredDate": "2026-09-11",
+      "lastVerifiedDate": "2026-09-11"
+    },
+    {
+      "id": "useagenthq-useagent",
+      "name": "useAgent",
+      "company": "useAgent",
+      "description": "An alpha agent workspace with per-thread cloud computers, coding-agent integrations, versioned skills, inspectable knowledge, and team memory beside produced artifacts.",
+      "capabilities": [
+        "Remote execution",
+        "Sandboxing",
+        "Memory",
+        "Agent workflows"
+      ],
+      "languages": [
+        "TypeScript"
+      ],
+      "license": "AGPL-3.0",
+      "availability": "open-source",
+      "officialUrl": "https://github.com/useagenthq/useagent",
+      "repositoryUrl": "https://github.com/useagenthq/useagent",
+      "monogram": "US",
+      "tags": [
+        "remote execution",
+        "sandboxing",
+        "memory",
+        "agent workflows"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "official repository",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://github.com/useagenthq/useagent",
+        "https://github.com/useagenthq/useagent/blob/main/LICENSE"
+      ],
+      "discoveredDate": "2026-09-11",
+      "lastVerifiedDate": "2026-09-11"
+    },
+    {
+      "id": "7757-fan-browser-agent",
+      "name": "Fan Browser Agent",
+      "company": "7757",
+      "description": "An early-preview desktop agent combining an embedded Chromium browser and local Python runtime, with visible execution progress and human handoffs at sensitive steps.",
+      "capabilities": [
+        "Browser automation",
+        "Agent runtime",
+        "Human-in-the-loop"
+      ],
+      "languages": [
+        "Python"
+      ],
+      "license": "MIT",
+      "availability": "open-source",
+      "officialUrl": "https://github.com/7757/Fan-Browser-Agent",
+      "repositoryUrl": "https://github.com/7757/Fan-Browser-Agent",
+      "monogram": "FA",
+      "tags": [
+        "browser automation",
+        "agent runtime",
+        "human-in-the-loop"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "official repository",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://github.com/7757/Fan-Browser-Agent",
+        "https://github.com/7757/Fan-Browser-Agent/blob/main/LICENSE"
+      ],
+      "discoveredDate": "2026-09-11",
+      "lastVerifiedDate": "2026-09-11"
+    },
+    {
+      "id": "context-labs-whip",
+      "name": "whip",
+      "company": "Context Labs",
+      "description": "A Go terminal coding-agent harness with a streaming tool-use loop, provider discovery, file and shell tools, MCP support, and background subagents.",
+      "capabilities": [
+        "Repository operations",
+        "Terminal automation",
+        "Multi-agent orchestration"
+      ],
+      "languages": [
+        "Go"
+      ],
+      "license": "Apache-2.0",
+      "availability": "open-source",
+      "officialUrl": "https://github.com/context-labs/whip",
+      "repositoryUrl": "https://github.com/context-labs/whip",
+      "monogram": "WH",
+      "tags": [
+        "repository operations",
+        "terminal automation",
+        "multi-agent orchestration"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "official repository",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://github.com/context-labs/whip",
+        "https://github.com/context-labs/whip/blob/main/LICENSE"
+      ],
+      "discoveredDate": "2026-09-11",
+      "lastVerifiedDate": "2026-09-11"
+    },
+    {
+      "id": "zijie1024-autryn",
+      "name": "Autryn",
+      "company": "zijie1024",
+      "description": "A local TypeScript agent runtime and CLI with reusable model loops, coding tools, persistent sessions, layered memory, context compaction, delegation, and handoffs.",
+      "capabilities": [
+        "Agent runtime",
+        "Memory",
+        "Session management"
+      ],
+      "languages": [
+        "TypeScript"
+      ],
+      "license": "MIT",
+      "availability": "open-source",
+      "officialUrl": "https://github.com/zijie1024/autryn",
+      "repositoryUrl": "https://github.com/zijie1024/autryn",
+      "monogram": "AU",
+      "tags": [
+        "agent runtime",
+        "memory",
+        "session management"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "official repository",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://github.com/zijie1024/autryn",
+        "https://github.com/zijie1024/autryn/blob/master/LICENSE"
+      ],
+      "discoveredDate": "2026-09-11",
+      "lastVerifiedDate": "2026-09-11"
+    },
+    {
+      "id": "arpahls-aura",
+      "name": "AURA Harness",
+      "company": "ARPAHLS",
+      "description": "A Python layer around agent loops that enforces policy at tool boundaries, records causal execution evidence, and exports session audit trails.",
+      "capabilities": [
+        "Security",
+        "Audit trails",
+        "Tool integration"
+      ],
+      "languages": [
+        "Python"
+      ],
+      "license": "MIT",
+      "availability": "open-source",
+      "officialUrl": "https://github.com/ARPAHLS/aura",
+      "repositoryUrl": "https://github.com/ARPAHLS/aura",
+      "monogram": "AU",
+      "tags": [
+        "security",
+        "audit trails",
+        "tool integration"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "official repository",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://github.com/ARPAHLS/aura",
+        "https://github.com/ARPAHLS/aura/blob/main/LICENSE"
+      ],
+      "discoveredDate": "2026-09-11",
+      "lastVerifiedDate": "2026-09-11"
+    },
+    {
+      "id": "codexmark-kram",
+      "name": "Kram",
+      "company": "codexmark",
+      "description": "A public-beta Go coding-agent runtime and terminal workspace with provider routing, repository tools, language servers, subagents, memory, MCP, and workspace recovery.",
+      "capabilities": [
+        "Repository operations",
+        "Terminal automation",
+        "Memory"
+      ],
+      "languages": [
+        "Go"
+      ],
+      "license": "MIT",
+      "availability": "open-source",
+      "officialUrl": "https://github.com/codexmark/kram",
+      "repositoryUrl": "https://github.com/codexmark/kram",
+      "monogram": "KR",
+      "tags": [
+        "repository operations",
+        "terminal automation",
+        "memory"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "official repository",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://github.com/codexmark/kram",
+        "https://github.com/codexmark/kram/blob/master/LICENSE"
+      ],
+      "discoveredDate": "2026-09-11",
+      "lastVerifiedDate": "2026-09-11"
+    },
+    {
+      "id": "alexai-mcp-kingcrab",
+      "name": "KINGCRAB",
+      "company": "AlexAI MCP",
+      "description": "A local coding-agent command deck with a durable background runtime, role-based orchestration, ontology retrieval, task graphs, and evidence-linked verification.",
+      "capabilities": [
+        "Agent runtime",
+        "Multi-agent orchestration",
+        "Memory"
+      ],
+      "languages": [
+        "Python"
+      ],
+      "license": "Apache-2.0",
+      "availability": "open-source",
+      "officialUrl": "https://github.com/AlexAI-MCP/KINGCRAB",
+      "repositoryUrl": "https://github.com/AlexAI-MCP/KINGCRAB",
+      "monogram": "KI",
+      "tags": [
+        "agent runtime",
+        "multi-agent orchestration",
+        "memory"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "official repository",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://github.com/AlexAI-MCP/KINGCRAB",
+        "https://github.com/AlexAI-MCP/KINGCRAB/blob/main/LICENSE"
+      ],
+      "discoveredDate": "2026-09-11",
+      "lastVerifiedDate": "2026-09-11"
+    },
+    {
+      "id": "rohitg00-agentmemory",
+      "name": "AgentMemory",
+      "company": "rohitg00",
+      "description": "A persistent coding-agent memory service built on the iii engine, with local keyword retrieval, optional embeddings, graph context, and integrations for agent CLIs and MCP clients.",
+      "capabilities": [
+        "Memory",
+        "Context management",
+        "MCP"
+      ],
+      "languages": [
+        "TypeScript"
+      ],
+      "license": "Apache-2.0",
+      "availability": "open-source",
+      "officialUrl": "https://github.com/rohitg00/agentmemory",
+      "repositoryUrl": "https://github.com/rohitg00/agentmemory",
+      "monogram": "AG",
+      "tags": [
+        "memory",
+        "context management",
+        "mcp"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "official repository",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://github.com/rohitg00/agentmemory",
+        "https://github.com/rohitg00/agentmemory/blob/main/LICENSE"
+      ],
+      "discoveredDate": "2026-09-11",
+      "lastVerifiedDate": "2026-09-11"
+    },
+    {
+      "id": "aexhq-brain",
+      "name": "Brain",
+      "company": "AEX",
+      "description": "An early-preview Rust runtime that composes agent loops, models, tools, and execution environments while preserving locally readable session transcripts.",
+      "capabilities": [
+        "Agent runtime",
+        "Tool integration",
+        "Session management"
+      ],
+      "languages": [
+        "Rust"
+      ],
+      "license": "MIT",
+      "availability": "open-source",
+      "officialUrl": "https://github.com/aexhq/brain",
+      "repositoryUrl": "https://github.com/aexhq/brain",
+      "monogram": "BR",
+      "tags": [
+        "agent runtime",
+        "tool integration",
+        "session management"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "official repository",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://github.com/aexhq/brain",
+        "https://github.com/aexhq/brain/blob/main/LICENSE"
+      ],
+      "discoveredDate": "2026-09-11",
+      "lastVerifiedDate": "2026-09-11"
+    },
+    {
+      "id": "wecode-ai-runvsagent",
+      "name": "RunVSAgent",
+      "company": "WeCode",
+      "description": "A cross-IDE execution bridge that hosts VS Code coding-agent extensions inside JetBrains IDEs through a compatibility layer.",
+      "capabilities": [
+        "Tool integration",
+        "Repository operations"
+      ],
+      "languages": [
+        "Kotlin"
+      ],
+      "license": "Apache-2.0",
+      "availability": "open-source",
+      "officialUrl": "https://github.com/wecode-ai/RunVSAgent",
+      "repositoryUrl": "https://github.com/wecode-ai/RunVSAgent",
+      "monogram": "RU",
+      "tags": [
+        "tool integration",
+        "repository operations"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "official repository",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://github.com/wecode-ai/RunVSAgent",
+        "https://github.com/wecode-ai/RunVSAgent/blob/main/LICENSE"
+      ],
+      "discoveredDate": "2026-09-11",
+      "lastVerifiedDate": "2026-09-11"
+    },
+    {
+      "id": "aebrer-dreb",
+      "name": "dreb",
+      "company": "aebrer",
+      "description": "An embeddable coding-agent runtime with configurable model providers, persistent sessions, tools, memory, multi-agent review, and a synchronized browser dashboard.",
+      "capabilities": [
+        "Agent runtime",
+        "Repository operations",
+        "Multi-agent orchestration"
+      ],
+      "languages": [
+        "TypeScript"
+      ],
+      "license": "MIT",
+      "availability": "open-source",
+      "officialUrl": "https://github.com/aebrer/dreb",
+      "repositoryUrl": "https://github.com/aebrer/dreb",
+      "monogram": "DR",
+      "tags": [
+        "agent runtime",
+        "repository operations",
+        "multi-agent orchestration"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "official repository",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://github.com/aebrer/dreb",
+        "https://github.com/aebrer/dreb/blob/master/LICENSE"
+      ],
+      "discoveredDate": "2026-09-11",
+      "lastVerifiedDate": "2026-09-11"
+    },
+    {
+      "id": "nexu-io-open-design",
+      "name": "OpenDesign",
+      "company": "Nexu",
+      "description": "A local artifact-creation workspace integrating coding-agent runtimes, reusable skills, design-system context, live previews, session resume, and export workflows.",
+      "capabilities": [
+        "Agent workflows",
+        "Skill management",
+        "Session management"
+      ],
+      "languages": [
+        "TypeScript"
+      ],
+      "license": "Apache-2.0",
+      "availability": "open-source",
+      "officialUrl": "https://github.com/nexu-io/open-design",
+      "repositoryUrl": "https://github.com/nexu-io/open-design",
+      "monogram": "OP",
+      "tags": [
+        "agent workflows",
+        "skill management",
+        "session management"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "official repository",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://github.com/nexu-io/open-design",
+        "https://github.com/nexu-io/open-design/blob/main/LICENSE"
+      ],
+      "discoveredDate": "2026-09-11",
+      "lastVerifiedDate": "2026-09-11"
+    },
+    {
+      "id": "colemurray-background-agents",
+      "name": "Open-Inspect",
+      "company": "Cole Murray",
+      "description": "A single-tenant background coding-agent system with full development sandboxes, shared sessions, parallel subtasks, schedules, and integrations for issue and pull-request workflows.",
+      "capabilities": [
+        "Remote execution",
+        "Sandboxing",
+        "Multi-agent orchestration"
+      ],
+      "languages": [
+        "TypeScript"
+      ],
+      "license": "MIT",
+      "availability": "open-source",
+      "officialUrl": "https://github.com/ColeMurray/background-agents",
+      "repositoryUrl": "https://github.com/ColeMurray/background-agents",
+      "monogram": "OP",
+      "tags": [
+        "remote execution",
+        "sandboxing",
+        "multi-agent orchestration"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "official repository",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://github.com/ColeMurray/background-agents",
+        "https://github.com/ColeMurray/background-agents/blob/main/LICENSE"
+      ],
+      "discoveredDate": "2026-09-11",
+      "lastVerifiedDate": "2026-09-11"
+    },
+    {
+      "id": "gentleman-programming-gentle-pi",
+      "name": "gentle-pi",
+      "company": "Gentleman Programming",
+      "description": "A Pi extension implementing spec-driven workflows, focused subagents, evidence-based test and review gates, safety guards, and project skill discovery.",
+      "capabilities": [
+        "Agent workflows",
+        "Quality gates",
+        "Skill management"
+      ],
+      "languages": [
+        "TypeScript"
+      ],
+      "license": "MIT",
+      "availability": "open-source",
+      "officialUrl": "https://github.com/Gentleman-Programming/gentle-pi",
+      "repositoryUrl": "https://github.com/Gentleman-Programming/gentle-pi",
+      "monogram": "GE",
+      "tags": [
+        "agent workflows",
+        "quality gates",
+        "skill management"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "official repository",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://github.com/Gentleman-Programming/gentle-pi",
+        "https://github.com/Gentleman-Programming/gentle-pi/blob/main/LICENSE"
+      ],
+      "discoveredDate": "2026-09-11",
+      "lastVerifiedDate": "2026-09-11"
+    },
+    {
+      "id": "primeintellect-ai-prime-agent",
+      "name": "Prime Agent",
+      "company": "Prime Intellect",
+      "description": "A coding and research harness using a persistent Python REPL, programmatic subagents, durable harness state, executable skills, and evidence-backed local refinement.",
+      "capabilities": [
+        "Agent runtime",
+        "Multi-agent orchestration",
+        "Memory"
+      ],
+      "languages": [
+        "TypeScript"
+      ],
+      "license": "MIT",
+      "availability": "open-source",
+      "officialUrl": "https://github.com/PrimeIntellect-ai/prime-agent",
+      "repositoryUrl": "https://github.com/PrimeIntellect-ai/prime-agent",
+      "monogram": "PR",
+      "tags": [
+        "agent runtime",
+        "multi-agent orchestration",
+        "memory"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "official repository",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://github.com/PrimeIntellect-ai/prime-agent",
+        "https://github.com/PrimeIntellect-ai/prime-agent/blob/main/LICENSE"
+      ],
+      "discoveredDate": "2026-09-11",
+      "lastVerifiedDate": "2026-09-11"
+    },
+    {
+      "id": "langchain-ai-openwiki",
+      "name": "OpenWiki",
+      "company": "LangChain",
+      "description": "A CLI that uses agents to maintain linked Markdown wikis with source-grounded claims, coding-agent integrations, knowledge connectors, and automated updates.",
+      "capabilities": [
+        "Memory",
+        "Knowledge management",
+        "Context management"
+      ],
+      "languages": [
+        "TypeScript"
+      ],
+      "license": "MIT",
+      "availability": "open-source",
+      "officialUrl": "https://github.com/langchain-ai/openwiki",
+      "repositoryUrl": "https://github.com/langchain-ai/openwiki",
+      "monogram": "OP",
+      "tags": [
+        "memory",
+        "knowledge management",
+        "context management"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "official repository",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://github.com/langchain-ai/openwiki",
+        "https://github.com/langchain-ai/openwiki/blob/main/LICENSE"
+      ],
+      "discoveredDate": "2026-09-11",
+      "lastVerifiedDate": "2026-09-11"
+    },
+    {
+      "id": "kaanozhan-frame",
+      "name": "Frame",
+      "company": "kaanozhan",
+      "description": "A spec-driven development environment that connects plans, parallel agent work, and durable Git-versioned project context across coding-agent sessions.",
+      "capabilities": [
+        "Agent workflows",
+        "Context management",
+        "Multi-agent orchestration"
+      ],
+      "languages": [
+        "JavaScript"
+      ],
+      "license": "Apache-2.0",
+      "availability": "open-source",
+      "officialUrl": "https://github.com/kaanozhan/Frame",
+      "repositoryUrl": "https://github.com/kaanozhan/Frame",
+      "monogram": "FR",
+      "tags": [
+        "agent workflows",
+        "context management",
+        "multi-agent orchestration"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "official repository",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://github.com/kaanozhan/Frame",
+        "https://github.com/kaanozhan/Frame/blob/main/LICENSE"
+      ],
+      "discoveredDate": "2026-09-11",
+      "lastVerifiedDate": "2026-09-11"
+    },
+    {
+      "id": "maurdekye-orgtree",
+      "name": "Orgtree",
+      "company": "Maurdekye",
+      "description": "A Windows desktop workspace for persistent coding-agent teams, with an organization chart, shared task records, agent delegation and messaging, permissions, and retained history.",
+      "capabilities": [
+        "Multi-agent orchestration",
+        "Session management",
+        "Human-in-the-loop"
+      ],
+      "languages": [
+        "Python"
+      ],
+      "license": "MIT",
+      "availability": "open-source",
+      "officialUrl": "https://github.com/Maurdekye/orgtree",
+      "repositoryUrl": "https://github.com/Maurdekye/orgtree",
+      "monogram": "OR",
+      "tags": [
+        "multi-agent orchestration",
+        "session management",
+        "human-in-the-loop"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "official repository",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://github.com/Maurdekye/orgtree"
+      ],
+      "discoveredDate": "2026-09-11",
+      "lastVerifiedDate": "2026-09-11"
+    },
+    {
+      "id": "vercel-labs-fx",
+      "name": "fx",
+      "company": "Vercel Labs",
+      "description": "An experimental Zig coding-agent harness and CLI with an embeddable core, local and cloud model support, lazy skill and MCP loading, and WebAssembly integration.",
+      "capabilities": [
+        "Agent runtime",
+        "Terminal automation",
+        "Agent SDK"
+      ],
+      "languages": [
+        "Zig"
+      ],
+      "license": "Apache-2.0",
+      "availability": "open-source",
+      "officialUrl": "https://github.com/vercel-labs/fx",
+      "repositoryUrl": "https://github.com/vercel-labs/fx",
+      "monogram": "FX",
+      "tags": [
+        "agent runtime",
+        "terminal automation",
+        "agent sdk"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "official repository",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://github.com/vercel-labs/fx"
+      ],
+      "discoveredDate": "2026-09-11",
+      "lastVerifiedDate": "2026-09-11"
+    },
+    {
+      "id": "openai-agents-api",
+      "name": "Agents API",
+      "company": "OpenAI",
+      "description": "A public-beta managed Codex harness API for long-running cloud agents, with persistent sessions, context compaction, tool search, subagents, and hosted or customer-managed execution environments.",
+      "capabilities": [
+        "Agent runtime",
+        "Session management",
+        "Multi-agent orchestration",
+        "Sandboxing"
+      ],
+      "languages": [
+        "Not disclosed"
+      ],
+      "license": "Proprietary",
+      "availability": "proprietary",
+      "officialUrl": "https://openai.com/index/introducing-the-agents-api/",
+      "repositoryUrl": null,
+      "monogram": "AG",
+      "tags": [
+        "agent runtime",
+        "session management",
+        "multi-agent orchestration",
+        "sandboxing"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "official product and documentation",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://openai.com/index/introducing-the-agents-api/"
+      ],
+      "discoveredDate": "2026-09-11",
+      "lastVerifiedDate": "2026-09-11"
+    },
+    {
+      "id": "writer-enterprise-brain",
+      "name": "Enterprise Brain",
+      "company": "WRITER",
+      "description": "A shared enterprise context layer with team-level agent memory, source conversations, brand guidelines, approved assets, and governed access to organizational knowledge.",
+      "capabilities": [
+        "Memory",
+        "Context management",
+        "Governance"
+      ],
+      "languages": [
+        "Not disclosed"
+      ],
+      "license": "Proprietary",
+      "availability": "proprietary",
+      "officialUrl": "https://writer.com/product/enterprise-brain/",
+      "repositoryUrl": null,
+      "monogram": "EN",
+      "tags": [
+        "memory",
+        "context management",
+        "governance"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "official product and documentation",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://writer.com/product/enterprise-brain/",
+        "https://writer.com/blog/enterprise-brain/"
+      ],
+      "discoveredDate": "2026-09-11",
+      "lastVerifiedDate": "2026-09-11"
+    },
+    {
+      "id": "merge-universal-context-layer",
+      "name": "Universal Context Layer",
+      "company": "Merge",
+      "description": "An enterprise agent context layer that indexes connected company systems, retrieves permission-scoped knowledge, selects relevant tools and skills, and proposes improvements for administrator review.",
+      "capabilities": [
+        "Context management",
+        "Tool discovery",
+        "Governance"
+      ],
+      "languages": [
+        "Not disclosed"
+      ],
+      "license": "Proprietary",
+      "availability": "proprietary",
+      "officialUrl": "https://www.merge.dev/blog/universal-context-layer",
+      "repositoryUrl": null,
+      "monogram": "UN",
+      "tags": [
+        "context management",
+        "tool discovery",
+        "governance"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "official product and documentation",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://www.merge.dev/blog/universal-context-layer"
+      ],
+      "discoveredDate": "2026-09-11",
+      "lastVerifiedDate": "2026-09-11"
+    },
+    {
+      "id": "norah-labs-atlarix",
+      "name": "Atlarix",
+      "company": "Norah Labs",
+      "description": "A desktop engineering agent workstation with repository tools, durable notes, parallel efforts, persistent terminals, browser execution, approvals, and scheduled work.",
+      "capabilities": [
+        "Repository operations",
+        "Memory",
+        "Multi-agent orchestration"
+      ],
+      "languages": [
+        "Not disclosed"
+      ],
+      "license": "Proprietary",
+      "availability": "proprietary",
+      "officialUrl": "https://www.atlarix.dev/",
+      "repositoryUrl": null,
+      "monogram": "AT",
+      "tags": [
+        "repository operations",
+        "memory",
+        "multi-agent orchestration"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "official product and documentation",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://www.atlarix.dev/",
+        "https://github.com/AmariahAK/atlarix-releases",
+        "https://www.atlarix.dev/terms"
+      ],
+      "discoveredDate": "2026-09-11",
+      "lastVerifiedDate": "2026-09-11"
+    },
+    {
+      "id": "sourcegraph-code-finder",
+      "name": "Code Finder",
+      "company": "Sourcegraph",
+      "description": "An agentic code-search tool in Sourcegraph MCP that runs a repository search loop and returns focused file paths, line ranges, and explanations to the calling coding agent.",
+      "capabilities": [
+        "Context management",
+        "Repository operations",
+        "MCP"
+      ],
+      "languages": [
+        "Not disclosed"
+      ],
+      "license": "Proprietary",
+      "availability": "proprietary",
+      "officialUrl": "https://sourcegraph.com/mcp",
+      "repositoryUrl": null,
+      "monogram": "CO",
+      "tags": [
+        "context management",
+        "repository operations",
+        "mcp"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "official product and documentation",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://sourcegraph.com/mcp",
+        "https://sourcegraph.com/docs/api/mcp"
+      ],
+      "discoveredDate": "2026-09-11",
+      "lastVerifiedDate": "2026-09-11"
+    },
+    {
+      "id": "atlassian-code-context",
+      "name": "Code Context",
+      "company": "Atlassian",
+      "description": "An open-beta context layer that indexes connected repositories into Teamwork Graph and supplies permission-aware code search and organizational context to Rovo and coding agents.",
+      "capabilities": [
+        "Context management",
+        "Repository operations",
+        "Governance"
+      ],
+      "languages": [
+        "Not disclosed"
+      ],
+      "license": "Proprietary",
+      "availability": "proprietary",
+      "officialUrl": "https://www.atlassian.com/blog/development/code-context",
+      "repositoryUrl": null,
+      "monogram": "CO",
+      "tags": [
+        "context management",
+        "repository operations",
+        "governance"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "official product and documentation",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://www.atlassian.com/blog/development/code-context",
+        "https://www.atlassian.com/blog/jira/governed-agent-loops"
+      ],
+      "discoveredDate": "2026-09-11",
+      "lastVerifiedDate": "2026-09-11"
+    },
+    {
+      "id": "codeagentswarm",
+      "name": "CodeAgentSwarm",
+      "company": "Arturo García",
+      "description": "An open-beta desktop control center for parallel coding-agent CLIs, with searchable conversation history, live diffs, project sessions, notifications, and task coordination.",
+      "capabilities": [
+        "Multi-agent orchestration",
+        "Session management",
+        "Observability"
+      ],
+      "languages": [
+        "Not disclosed"
+      ],
+      "license": "Proprietary",
+      "availability": "proprietary",
+      "officialUrl": "https://www.codeagentswarm.com/",
+      "repositoryUrl": null,
+      "monogram": "CO",
+      "tags": [
+        "multi-agent orchestration",
+        "session management",
+        "observability"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "official product and documentation",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://www.codeagentswarm.com/",
+        "https://www.codeagentswarm.com/en/about"
+      ],
+      "discoveredDate": "2026-09-11",
+      "lastVerifiedDate": "2026-09-11"
+    },
+    {
+      "id": "coder-agents",
+      "name": "Coder Agents",
+      "company": "Coder",
+      "description": "A self-hosted coding-agent control plane with model selection, prompts, MCP tools, skills, network-isolated workspaces, chat and API access, and centralized execution auditability.",
+      "capabilities": [
+        "Agent runtime",
+        "Remote execution",
+        "Governance"
+      ],
+      "languages": [
+        "Not disclosed"
+      ],
+      "license": "Proprietary",
+      "availability": "proprietary",
+      "officialUrl": "https://coder.com/solutions/agents",
+      "repositoryUrl": null,
+      "monogram": "CO",
+      "tags": [
+        "agent runtime",
+        "remote execution",
+        "governance"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "official product and documentation",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://coder.com/solutions/agents",
+        "https://coder.com/blog/introducing-coder-agents"
+      ],
+      "discoveredDate": "2026-09-11",
+      "lastVerifiedDate": "2026-09-11"
+    },
+    {
+      "id": "decispher-context-engine",
+      "name": "Decispher",
+      "company": "Decispher",
+      "description": "A team context engine that captures decisions and constraints, maintains agent context files, and serves source-grounded knowledge through MCP and coding-agent integrations.",
+      "capabilities": [
+        "Memory",
+        "Context management",
+        "MCP"
+      ],
+      "languages": [
+        "Not disclosed"
+      ],
+      "license": "Proprietary",
+      "availability": "proprietary",
+      "officialUrl": "https://decispher.com/",
+      "repositoryUrl": null,
+      "monogram": "DE",
+      "tags": [
+        "memory",
+        "context management",
+        "mcp"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "official product and documentation",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://decispher.com/",
+        "https://decispher.com/docs/getting-started",
+        "https://decispher.com/docs/mcp-server"
+      ],
+      "discoveredDate": "2026-09-04",
+      "lastVerifiedDate": "2026-09-11"
+    },
+    {
+      "id": "harnessrouter-harnessrouter",
+      "name": "HarnessRouter",
+      "company": "HarnessRouter",
+      "description": "A unified API and self-hosted gateway for agent harnesses, providing shared session, streaming, file, cancellation, and failure-handling interfaces through the Unified Harness Protocol.",
+      "capabilities": [
+        "Agent runtime",
+        "Tool integration",
+        "Session management"
+      ],
+      "languages": [
+        "Python"
+      ],
+      "license": "Apache-2.0",
+      "availability": "open-source",
+      "officialUrl": "https://github.com/HarnessRouter/harnessrouter",
+      "repositoryUrl": "https://github.com/HarnessRouter/harnessrouter",
+      "monogram": "HA",
+      "tags": [
+        "agent runtime",
+        "tool integration",
+        "session management"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "official repository and documentation",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://github.com/HarnessRouter/harnessrouter",
+        "https://github.com/HarnessRouter/harnessrouter/blob/main/LICENSE"
+      ],
+      "discoveredDate": "2026-09-11",
+      "lastVerifiedDate": "2026-09-11"
+    },
+    {
+      "id": "nself-org-clawde",
+      "name": "ClawDE",
+      "company": "ClawDE",
+      "description": "A host-first development environment whose Rust daemon owns agent sessions, filesystem state, task worktrees, validation, and orchestration for desktop and mobile clients.",
+      "capabilities": [
+        "Agent runtime",
+        "Session management",
+        "Multi-agent orchestration"
+      ],
+      "languages": [
+        "Rust"
+      ],
+      "license": "MIT",
+      "availability": "open-source",
+      "officialUrl": "https://github.com/nself-org/clawde",
+      "repositoryUrl": "https://github.com/nself-org/clawde",
+      "monogram": "CL",
+      "tags": [
+        "agent runtime",
+        "session management",
+        "multi-agent orchestration"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "official repository and documentation",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://github.com/nself-org/clawde",
+        "https://github.com/nself-org/clawde/blob/main/LICENSE",
+        "https://clawde.io/"
+      ],
+      "discoveredDate": "2026-09-04",
+      "lastVerifiedDate": "2026-09-11"
+    },
+    {
+      "id": "minpeter-pss-runtime",
+      "name": "Plugsuits",
+      "company": "Woonggi Min",
+      "description": "A source-available agent runtime and terminal coding agent with persistent threads, model loops, coding tools, instrumentation, hooks, and a headless execution interface.",
+      "capabilities": [
+        "Agent runtime",
+        "Session management",
+        "Headless / CI"
+      ],
+      "languages": [
+        "TypeScript"
+      ],
+      "license": "Sustainable Use License 1.0",
+      "availability": "proprietary",
+      "officialUrl": "https://github.com/minpeter/pss-runtime",
+      "repositoryUrl": "https://github.com/minpeter/pss-runtime",
+      "monogram": "PL",
+      "tags": [
+        "agent runtime",
+        "session management",
+        "headless / ci"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "official repository and documentation",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://github.com/minpeter/pss-runtime",
+        "https://github.com/minpeter/pss-runtime/blob/main/LICENSE.md"
+      ],
+      "discoveredDate": "2026-08-28",
+      "lastVerifiedDate": "2026-09-11"
+    },
+    {
+      "id": "sapientinc-praxist",
+      "name": "Praxist",
+      "company": "Sapient Intelligence",
+      "description": "A source-available autonomous research system coordinating parallel research peers, task-specific evaluation, durable evidence, and synthesis across research generations.",
+      "capabilities": [
+        "Multi-agent orchestration",
+        "Evaluation",
+        "Memory"
+      ],
+      "languages": [
+        "Python"
+      ],
+      "license": "Fair Source License Agreement 1.0",
+      "availability": "proprietary",
+      "officialUrl": "https://github.com/sapientinc/PRAXIST",
+      "repositoryUrl": "https://github.com/sapientinc/PRAXIST",
+      "monogram": "PR",
+      "tags": [
+        "multi-agent orchestration",
+        "evaluation",
+        "memory"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "official repository and documentation",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://github.com/sapientinc/PRAXIST",
+        "https://github.com/sapientinc/PRAXIST/blob/main/LICENSE.md"
+      ],
+      "discoveredDate": "2026-09-11",
+      "lastVerifiedDate": "2026-09-11"
+    },
+    {
+      "id": "digitalpine-runtime",
+      "name": "Runtime",
+      "company": "Digital Pine",
+      "description": "A source-available local daemon that serves React artifacts through a shared toolchain and connects running applications to agent sessions over MCP.",
+      "capabilities": [
+        "Tool integration",
+        "Agent workflows",
+        "MCP"
+      ],
+      "languages": [
+        "TypeScript"
+      ],
+      "license": "FSL-1.1-MIT",
+      "availability": "proprietary",
+      "officialUrl": "https://github.com/DigitalPine/runtime",
+      "repositoryUrl": "https://github.com/DigitalPine/runtime",
+      "monogram": "RU",
+      "tags": [
+        "tool integration",
+        "agent workflows",
+        "mcp"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "official repository and documentation",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://github.com/DigitalPine/runtime",
+        "https://github.com/DigitalPine/runtime/blob/main/LICENSE"
+      ],
+      "discoveredDate": "2026-09-11",
+      "lastVerifiedDate": "2026-09-11"
     }
   ]
 }

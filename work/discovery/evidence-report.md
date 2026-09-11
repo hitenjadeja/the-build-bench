@@ -1,13 +1,13 @@
 # Harness discovery evidence report
 
-Run date: 2026-09-07
+Run date: 2026-09-11
 
 This is a dry research artifact. It does not modify `data/harnesses.v1.json`.
 
-- Proposed candidates: 16
-- Exact duplicates excluded: 25
+- Proposed candidates: 17
+- Exact duplicates excluded: 24
 - Fuzzy matches flagged, never merged: 0
-- Partial lanes: none
+- Partial lanes: official-sources
 
 ## Duplicate flags
 
@@ -35,7 +35,6 @@ This is a dry research artifact. It does not modify `data/harnesses.v1.json`.
 - continue (continuedev): repository identity, normalised name + company
 - DeepSeek-Reasonix (esengine): repository identity, canonical URL, normalised name + company
 - oh-my-pi (can1357): repository identity, normalised name + company
-- vibe-kanban (BloopAI): repository identity, normalised name + company
 
 ## Fuzzy flags
 

@@ -1,0 +1,1220 @@
+[
+  {
+    "repository": "deepseek-ai/deepseek-harness",
+    "url": "https://github.com/deepseek-ai/deepseek-harness",
+    "createdAt": "2026-08-13T11:56:32Z",
+    "disposition": "existing catalog identity",
+    "reason": "Primary-source catalog record exists."
+  },
+  {
+    "repository": "awesome-dsh-plugin/awesome-dsh-plugin",
+    "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
+    "createdAt": "2026-08-13T13:55:31Z",
+    "disposition": "not promoted",
+    "reason": "Search lead screened out as a list, tutorial, template, prompt/skill collection, product-specific plugin or GUI for an existing harness, narrow example, or insufficient standalone runtime identity. No implementation or license claim is made."
+  },
+  {
+    "repository": "anywhere-labs/dsh-desktop",
+    "url": "https://github.com/anywhere-labs/dsh-desktop",
+    "createdAt": "2026-08-13T16:30:50Z",
+    "disposition": "not promoted",
+    "reason": "Search lead screened out as a list, tutorial, template, prompt/skill collection, product-specific plugin or GUI for an existing harness, narrow example, or insufficient standalone runtime identity. No implementation or license claim is made."
+  },
+  {
+    "repository": "dataelement/dsh-desktop",
+    "url": "https://github.com/dataelement/dsh-desktop",
+    "createdAt": "2026-08-13T13:45:50Z",
+    "disposition": "not promoted",
+    "reason": "Search lead screened out as a list, tutorial, template, prompt/skill collection, product-specific plugin or GUI for an existing harness, narrow example, or insufficient standalone runtime identity. No implementation or license claim is made."
+  },
+  {
+    "repository": "NanmiCoder/dsh-agent-teams",
+    "url": "https://github.com/NanmiCoder/dsh-agent-teams",
+    "createdAt": "2026-08-12T13:41:50Z",
+    "disposition": "not promoted",
+    "reason": "Search lead screened out as a list, tutorial, template, prompt/skill collection, product-specific plugin or GUI for an existing harness, narrow example, or insufficient standalone runtime identity. No implementation or license claim is made."
+  },
+  {
+    "repository": "Dominic789654/awesome-deepseek-harness",
+    "url": "https://github.com/Dominic789654/awesome-deepseek-harness",
+    "createdAt": "2026-08-13T13:54:05Z",
+    "disposition": "not promoted",
+    "reason": "Search lead screened out as a list, tutorial, template, prompt/skill collection, product-specific plugin or GUI for an existing harness, narrow example, or insufficient standalone runtime identity. No implementation or license claim is made."
+  },
+  {
+    "repository": "diudiu-tech/delivery-harness",
+    "url": "https://github.com/diudiu-tech/delivery-harness",
+    "createdAt": "2026-08-13T08:38:58Z",
+    "disposition": "deferred",
+    "reason": "Recent GitHub search describes a potentially relevant agent execution, context, coordination, or evaluation component. Primary implementation, licensing, release identity, and provenance review remain incomplete; no promotion on search metadata alone."
+  },
+  {
+    "repository": "browser-use/macos-harness",
+    "url": "https://github.com/browser-use/macos-harness",
+    "createdAt": "2026-08-17T00:22:20Z",
+    "disposition": "published",
+    "reason": "Primary-source catalog record exists."
+  },
+  {
+    "repository": "Human-Agent-Society/reef",
+    "url": "https://github.com/Human-Agent-Society/reef",
+    "createdAt": "2026-08-31T01:39:18Z",
+    "disposition": "published",
+    "reason": "Primary-source catalog record exists."
+  },
+  {
+    "repository": "bingreeky/JIT",
+    "url": "https://github.com/bingreeky/JIT",
+    "createdAt": "2026-08-17T13:02:42Z",
+    "disposition": "deferred",
+    "reason": "Recent GitHub search describes a potentially relevant agent execution, context, coordination, or evaluation component. Primary implementation, licensing, release identity, and provenance review remain incomplete; no promotion on search metadata alone."
+  },
+  {
+    "repository": "alchaincyf/deepseek-harness-orange-book",
+    "url": "https://github.com/alchaincyf/deepseek-harness-orange-book",
+    "createdAt": "2026-08-14T03:14:33Z",
+    "disposition": "not promoted",
+    "reason": "Search lead screened out as a list, tutorial, template, prompt/skill collection, product-specific plugin or GUI for an existing harness, narrow example, or insufficient standalone runtime identity. No implementation or license claim is made."
+  },
+  {
+    "repository": "imsai-sh/awesome-deepseek-harness-plugins",
+    "url": "https://github.com/imsai-sh/awesome-deepseek-harness-plugins",
+    "createdAt": "2026-08-14T05:53:47Z",
+    "disposition": "not promoted",
+    "reason": "Search lead screened out as a list, tutorial, template, prompt/skill collection, product-specific plugin or GUI for an existing harness, narrow example, or insufficient standalone runtime identity. No implementation or license claim is made."
+  },
+  {
+    "repository": "MariusOTB/OpenTrade-Agent",
+    "url": "https://github.com/MariusOTB/OpenTrade-Agent",
+    "createdAt": "2026-08-25T06:51:42Z",
+    "disposition": "deferred",
+    "reason": "Recent GitHub search describes a potentially relevant agent execution, context, coordination, or evaluation component. Primary implementation, licensing, release identity, and provenance review remain incomplete; no promotion on search metadata alone."
+  },
+  {
+    "repository": "dsh-tauri-desk/deepseek-harness-desktop",
+    "url": "https://github.com/dsh-tauri-desk/deepseek-harness-desktop",
+    "createdAt": "2026-08-14T02:36:29Z",
+    "disposition": "not promoted",
+    "reason": "Search lead screened out as a list, tutorial, template, prompt/skill collection, product-specific plugin or GUI for an existing harness, narrow example, or insufficient standalone runtime identity. No implementation or license claim is made."
+  },
+  {
+    "repository": "HowProgrammingWorks/Agent",
+    "url": "https://github.com/HowProgrammingWorks/Agent",
+    "createdAt": "2026-08-28T13:50:08Z",
+    "disposition": "existing catalog identity",
+    "reason": "Primary-source catalog record exists."
+  },
+  {
+    "repository": "leenkcool/Blue-Whale-Harness",
+    "url": "https://github.com/leenkcool/Blue-Whale-Harness",
+    "createdAt": "2026-08-13T14:34:04Z",
+    "disposition": "not promoted",
+    "reason": "Search lead screened out as a list, tutorial, template, prompt/skill collection, product-specific plugin or GUI for an existing harness, narrow example, or insufficient standalone runtime identity. No implementation or license claim is made."
+  },
+  {
+    "repository": "fufankeji/deepseek-harness-studio",
+    "url": "https://github.com/fufankeji/deepseek-harness-studio",
+    "createdAt": "2026-08-15T03:00:06Z",
+    "disposition": "not promoted",
+    "reason": "Search lead screened out as a list, tutorial, template, prompt/skill collection, product-specific plugin or GUI for an existing harness, narrow example, or insufficient standalone runtime identity. No implementation or license claim is made."
+  },
+  {
+    "repository": "sapientinc/PRAXIST",
+    "url": "https://github.com/sapientinc/PRAXIST",
+    "createdAt": "2026-08-27T14:20:58Z",
+    "disposition": "published",
+    "reason": "Primary-source catalog record exists."
+  },
+  {
+    "repository": "Alex-Yanggg/awesome-DSH-plugin",
+    "url": "https://github.com/Alex-Yanggg/awesome-DSH-plugin",
+    "createdAt": "2026-08-13T01:23:29Z",
+    "disposition": "not promoted",
+    "reason": "Search lead screened out as a list, tutorial, template, prompt/skill collection, product-specific plugin or GUI for an existing harness, narrow example, or insufficient standalone runtime identity. No implementation or license claim is made."
+  },
+  {
+    "repository": "techjarves/Mobile-Harness",
+    "url": "https://github.com/techjarves/Mobile-Harness",
+    "createdAt": "2026-08-20T11:55:29Z",
+    "disposition": "published",
+    "reason": "Primary-source catalog record exists."
+  },
+  {
+    "repository": "advitrocks9/aichessathon-starter",
+    "url": "https://github.com/advitrocks9/aichessathon-starter",
+    "createdAt": "2026-08-28T22:19:49Z",
+    "disposition": "not promoted",
+    "reason": "Search lead screened out as a list, tutorial, template, prompt/skill collection, product-specific plugin or GUI for an existing harness, narrow example, or insufficient standalone runtime identity. No implementation or license claim is made."
+  },
+  {
+    "repository": "ryzqi/learn-agent",
+    "url": "https://github.com/ryzqi/learn-agent",
+    "createdAt": "2026-08-13T15:26:55Z",
+    "disposition": "not promoted",
+    "reason": "Search lead screened out as a list, tutorial, template, prompt/skill collection, product-specific plugin or GUI for an existing harness, narrow example, or insufficient standalone runtime identity. No implementation or license claim is made."
+  },
+  {
+    "repository": "ApodexAI/FrontierAgent",
+    "url": "https://github.com/ApodexAI/FrontierAgent",
+    "createdAt": "2026-08-22T05:07:35Z",
+    "disposition": "existing catalog identity",
+    "reason": "Primary-source catalog record exists."
+  },
+  {
+    "repository": "lencx/Minke",
+    "url": "https://github.com/lencx/Minke",
+    "createdAt": "2026-08-15T01:49:38Z",
+    "disposition": "not promoted",
+    "reason": "Search lead screened out as a list, tutorial, template, prompt/skill collection, product-specific plugin or GUI for an existing harness, narrow example, or insufficient standalone runtime identity. No implementation or license claim is made."
+  },
+  {
+    "repository": "zorost/AI-Engineering-Lab",
+    "url": "https://github.com/zorost/AI-Engineering-Lab",
+    "createdAt": "2026-08-17T16:34:05Z",
+    "disposition": "not promoted",
+    "reason": "Search lead screened out as a list, tutorial, template, prompt/skill collection, product-specific plugin or GUI for an existing harness, narrow example, or insufficient standalone runtime identity. No implementation or license claim is made."
+  },
+  {
+    "repository": "S1N6H/pentest-harness",
+    "url": "https://github.com/S1N6H/pentest-harness",
+    "createdAt": "2026-08-26T04:57:19Z",
+    "disposition": "existing catalog identity",
+    "reason": "Primary-source catalog record exists."
+  },
+  {
+    "repository": "xiaobright/dsh-anchored-standard",
+    "url": "https://github.com/xiaobright/dsh-anchored-standard",
+    "createdAt": "2026-08-14T14:06:39Z",
+    "disposition": "not promoted",
+    "reason": "Search lead screened out as a list, tutorial, template, prompt/skill collection, product-specific plugin or GUI for an existing harness, narrow example, or insufficient standalone runtime identity. No implementation or license claim is made."
+  },
+  {
+    "repository": "Zhiyuan-Fan/Awesome-DeepSeek-Harness-Plugins",
+    "url": "https://github.com/Zhiyuan-Fan/Awesome-DeepSeek-Harness-Plugins",
+    "createdAt": "2026-08-13T13:52:04Z",
+    "disposition": "not promoted",
+    "reason": "Search lead screened out as a list, tutorial, template, prompt/skill collection, product-specific plugin or GUI for an existing harness, narrow example, or insufficient standalone runtime identity. No implementation or license claim is made."
+  },
+  {
+    "repository": "libukai/awesome-deepseek-harness",
+    "url": "https://github.com/libukai/awesome-deepseek-harness",
+    "createdAt": "2026-08-13T13:47:48Z",
+    "disposition": "not promoted",
+    "reason": "Search lead screened out as a list, tutorial, template, prompt/skill collection, product-specific plugin or GUI for an existing harness, narrow example, or insufficient standalone runtime identity. No implementation or license claim is made."
+  },
+  {
+    "repository": "Station-Sciences/bot-crossing",
+    "url": "https://github.com/Station-Sciences/bot-crossing",
+    "createdAt": "2026-09-01T19:56:46Z",
+    "disposition": "not promoted",
+    "reason": "Search lead screened out as a list, tutorial, template, prompt/skill collection, product-specific plugin or GUI for an existing harness, narrow example, or insufficient standalone runtime identity. No implementation or license claim is made."
+  },
+  {
+    "repository": "Ariescar/anyCreature",
+    "url": "https://github.com/Ariescar/anyCreature",
+    "createdAt": "2026-08-17T13:40:03Z",
+    "disposition": "not promoted",
+    "reason": "Search lead screened out as a list, tutorial, template, prompt/skill collection, product-specific plugin or GUI for an existing harness, narrow example, or insufficient standalone runtime identity. No implementation or license claim is made."
+  },
+  {
+    "repository": "kunchenguid/backpass",
+    "url": "https://github.com/kunchenguid/backpass",
+    "createdAt": "2026-08-21T21:12:31Z",
+    "disposition": "deferred",
+    "reason": "Recent GitHub search describes a potentially relevant agent execution, context, coordination, or evaluation component. Primary implementation, licensing, release identity, and provenance review remain incomplete; no promotion on search metadata alone."
+  },
+  {
+    "repository": "beancookie/awesome-dsh-plugin",
+    "url": "https://github.com/beancookie/awesome-dsh-plugin",
+    "createdAt": "2026-08-14T09:35:25Z",
+    "disposition": "not promoted",
+    "reason": "Search lead screened out as a list, tutorial, template, prompt/skill collection, product-specific plugin or GUI for an existing harness, narrow example, or insufficient standalone runtime identity. No implementation or license claim is made."
+  },
+  {
+    "repository": "asen-goat-mine/boujoy-harness",
+    "url": "https://github.com/asen-goat-mine/boujoy-harness",
+    "createdAt": "2026-08-18T16:08:19Z",
+    "disposition": "deferred",
+    "reason": "Recent GitHub search describes a potentially relevant agent execution, context, coordination, or evaluation component. Primary implementation, licensing, release identity, and provenance review remain incomplete; no promotion on search metadata alone."
+  },
+  {
+    "repository": "emailhayday10-coder/agent-doctor",
+    "url": "https://github.com/emailhayday10-coder/agent-doctor",
+    "createdAt": "2026-08-14T01:31:52Z",
+    "disposition": "existing catalog identity",
+    "reason": "Primary-source catalog record exists."
+  },
+  {
+    "repository": "Aisland-SJL/dsh-worktable",
+    "url": "https://github.com/Aisland-SJL/dsh-worktable",
+    "createdAt": "2026-08-16T15:43:27Z",
+    "disposition": "not promoted",
+    "reason": "Search lead screened out as a list, tutorial, template, prompt/skill collection, product-specific plugin or GUI for an existing harness, narrow example, or insufficient standalone runtime identity. No implementation or license claim is made."
+  },
+  {
+    "repository": "acryldev/acryl",
+    "url": "https://github.com/acryldev/acryl",
+    "createdAt": "2026-08-25T15:53:56Z",
+    "disposition": "existing catalog identity",
+    "reason": "Primary-source catalog record exists."
+  },
+  {
+    "repository": "xmanrui/dsh-im",
+    "url": "https://github.com/xmanrui/dsh-im",
+    "createdAt": "2026-08-14T20:40:06Z",
+    "disposition": "not promoted",
+    "reason": "Search lead screened out as a list, tutorial, template, prompt/skill collection, product-specific plugin or GUI for an existing harness, narrow example, or insufficient standalone runtime identity. No implementation or license claim is made."
+  },
+  {
+    "repository": "dsh-market/dsh-market",
+    "url": "https://github.com/dsh-market/dsh-market",
+    "createdAt": "2026-08-14T04:58:15Z",
+    "disposition": "not promoted",
+    "reason": "Search lead screened out as a list, tutorial, template, prompt/skill collection, product-specific plugin or GUI for an existing harness, narrow example, or insufficient standalone runtime identity. No implementation or license claim is made."
+  },
+  {
+    "repository": "ht426/deepseek-harness-tutorial",
+    "url": "https://github.com/ht426/deepseek-harness-tutorial",
+    "createdAt": "2026-08-13T17:58:29Z",
+    "disposition": "not promoted",
+    "reason": "Search lead screened out as a list, tutorial, template, prompt/skill collection, product-specific plugin or GUI for an existing harness, narrow example, or insufficient standalone runtime identity. No implementation or license claim is made."
+  },
+  {
+    "repository": "XiaoDuoYa/codex-with-chatgpt",
+    "url": "https://github.com/XiaoDuoYa/codex-with-chatgpt",
+    "createdAt": "2026-08-28T12:57:24Z",
+    "disposition": "not promoted",
+    "reason": "Search lead screened out as a list, tutorial, template, prompt/skill collection, product-specific plugin or GUI for an existing harness, narrow example, or insufficient standalone runtime identity. No implementation or license claim is made."
+  },
+  {
+    "repository": "DEEP-JLU/Awesome-Graph-Engineering",
+    "url": "https://github.com/DEEP-JLU/Awesome-Graph-Engineering",
+    "createdAt": "2026-08-20T09:51:28Z",
+    "disposition": "not promoted",
+    "reason": "Search lead screened out as a list, tutorial, template, prompt/skill collection, product-specific plugin or GUI for an existing harness, narrow example, or insufficient standalone runtime identity. No implementation or license claim is made."
+  },
+  {
+    "repository": "xuanyuanzhifeng/dsh-plugin-agent-workflow",
+    "url": "https://github.com/xuanyuanzhifeng/dsh-plugin-agent-workflow",
+    "createdAt": "2026-08-18T02:04:05Z",
+    "disposition": "not promoted",
+    "reason": "Search lead screened out as a list, tutorial, template, prompt/skill collection, product-specific plugin or GUI for an existing harness, narrow example, or insufficient standalone runtime identity. No implementation or license claim is made."
+  },
+  {
+    "repository": "MirroS-Lab/HarnessEval-W",
+    "url": "https://github.com/MirroS-Lab/HarnessEval-W",
+    "createdAt": "2026-08-17T09:50:26Z",
+    "disposition": "deferred",
+    "reason": "Recent GitHub search describes a potentially relevant agent execution, context, coordination, or evaluation component. Primary implementation, licensing, release identity, and provenance review remain incomplete; no promotion on search metadata alone."
+  },
+  {
+    "repository": "sandbaseai/deepseek-harness-handbook",
+    "url": "https://github.com/sandbaseai/deepseek-harness-handbook",
+    "createdAt": "2026-08-14T06:25:52Z",
+    "disposition": "not promoted",
+    "reason": "Search lead screened out as a list, tutorial, template, prompt/skill collection, product-specific plugin or GUI for an existing harness, narrow example, or insufficient standalone runtime identity. No implementation or license claim is made."
+  },
+  {
+    "repository": "Flesymeb/HarnessOfHarness",
+    "url": "https://github.com/Flesymeb/HarnessOfHarness",
+    "createdAt": "2026-09-01T03:04:36Z",
+    "disposition": "deferred",
+    "reason": "Research README and assets describe the system and link output games, but the repository root contains no reusable harness implementation."
+  },
+  {
+    "repository": "hkqr/my-free-code",
+    "url": "https://github.com/hkqr/my-free-code",
+    "createdAt": "2026-08-27T17:59:23Z",
+    "disposition": "deferred",
+    "reason": "Recent GitHub search describes a potentially relevant agent execution, context, coordination, or evaluation component. Primary implementation, licensing, release identity, and provenance review remain incomplete; no promotion on search metadata alone."
+  },
+  {
+    "repository": "YuJunZhiXue/dsh-purge",
+    "url": "https://github.com/YuJunZhiXue/dsh-purge",
+    "createdAt": "2026-08-19T07:41:12Z",
+    "disposition": "not promoted",
+    "reason": "Search lead screened out as a list, tutorial, template, prompt/skill collection, product-specific plugin or GUI for an existing harness, narrow example, or insufficient standalone runtime identity. No implementation or license claim is made."
+  },
+  {
+    "repository": "justxor/Harness_ru",
+    "url": "https://github.com/justxor/Harness_ru",
+    "createdAt": "2026-08-14T14:20:59Z",
+    "disposition": "not promoted",
+    "reason": "Search lead screened out as a list, tutorial, template, prompt/skill collection, product-specific plugin or GUI for an existing harness, narrow example, or insufficient standalone runtime identity. No implementation or license claim is made."
+  },
+  {
+    "repository": "VinUni-AI20k/Day16-AgentArena-Student",
+    "url": "https://github.com/VinUni-AI20k/Day16-AgentArena-Student",
+    "createdAt": "2026-08-14T01:47:46Z",
+    "disposition": "not promoted",
+    "reason": "Search lead screened out as a list, tutorial, template, prompt/skill collection, product-specific plugin or GUI for an existing harness, narrow example, or insufficient standalone runtime identity. No implementation or license claim is made."
+  },
+  {
+    "repository": "nateherkai/scroll-craft",
+    "url": "https://github.com/nateherkai/scroll-craft",
+    "createdAt": "2026-08-22T15:25:08Z",
+    "disposition": "not promoted",
+    "reason": "Search lead screened out as a list, tutorial, template, prompt/skill collection, product-specific plugin or GUI for an existing harness, narrow example, or insufficient standalone runtime identity. No implementation or license claim is made."
+  },
+  {
+    "repository": "hardbeat920/monocode",
+    "url": "https://github.com/hardbeat920/monocode",
+    "createdAt": "2026-08-20T09:16:02Z",
+    "disposition": "published",
+    "reason": "Primary-source catalog record exists."
+  },
+  {
+    "repository": "Spielewoy/autoprompt-skill",
+    "url": "https://github.com/Spielewoy/autoprompt-skill",
+    "createdAt": "2026-08-17T22:40:47Z",
+    "disposition": "not promoted",
+    "reason": "Search lead screened out as a list, tutorial, template, prompt/skill collection, product-specific plugin or GUI for an existing harness, narrow example, or insufficient standalone runtime identity. No implementation or license claim is made."
+  },
+  {
+    "repository": "sodiumsun/agenttrail",
+    "url": "https://github.com/sodiumsun/agenttrail",
+    "createdAt": "2026-08-21T21:14:33Z",
+    "disposition": "existing catalog identity",
+    "reason": "Primary-source catalog record exists."
+  },
+  {
+    "repository": "idavidov13/agentic-playwright",
+    "url": "https://github.com/idavidov13/agentic-playwright",
+    "createdAt": "2026-08-13T08:12:20Z",
+    "disposition": "not promoted",
+    "reason": "Search lead screened out as a list, tutorial, template, prompt/skill collection, product-specific plugin or GUI for an existing harness, narrow example, or insufficient standalone runtime identity. No implementation or license claim is made."
+  },
+  {
+    "repository": "yetone/cumora",
+    "url": "https://github.com/yetone/cumora",
+    "createdAt": "2026-08-17T09:13:52Z",
+    "disposition": "published",
+    "reason": "Primary-source catalog record exists."
+  },
+  {
+    "repository": "tigerless-labs/agent-memory",
+    "url": "https://github.com/tigerless-labs/agent-memory",
+    "createdAt": "2026-09-01T21:52:29Z",
+    "disposition": "published",
+    "reason": "Primary-source catalog record exists."
+  },
+  {
+    "repository": "okf-memory/okf-agent-memory",
+    "url": "https://github.com/okf-memory/okf-agent-memory",
+    "createdAt": "2026-09-05T21:26:04Z",
+    "disposition": "published",
+    "reason": "Primary-source catalog record exists."
+  },
+  {
+    "repository": "nduc99911/repo-context-mcp",
+    "url": "https://github.com/nduc99911/repo-context-mcp",
+    "createdAt": "2026-08-12T08:22:31Z",
+    "disposition": "published",
+    "reason": "Primary-source catalog record exists."
+  },
+  {
+    "repository": "thiientv/godmode",
+    "url": "https://github.com/thiientv/godmode",
+    "createdAt": "2026-08-13T04:06:22Z",
+    "disposition": "not promoted",
+    "reason": "Search lead screened out as a list, tutorial, template, prompt/skill collection, product-specific plugin or GUI for an existing harness, narrow example, or insufficient standalone runtime identity. No implementation or license claim is made."
+  },
+  {
+    "repository": "missuo/herdrm",
+    "url": "https://github.com/missuo/herdrm",
+    "createdAt": "2026-08-19T06:55:39Z",
+    "disposition": "not promoted",
+    "reason": "Search lead screened out as a list, tutorial, template, prompt/skill collection, product-specific plugin or GUI for an existing harness, narrow example, or insufficient standalone runtime identity. No implementation or license claim is made."
+  },
+  {
+    "repository": "cbrock84/headcount",
+    "url": "https://github.com/cbrock84/headcount",
+    "createdAt": "2026-08-28T18:03:04Z",
+    "disposition": "not promoted",
+    "reason": "Search lead screened out as a list, tutorial, template, prompt/skill collection, product-specific plugin or GUI for an existing harness, narrow example, or insufficient standalone runtime identity. No implementation or license claim is made."
+  },
+  {
+    "repository": "ryanlab/bivor",
+    "url": "https://github.com/ryanlab/bivor",
+    "createdAt": "2026-08-14T17:38:47Z",
+    "disposition": "existing catalog identity",
+    "reason": "Primary-source catalog record exists."
+  },
+  {
+    "repository": "zhuyifang/tonghuasun-agent",
+    "url": "https://github.com/zhuyifang/tonghuasun-agent",
+    "createdAt": "2026-08-24T12:02:01Z",
+    "disposition": "not promoted",
+    "reason": "Search lead screened out as a list, tutorial, template, prompt/skill collection, product-specific plugin or GUI for an existing harness, narrow example, or insufficient standalone runtime identity. No implementation or license claim is made."
+  },
+  {
+    "repository": "Vistyy/nopus",
+    "url": "https://github.com/Vistyy/nopus",
+    "createdAt": "2026-08-15T12:53:20Z",
+    "disposition": "not promoted",
+    "reason": "Search lead screened out as a list, tutorial, template, prompt/skill collection, product-specific plugin or GUI for an existing harness, narrow example, or insufficient standalone runtime identity. No implementation or license claim is made."
+  },
+  {
+    "repository": "aaravshah1311/Agent-2",
+    "url": "https://github.com/aaravshah1311/Agent-2",
+    "createdAt": "2026-09-04T11:03:14Z",
+    "disposition": "deferred",
+    "reason": "Recent GitHub search describes a potentially relevant agent execution, context, coordination, or evaluation component. Primary implementation, licensing, release identity, and provenance review remain incomplete; no promotion on search metadata alone."
+  },
+  {
+    "repository": "kharmanskyi/open-steps",
+    "url": "https://github.com/kharmanskyi/open-steps",
+    "createdAt": "2026-08-25T14:24:24Z",
+    "disposition": "not promoted",
+    "reason": "Search lead screened out as a list, tutorial, template, prompt/skill collection, product-specific plugin or GUI for an existing harness, narrow example, or insufficient standalone runtime identity. No implementation or license claim is made."
+  },
+  {
+    "repository": "starroyhq/agentkib",
+    "url": "https://github.com/starroyhq/agentkib",
+    "createdAt": "2026-08-13T11:20:22Z",
+    "disposition": "published",
+    "reason": "Primary-source catalog record exists."
+  },
+  {
+    "repository": "vicoa-ai/vicoa",
+    "url": "https://github.com/vicoa-ai/vicoa",
+    "createdAt": "2026-08-28T16:30:26Z",
+    "disposition": "existing catalog identity",
+    "reason": "Primary-source catalog record exists."
+  },
+  {
+    "repository": "bojieli/agentreach",
+    "url": "https://github.com/bojieli/agentreach",
+    "createdAt": "2026-08-14T16:14:12Z",
+    "disposition": "published",
+    "reason": "Primary-source catalog record exists."
+  },
+  {
+    "repository": "sulabhdubey/rta-smriti-brain",
+    "url": "https://github.com/sulabhdubey/rta-smriti-brain",
+    "createdAt": "2026-08-14T20:49:21Z",
+    "disposition": "published",
+    "reason": "Primary-source catalog record exists."
+  },
+  {
+    "repository": "i-am-manware/Manware-s-AI-Learning-Toolkit",
+    "url": "https://github.com/i-am-manware/Manware-s-AI-Learning-Toolkit",
+    "createdAt": "2026-09-05T16:46:07Z",
+    "disposition": "not promoted",
+    "reason": "Search lead screened out as a list, tutorial, template, prompt/skill collection, product-specific plugin or GUI for an existing harness, narrow example, or insufficient standalone runtime identity. No implementation or license claim is made."
+  },
+  {
+    "repository": "pinloop-ai/pinloop-cli",
+    "url": "https://github.com/pinloop-ai/pinloop-cli",
+    "createdAt": "2026-08-23T18:12:45Z",
+    "disposition": "not promoted",
+    "reason": "Search lead screened out as a list, tutorial, template, prompt/skill collection, product-specific plugin or GUI for an existing harness, narrow example, or insufficient standalone runtime identity. No implementation or license claim is made."
+  },
+  {
+    "repository": "GamePhanesStudio/GamePhanes",
+    "url": "https://github.com/GamePhanesStudio/GamePhanes",
+    "createdAt": "2026-08-21T02:57:42Z",
+    "disposition": "published",
+    "reason": "Primary-source catalog record exists."
+  },
+  {
+    "repository": "w1u2d3i4/multitown",
+    "url": "https://github.com/w1u2d3i4/multitown",
+    "createdAt": "2026-08-20T07:55:08Z",
+    "disposition": "deferred",
+    "reason": "Runtime source is present but the current Arena is described as a deterministic visualization; independently separate implemented reusable agent execution from simulation and roadmap claims."
+  },
+  {
+    "repository": "Agenta-AI/awesome-ai-agent-platforms",
+    "url": "https://github.com/Agenta-AI/awesome-ai-agent-platforms",
+    "createdAt": "2026-09-02T16:32:59Z",
+    "disposition": "not promoted",
+    "reason": "Search lead screened out as a list, tutorial, template, prompt/skill collection, product-specific plugin or GUI for an existing harness, narrow example, or insufficient standalone runtime identity. No implementation or license claim is made."
+  },
+  {
+    "repository": "heyman333/agent-notion-template-docs",
+    "url": "https://github.com/heyman333/agent-notion-template-docs",
+    "createdAt": "2026-08-30T23:36:34Z",
+    "disposition": "not promoted",
+    "reason": "Search lead screened out as a list, tutorial, template, prompt/skill collection, product-specific plugin or GUI for an existing harness, narrow example, or insufficient standalone runtime identity. No implementation or license claim is made."
+  },
+  {
+    "repository": "Alexwtlf/agentic-product-demo",
+    "url": "https://github.com/Alexwtlf/agentic-product-demo",
+    "createdAt": "2026-08-24T18:38:19Z",
+    "disposition": "not promoted",
+    "reason": "Search lead screened out as a list, tutorial, template, prompt/skill collection, product-specific plugin or GUI for an existing harness, narrow example, or insufficient standalone runtime identity. No implementation or license claim is made."
+  },
+  {
+    "repository": "agentic-lineage/lineage",
+    "url": "https://github.com/agentic-lineage/lineage",
+    "createdAt": "2026-08-18T17:57:34Z",
+    "disposition": "deferred",
+    "reason": "Recent GitHub search describes a potentially relevant agent execution, context, coordination, or evaluation component. Primary implementation, licensing, release identity, and provenance review remain incomplete; no promotion on search metadata alone."
+  },
+  {
+    "repository": "JackyCufe/signal-vaults",
+    "url": "https://github.com/JackyCufe/signal-vaults",
+    "createdAt": "2026-09-02T13:25:24Z",
+    "disposition": "not promoted",
+    "reason": "Search lead screened out as a list, tutorial, template, prompt/skill collection, product-specific plugin or GUI for an existing harness, narrow example, or insufficient standalone runtime identity. No implementation or license claim is made."
+  },
+  {
+    "repository": "Nanako0129/sepia",
+    "url": "https://github.com/Nanako0129/sepia",
+    "createdAt": "2026-08-28T05:56:49Z",
+    "disposition": "not promoted",
+    "reason": "Search lead screened out as a list, tutorial, template, prompt/skill collection, product-specific plugin or GUI for an existing harness, narrow example, or insufficient standalone runtime identity. No implementation or license claim is made."
+  },
+  {
+    "repository": "lohoz/agenthist",
+    "url": "https://github.com/lohoz/agenthist",
+    "createdAt": "2026-08-19T06:46:20Z",
+    "disposition": "published",
+    "reason": "Primary-source catalog record exists."
+  },
+  {
+    "repository": "Tyche-MKR/scientific-agent-skills",
+    "url": "https://github.com/Tyche-MKR/scientific-agent-skills",
+    "createdAt": "2026-08-31T10:54:19Z",
+    "disposition": "not promoted",
+    "reason": "Search lead screened out as a list, tutorial, template, prompt/skill collection, product-specific plugin or GUI for an existing harness, narrow example, or insufficient standalone runtime identity. No implementation or license claim is made."
+  },
+  {
+    "repository": "codejunkie99/agentic-stack-desktop",
+    "url": "https://github.com/codejunkie99/agentic-stack-desktop",
+    "createdAt": "2026-09-08T09:48:30Z",
+    "disposition": "published",
+    "reason": "Primary-source catalog record exists."
+  },
+  {
+    "repository": "xhluca/open-agent-view",
+    "url": "https://github.com/xhluca/open-agent-view",
+    "createdAt": "2026-08-17T19:10:38Z",
+    "disposition": "published",
+    "reason": "Primary-source catalog record exists."
+  },
+  {
+    "repository": "coldteadotai/pr-lens",
+    "url": "https://github.com/coldteadotai/pr-lens",
+    "createdAt": "2026-08-20T19:16:16Z",
+    "disposition": "not promoted",
+    "reason": "Search lead screened out as a list, tutorial, template, prompt/skill collection, product-specific plugin or GUI for an existing harness, narrow example, or insufficient standalone runtime identity. No implementation or license claim is made."
+  },
+  {
+    "repository": "titanwings/dsh-automation",
+    "url": "https://github.com/titanwings/dsh-automation",
+    "createdAt": "2026-08-13T13:30:40Z",
+    "disposition": "not promoted",
+    "reason": "Search lead screened out as a list, tutorial, template, prompt/skill collection, product-specific plugin or GUI for an existing harness, narrow example, or insufficient standalone runtime identity. No implementation or license claim is made."
+  },
+  {
+    "repository": "aiongo/mini-coding-agent-go",
+    "url": "https://github.com/aiongo/mini-coding-agent-go",
+    "createdAt": "2026-08-23T12:40:38Z",
+    "disposition": "not promoted",
+    "reason": "Search lead screened out as a list, tutorial, template, prompt/skill collection, product-specific plugin or GUI for an existing harness, narrow example, or insufficient standalone runtime identity. No implementation or license claim is made."
+  },
+  {
+    "repository": "naw103/foremerge",
+    "url": "https://github.com/naw103/foremerge",
+    "createdAt": "2026-08-21T17:52:45Z",
+    "disposition": "published",
+    "reason": "Primary-source catalog record exists."
+  },
+  {
+    "repository": "aleksandr-alhoff/seo-landing",
+    "url": "https://github.com/aleksandr-alhoff/seo-landing",
+    "createdAt": "2026-08-28T20:01:23Z",
+    "disposition": "not promoted",
+    "reason": "Search lead screened out as a list, tutorial, template, prompt/skill collection, product-specific plugin or GUI for an existing harness, narrow example, or insufficient standalone runtime identity. No implementation or license claim is made."
+  },
+  {
+    "repository": "JetBrains/benjamin-plus-skill",
+    "url": "https://github.com/JetBrains/benjamin-plus-skill",
+    "createdAt": "2026-08-17T11:00:29Z",
+    "disposition": "not promoted",
+    "reason": "Search lead screened out as a list, tutorial, template, prompt/skill collection, product-specific plugin or GUI for an existing harness, narrow example, or insufficient standalone runtime identity. No implementation or license claim is made."
+  },
+  {
+    "repository": "MirroS-Lab/Code-as-World",
+    "url": "https://github.com/MirroS-Lab/Code-as-World",
+    "createdAt": "2026-08-27T17:42:04Z",
+    "disposition": "not promoted",
+    "reason": "Search lead screened out as a list, tutorial, template, prompt/skill collection, product-specific plugin or GUI for an existing harness, narrow example, or insufficient standalone runtime identity. No implementation or license claim is made."
+  },
+  {
+    "repository": "Yaxin9Luo/AutoDesign",
+    "url": "https://github.com/Yaxin9Luo/AutoDesign",
+    "createdAt": "2026-08-14T02:38:45Z",
+    "disposition": "deferred",
+    "reason": "Recent GitHub search describes a potentially relevant agent execution, context, coordination, or evaluation component. Primary implementation, licensing, release identity, and provenance review remain incomplete; no promotion on search metadata alone."
+  },
+  {
+    "repository": "BlackPearl-AI/BlackPearl-CodingAgent",
+    "url": "https://github.com/BlackPearl-AI/BlackPearl-CodingAgent",
+    "createdAt": "2026-08-30T10:29:47Z",
+    "disposition": "deferred",
+    "reason": "Recent GitHub search describes a potentially relevant agent execution, context, coordination, or evaluation component. Primary implementation, licensing, release identity, and provenance review remain incomplete; no promotion on search metadata alone."
+  },
+  {
+    "repository": "chosuicide/beatscope",
+    "url": "https://github.com/chosuicide/beatscope",
+    "createdAt": "2026-08-26T07:32:24Z",
+    "disposition": "not promoted",
+    "reason": "Search lead screened out as a list, tutorial, template, prompt/skill collection, product-specific plugin or GUI for an existing harness, narrow example, or insufficient standalone runtime identity. No implementation or license claim is made."
+  },
+  {
+    "repository": "codejunkie99/fable-orchestrator",
+    "url": "https://github.com/codejunkie99/fable-orchestrator",
+    "createdAt": "2026-09-02T21:48:23Z",
+    "disposition": "not promoted",
+    "reason": "Search lead screened out as a list, tutorial, template, prompt/skill collection, product-specific plugin or GUI for an existing harness, narrow example, or insufficient standalone runtime identity. No implementation or license claim is made."
+  },
+  {
+    "repository": "donvito/codex-astra-luna-orchestrator",
+    "url": "https://github.com/donvito/codex-astra-luna-orchestrator",
+    "createdAt": "2026-09-05T16:03:06Z",
+    "disposition": "not promoted",
+    "reason": "Search lead screened out as a list, tutorial, template, prompt/skill collection, product-specific plugin or GUI for an existing harness, narrow example, or insufficient standalone runtime identity. No implementation or license claim is made."
+  },
+  {
+    "repository": "christiangrey922/multi-agent-workflow-lab",
+    "url": "https://github.com/christiangrey922/multi-agent-workflow-lab",
+    "createdAt": "2026-08-12T09:04:07Z",
+    "disposition": "deferred",
+    "reason": "Recent GitHub search describes a potentially relevant agent execution, context, coordination, or evaluation component. Primary implementation, licensing, release identity, and provenance review remain incomplete; no promotion on search metadata alone."
+  },
+  {
+    "repository": "sjc88661/multi-agent-discuss",
+    "url": "https://github.com/sjc88661/multi-agent-discuss",
+    "createdAt": "2026-08-14T16:17:29Z",
+    "disposition": "not promoted",
+    "reason": "Search lead screened out as a list, tutorial, template, prompt/skill collection, product-specific plugin or GUI for an existing harness, narrow example, or insufficient standalone runtime identity. No implementation or license claim is made."
+  },
+  {
+    "repository": "Zyrexnn/Cybermes",
+    "url": "https://github.com/Zyrexnn/Cybermes",
+    "createdAt": "2026-08-19T13:25:08Z",
+    "disposition": "deferred",
+    "reason": "Recent GitHub search describes a potentially relevant agent execution, context, coordination, or evaluation component. Primary implementation, licensing, release identity, and provenance review remain incomplete; no promotion on search metadata alone."
+  },
+  {
+    "repository": "iamlukethedev/Hermes3D",
+    "url": "https://github.com/iamlukethedev/Hermes3D",
+    "createdAt": "2026-08-17T10:46:44Z",
+    "disposition": "deferred",
+    "reason": "Recent GitHub search describes a potentially relevant agent execution, context, coordination, or evaluation component. Primary implementation, licensing, release identity, and provenance review remain incomplete; no promotion on search metadata alone."
+  },
+  {
+    "repository": "nithin42/Azure-ai-foundry-erp-swarm",
+    "url": "https://github.com/nithin42/Azure-ai-foundry-erp-swarm",
+    "createdAt": "2026-08-16T17:09:09Z",
+    "disposition": "not promoted",
+    "reason": "Search lead screened out as a list, tutorial, template, prompt/skill collection, product-specific plugin or GUI for an existing harness, narrow example, or insufficient standalone runtime identity. No implementation or license claim is made."
+  },
+  {
+    "repository": "decionis/agent-safe-pipeline",
+    "url": "https://github.com/decionis/agent-safe-pipeline",
+    "createdAt": "2026-08-13T21:36:19Z",
+    "disposition": "not promoted",
+    "reason": "Search lead screened out as a list, tutorial, template, prompt/skill collection, product-specific plugin or GUI for an existing harness, narrow example, or insufficient standalone runtime identity. No implementation or license claim is made."
+  },
+  {
+    "repository": "breko861-hash/sol-luna-codex-orchestrator",
+    "url": "https://github.com/breko861-hash/sol-luna-codex-orchestrator",
+    "createdAt": "2026-08-30T06:49:05Z",
+    "disposition": "not promoted",
+    "reason": "Search lead screened out as a list, tutorial, template, prompt/skill collection, product-specific plugin or GUI for an existing harness, narrow example, or insufficient standalone runtime identity. No implementation or license claim is made."
+  },
+  {
+    "repository": "phungkaizen/maintainer-autopilot",
+    "url": "https://github.com/phungkaizen/maintainer-autopilot",
+    "createdAt": "2026-08-12T05:50:20Z",
+    "disposition": "published",
+    "reason": "Primary-source catalog record exists."
+  },
+  {
+    "repository": "wemux-ai/wemux",
+    "url": "https://github.com/wemux-ai/wemux",
+    "createdAt": "2026-08-25T16:55:32Z",
+    "disposition": "published",
+    "reason": "Primary-source catalog record exists."
+  },
+  {
+    "repository": "HanyuanWang/LiveStream-Agent-Studio",
+    "url": "https://github.com/HanyuanWang/LiveStream-Agent-Studio",
+    "createdAt": "2026-08-22T14:16:48Z",
+    "disposition": "not promoted",
+    "reason": "Search lead screened out as a list, tutorial, template, prompt/skill collection, product-specific plugin or GUI for an existing harness, narrow example, or insufficient standalone runtime identity. No implementation or license claim is made."
+  },
+  {
+    "repository": "khanhcamap2020-sudo/formkind",
+    "url": "https://github.com/khanhcamap2020-sudo/formkind",
+    "createdAt": "2026-08-13T02:26:28Z",
+    "disposition": "not promoted",
+    "reason": "Search lead screened out as a list, tutorial, template, prompt/skill collection, product-specific plugin or GUI for an existing harness, narrow example, or insufficient standalone runtime identity. No implementation or license claim is made."
+  },
+  {
+    "repository": "2akouwu/reverify",
+    "url": "https://github.com/2akouwu/reverify",
+    "createdAt": "2026-08-31T01:02:18Z",
+    "disposition": "published",
+    "reason": "Primary-source catalog record exists."
+  },
+  {
+    "repository": "soumatheusgomes/vibe-coding-toolkit",
+    "url": "https://github.com/soumatheusgomes/vibe-coding-toolkit",
+    "createdAt": "2026-08-14T23:41:31Z",
+    "disposition": "not promoted",
+    "reason": "Search lead screened out as a list, tutorial, template, prompt/skill collection, product-specific plugin or GUI for an existing harness, narrow example, or insufficient standalone runtime identity. No implementation or license claim is made."
+  },
+  {
+    "repository": "jinzijian/EvoTrace",
+    "url": "https://github.com/jinzijian/EvoTrace",
+    "createdAt": "2026-08-19T09:26:03Z",
+    "disposition": "deferred",
+    "reason": "Recent GitHub search describes a potentially relevant agent execution, context, coordination, or evaluation component. Primary implementation, licensing, release identity, and provenance review remain incomplete; no promotion on search metadata alone."
+  },
+  {
+    "repository": "jzjzzzzzzz/agent-me",
+    "url": "https://github.com/jzjzzzzzzz/agent-me",
+    "createdAt": "2026-08-27T04:08:50Z",
+    "disposition": "deferred",
+    "reason": "Recent GitHub search describes a potentially relevant agent execution, context, coordination, or evaluation component. Primary implementation, licensing, release identity, and provenance review remain incomplete; no promotion on search metadata alone."
+  },
+  {
+    "repository": "dhicoc/dsh-reverse-skill",
+    "url": "https://github.com/dhicoc/dsh-reverse-skill",
+    "createdAt": "2026-08-14T13:32:19Z",
+    "disposition": "not promoted",
+    "reason": "Search lead screened out as a list, tutorial, template, prompt/skill collection, product-specific plugin or GUI for an existing harness, narrow example, or insufficient standalone runtime identity. No implementation or license claim is made."
+  },
+  {
+    "repository": "NxcoreAI/EverRoom",
+    "url": "https://github.com/NxcoreAI/EverRoom",
+    "createdAt": "2026-08-14T13:13:51Z",
+    "disposition": "deferred",
+    "reason": "The official source says its first complete local workflow is still being finished; GitHub license detection differs from the Apache text. Verify full license and a runnable release before promotion."
+  },
+  {
+    "repository": "GENEXIS-AI/gpt-image-skill",
+    "url": "https://github.com/GENEXIS-AI/gpt-image-skill",
+    "createdAt": "2026-08-26T08:52:50Z",
+    "disposition": "not promoted",
+    "reason": "Search lead screened out as a list, tutorial, template, prompt/skill collection, product-specific plugin or GUI for an existing harness, narrow example, or insufficient standalone runtime identity. No implementation or license claim is made."
+  },
+  {
+    "repository": "hieuphung97/dely",
+    "url": "https://github.com/hieuphung97/dely",
+    "createdAt": "2026-08-21T05:05:19Z",
+    "disposition": "not promoted",
+    "reason": "Search lead screened out as a list, tutorial, template, prompt/skill collection, product-specific plugin or GUI for an existing harness, narrow example, or insufficient standalone runtime identity. No implementation or license claim is made."
+  },
+  {
+    "repository": "DannyMac180/astra-advisor",
+    "url": "https://github.com/DannyMac180/astra-advisor",
+    "createdAt": "2026-09-04T20:49:03Z",
+    "disposition": "not promoted",
+    "reason": "Search lead screened out as a list, tutorial, template, prompt/skill collection, product-specific plugin or GUI for an existing harness, narrow example, or insufficient standalone runtime identity. No implementation or license claim is made."
+  },
+  {
+    "repository": "gfodor/legal-skills",
+    "url": "https://github.com/gfodor/legal-skills",
+    "createdAt": "2026-08-12T21:14:16Z",
+    "disposition": "not promoted",
+    "reason": "Search lead screened out as a list, tutorial, template, prompt/skill collection, product-specific plugin or GUI for an existing harness, narrow example, or insufficient standalone runtime identity. No implementation or license claim is made."
+  },
+  {
+    "repository": "Azure-Samples/claims-processing-hack",
+    "url": "https://github.com/Azure-Samples/claims-processing-hack",
+    "createdAt": "2026-09-06T16:17:15Z",
+    "disposition": "not promoted",
+    "reason": "Search lead screened out as a list, tutorial, template, prompt/skill collection, product-specific plugin or GUI for an existing harness, narrow example, or insufficient standalone runtime identity. No implementation or license claim is made."
+  },
+  {
+    "repository": "google/artemis",
+    "url": "https://github.com/google/artemis",
+    "createdAt": "2026-08-13T17:59:37Z",
+    "disposition": "published",
+    "reason": "Primary-source catalog record exists."
+  },
+  {
+    "repository": "kyky2347/ALTA",
+    "url": "https://github.com/kyky2347/ALTA",
+    "createdAt": "2026-08-27T09:42:45Z",
+    "disposition": "not promoted",
+    "reason": "Search lead screened out as a list, tutorial, template, prompt/skill collection, product-specific plugin or GUI for an existing harness, narrow example, or insufficient standalone runtime identity. No implementation or license claim is made."
+  },
+  {
+    "repository": "useagenthq/useagent",
+    "url": "https://github.com/useagenthq/useagent",
+    "createdAt": "2026-08-29T21:14:31Z",
+    "disposition": "published",
+    "reason": "Primary-source catalog record exists."
+  },
+  {
+    "repository": "jtydhr88/screenwriting-skills",
+    "url": "https://github.com/jtydhr88/screenwriting-skills",
+    "createdAt": "2026-09-06T12:28:23Z",
+    "disposition": "not promoted",
+    "reason": "Search lead screened out as a list, tutorial, template, prompt/skill collection, product-specific plugin or GUI for an existing harness, narrow example, or insufficient standalone runtime identity. No implementation or license claim is made."
+  },
+  {
+    "repository": "forcewake/hermes-conductor",
+    "url": "https://github.com/forcewake/hermes-conductor",
+    "createdAt": "2026-08-23T18:49:46Z",
+    "disposition": "not promoted",
+    "reason": "Search lead screened out as a list, tutorial, template, prompt/skill collection, product-specific plugin or GUI for an existing harness, narrow example, or insufficient standalone runtime identity. No implementation or license claim is made."
+  },
+  {
+    "repository": "seanlxh/Air-Lingjing",
+    "url": "https://github.com/seanlxh/Air-Lingjing",
+    "createdAt": "2026-08-14T03:12:40Z",
+    "disposition": "deferred",
+    "reason": "Recent GitHub search describes a potentially relevant agent execution, context, coordination, or evaluation component. Primary implementation, licensing, release identity, and provenance review remain incomplete; no promotion on search metadata alone."
+  },
+  {
+    "repository": "agentic-spring-ai/agentic-spring-ai",
+    "url": "https://github.com/agentic-spring-ai/agentic-spring-ai",
+    "createdAt": "2026-08-25T17:53:31Z",
+    "disposition": "existing catalog identity",
+    "reason": "Primary-source catalog record exists."
+  },
+  {
+    "repository": "Lilly-Protocol/agentlily-runtime",
+    "url": "https://github.com/Lilly-Protocol/agentlily-runtime",
+    "createdAt": "2026-08-13T19:30:53Z",
+    "disposition": "deferred",
+    "reason": "Recent GitHub search describes a potentially relevant agent execution, context, coordination, or evaluation component. Primary implementation, licensing, release identity, and provenance review remain incomplete; no promotion on search metadata alone."
+  },
+  {
+    "repository": "rome-os/rome",
+    "url": "https://github.com/rome-os/rome",
+    "createdAt": "2026-08-23T06:15:15Z",
+    "disposition": "existing catalog identity",
+    "reason": "Primary-source catalog record exists."
+  },
+  {
+    "repository": "ZSvirt/zsvirt",
+    "url": "https://github.com/ZSvirt/zsvirt",
+    "createdAt": "2026-08-14T06:47:26Z",
+    "disposition": "not promoted",
+    "reason": "Search lead screened out as a list, tutorial, template, prompt/skill collection, product-specific plugin or GUI for an existing harness, narrow example, or insufficient standalone runtime identity. No implementation or license claim is made."
+  },
+  {
+    "repository": "cocoyes/zhizhi-agent-runtime",
+    "url": "https://github.com/cocoyes/zhizhi-agent-runtime",
+    "createdAt": "2026-08-31T10:23:49Z",
+    "disposition": "existing catalog identity",
+    "reason": "Primary-source catalog record exists."
+  },
+  {
+    "repository": "originoneai/agent-work-runtime",
+    "url": "https://github.com/originoneai/agent-work-runtime",
+    "createdAt": "2026-09-07T16:09:21Z",
+    "disposition": "published",
+    "reason": "Primary-source catalog record exists."
+  },
+  {
+    "repository": "wkbin/taixu",
+    "url": "https://github.com/wkbin/taixu",
+    "createdAt": "2026-08-20T09:49:57Z",
+    "disposition": "published",
+    "reason": "Primary-source catalog record exists."
+  },
+  {
+    "repository": "7757/Fan-Browser-Agent",
+    "url": "https://github.com/7757/Fan-Browser-Agent",
+    "createdAt": "2026-08-14T01:54:35Z",
+    "disposition": "published",
+    "reason": "Primary-source catalog record exists."
+  },
+  {
+    "repository": "yuzheng310/qwen3-runtime",
+    "url": "https://github.com/yuzheng310/qwen3-runtime",
+    "createdAt": "2026-08-28T11:45:51Z",
+    "disposition": "deferred",
+    "reason": "Recent GitHub search describes a potentially relevant agent execution, context, coordination, or evaluation component. Primary implementation, licensing, release identity, and provenance review remain incomplete; no promotion on search metadata alone."
+  },
+  {
+    "repository": "ARPAHLS/aura",
+    "url": "https://github.com/ARPAHLS/aura",
+    "createdAt": "2026-08-18T10:56:13Z",
+    "disposition": "published",
+    "reason": "Primary-source catalog record exists."
+  },
+  {
+    "repository": "lexmount/Lexbench-Headless-Browser",
+    "url": "https://github.com/lexmount/Lexbench-Headless-Browser",
+    "createdAt": "2026-08-17T20:55:19Z",
+    "disposition": "deferred",
+    "reason": "Recent GitHub search describes a potentially relevant agent execution, context, coordination, or evaluation component. Primary implementation, licensing, release identity, and provenance review remain incomplete; no promotion on search metadata alone."
+  },
+  {
+    "repository": "shengsheng90/DSH-taskboard",
+    "url": "https://github.com/shengsheng90/DSH-taskboard",
+    "createdAt": "2026-08-14T02:58:37Z",
+    "disposition": "not promoted",
+    "reason": "Search lead screened out as a list, tutorial, template, prompt/skill collection, product-specific plugin or GUI for an existing harness, narrow example, or insufficient standalone runtime identity. No implementation or license claim is made."
+  },
+  {
+    "repository": "enwong93-sketch/devspace-ultra",
+    "url": "https://github.com/enwong93-sketch/devspace-ultra",
+    "createdAt": "2026-08-18T14:52:46Z",
+    "disposition": "deferred",
+    "reason": "Recent GitHub search describes a potentially relevant agent execution, context, coordination, or evaluation component. Primary implementation, licensing, release identity, and provenance review remain incomplete; no promotion on search metadata alone."
+  },
+  {
+    "repository": "context-labs/whip",
+    "url": "https://github.com/context-labs/whip",
+    "createdAt": "2026-08-20T22:57:11Z",
+    "disposition": "published",
+    "reason": "Primary-source catalog record exists."
+  },
+  {
+    "repository": "dream-num/dsh-univer-office",
+    "url": "https://github.com/dream-num/dsh-univer-office",
+    "createdAt": "2026-08-15T16:29:45Z",
+    "disposition": "not promoted",
+    "reason": "Search lead screened out as a list, tutorial, template, prompt/skill collection, product-specific plugin or GUI for an existing harness, narrow example, or insufficient standalone runtime identity. No implementation or license claim is made."
+  },
+  {
+    "repository": "KenKaiii/agent-steroids",
+    "url": "https://github.com/KenKaiii/agent-steroids",
+    "createdAt": "2026-08-31T22:24:31Z",
+    "disposition": "deferred",
+    "reason": "Recent GitHub search describes a potentially relevant agent execution, context, coordination, or evaluation component. Primary implementation, licensing, release identity, and provenance review remain incomplete; no promotion on search metadata alone."
+  },
+  {
+    "repository": "wangmiaozero/pi-harness",
+    "url": "https://github.com/wangmiaozero/pi-harness",
+    "createdAt": "2026-08-20T12:29:47Z",
+    "disposition": "deferred",
+    "reason": "Recent GitHub search describes a potentially relevant agent execution, context, coordination, or evaluation component. Primary implementation, licensing, release identity, and provenance review remain incomplete; no promotion on search metadata alone."
+  },
+  {
+    "repository": "git-syl/hermes-agent-demo",
+    "url": "https://github.com/git-syl/hermes-agent-demo",
+    "createdAt": "2026-08-29T14:40:53Z",
+    "disposition": "not promoted",
+    "reason": "Search lead screened out as a list, tutorial, template, prompt/skill collection, product-specific plugin or GUI for an existing harness, narrow example, or insufficient standalone runtime identity. No implementation or license claim is made."
+  },
+  {
+    "repository": "azrtydxb/procoder",
+    "url": "https://github.com/azrtydxb/procoder",
+    "createdAt": "2026-08-16T07:47:17Z",
+    "disposition": "existing catalog identity",
+    "reason": "Primary-source catalog record exists."
+  },
+  {
+    "repository": "Da7-Tech/SureForge",
+    "url": "https://github.com/Da7-Tech/SureForge",
+    "createdAt": "2026-09-09T12:59:04Z",
+    "disposition": "not promoted",
+    "reason": "Search lead screened out as a list, tutorial, template, prompt/skill collection, product-specific plugin or GUI for an existing harness, narrow example, or insufficient standalone runtime identity. No implementation or license claim is made."
+  },
+  {
+    "repository": "GUNMIN-KIM/after-effects-codex-agent",
+    "url": "https://github.com/GUNMIN-KIM/after-effects-codex-agent",
+    "createdAt": "2026-08-30T15:58:25Z",
+    "disposition": "not promoted",
+    "reason": "Search lead screened out as a list, tutorial, template, prompt/skill collection, product-specific plugin or GUI for an existing harness, narrow example, or insufficient standalone runtime identity. No implementation or license claim is made."
+  },
+  {
+    "repository": "GitHubxsy/nanodeepseekharness",
+    "url": "https://github.com/GitHubxsy/nanodeepseekharness",
+    "createdAt": "2026-08-16T00:55:49Z",
+    "disposition": "not promoted",
+    "reason": "Search lead screened out as a list, tutorial, template, prompt/skill collection, product-specific plugin or GUI for an existing harness, narrow example, or insufficient standalone runtime identity. No implementation or license claim is made."
+  },
+  {
+    "repository": "zijie1024/autryn",
+    "url": "https://github.com/zijie1024/autryn",
+    "createdAt": "2026-09-06T02:14:50Z",
+    "disposition": "published",
+    "reason": "Primary-source catalog record exists."
+  },
+  {
+    "repository": "SihanTeng/awesome-deepseek-harness-plugins",
+    "url": "https://github.com/SihanTeng/awesome-deepseek-harness-plugins",
+    "createdAt": "2026-08-14T08:06:41Z",
+    "disposition": "not promoted",
+    "reason": "Search lead screened out as a list, tutorial, template, prompt/skill collection, product-specific plugin or GUI for an existing harness, narrow example, or insufficient standalone runtime identity. No implementation or license claim is made."
+  },
+  {
+    "repository": "speakeasy-api/kit",
+    "url": "https://github.com/speakeasy-api/kit",
+    "createdAt": "2026-08-24T16:55:28Z",
+    "disposition": "existing catalog identity",
+    "reason": "Primary-source catalog record exists."
+  },
+  {
+    "repository": "codexmark/kram",
+    "url": "https://github.com/codexmark/kram",
+    "createdAt": "2026-08-17T00:01:31Z",
+    "disposition": "published",
+    "reason": "Primary-source catalog record exists."
+  },
+  {
+    "repository": "crossoverJie/botler-agent",
+    "url": "https://github.com/crossoverJie/botler-agent",
+    "createdAt": "2026-08-20T01:55:18Z",
+    "disposition": "deferred",
+    "reason": "Recent GitHub search describes a potentially relevant agent execution, context, coordination, or evaluation component. Primary implementation, licensing, release identity, and provenance review remain incomplete; no promotion on search metadata alone."
+  },
+  {
+    "repository": "gly-hub/ai-dandelion",
+    "url": "https://github.com/gly-hub/ai-dandelion",
+    "createdAt": "2026-08-14T08:54:33Z",
+    "disposition": "deferred",
+    "reason": "Recent GitHub search describes a potentially relevant agent execution, context, coordination, or evaluation component. Primary implementation, licensing, release identity, and provenance review remain incomplete; no promotion on search metadata alone."
+  },
+  {
+    "repository": "skymecode/deepseek-harness-for-vscode",
+    "url": "https://github.com/skymecode/deepseek-harness-for-vscode",
+    "createdAt": "2026-08-13T18:35:49Z",
+    "disposition": "not promoted",
+    "reason": "Search lead screened out as a list, tutorial, template, prompt/skill collection, product-specific plugin or GUI for an existing harness, narrow example, or insufficient standalone runtime identity. No implementation or license claim is made."
+  },
+  {
+    "repository": "thetis-agent/runtime",
+    "url": "https://github.com/thetis-agent/runtime",
+    "createdAt": "2026-09-09T19:33:01Z",
+    "disposition": "deferred",
+    "reason": "Recent GitHub search describes a potentially relevant agent execution, context, coordination, or evaluation component. Primary implementation, licensing, release identity, and provenance review remain incomplete; no promotion on search metadata alone."
+  },
+  {
+    "repository": "aexhq/brain",
+    "url": "https://github.com/aexhq/brain",
+    "createdAt": "2026-08-18T14:35:29Z",
+    "disposition": "published",
+    "reason": "Primary-source catalog record exists."
+  },
+  {
+    "repository": "kerenkoshman/deterministic-agent-harness",
+    "url": "https://github.com/kerenkoshman/deterministic-agent-harness",
+    "createdAt": "2026-08-14T20:50:34Z",
+    "disposition": "deferred",
+    "reason": "Recent GitHub search describes a potentially relevant agent execution, context, coordination, or evaluation component. Primary implementation, licensing, release identity, and provenance review remain incomplete; no promotion on search metadata alone."
+  },
+  {
+    "repository": "molis-ai/GoalBoard",
+    "url": "https://github.com/molis-ai/GoalBoard",
+    "createdAt": "2026-08-15T15:29:17Z",
+    "disposition": "deferred",
+    "reason": "Recent GitHub search describes a potentially relevant agent execution, context, coordination, or evaluation component. Primary implementation, licensing, release identity, and provenance review remain incomplete; no promotion on search metadata alone."
+  },
+  {
+    "repository": "hey-Chloe/mini-runtime-agent",
+    "url": "https://github.com/hey-Chloe/mini-runtime-agent",
+    "createdAt": "2026-08-13T11:29:40Z",
+    "disposition": "not promoted",
+    "reason": "Search lead screened out as a list, tutorial, template, prompt/skill collection, product-specific plugin or GUI for an existing harness, narrow example, or insufficient standalone runtime identity. No implementation or license claim is made."
+  },
+  {
+    "repository": "beejmaxx/awesome-agent-runtimes",
+    "url": "https://github.com/beejmaxx/awesome-agent-runtimes",
+    "createdAt": "2026-08-21T14:51:37Z",
+    "disposition": "not promoted",
+    "reason": "Search lead screened out as a list, tutorial, template, prompt/skill collection, product-specific plugin or GUI for an existing harness, narrow example, or insufficient standalone runtime identity. No implementation or license claim is made."
+  },
+  {
+    "repository": "AlexAI-MCP/KINGCRAB",
+    "url": "https://github.com/AlexAI-MCP/KINGCRAB",
+    "createdAt": "2026-08-12T12:04:59Z",
+    "disposition": "published",
+    "reason": "Primary-source catalog record exists."
+  },
+  {
+    "repository": "AkinoKaede/AgentKit",
+    "url": "https://github.com/AkinoKaede/AgentKit",
+    "createdAt": "2026-09-02T05:37:15Z",
+    "disposition": "existing catalog identity",
+    "reason": "Primary-source catalog record exists."
+  },
+  {
+    "repository": "jiang357357357/EdenAgent",
+    "url": "https://github.com/jiang357357357/EdenAgent",
+    "createdAt": "2026-08-24T06:49:32Z",
+    "disposition": "deferred",
+    "reason": "PolyForm Noncommercial source is undergoing a TypeScript migration; the README explicitly says recent implementation has not been run or verified. Await a documented runnable release."
+  },
+  {
+    "repository": "Alpha-Park/genpark-agent-runtime-invariant-assertion-synthesizer-skill",
+    "url": "https://github.com/Alpha-Park/genpark-agent-runtime-invariant-assertion-synthesizer-skill",
+    "createdAt": "2026-09-06T15:21:51Z",
+    "disposition": "not promoted",
+    "reason": "Search lead screened out as a list, tutorial, template, prompt/skill collection, product-specific plugin or GUI for an existing harness, narrow example, or insufficient standalone runtime identity. No implementation or license claim is made."
+  },
+  {
+    "repository": "alphaparkinc/genpark-agent-runtime-invariant-assertion-synthesizer-skill",
+    "url": "https://github.com/alphaparkinc/genpark-agent-runtime-invariant-assertion-synthesizer-skill",
+    "createdAt": "2026-09-06T15:21:13Z",
+    "disposition": "not promoted",
+    "reason": "Search lead screened out as a list, tutorial, template, prompt/skill collection, product-specific plugin or GUI for an existing harness, narrow example, or insufficient standalone runtime identity. No implementation or license claim is made."
+  },
+  {
+    "repository": "Alpha-Park/genpark-agent-runtime-hotpatch-sandbox-injector-skill",
+    "url": "https://github.com/Alpha-Park/genpark-agent-runtime-hotpatch-sandbox-injector-skill",
+    "createdAt": "2026-09-07T08:06:08Z",
+    "disposition": "not promoted",
+    "reason": "Search lead screened out as a list, tutorial, template, prompt/skill collection, product-specific plugin or GUI for an existing harness, narrow example, or insufficient standalone runtime identity. No implementation or license claim is made."
+  },
+  {
+    "repository": "alphaparkinc/genpark-agent-runtime-hotpatch-sandbox-injector-skill",
+    "url": "https://github.com/alphaparkinc/genpark-agent-runtime-hotpatch-sandbox-injector-skill",
+    "createdAt": "2026-09-07T08:05:30Z",
+    "disposition": "not promoted",
+    "reason": "Search lead screened out as a list, tutorial, template, prompt/skill collection, product-specific plugin or GUI for an existing harness, narrow example, or insufficient standalone runtime identity. No implementation or license claim is made."
+  },
+  {
+    "repository": "mmstudio-games/armillae",
+    "url": "https://github.com/mmstudio-games/armillae",
+    "createdAt": "2026-08-18T19:09:24Z",
+    "disposition": "deferred",
+    "reason": "Recent GitHub search describes a potentially relevant agent execution, context, coordination, or evaluation component. Primary implementation, licensing, release identity, and provenance review remain incomplete; no promotion on search metadata alone."
+  },
+  {
+    "repository": "APUS-AI-Lab/PhoneBuddySDK",
+    "url": "https://github.com/APUS-AI-Lab/PhoneBuddySDK",
+    "createdAt": "2026-08-18T10:21:22Z",
+    "disposition": "existing catalog identity",
+    "reason": "Primary-source catalog record exists."
+  },
+  {
+    "repository": "zinan92/agent",
+    "url": "https://github.com/zinan92/agent",
+    "createdAt": "2026-08-26T05:13:24Z",
+    "disposition": "not promoted",
+    "reason": "Search lead screened out as a list, tutorial, template, prompt/skill collection, product-specific plugin or GUI for an existing harness, narrow example, or insufficient standalone runtime identity. No implementation or license claim is made."
+  },
+  {
+    "repository": "apraba05/runtime",
+    "url": "https://github.com/apraba05/runtime",
+    "createdAt": "2026-08-15T07:19:37Z",
+    "disposition": "not promoted",
+    "reason": "Search lead screened out as a list, tutorial, template, prompt/skill collection, product-specific plugin or GUI for an existing harness, narrow example, or insufficient standalone runtime identity. No implementation or license claim is made."
+  },
+  {
+    "repository": "alphaparkinc/genpark-least-privilege-agent-runtime-sandbox-isolator-skill",
+    "url": "https://github.com/alphaparkinc/genpark-least-privilege-agent-runtime-sandbox-isolator-skill",
+    "createdAt": "2026-08-23T04:37:32Z",
+    "disposition": "not promoted",
+    "reason": "Search lead screened out as a list, tutorial, template, prompt/skill collection, product-specific plugin or GUI for an existing harness, narrow example, or insufficient standalone runtime identity. No implementation or license claim is made."
+  },
+  {
+    "repository": "alphaparkinc/genpark-agent-runtime-circuit-breaker-state-rollback-skill",
+    "url": "https://github.com/alphaparkinc/genpark-agent-runtime-circuit-breaker-state-rollback-skill",
+    "createdAt": "2026-08-18T01:16:53Z",
+    "disposition": "not promoted",
+    "reason": "Search lead screened out as a list, tutorial, template, prompt/skill collection, product-specific plugin or GUI for an existing harness, narrow example, or insufficient standalone runtime identity. No implementation or license claim is made."
+  },
+  {
+    "repository": "DigitalPine/runtime",
+    "url": "https://github.com/DigitalPine/runtime",
+    "createdAt": "2026-08-27T21:46:29Z",
+    "disposition": "published",
+    "reason": "Primary-source catalog record exists."
+  }
+]

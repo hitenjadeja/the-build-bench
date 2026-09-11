@@ -14,24 +14,311 @@
     "reason": "The vendor documents an execution layer for AI coding workflows, but its current official release-state report says Agent Harness remains in development and does not identify a released package or repository."
   },
   {
-    "name": "@ai-sdk-tool/harness",
-    "url": "https://www.npmjs.com/package/@ai-sdk-tool/harness",
+    "name": "AgentSeed",
+    "url": "https://github.com/Morningstar202604/agentseed-mcp",
     "discoveredAt": "2026-08-28",
-    "signalUrl": "https://www.npmjs.com/package/@ai-sdk-tool/harness",
-    "reason": "npm metadata now resolves the package to github.com/minpeter/plugsuits/packages/harness, but the official monorepo is archived and declares no repository license; keep deferred until a maintained, licensable source or successor is published."
+    "signalUrl": "https://github.com/Morningstar202604/agentseed-mcp",
+    "reason": "Previously published source now returns HTTP 404 through authenticated GitHub API and the public browser. The browser redirect to Morningstar202604/AgentSeed also has no public repository content; restore only after ownership and released source are reachable."
   },
   {
-    "name": "ClawDE",
-    "url": "https://clawde.io/",
-    "discoveredAt": "2026-09-04",
-    "signalUrl": "https://clawde.io/",
-    "reason": "The official page describes a host-first multi-agent development environment with local execution, shared context, drift checks, and cross-device sessions, but it is still marked early access and only offers launch notification rather than a public download or source repository."
+    "name": "Google Antigravity SDK",
+    "url": "https://github.com/google-antigravity/antigravity-sdk-python",
+    "discoveredAt": "2026-09-11",
+    "signalUrl": "https://github.com/google-antigravity/antigravity-sdk-python",
+    "reason": "Apache-2.0 Python wrapper is reviewable, but execution requires a compiled runtime distributed only in PyPI wheels; runtime licensing and artifact provenance need independent verification."
   },
   {
-    "name": "Decispher",
-    "url": "https://news.ycombinator.com/item?id=49509142",
-    "discoveredAt": "2026-09-04",
-    "signalUrl": "https://news.ycombinator.com/item?id=49509142",
-    "reason": "The founder's launch post describes a context engine, persistent memory plane, sandboxed worker agent, and npm setup commands, but it does not link an official product, documentation, package, or repository page that could independently verify the released artifact."
+    "name": "EverRoom",
+    "url": "https://github.com/NxcoreAI/EverRoom",
+    "discoveredAt": "2026-09-11",
+    "signalUrl": "https://github.com/NxcoreAI/EverRoom",
+    "reason": "The official source says its first complete local workflow is still being finished; GitHub license detection differs from the Apache text. Verify full license and a runnable release before promotion."
+  },
+  {
+    "name": "Eden Agent",
+    "url": "https://github.com/jiang357357357/EdenAgent",
+    "discoveredAt": "2026-09-11",
+    "signalUrl": "https://github.com/jiang357357357/EdenAgent",
+    "reason": "PolyForm Noncommercial source is undergoing a TypeScript migration; the README explicitly says recent implementation has not been run or verified. Await a documented runnable release."
+  },
+  {
+    "name": "Harness of Harness",
+    "url": "https://github.com/Flesymeb/HarnessOfHarness",
+    "discoveredAt": "2026-09-11",
+    "signalUrl": "https://github.com/Flesymeb/HarnessOfHarness",
+    "reason": "Research README and assets describe the system and link output games, but the repository root contains no reusable harness implementation."
+  },
+  {
+    "name": "MCP Guardian",
+    "url": "https://github.com/S1LV3RJ1NX/mcp-guardian",
+    "discoveredAt": "2026-09-11",
+    "signalUrl": "https://github.com/S1LV3RJ1NX/mcp-guardian",
+    "reason": "MIT repository claims the tool but its installation instructions point to prathamesh-saraf/mcp-guardian. Resolve canonical owner and duplicate provenance before promotion."
+  },
+  {
+    "name": "MultiTown",
+    "url": "https://github.com/w1u2d3i4/multitown",
+    "discoveredAt": "2026-09-11",
+    "signalUrl": "https://github.com/w1u2d3i4/multitown",
+    "reason": "Runtime source is present but the current Arena is described as a deterministic visualization; independently separate implemented reusable agent execution from simulation and roadmap claims."
+  },
+  {
+    "name": "Coldtea",
+    "url": "https://www.coldtea.ai/",
+    "discoveredAt": "2026-09-11",
+    "signalUrl": "https://www.coldtea.ai/docs/get-started/install-coldtea",
+    "reason": "Official documentation verifies the intended coding/testing/monitoring environment, but installation directs users to a distribution channel provided by Coldtea or a team without identifying a public artifact. Confirm distribution and product terms."
+  },
+  {
+    "name": "Jira agent loops",
+    "url": "https://www.atlassian.com/blog/jira/governed-agent-loops",
+    "discoveredAt": "2026-09-11",
+    "signalUrl": "https://www.atlassian.com/blog/jira/governed-agent-loops",
+    "reason": "Official announcement describes agent loops, Standards, and AI Review as private early access; await public release and independently reviewable setup."
+  },
+  {
+    "name": "Coder Agent Relay",
+    "url": "https://coder.com/blog/introducing-agent-relay",
+    "discoveredAt": "2026-09-11",
+    "signalUrl": "https://kaleidofield.com/news/coder-agent-relay-self-hosted-execution-keeps-reasoning-in-cloud",
+    "reason": "The reported official launch URL returns a 404 page; secondary coverage describes private preview. Verify a current official artifact and availability."
+  },
+  {
+    "name": "delivery-harness (diudiu-tech)",
+    "url": "https://github.com/diudiu-tech/delivery-harness",
+    "discoveredAt": "2026-09-11",
+    "signalUrl": "https://github.com/diudiu-tech/delivery-harness",
+    "reason": "Recent GitHub search describes a potentially relevant agent execution, context, coordination, or evaluation component. Primary implementation, licensing, release identity, and provenance review remain incomplete; no promotion on search metadata alone."
+  },
+  {
+    "name": "JIT (bingreeky)",
+    "url": "https://github.com/bingreeky/JIT",
+    "discoveredAt": "2026-09-11",
+    "signalUrl": "https://github.com/bingreeky/JIT",
+    "reason": "Recent GitHub search describes a potentially relevant agent execution, context, coordination, or evaluation component. Primary implementation, licensing, release identity, and provenance review remain incomplete; no promotion on search metadata alone."
+  },
+  {
+    "name": "OpenTrade-Agent (MariusOTB)",
+    "url": "https://github.com/MariusOTB/OpenTrade-Agent",
+    "discoveredAt": "2026-09-11",
+    "signalUrl": "https://github.com/MariusOTB/OpenTrade-Agent",
+    "reason": "Recent GitHub search describes a potentially relevant agent execution, context, coordination, or evaluation component. Primary implementation, licensing, release identity, and provenance review remain incomplete; no promotion on search metadata alone."
+  },
+  {
+    "name": "backpass (kunchenguid)",
+    "url": "https://github.com/kunchenguid/backpass",
+    "discoveredAt": "2026-09-11",
+    "signalUrl": "https://github.com/kunchenguid/backpass",
+    "reason": "Recent GitHub search describes a potentially relevant agent execution, context, coordination, or evaluation component. Primary implementation, licensing, release identity, and provenance review remain incomplete; no promotion on search metadata alone."
+  },
+  {
+    "name": "boujoy-harness (asen-goat-mine)",
+    "url": "https://github.com/asen-goat-mine/boujoy-harness",
+    "discoveredAt": "2026-09-11",
+    "signalUrl": "https://github.com/asen-goat-mine/boujoy-harness",
+    "reason": "Recent GitHub search describes a potentially relevant agent execution, context, coordination, or evaluation component. Primary implementation, licensing, release identity, and provenance review remain incomplete; no promotion on search metadata alone."
+  },
+  {
+    "name": "HarnessEval-W (MirroS-Lab)",
+    "url": "https://github.com/MirroS-Lab/HarnessEval-W",
+    "discoveredAt": "2026-09-11",
+    "signalUrl": "https://github.com/MirroS-Lab/HarnessEval-W",
+    "reason": "Recent GitHub search describes a potentially relevant agent execution, context, coordination, or evaluation component. Primary implementation, licensing, release identity, and provenance review remain incomplete; no promotion on search metadata alone."
+  },
+  {
+    "name": "my-free-code (hkqr)",
+    "url": "https://github.com/hkqr/my-free-code",
+    "discoveredAt": "2026-09-11",
+    "signalUrl": "https://github.com/hkqr/my-free-code",
+    "reason": "Recent GitHub search describes a potentially relevant agent execution, context, coordination, or evaluation component. Primary implementation, licensing, release identity, and provenance review remain incomplete; no promotion on search metadata alone."
+  },
+  {
+    "name": "Agent-2 (aaravshah1311)",
+    "url": "https://github.com/aaravshah1311/Agent-2",
+    "discoveredAt": "2026-09-11",
+    "signalUrl": "https://github.com/aaravshah1311/Agent-2",
+    "reason": "Recent GitHub search describes a potentially relevant agent execution, context, coordination, or evaluation component. Primary implementation, licensing, release identity, and provenance review remain incomplete; no promotion on search metadata alone."
+  },
+  {
+    "name": "lineage (agentic-lineage)",
+    "url": "https://github.com/agentic-lineage/lineage",
+    "discoveredAt": "2026-09-11",
+    "signalUrl": "https://github.com/agentic-lineage/lineage",
+    "reason": "Recent GitHub search describes a potentially relevant agent execution, context, coordination, or evaluation component. Primary implementation, licensing, release identity, and provenance review remain incomplete; no promotion on search metadata alone."
+  },
+  {
+    "name": "AutoDesign (Yaxin9Luo)",
+    "url": "https://github.com/Yaxin9Luo/AutoDesign",
+    "discoveredAt": "2026-09-11",
+    "signalUrl": "https://github.com/Yaxin9Luo/AutoDesign",
+    "reason": "Recent GitHub search describes a potentially relevant agent execution, context, coordination, or evaluation component. Primary implementation, licensing, release identity, and provenance review remain incomplete; no promotion on search metadata alone."
+  },
+  {
+    "name": "BlackPearl-CodingAgent (BlackPearl-AI)",
+    "url": "https://github.com/BlackPearl-AI/BlackPearl-CodingAgent",
+    "discoveredAt": "2026-09-11",
+    "signalUrl": "https://github.com/BlackPearl-AI/BlackPearl-CodingAgent",
+    "reason": "Recent GitHub search describes a potentially relevant agent execution, context, coordination, or evaluation component. Primary implementation, licensing, release identity, and provenance review remain incomplete; no promotion on search metadata alone."
+  },
+  {
+    "name": "multi-agent-workflow-lab (christiangrey922)",
+    "url": "https://github.com/christiangrey922/multi-agent-workflow-lab",
+    "discoveredAt": "2026-09-11",
+    "signalUrl": "https://github.com/christiangrey922/multi-agent-workflow-lab",
+    "reason": "Recent GitHub search describes a potentially relevant agent execution, context, coordination, or evaluation component. Primary implementation, licensing, release identity, and provenance review remain incomplete; no promotion on search metadata alone."
+  },
+  {
+    "name": "Cybermes (Zyrexnn)",
+    "url": "https://github.com/Zyrexnn/Cybermes",
+    "discoveredAt": "2026-09-11",
+    "signalUrl": "https://github.com/Zyrexnn/Cybermes",
+    "reason": "Recent GitHub search describes a potentially relevant agent execution, context, coordination, or evaluation component. Primary implementation, licensing, release identity, and provenance review remain incomplete; no promotion on search metadata alone."
+  },
+  {
+    "name": "Hermes3D (iamlukethedev)",
+    "url": "https://github.com/iamlukethedev/Hermes3D",
+    "discoveredAt": "2026-09-11",
+    "signalUrl": "https://github.com/iamlukethedev/Hermes3D",
+    "reason": "Recent GitHub search describes a potentially relevant agent execution, context, coordination, or evaluation component. Primary implementation, licensing, release identity, and provenance review remain incomplete; no promotion on search metadata alone."
+  },
+  {
+    "name": "EvoTrace (jinzijian)",
+    "url": "https://github.com/jinzijian/EvoTrace",
+    "discoveredAt": "2026-09-11",
+    "signalUrl": "https://github.com/jinzijian/EvoTrace",
+    "reason": "Recent GitHub search describes a potentially relevant agent execution, context, coordination, or evaluation component. Primary implementation, licensing, release identity, and provenance review remain incomplete; no promotion on search metadata alone."
+  },
+  {
+    "name": "agent-me (jzjzzzzzzz)",
+    "url": "https://github.com/jzjzzzzzzz/agent-me",
+    "discoveredAt": "2026-09-11",
+    "signalUrl": "https://github.com/jzjzzzzzzz/agent-me",
+    "reason": "Recent GitHub search describes a potentially relevant agent execution, context, coordination, or evaluation component. Primary implementation, licensing, release identity, and provenance review remain incomplete; no promotion on search metadata alone."
+  },
+  {
+    "name": "Air-Lingjing (seanlxh)",
+    "url": "https://github.com/seanlxh/Air-Lingjing",
+    "discoveredAt": "2026-09-11",
+    "signalUrl": "https://github.com/seanlxh/Air-Lingjing",
+    "reason": "Recent GitHub search describes a potentially relevant agent execution, context, coordination, or evaluation component. Primary implementation, licensing, release identity, and provenance review remain incomplete; no promotion on search metadata alone."
+  },
+  {
+    "name": "agentlily-runtime (Lilly-Protocol)",
+    "url": "https://github.com/Lilly-Protocol/agentlily-runtime",
+    "discoveredAt": "2026-09-11",
+    "signalUrl": "https://github.com/Lilly-Protocol/agentlily-runtime",
+    "reason": "Recent GitHub search describes a potentially relevant agent execution, context, coordination, or evaluation component. Primary implementation, licensing, release identity, and provenance review remain incomplete; no promotion on search metadata alone."
+  },
+  {
+    "name": "qwen3-runtime (yuzheng310)",
+    "url": "https://github.com/yuzheng310/qwen3-runtime",
+    "discoveredAt": "2026-09-11",
+    "signalUrl": "https://github.com/yuzheng310/qwen3-runtime",
+    "reason": "Recent GitHub search describes a potentially relevant agent execution, context, coordination, or evaluation component. Primary implementation, licensing, release identity, and provenance review remain incomplete; no promotion on search metadata alone."
+  },
+  {
+    "name": "Lexbench-Headless-Browser (lexmount)",
+    "url": "https://github.com/lexmount/Lexbench-Headless-Browser",
+    "discoveredAt": "2026-09-11",
+    "signalUrl": "https://github.com/lexmount/Lexbench-Headless-Browser",
+    "reason": "Recent GitHub search describes a potentially relevant agent execution, context, coordination, or evaluation component. Primary implementation, licensing, release identity, and provenance review remain incomplete; no promotion on search metadata alone."
+  },
+  {
+    "name": "devspace-ultra (enwong93-sketch)",
+    "url": "https://github.com/enwong93-sketch/devspace-ultra",
+    "discoveredAt": "2026-09-11",
+    "signalUrl": "https://github.com/enwong93-sketch/devspace-ultra",
+    "reason": "Recent GitHub search describes a potentially relevant agent execution, context, coordination, or evaluation component. Primary implementation, licensing, release identity, and provenance review remain incomplete; no promotion on search metadata alone."
+  },
+  {
+    "name": "agent-steroids (KenKaiii)",
+    "url": "https://github.com/KenKaiii/agent-steroids",
+    "discoveredAt": "2026-09-11",
+    "signalUrl": "https://github.com/KenKaiii/agent-steroids",
+    "reason": "Recent GitHub search describes a potentially relevant agent execution, context, coordination, or evaluation component. Primary implementation, licensing, release identity, and provenance review remain incomplete; no promotion on search metadata alone."
+  },
+  {
+    "name": "pi-harness (wangmiaozero)",
+    "url": "https://github.com/wangmiaozero/pi-harness",
+    "discoveredAt": "2026-09-11",
+    "signalUrl": "https://github.com/wangmiaozero/pi-harness",
+    "reason": "Recent GitHub search describes a potentially relevant agent execution, context, coordination, or evaluation component. Primary implementation, licensing, release identity, and provenance review remain incomplete; no promotion on search metadata alone."
+  },
+  {
+    "name": "botler-agent (crossoverJie)",
+    "url": "https://github.com/crossoverJie/botler-agent",
+    "discoveredAt": "2026-09-11",
+    "signalUrl": "https://github.com/crossoverJie/botler-agent",
+    "reason": "Recent GitHub search describes a potentially relevant agent execution, context, coordination, or evaluation component. Primary implementation, licensing, release identity, and provenance review remain incomplete; no promotion on search metadata alone."
+  },
+  {
+    "name": "ai-dandelion (gly-hub)",
+    "url": "https://github.com/gly-hub/ai-dandelion",
+    "discoveredAt": "2026-09-11",
+    "signalUrl": "https://github.com/gly-hub/ai-dandelion",
+    "reason": "Recent GitHub search describes a potentially relevant agent execution, context, coordination, or evaluation component. Primary implementation, licensing, release identity, and provenance review remain incomplete; no promotion on search metadata alone."
+  },
+  {
+    "name": "runtime (thetis-agent)",
+    "url": "https://github.com/thetis-agent/runtime",
+    "discoveredAt": "2026-09-11",
+    "signalUrl": "https://github.com/thetis-agent/runtime",
+    "reason": "Recent GitHub search describes a potentially relevant agent execution, context, coordination, or evaluation component. Primary implementation, licensing, release identity, and provenance review remain incomplete; no promotion on search metadata alone."
+  },
+  {
+    "name": "deterministic-agent-harness (kerenkoshman)",
+    "url": "https://github.com/kerenkoshman/deterministic-agent-harness",
+    "discoveredAt": "2026-09-11",
+    "signalUrl": "https://github.com/kerenkoshman/deterministic-agent-harness",
+    "reason": "Recent GitHub search describes a potentially relevant agent execution, context, coordination, or evaluation component. Primary implementation, licensing, release identity, and provenance review remain incomplete; no promotion on search metadata alone."
+  },
+  {
+    "name": "GoalBoard (molis-ai)",
+    "url": "https://github.com/molis-ai/GoalBoard",
+    "discoveredAt": "2026-09-11",
+    "signalUrl": "https://github.com/molis-ai/GoalBoard",
+    "reason": "Recent GitHub search describes a potentially relevant agent execution, context, coordination, or evaluation component. Primary implementation, licensing, release identity, and provenance review remain incomplete; no promotion on search metadata alone."
+  },
+  {
+    "name": "armillae (mmstudio-games)",
+    "url": "https://github.com/mmstudio-games/armillae",
+    "discoveredAt": "2026-09-11",
+    "signalUrl": "https://github.com/mmstudio-games/armillae",
+    "reason": "Recent GitHub search describes a potentially relevant agent execution, context, coordination, or evaluation component. Primary implementation, licensing, release identity, and provenance review remain incomplete; no promotion on search metadata alone."
+  },
+  {
+    "name": "JetBrains Air",
+    "url": "https://www.google.com/search?q=site%3Ajetbrains.com%20%22Air%22%20%22Quickstart%22",
+    "discoveredAt": "2026-09-11",
+    "signalUrl": "https://www.google.com/search?q=site%3Ajetbrains.com%20%22Air%22%20%22Quickstart%22",
+    "reason": "Official vendor search surfaced Air documentation, but separate product identity, availability and license review were not completed in this pass."
+  },
+  {
+    "name": "Vinez",
+    "url": "https://www.google.com/search?q=site%3Areddit.com%2Fr%2Fcodex%20%22Vinez%22",
+    "discoveredAt": "2026-09-11",
+    "signalUrl": "https://www.google.com/search?q=site%3Areddit.com%2Fr%2Fcodex%20%22Vinez%22",
+    "reason": "Community search described an engineering execution center, but an official canonical product or repository URL was not independently resolved."
+  },
+  {
+    "name": "Voicing AI Knowledge Mesh",
+    "url": "https://www.google.com/search?q=%22Voicing%20AI%22%20%22Knowledge%20Mesh%22",
+    "discoveredAt": "2026-09-11",
+    "signalUrl": "https://www.google.com/search?q=%22Voicing%20AI%22%20%22Knowledge%20Mesh%22",
+    "reason": "A press-release lead describes a governed context layer; no product-specific primary release and licensing evidence was independently reviewed."
+  },
+  {
+    "name": "Seed (Vivek Haldar)",
+    "url": "https://www.google.com/search?q=site%3Agithub.com%2Fvivekhaldar%20%22Seed%22%20agent",
+    "discoveredAt": "2026-09-11",
+    "signalUrl": "https://www.google.com/search?q=site%3Agithub.com%2Fvivekhaldar%20%22Seed%22%20agent",
+    "reason": "Hacker News search surfaced this lead; its exact primary implementation, license and canonical identity remain unresolved. Do not promote from the community snippet."
+  },
+  {
+    "name": "Hermes knowledge-work orchestrator",
+    "url": "https://www.google.com/search?q=site%3Anews.ycombinator.com%20%22orchestrator%20for%20knowledge%20work%22",
+    "discoveredAt": "2026-09-11",
+    "signalUrl": "https://www.google.com/search?q=site%3Anews.ycombinator.com%20%22orchestrator%20for%20knowledge%20work%22",
+    "reason": "Hacker News search surfaced this lead; its exact primary implementation, license and canonical identity remain unresolved. Do not promote from the community snippet."
   }
 ]
