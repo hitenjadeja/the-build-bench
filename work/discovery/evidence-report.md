@@ -1,11 +1,11 @@
 # Harness discovery evidence report
 
-Run date: 2026-09-11
+Run date: 2026-09-14
 
 This is a dry research artifact. It does not modify `data/harnesses.v1.json`.
 
-- Proposed candidates: 17
-- Exact duplicates excluded: 24
+- Proposed candidates: 13
+- Exact duplicates excluded: 28
 - Fuzzy matches flagged, never merged: 0
 - Partial lanes: official-sources
 
@@ -18,23 +18,27 @@ This is a dry research artifact. It does not modify `data/harnesses.v1.json`.
 - autobe (wrtnlabs): repository identity, canonical URL
 - Empryo (proxysoul): repository identity, canonical URL, normalised name + company
 - PiDeck (ayuayue): repository identity, canonical URL, normalised name + company
+- gentle-pi (Gentleman-Programming): repository identity, normalised name + company
 - pi-web (jmfederico): repository identity, canonical URL, normalised name + company
+- RunVSAgent (wecode-ai): repository identity, canonical URL
 - agent-kanban (saltbo): repository identity, canonical URL, normalised name + company
 - vix (get-vix): repository identity, canonical URL, normalised name + company
 - opencode (anomalyco): repository identity, canonical URL
 - codex (openai): repository identity, normalised name + company
 - pi (earendil-works): repository identity, canonical URL, normalised name + company
+- open-design (nexu-io): repository identity
 - agent-skills (addyosmani): repository identity
 - headroom (headroomlabs-ai): repository identity, normalised name + company
+- orca (stablyai): repository identity, canonical URL, normalised name + company
 - openinterpreter (openinterpreter): repository identity, canonical URL, normalised name + company
 - cline (cline): repository identity, normalised name + company
-- orca (stablyai): repository identity, canonical URL, normalised name + company
 - chrome-devtools-mcp (ChromeDevTools): repository identity, normalised name + company
 - Codewhale (Hmbown): repository identity, canonical URL, normalised name + company
 - herdr (herdrdev): repository identity, canonical URL
 - continue (continuedev): repository identity, normalised name + company
 - DeepSeek-Reasonix (esengine): repository identity, canonical URL, normalised name + company
 - oh-my-pi (can1357): repository identity, normalised name + company
+- agentmemory (rohitg00): repository identity, normalised name + company
 
 ## Fuzzy flags
 

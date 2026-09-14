@@ -1,7 +1,7 @@
 # broad-verification
 
 Status: COMPLETE
-Run date: 2026-09-11
+Run date: 2026-09-14
 Mode: network dry run
 
 | name | company | capability | canonical URL | repository URL | evidence URL | notes |
@@ -10,16 +10,12 @@ Mode: network dry run
 | delegate-skills | amElnagdy | AI coding / project harness | https://www.skills.sh/amelnagdy/delegate-skills | https://github.com/amElnagdy/delegate-skills | https://github.com/amElnagdy/delegate-skills | Compiled from discovery; exact duplicate checks passed. Human verification still required. |
 | claude-code-prompts | repowise-dev | AI coding / project harness | https://github.com/repowise-dev/claude-code-prompts | https://github.com/repowise-dev/claude-code-prompts | https://github.com/repowise-dev/claude-code-prompts | Compiled from discovery; exact duplicate checks passed. Human verification still required. |
 | codex-mobile | friuns2 | AI coding / project harness | https://friuns2.github.io/codex-mobile/ | https://github.com/friuns2/codex-mobile | https://github.com/friuns2/codex-mobile | Compiled from discovery; exact duplicate checks passed. Human verification still required. |
-| gentle-pi | Gentleman-Programming | AI coding / project harness | https://gentle-ai.gentlemanprogramming.com/ | https://github.com/Gentleman-Programming/gentle-pi | https://github.com/Gentleman-Programming/gentle-pi | Compiled from discovery; exact duplicate checks passed. Human verification still required. |
 | compass-skills | dongshuyan | AI coding / project harness | https://github.com/dongshuyan/compass-skills | https://github.com/dongshuyan/compass-skills | https://github.com/dongshuyan/compass-skills | Compiled from discovery; exact duplicate checks passed. Human verification still required. |
-| RunVSAgent | wecode-ai | AI coding / project harness | https://github.com/wecode-ai/RunVSAgent | https://github.com/wecode-ai/RunVSAgent | https://github.com/wecode-ai/RunVSAgent | Compiled from discovery; exact duplicate checks passed. Human verification still required. |
 | ai-assisted-engineering | JohnCrickett | AI coding / project harness | https://github.com/JohnCrickett/ai-assisted-engineering | https://github.com/JohnCrickett/ai-assisted-engineering | https://github.com/JohnCrickett/ai-assisted-engineering | Compiled from discovery; exact duplicate checks passed. Human verification still required. |
 | building-a-coding-agent-from-scratch-course | decodingai-magazine | AI coding / project harness | https://github.com/decodingai-magazine/building-a-coding-agent-from-scratch-course | https://github.com/decodingai-magazine/building-a-coding-agent-from-scratch-course | https://github.com/decodingai-magazine/building-a-coding-agent-from-scratch-course | Compiled from discovery; exact duplicate checks passed. Human verification still required. |
 | spring-boot-skills | rrezartprebreza | AI coding / project harness | https://github.com/rrezartprebreza/spring-boot-skills | https://github.com/rrezartprebreza/spring-boot-skills | https://github.com/rrezartprebreza/spring-boot-skills | Compiled from discovery; exact duplicate checks passed. Human verification still required. |
 | awesome-design-md | VoltAgent | AI coding / project harness | https://getdesign.md/ | https://github.com/VoltAgent/awesome-design-md | https://github.com/VoltAgent/awesome-design-md | Compiled from discovery; exact duplicate checks passed. Human verification still required. |
-| open-design | nexu-io | AI coding / project harness | https://open-design.ai | https://github.com/nexu-io/open-design | https://github.com/nexu-io/open-design | Compiled from discovery; exact duplicate checks passed. Human verification still required. |
 | i-have-adhd | ayghri | AI coding / project harness | https://github.com/ayghri/i-have-adhd | https://github.com/ayghri/i-have-adhd | https://github.com/ayghri/i-have-adhd | Compiled from discovery; exact duplicate checks passed. Human verification still required. |
 | ai-website-cloner-template | JCodesMore | AI coding / project harness | https://dsc.gg/jcodesmore | https://github.com/JCodesMore/ai-website-cloner-template | https://github.com/JCodesMore/ai-website-cloner-template | Compiled from discovery; exact duplicate checks passed. Human verification still required. |
 | frontend-slides | zarazhangrui | AI coding / project harness | https://github.com/zarazhangrui/frontend-slides | https://github.com/zarazhangrui/frontend-slides | https://github.com/zarazhangrui/frontend-slides | Compiled from discovery; exact duplicate checks passed. Human verification still required. |
-| agentmemory | rohitg00 | AI coding / project harness | https://agent-memory.dev | https://github.com/rohitg00/agentmemory | https://github.com/rohitg00/agentmemory | Compiled from discovery; exact duplicate checks passed. Human verification still required. |
 | @wukonglabs/wukong | songdongdong | AI coding / project harness | https://cnb.cool/O.o/wukong.git | https://cnb.cool/O.o/wukong.git | https://cnb.cool/O.o/wukong.git | Compiled from discovery; exact duplicate checks passed. Human verification still required. |
