@@ -1,7 +1,7 @@
 # official-sources
 
 Status: PARTIAL
-Run date: 2026-09-14
+Run date: 2026-09-18
 Mode: network dry run
 
 | name | company | capability | canonical URL | repository URL | evidence URL | notes |
@@ -646,7 +646,7 @@ Mode: network dry run
 | dreb | aebrer | Agent runtime | https://github.com/aebrer/dreb | https://github.com/aebrer/dreb | https://github.com/aebrer/dreb | Repository identity reachable; default branch master. |
 | OpenDesign | Nexu | Agent workflows | https://github.com/nexu-io/open-design | https://github.com/nexu-io/open-design | https://github.com/nexu-io/open-design | Repository identity reachable; default branch main. |
 | Open-Inspect | Cole Murray | Remote execution | https://github.com/ColeMurray/background-agents | https://github.com/ColeMurray/background-agents | https://github.com/ColeMurray/background-agents | Repository identity reachable; default branch main. |
-| gentle-pi | Gentleman Programming | Agent workflows | https://github.com/Gentleman-Programming/gentle-pi | https://github.com/Gentleman-Programming/gentle-pi | https://github.com/Gentleman-Programming/gentle-pi | Repository identity reachable; default branch main. |
+| gentle-pi | Gentleman Programming | Agent workflows | https://github.com/Gentleman-Programming/gentle-pi | https://github.com/Gentleman-Programming/gentle-pi | https://github.com/Gentleman-Programming/gentle-shell | Repository identity reachable; default branch main. |
 | Prime Agent | Prime Intellect | Agent runtime | https://github.com/PrimeIntellect-ai/prime-agent | https://github.com/PrimeIntellect-ai/prime-agent | https://github.com/PrimeIntellect-ai/prime-agent | Repository identity reachable; default branch main. |
 | OpenWiki | LangChain | Memory | https://github.com/langchain-ai/openwiki | https://github.com/langchain-ai/openwiki | https://github.com/langchain-ai/openwiki | Repository identity reachable; default branch main. |
 | Frame | kaanozhan | Agent workflows | https://github.com/kaanozhan/Frame | https://github.com/kaanozhan/Frame | https://github.com/kaanozhan/Frame | Repository identity reachable; default branch main. |

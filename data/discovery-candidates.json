@@ -320,5 +320,649 @@
     "discoveredAt": "2026-09-11",
     "signalUrl": "https://www.google.com/search?q=site%3Anews.ycombinator.com%20%22orchestrator%20for%20knowledge%20work%22",
     "reason": "Hacker News search surfaced this lead; its exact primary implementation, license and canonical identity remain unresolved. Do not promote from the community snippet."
+  },
+  {
+    "name": "browser-use/jev-ultrafast",
+    "url": "https://github.com/browser-use/jev-ultrafast",
+    "discoveredAt": "2026-09-18",
+    "signalUrl": "https://github.com/browser-use/jev-ultrafast",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "CosmosMind-ai/RSI-Harness",
+    "url": "https://github.com/CosmosMind-ai/RSI-Harness",
+    "discoveredAt": "2026-09-18",
+    "signalUrl": "https://github.com/CosmosMind-ai/RSI-Harness",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "Station-Sciences/bot-crossing",
+    "url": "https://github.com/Station-Sciences/bot-crossing",
+    "discoveredAt": "2026-09-18",
+    "signalUrl": "https://github.com/Station-Sciences/bot-crossing",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "showlab/Show-Harness",
+    "url": "https://github.com/showlab/Show-Harness",
+    "discoveredAt": "2026-09-18",
+    "signalUrl": "https://github.com/showlab/Show-Harness",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "XiaoDuoYa/codex-with-chatgpt",
+    "url": "https://github.com/XiaoDuoYa/codex-with-chatgpt",
+    "discoveredAt": "2026-09-18",
+    "signalUrl": "https://github.com/XiaoDuoYa/codex-with-chatgpt",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "mini-harness/mini-harness",
+    "url": "https://github.com/mini-harness/mini-harness",
+    "discoveredAt": "2026-09-18",
+    "signalUrl": "https://github.com/mini-harness/mini-harness",
+    "reason": "Official source and implementation are available, but no repository license was found in this review; licensing remains unresolved."
+  },
+  {
+    "name": "frontier-harness-eval/eval",
+    "url": "https://github.com/frontier-harness-eval/eval",
+    "discoveredAt": "2026-09-18",
+    "signalUrl": "https://github.com/frontier-harness-eval/eval",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "Qiuner/birdview",
+    "url": "https://github.com/Qiuner/birdview",
+    "discoveredAt": "2026-09-18",
+    "signalUrl": "https://github.com/Qiuner/birdview",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "seekskyworld/CreatPPT",
+    "url": "https://github.com/seekskyworld/CreatPPT",
+    "discoveredAt": "2026-09-18",
+    "signalUrl": "https://github.com/seekskyworld/CreatPPT",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "ray-r-ren/biointelligence-agent",
+    "url": "https://github.com/ray-r-ren/biointelligence-agent",
+    "discoveredAt": "2026-09-18",
+    "signalUrl": "https://github.com/ray-r-ren/biointelligence-agent",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "hieuphung97/dely",
+    "url": "https://github.com/hieuphung97/dely",
+    "discoveredAt": "2026-09-18",
+    "signalUrl": "https://github.com/hieuphung97/dely",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "OnlyTerp/opengrok",
+    "url": "https://github.com/OnlyTerp/opengrok",
+    "discoveredAt": "2026-09-18",
+    "signalUrl": "https://github.com/OnlyTerp/opengrok",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "TokenRhythm/NeoHorse",
+    "url": "https://github.com/TokenRhythm/NeoHorse",
+    "discoveredAt": "2026-09-18",
+    "signalUrl": "https://github.com/TokenRhythm/NeoHorse",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "oil-oil/dsh-oil-creator",
+    "url": "https://github.com/oil-oil/dsh-oil-creator",
+    "discoveredAt": "2026-09-18",
+    "signalUrl": "https://github.com/oil-oil/dsh-oil-creator",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "revfactory/codex-harness",
+    "url": "https://github.com/revfactory/codex-harness",
+    "discoveredAt": "2026-09-18",
+    "signalUrl": "https://github.com/revfactory/codex-harness",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "PeakVisionAI/PeakVisionOS-SDK",
+    "url": "https://github.com/PeakVisionAI/PeakVisionOS-SDK",
+    "discoveredAt": "2026-09-18",
+    "signalUrl": "https://github.com/PeakVisionAI/PeakVisionOS-SDK",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "kyky2347/ALTA",
+    "url": "https://github.com/kyky2347/ALTA",
+    "discoveredAt": "2026-09-18",
+    "signalUrl": "https://github.com/kyky2347/ALTA",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "emo-xiaoyu/harness-mix",
+    "url": "https://github.com/emo-xiaoyu/harness-mix",
+    "discoveredAt": "2026-09-18",
+    "signalUrl": "https://github.com/emo-xiaoyu/harness-mix",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "zhuyifang/tonghuasun-agent",
+    "url": "https://github.com/zhuyifang/tonghuasun-agent",
+    "discoveredAt": "2026-09-18",
+    "signalUrl": "https://github.com/zhuyifang/tonghuasun-agent",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "aurekaresearch/OpenDDE-Harness",
+    "url": "https://github.com/aurekaresearch/OpenDDE-Harness",
+    "discoveredAt": "2026-09-18",
+    "signalUrl": "https://github.com/aurekaresearch/OpenDDE-Harness",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "missuo/herdrm",
+    "url": "https://github.com/missuo/herdrm",
+    "discoveredAt": "2026-09-18",
+    "signalUrl": "https://github.com/missuo/herdrm",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "i-am-manware/Manware-s-AI-Learning-Toolkit",
+    "url": "https://github.com/i-am-manware/Manware-s-AI-Learning-Toolkit",
+    "discoveredAt": "2026-09-18",
+    "signalUrl": "https://github.com/i-am-manware/Manware-s-AI-Learning-Toolkit",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "Einsia/agent-git",
+    "url": "https://github.com/Einsia/agent-git",
+    "discoveredAt": "2026-09-18",
+    "signalUrl": "https://github.com/Einsia/agent-git",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "Gurp-S/XEYO",
+    "url": "https://github.com/Gurp-S/XEYO",
+    "discoveredAt": "2026-09-18",
+    "signalUrl": "https://github.com/Gurp-S/XEYO",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "agent-launch/agent-launcher",
+    "url": "https://github.com/agent-launch/agent-launcher",
+    "discoveredAt": "2026-09-18",
+    "signalUrl": "https://github.com/agent-launch/agent-launcher",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "Innei/lody-ios",
+    "url": "https://github.com/Innei/lody-ios",
+    "discoveredAt": "2026-09-18",
+    "signalUrl": "https://github.com/Innei/lody-ios",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "NirDiamant/Agentic_Engineering",
+    "url": "https://github.com/NirDiamant/Agentic_Engineering",
+    "discoveredAt": "2026-09-18",
+    "signalUrl": "https://github.com/NirDiamant/Agentic_Engineering",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "Qiuner/agent-isles",
+    "url": "https://github.com/Qiuner/agent-isles",
+    "discoveredAt": "2026-09-18",
+    "signalUrl": "https://github.com/Qiuner/agent-isles",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "chosuicide/beatscope",
+    "url": "https://github.com/chosuicide/beatscope",
+    "discoveredAt": "2026-09-18",
+    "signalUrl": "https://github.com/chosuicide/beatscope",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "aiongo/mini-coding-agent-go",
+    "url": "https://github.com/aiongo/mini-coding-agent-go",
+    "discoveredAt": "2026-09-18",
+    "signalUrl": "https://github.com/aiongo/mini-coding-agent-go",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "MirroS-Lab/Code-as-World",
+    "url": "https://github.com/MirroS-Lab/Code-as-World",
+    "discoveredAt": "2026-09-18",
+    "signalUrl": "https://github.com/MirroS-Lab/Code-as-World",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "meviusisback/agent-orchestr",
+    "url": "https://github.com/meviusisback/agent-orchestr",
+    "discoveredAt": "2026-09-18",
+    "signalUrl": "https://github.com/meviusisback/agent-orchestr",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "vaelkeep/hermes-paper-agent",
+    "url": "https://github.com/vaelkeep/hermes-paper-agent",
+    "discoveredAt": "2026-09-18",
+    "signalUrl": "https://github.com/vaelkeep/hermes-paper-agent",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "donvito/codex-astra-luna-orchestrator",
+    "url": "https://github.com/donvito/codex-astra-luna-orchestrator",
+    "discoveredAt": "2026-09-18",
+    "signalUrl": "https://github.com/donvito/codex-astra-luna-orchestrator",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "codejunkie99/fable-orchestrator",
+    "url": "https://github.com/codejunkie99/fable-orchestrator",
+    "discoveredAt": "2026-09-18",
+    "signalUrl": "https://github.com/codejunkie99/fable-orchestrator",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "interviewstreet/hackerrank-orchestrate-september26",
+    "url": "https://github.com/interviewstreet/hackerrank-orchestrate-september26",
+    "discoveredAt": "2026-09-18",
+    "signalUrl": "https://github.com/interviewstreet/hackerrank-orchestrate-september26",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "breko861-hash/sol-luna-codex-orchestrator",
+    "url": "https://github.com/breko861-hash/sol-luna-codex-orchestrator",
+    "discoveredAt": "2026-09-18",
+    "signalUrl": "https://github.com/breko861-hash/sol-luna-codex-orchestrator",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "HanyuanWang/LiveStream-Agent-Studio",
+    "url": "https://github.com/HanyuanWang/LiveStream-Agent-Studio",
+    "discoveredAt": "2026-09-18",
+    "signalUrl": "https://github.com/HanyuanWang/LiveStream-Agent-Studio",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "zhengkid/Dream-RSI",
+    "url": "https://github.com/zhengkid/Dream-RSI",
+    "discoveredAt": "2026-09-18",
+    "signalUrl": "https://github.com/zhengkid/Dream-RSI",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "jairorodriguezarias/siesta",
+    "url": "https://github.com/jairorodriguezarias/siesta",
+    "discoveredAt": "2026-09-18",
+    "signalUrl": "https://github.com/jairorodriguezarias/siesta",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "DannyMac180/astra-advisor",
+    "url": "https://github.com/DannyMac180/astra-advisor",
+    "discoveredAt": "2026-09-18",
+    "signalUrl": "https://github.com/DannyMac180/astra-advisor",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "Azure-Samples/claims-processing-hack",
+    "url": "https://github.com/Azure-Samples/claims-processing-hack",
+    "discoveredAt": "2026-09-18",
+    "signalUrl": "https://github.com/Azure-Samples/claims-processing-hack",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "forcewake/hermes-conductor",
+    "url": "https://github.com/forcewake/hermes-conductor",
+    "discoveredAt": "2026-09-18",
+    "signalUrl": "https://github.com/forcewake/hermes-conductor",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "hastimal/gemini-healthcare-agentic-platform",
+    "url": "https://github.com/hastimal/gemini-healthcare-agentic-platform",
+    "discoveredAt": "2026-09-18",
+    "signalUrl": "https://github.com/hastimal/gemini-healthcare-agentic-platform",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "Omni-Interaction-Gander/Omni-Interaction-Agent",
+    "url": "https://github.com/Omni-Interaction-Gander/Omni-Interaction-Agent",
+    "discoveredAt": "2026-09-18",
+    "signalUrl": "https://github.com/Omni-Interaction-Gander/Omni-Interaction-Agent",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "zostaff/agent-arena",
+    "url": "https://github.com/zostaff/agent-arena",
+    "discoveredAt": "2026-09-18",
+    "signalUrl": "https://github.com/zostaff/agent-arena",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "YuehHanChen/automated_alignment_researcher",
+    "url": "https://github.com/YuehHanChen/automated_alignment_researcher",
+    "discoveredAt": "2026-09-18",
+    "signalUrl": "https://github.com/YuehHanChen/automated_alignment_researcher",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "bushm2092-del/agent-weave",
+    "url": "https://github.com/bushm2092-del/agent-weave",
+    "discoveredAt": "2026-09-18",
+    "signalUrl": "https://github.com/bushm2092-del/agent-weave",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "YeamimHossainSajid/CodeMonk",
+    "url": "https://github.com/YeamimHossainSajid/CodeMonk",
+    "discoveredAt": "2026-09-18",
+    "signalUrl": "https://github.com/YeamimHossainSajid/CodeMonk",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "zachealy1/orchestrator",
+    "url": "https://github.com/zachealy1/orchestrator",
+    "discoveredAt": "2026-09-18",
+    "signalUrl": "https://github.com/zachealy1/orchestrator",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "openJiuwen-ai/agent-infer",
+    "url": "https://github.com/openJiuwen-ai/agent-infer",
+    "discoveredAt": "2026-09-18",
+    "signalUrl": "https://github.com/openJiuwen-ai/agent-infer",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "anshlambagit/AI_Data_Agent",
+    "url": "https://github.com/anshlambagit/AI_Data_Agent",
+    "discoveredAt": "2026-09-18",
+    "signalUrl": "https://github.com/anshlambagit/AI_Data_Agent",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "aryan1403/Amdocs-Workshop",
+    "url": "https://github.com/aryan1403/Amdocs-Workshop",
+    "discoveredAt": "2026-09-18",
+    "signalUrl": "https://github.com/aryan1403/Amdocs-Workshop",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "yardfribley-bit/AgentReins",
+    "url": "https://github.com/yardfribley-bit/AgentReins",
+    "discoveredAt": "2026-09-18",
+    "signalUrl": "https://github.com/yardfribley-bit/AgentReins",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "HernanJiang/CraftStation",
+    "url": "https://github.com/HernanJiang/CraftStation",
+    "discoveredAt": "2026-09-18",
+    "signalUrl": "https://github.com/HernanJiang/CraftStation",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "GUNMIN-KIM/after-effects-codex-agent",
+    "url": "https://github.com/GUNMIN-KIM/after-effects-codex-agent",
+    "discoveredAt": "2026-09-18",
+    "signalUrl": "https://github.com/GUNMIN-KIM/after-effects-codex-agent",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "kai-compute/agent",
+    "url": "https://github.com/kai-compute/agent",
+    "discoveredAt": "2026-09-18",
+    "signalUrl": "https://github.com/kai-compute/agent",
+    "reason": "Official source and implementation are available, but no repository license was found in this review; licensing remains unresolved."
+  },
+  {
+    "name": "yunaremaia/agent-guard",
+    "url": "https://github.com/yunaremaia/agent-guard",
+    "discoveredAt": "2026-09-18",
+    "signalUrl": "https://github.com/yunaremaia/agent-guard",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "daqiaoliang-coder/agent-runtime",
+    "url": "https://github.com/daqiaoliang-coder/agent-runtime",
+    "discoveredAt": "2026-09-18",
+    "signalUrl": "https://github.com/daqiaoliang-coder/agent-runtime",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "konteks-io/runtime",
+    "url": "https://github.com/konteks-io/runtime",
+    "discoveredAt": "2026-09-18",
+    "signalUrl": "https://github.com/konteks-io/runtime",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "dncore/agent-pet-runtime",
+    "url": "https://github.com/dncore/agent-pet-runtime",
+    "discoveredAt": "2026-09-18",
+    "signalUrl": "https://github.com/dncore/agent-pet-runtime",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "muhtalhakhan/open-agent",
+    "url": "https://github.com/muhtalhakhan/open-agent",
+    "discoveredAt": "2026-09-18",
+    "signalUrl": "https://github.com/muhtalhakhan/open-agent",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "WaniWani-AI/agent",
+    "url": "https://github.com/WaniWani-AI/agent",
+    "discoveredAt": "2026-09-18",
+    "signalUrl": "https://github.com/WaniWani-AI/agent",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "Aaditya1273/Vigil",
+    "url": "https://github.com/Aaditya1273/Vigil",
+    "discoveredAt": "2026-09-18",
+    "signalUrl": "https://github.com/Aaditya1273/Vigil",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "XiaoTongYuCode/CornAgent",
+    "url": "https://github.com/XiaoTongYuCode/CornAgent",
+    "discoveredAt": "2026-09-18",
+    "signalUrl": "https://github.com/XiaoTongYuCode/CornAgent",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "Saransh-2194/Hybrid-Code-Repair-Agent-with-Runtime-Drift-Detection",
+    "url": "https://github.com/Saransh-2194/Hybrid-Code-Repair-Agent-with-Runtime-Drift-Detection",
+    "discoveredAt": "2026-09-18",
+    "signalUrl": "https://github.com/Saransh-2194/Hybrid-Code-Repair-Agent-with-Runtime-Drift-Detection",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "Wattson-Law/runtime-canary",
+    "url": "https://github.com/Wattson-Law/runtime-canary",
+    "discoveredAt": "2026-09-18",
+    "signalUrl": "https://github.com/Wattson-Law/runtime-canary",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "phatnguyen03022001/agent-runtime",
+    "url": "https://github.com/phatnguyen03022001/agent-runtime",
+    "discoveredAt": "2026-09-18",
+    "signalUrl": "https://github.com/phatnguyen03022001/agent-runtime",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "viveksha-ai/openviveksha",
+    "url": "https://github.com/viveksha-ai/openviveksha",
+    "discoveredAt": "2026-09-18",
+    "signalUrl": "https://github.com/viveksha-ai/openviveksha",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "huiyuecs/agentcore",
+    "url": "https://github.com/huiyuecs/agentcore",
+    "discoveredAt": "2026-09-18",
+    "signalUrl": "https://github.com/huiyuecs/agentcore",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "HailSyner/tether-agent-runtime",
+    "url": "https://github.com/HailSyner/tether-agent-runtime",
+    "discoveredAt": "2026-09-18",
+    "signalUrl": "https://github.com/HailSyner/tether-agent-runtime",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "steerion-labs/bounded-agent-runtime",
+    "url": "https://github.com/steerion-labs/bounded-agent-runtime",
+    "discoveredAt": "2026-09-18",
+    "signalUrl": "https://github.com/steerion-labs/bounded-agent-runtime",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "friuns2/codex-mobile",
+    "url": "https://github.com/friuns2/codex-mobile",
+    "discoveredAt": "2026-09-18",
+    "signalUrl": "https://github.com/friuns2/codex-mobile",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "JohnCrickett/ai-assisted-engineering",
+    "url": "https://github.com/JohnCrickett/ai-assisted-engineering",
+    "discoveredAt": "2026-09-18",
+    "signalUrl": "https://github.com/JohnCrickett/ai-assisted-engineering",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "decodingai-magazine/building-a-coding-agent-from-scratch-course",
+    "url": "https://github.com/decodingai-magazine/building-a-coding-agent-from-scratch-course",
+    "discoveredAt": "2026-09-18",
+    "signalUrl": "https://github.com/decodingai-magazine/building-a-coding-agent-from-scratch-course",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "JuliusBrussee/caveman",
+    "url": "https://github.com/JuliusBrussee/caveman",
+    "discoveredAt": "2026-09-18",
+    "signalUrl": "https://github.com/JuliusBrussee/caveman",
+    "reason": "Token proxy and skill package with custom NOASSERTION license; standalone harness role and license terms require review."
+  },
+  {
+    "name": "xyteee/xyteeecode",
+    "url": "https://xyteee.com",
+    "discoveredAt": "2026-09-18",
+    "signalUrl": "https://xyteee.com",
+    "reason": "npm lead points to a personal homepage; canonical source, licensing and ownership remain unverified."
+  },
+  {
+    "name": "AmariahAK/atlarix-releases",
+    "url": "https://github.com/AmariahAK/atlarix-releases",
+    "discoveredAt": "2026-09-18",
+    "signalUrl": "https://github.com/AmariahAK/atlarix-releases",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "open-jarvis/OpenJarvis",
+    "url": "https://github.com/open-jarvis/OpenJarvis",
+    "discoveredAt": "2026-09-18",
+    "signalUrl": "https://github.com/open-jarvis/OpenJarvis",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "pomerium/agentops",
+    "url": "https://github.com/pomerium/agentops",
+    "discoveredAt": "2026-09-18",
+    "signalUrl": "https://github.com/pomerium/agentops",
+    "reason": "Official source and implementation are available, but no repository license was found in this review; licensing remains unresolved."
+  },
+  {
+    "name": "lunarnexus/orchestra",
+    "url": "https://github.com/lunarnexus/orchestra",
+    "discoveredAt": "2026-09-18",
+    "signalUrl": "https://github.com/lunarnexus/orchestra",
+    "reason": "Official source and implementation are available, but no repository license was found in this review; licensing remains unresolved."
+  },
+  {
+    "name": "TimothyVang/Coding-Agent-Harness",
+    "url": "https://github.com/TimothyVang/Coding-Agent-Harness",
+    "discoveredAt": "2026-09-18",
+    "signalUrl": "https://github.com/TimothyVang/Coding-Agent-Harness",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "evanfang0054/agent-harness",
+    "url": "https://github.com/evanfang0054/agent-harness",
+    "discoveredAt": "2026-09-18",
+    "signalUrl": "https://github.com/evanfang0054/agent-harness",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "earthwalker17/agent-os",
+    "url": "https://github.com/earthwalker17/agent-os",
+    "discoveredAt": "2026-09-18",
+    "signalUrl": "https://github.com/earthwalker17/agent-os",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "Context institutional knowledge filesystem",
+    "url": "https://www.context.ai/blog/a-filesystem-for-context",
+    "discoveredAt": "2026-09-18",
+    "signalUrl": "https://www.context.ai/blog/a-filesystem-for-context",
+    "reason": "Official June 6 post proves a context/memory layer but is outside the launch window. Product identity, terms and duplicate-product boundaries need further review; potential backfill."
+  },
+  {
+    "name": "dbt Developer Agent",
+    "url": "https://www.getdbt.com/blog/the-dbt-developer-agent-is-now-in-preview",
+    "discoveredAt": "2026-09-18",
+    "signalUrl": "https://www.getdbt.com/blog/the-dbt-developer-agent-is-now-in-preview",
+    "reason": "Official preview announcement surfaced outside the requested launch window; current availability, terms and catalog identity require review."
+  },
+  {
+    "name": "Cline SDK",
+    "url": "https://cline.bot/sdk",
+    "discoveredAt": "2026-09-18",
+    "signalUrl": "https://cline.bot/sdk",
+    "reason": "Official SDK page surfaced; determine whether this is a separately catalogable runtime or an extension of the existing Cline entry before promotion."
+  },
+  {
+    "name": "Meta Organizational Second Brain",
+    "url": "https://engineering.fb.com/2026/09/02/ml-applications/organizational-second-brain-ai-learns-from-experts/",
+    "discoveredAt": "2026-09-18",
+    "signalUrl": "https://engineering.fb.com/2026/09/02/ml-applications/organizational-second-brain-ai-learns-from-experts/",
+    "reason": "Official engineering post surfaced; primary implementation/access, internal-system scope and licensing have not been reviewed."
+  },
+  {
+    "name": "Alchemyst AI memory layer",
+    "url": "https://new.getalchemystai.com/about-us",
+    "discoveredAt": "2026-09-18",
+    "signalUrl": "https://new.getalchemystai.com/about-us",
+    "reason": "Official marketing lead describes agent memory; product-specific docs, availability and licensing remain unreviewed."
+  },
+  {
+    "name": "Take Interest context layer",
+    "url": "https://takeinterest.ai/context-layer",
+    "discoveredAt": "2026-09-18",
+    "signalUrl": "https://takeinterest.ai/context-layer",
+    "reason": "Official context-layer lead requires implementation, terms and product identity review."
+  },
+  {
+    "name": "Clears context layer",
+    "url": "https://www.clears.ai/context-layer",
+    "discoveredAt": "2026-09-18",
+    "signalUrl": "https://www.clears.ai/context-layer",
+    "reason": "Official context-layer lead requires implementation, terms and product identity review."
+  },
+  {
+    "name": "Runtime (Digital Pine)",
+    "url": "https://github.com/DigitalPine/runtime",
+    "discoveredAt": "2026-09-11",
+    "signalUrl": "https://github.com/DigitalPine/runtime",
+    "reason": "Previously published repository and license return HTTP 404 in authenticated GitHub API and public browser review on 2026-09-18. Original record retained in weekly evidence. Restore only after canonical ownership, source and licensing are reachable."
   }
 ]

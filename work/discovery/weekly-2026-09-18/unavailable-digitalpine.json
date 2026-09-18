@@ -1,0 +1,33 @@
+{
+  "id": "digitalpine-runtime",
+  "name": "Runtime",
+  "company": "Digital Pine",
+  "description": "A source-available local daemon that serves React artifacts through a shared toolchain and connects running applications to agent sessions over MCP.",
+  "capabilities": [
+    "Tool integration",
+    "Agent workflows",
+    "MCP"
+  ],
+  "languages": [
+    "TypeScript"
+  ],
+  "license": "FSL-1.1-MIT",
+  "availability": "proprietary",
+  "officialUrl": "https://github.com/DigitalPine/runtime",
+  "repositoryUrl": "https://github.com/DigitalPine/runtime",
+  "monogram": "RU",
+  "tags": [
+    "tool integration",
+    "agent workflows",
+    "mcp"
+  ],
+  "reviewStatus": "source-verified",
+  "sourceKind": "official repository and documentation",
+  "provenance": "independent-discovery",
+  "sourceUrls": [
+    "https://github.com/DigitalPine/runtime",
+    "https://github.com/DigitalPine/runtime/blob/main/LICENSE"
+  ],
+  "discoveredDate": "2026-09-11",
+  "lastVerifiedDate": "2026-09-11"
+}

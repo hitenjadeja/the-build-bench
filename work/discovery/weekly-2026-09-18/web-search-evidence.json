@@ -1,0 +1,296 @@
+[
+  {
+    "id": "launch-harness",
+    "query": "\"agent harness\" (launched OR released OR beta OR preview OR introducing)",
+    "url": "https://www.google.com/search?q=%22agent%20harness%22%20(launched%20OR%20released%20OR%20beta%20OR%20preview%20OR%20introducing)%20after%3A2026-08-19%20before%3A2026-09-19",
+    "text": "",
+    "links": [],
+    "blocked": false
+  },
+  {
+    "id": "launch-coding-agent",
+    "query": "(\"coding agent\" OR \"software engineering agent\") (launched OR released OR beta OR preview)",
+    "url": "https://www.google.com/search?q=(%22coding%20agent%22%20OR%20%22software%20engineering%20agent%22)%20(launched%20OR%20released%20OR%20beta%20OR%20preview)%20after%3A2026-08-19%20before%3A2026-09-19",
+    "text": "",
+    "links": [],
+    "blocked": false
+  },
+  {
+    "id": "launch-development-environment",
+    "query": "\"agentic development environment\" OR \"AI development environment\" launch",
+    "url": "https://www.google.com/search?q=%22agentic%20development%20environment%22%20OR%20%22AI%20development%20environment%22%20launch%20after%3A2026-08-19%20before%3A2026-09-19",
+    "text": "",
+    "links": [],
+    "blocked": false
+  },
+  {
+    "id": "launch-orchestration",
+    "query": "(\"agent orchestrator\" OR \"cross-agent orchestrator\" OR \"multi-agent coding\") (launch OR released OR beta)",
+    "url": "https://www.google.com/search?q=(%22agent%20orchestrator%22%20OR%20%22cross-agent%20orchestrator%22%20OR%20%22multi-agent%20coding%22)%20(launch%20OR%20released%20OR%20beta)%20after%3A2026-08-19%20before%3A2026-09-19",
+    "text": "",
+    "links": [],
+    "blocked": false
+  },
+  {
+    "id": "launch-background-agent",
+    "query": "(\"background coding agent\" OR \"remote coding agent\" OR \"autonomous worker agent\") new",
+    "url": "https://www.google.com/search?q=(%22background%20coding%20agent%22%20OR%20%22remote%20coding%20agent%22%20OR%20%22autonomous%20worker%20agent%22)%20new%20after%3A2026-08-19%20before%3A2026-09-19",
+    "text": "",
+    "links": [],
+    "blocked": false
+  },
+  {
+    "id": "launch-runtime",
+    "query": "(\"agent runtime\" OR \"agent loop\" OR \"agent harness SDK\") developer tool launch",
+    "url": "https://www.google.com/search?q=(%22agent%20runtime%22%20OR%20%22agent%20loop%22%20OR%20%22agent%20harness%20SDK%22)%20developer%20tool%20launch%20after%3A2026-08-19%20before%3A2026-09-19",
+    "text": "",
+    "links": [],
+    "blocked": false
+  },
+  {
+    "id": "reddit-codex-launches",
+    "query": "site:reddit.com/r/codex (launched OR released OR announcing OR built) (agent OR harness OR orchestrator)",
+    "url": "https://www.google.com/search?q=site%3Areddit.com%2Fr%2Fcodex%20(launched%20OR%20released%20OR%20announcing%20OR%20built)%20(agent%20OR%20harness%20OR%20orchestrator)%20after%3A2026-08-19%20before%3A2026-09-19",
+    "text": "",
+    "links": [],
+    "blocked": false
+  },
+  {
+    "id": "reddit-claude-launches",
+    "query": "site:reddit.com/r/ClaudeCode (\"agent harness\" OR \"coding agent\" OR orchestrator)",
+    "url": "https://www.google.com/search?q=site%3Areddit.com%2Fr%2FClaudeCode%20(%22agent%20harness%22%20OR%20%22coding%20agent%22%20OR%20orchestrator)%20after%3A2026-08-19%20before%3A2026-09-19",
+    "text": "",
+    "links": [],
+    "blocked": false
+  },
+  {
+    "id": "reddit-agent-launches",
+    "query": "site:reddit.com (\"cross-agent orchestrator\" OR \"agentic development environment\" OR \"new agent harness\")",
+    "url": "https://www.google.com/search?q=site%3Areddit.com%20(%22cross-agent%20orchestrator%22%20OR%20%22agentic%20development%20environment%22%20OR%20%22new%20agent%20harness%22)%20after%3A2026-08-19%20before%3A2026-09-19",
+    "text": "",
+    "links": [],
+    "blocked": false
+  },
+  {
+    "id": "hacker-news-launches",
+    "query": "site:news.ycombinator.com (\"coding agent\" OR \"agent harness\" OR \"agent orchestrator\")",
+    "url": "https://www.google.com/search?q=site%3Anews.ycombinator.com%20(%22coding%20agent%22%20OR%20%22agent%20harness%22%20OR%20%22agent%20orchestrator%22)%20after%3A2026-08-19%20before%3A2026-09-19",
+    "text": "",
+    "links": [],
+    "blocked": false
+  },
+  {
+    "id": "vendor-community-signals",
+    "query": "(Spotify OR Stripe OR Microsoft OR Google OR Amazon OR Cloudflare) (\"coding agent\" OR \"agent harness\" OR \"agent orchestrator\")",
+    "url": "https://www.google.com/search?q=(Spotify%20OR%20Stripe%20OR%20Microsoft%20OR%20Google%20OR%20Amazon%20OR%20Cloudflare)%20(%22coding%20agent%22%20OR%20%22agent%20harness%22%20OR%20%22agent%20orchestrator%22)%20after%3A2026-08-19%20before%3A2026-09-19",
+    "text": "",
+    "links": [],
+    "blocked": false
+  },
+  {
+    "id": "vendor-openai.com",
+    "vendor": "OpenAI",
+    "query": "site:openai.com (\"coding agent\" OR \"agent harness\" OR \"agent orchestrator\" OR \"agentic development environment\")",
+    "url": "https://www.google.com/search?q=site%3Aopenai.com%20(%22coding%20agent%22%20OR%20%22agent%20harness%22%20OR%20%22agent%20orchestrator%22%20OR%20%22agentic%20development%20environment%22)%20after%3A2026-08-19%20before%3A2026-09-19",
+    "text": "",
+    "links": [],
+    "blocked": false
+  },
+  {
+    "id": "vendor-anthropic.com",
+    "vendor": "Anthropic",
+    "query": "site:anthropic.com (\"coding agent\" OR \"agent harness\" OR \"agent orchestrator\" OR \"agentic development environment\")",
+    "url": "https://www.google.com/search?q=site%3Aanthropic.com%20(%22coding%20agent%22%20OR%20%22agent%20harness%22%20OR%20%22agent%20orchestrator%22%20OR%20%22agentic%20development%20environment%22)%20after%3A2026-08-19%20before%3A2026-09-19",
+    "text": "",
+    "links": [],
+    "blocked": false
+  },
+  {
+    "id": "vendor-google.com",
+    "vendor": "Google",
+    "query": "site:google.com (\"coding agent\" OR \"agent harness\" OR \"agent orchestrator\" OR \"agentic development environment\")",
+    "url": "https://www.google.com/search?q=site%3Agoogle.com%20(%22coding%20agent%22%20OR%20%22agent%20harness%22%20OR%20%22agent%20orchestrator%22%20OR%20%22agentic%20development%20environment%22)%20after%3A2026-08-19%20before%3A2026-09-19",
+    "text": "",
+    "links": [],
+    "blocked": false
+  },
+  {
+    "id": "vendor-microsoft.com",
+    "vendor": "Microsoft",
+    "query": "site:microsoft.com (\"coding agent\" OR \"agent harness\" OR \"agent orchestrator\" OR \"agentic development environment\")",
+    "url": "https://www.google.com/search?q=site%3Amicrosoft.com%20(%22coding%20agent%22%20OR%20%22agent%20harness%22%20OR%20%22agent%20orchestrator%22%20OR%20%22agentic%20development%20environment%22)%20after%3A2026-08-19%20before%3A2026-09-19",
+    "text": "",
+    "links": [],
+    "blocked": false
+  },
+  {
+    "id": "vendor-github.com",
+    "vendor": "GitHub",
+    "query": "site:github.com (\"coding agent\" OR \"agent harness\" OR \"agent orchestrator\" OR \"agentic development environment\")",
+    "url": "https://www.google.com/search?q=site%3Agithub.com%20(%22coding%20agent%22%20OR%20%22agent%20harness%22%20OR%20%22agent%20orchestrator%22%20OR%20%22agentic%20development%20environment%22)%20after%3A2026-08-19%20before%3A2026-09-19",
+    "text": "",
+    "links": [],
+    "blocked": false
+  },
+  {
+    "id": "vendor-aws.amazon.com",
+    "vendor": "Amazon Web Services",
+    "query": "site:aws.amazon.com (\"coding agent\" OR \"agent harness\" OR \"agent orchestrator\" OR \"agentic development environment\")",
+    "url": "https://www.google.com/search?q=site%3Aaws.amazon.com%20(%22coding%20agent%22%20OR%20%22agent%20harness%22%20OR%20%22agent%20orchestrator%22%20OR%20%22agentic%20development%20environment%22)%20after%3A2026-08-19%20before%3A2026-09-19",
+    "text": "",
+    "links": [],
+    "blocked": false
+  },
+  {
+    "id": "vendor-cursor.com",
+    "vendor": "Cursor",
+    "query": "site:cursor.com (\"coding agent\" OR \"agent harness\" OR \"agent orchestrator\" OR \"agentic development environment\")",
+    "url": "https://www.google.com/search?q=site%3Acursor.com%20(%22coding%20agent%22%20OR%20%22agent%20harness%22%20OR%20%22agent%20orchestrator%22%20OR%20%22agentic%20development%20environment%22)%20after%3A2026-08-19%20before%3A2026-09-19",
+    "text": "",
+    "links": [],
+    "blocked": false
+  },
+  {
+    "id": "vendor-cognition.ai",
+    "vendor": "Cognition",
+    "query": "site:cognition.ai (\"coding agent\" OR \"agent harness\" OR \"agent orchestrator\" OR \"agentic development environment\")",
+    "url": "https://www.google.com/search?q=site%3Acognition.ai%20(%22coding%20agent%22%20OR%20%22agent%20harness%22%20OR%20%22agent%20orchestrator%22%20OR%20%22agentic%20development%20environment%22)%20after%3A2026-08-19%20before%3A2026-09-19",
+    "text": "",
+    "links": [],
+    "blocked": false
+  },
+  {
+    "id": "vendor-sourcegraph.com",
+    "vendor": "Sourcegraph",
+    "query": "site:sourcegraph.com (\"coding agent\" OR \"agent harness\" OR \"agent orchestrator\" OR \"agentic development environment\")",
+    "url": "https://www.google.com/search?q=site%3Asourcegraph.com%20(%22coding%20agent%22%20OR%20%22agent%20harness%22%20OR%20%22agent%20orchestrator%22%20OR%20%22agentic%20development%20environment%22)%20after%3A2026-08-19%20before%3A2026-09-19",
+    "text": "",
+    "links": [],
+    "blocked": false
+  },
+  {
+    "id": "vendor-replit.com",
+    "vendor": "Replit",
+    "query": "site:replit.com (\"coding agent\" OR \"agent harness\" OR \"agent orchestrator\" OR \"agentic development environment\")",
+    "url": "https://www.google.com/search?q=site%3Areplit.com%20(%22coding%20agent%22%20OR%20%22agent%20harness%22%20OR%20%22agent%20orchestrator%22%20OR%20%22agentic%20development%20environment%22)%20after%3A2026-08-19%20before%3A2026-09-19",
+    "text": "",
+    "links": [],
+    "blocked": false
+  },
+  {
+    "id": "vendor-jetbrains.com",
+    "vendor": "JetBrains",
+    "query": "site:jetbrains.com (\"coding agent\" OR \"agent harness\" OR \"agent orchestrator\" OR \"agentic development environment\")",
+    "url": "https://www.google.com/search?q=site%3Ajetbrains.com%20(%22coding%20agent%22%20OR%20%22agent%20harness%22%20OR%20%22agent%20orchestrator%22%20OR%20%22agentic%20development%20environment%22)%20after%3A2026-08-19%20before%3A2026-09-19",
+    "text": "",
+    "links": [],
+    "blocked": false
+  },
+  {
+    "id": "vendor-windsurf.com",
+    "vendor": "Windsurf",
+    "query": "site:windsurf.com (\"coding agent\" OR \"agent harness\" OR \"agent orchestrator\" OR \"agentic development environment\")",
+    "url": "https://www.google.com/search?q=site%3Awindsurf.com%20(%22coding%20agent%22%20OR%20%22agent%20harness%22%20OR%20%22agent%20orchestrator%22%20OR%20%22agentic%20development%20environment%22)%20after%3A2026-08-19%20before%3A2026-09-19",
+    "text": "",
+    "links": [],
+    "blocked": false
+  },
+  {
+    "id": "vendor-warp.dev",
+    "vendor": "Warp",
+    "query": "site:warp.dev (\"coding agent\" OR \"agent harness\" OR \"agent orchestrator\" OR \"agentic development environment\")",
+    "url": "https://www.google.com/search?q=site%3Awarp.dev%20(%22coding%20agent%22%20OR%20%22agent%20harness%22%20OR%20%22agent%20orchestrator%22%20OR%20%22agentic%20development%20environment%22)%20after%3A2026-08-19%20before%3A2026-09-19",
+    "text": "",
+    "links": [],
+    "blocked": false
+  },
+  {
+    "id": "vendor-spotify.com",
+    "vendor": "Spotify",
+    "query": "site:spotify.com (\"coding agent\" OR \"agent harness\" OR \"agent orchestrator\" OR \"agentic development environment\")",
+    "url": "https://www.google.com/search?q=site%3Aspotify.com%20(%22coding%20agent%22%20OR%20%22agent%20harness%22%20OR%20%22agent%20orchestrator%22%20OR%20%22agentic%20development%20environment%22)%20after%3A2026-08-19%20before%3A2026-09-19",
+    "text": "",
+    "links": [],
+    "blocked": false
+  },
+  {
+    "id": "vendor-stripe.com",
+    "vendor": "Stripe",
+    "query": "site:stripe.com (\"coding agent\" OR \"agent harness\" OR \"agent orchestrator\" OR \"agentic development environment\")",
+    "url": "https://www.google.com/search?q=site%3Astripe.com%20(%22coding%20agent%22%20OR%20%22agent%20harness%22%20OR%20%22agent%20orchestrator%22%20OR%20%22agentic%20development%20environment%22)%20after%3A2026-08-19%20before%3A2026-09-19",
+    "text": "",
+    "links": [],
+    "blocked": false
+  },
+  {
+    "id": "vendor-cloudflare.com",
+    "vendor": "Cloudflare",
+    "query": "site:cloudflare.com (\"coding agent\" OR \"agent harness\" OR \"agent orchestrator\" OR \"agentic development environment\")",
+    "url": "https://www.google.com/search?q=site%3Acloudflare.com%20(%22coding%20agent%22%20OR%20%22agent%20harness%22%20OR%20%22agent%20orchestrator%22%20OR%20%22agentic%20development%20environment%22)%20after%3A2026-08-19%20before%3A2026-09-19",
+    "text": "",
+    "links": [],
+    "blocked": false
+  },
+  {
+    "id": "vendor-docker.com",
+    "vendor": "Docker",
+    "query": "site:docker.com (\"coding agent\" OR \"agent harness\" OR \"agent orchestrator\" OR \"agentic development environment\")",
+    "url": "https://www.google.com/search?q=site%3Adocker.com%20(%22coding%20agent%22%20OR%20%22agent%20harness%22%20OR%20%22agent%20orchestrator%22%20OR%20%22agentic%20development%20environment%22)%20after%3A2026-08-19%20before%3A2026-09-19",
+    "text": "",
+    "links": [],
+    "blocked": false
+  },
+  {
+    "id": "vendor-vercel.com",
+    "vendor": "Vercel",
+    "query": "site:vercel.com (\"coding agent\" OR \"agent harness\" OR \"agent orchestrator\" OR \"agentic development environment\")",
+    "url": "https://www.google.com/search?q=site%3Avercel.com%20(%22coding%20agent%22%20OR%20%22agent%20harness%22%20OR%20%22agent%20orchestrator%22%20OR%20%22agentic%20development%20environment%22)%20after%3A2026-08-19%20before%3A2026-09-19",
+    "text": "",
+    "links": [],
+    "blocked": false
+  },
+  {
+    "id": "vendor-huggingface.co",
+    "vendor": "Hugging Face",
+    "query": "site:huggingface.co (\"coding agent\" OR \"agent harness\" OR \"agent orchestrator\" OR \"agentic development environment\")",
+    "url": "https://www.google.com/search?q=site%3Ahuggingface.co%20(%22coding%20agent%22%20OR%20%22agent%20harness%22%20OR%20%22agent%20orchestrator%22%20OR%20%22agentic%20development%20environment%22)%20after%3A2026-08-19%20before%3A2026-09-19",
+    "text": "",
+    "links": [],
+    "blocked": false
+  },
+  {
+    "id": "vendor-deepseek.com",
+    "vendor": "DeepSeek",
+    "query": "site:deepseek.com (\"coding agent\" OR \"agent harness\" OR \"agent orchestrator\" OR \"agentic development environment\")",
+    "url": "https://www.google.com/search?q=site%3Adeepseek.com%20(%22coding%20agent%22%20OR%20%22agent%20harness%22%20OR%20%22agent%20orchestrator%22%20OR%20%22agentic%20development%20environment%22)%20after%3A2026-08-19%20before%3A2026-09-19",
+    "text": "",
+    "links": [],
+    "blocked": false
+  },
+  {
+    "id": "vendor-qwen.ai",
+    "vendor": "Qwen",
+    "query": "site:qwen.ai (\"coding agent\" OR \"agent harness\" OR \"agent orchestrator\" OR \"agentic development environment\")",
+    "url": "https://www.google.com/search?q=site%3Aqwen.ai%20(%22coding%20agent%22%20OR%20%22agent%20harness%22%20OR%20%22agent%20orchestrator%22%20OR%20%22agentic%20development%20environment%22)%20after%3A2026-08-19%20before%3A2026-09-19",
+    "text": "",
+    "links": [],
+    "blocked": false
+  },
+  {
+    "id": "vendor-moonshot.ai",
+    "vendor": "Moonshot AI",
+    "query": "site:moonshot.ai (\"coding agent\" OR \"agent harness\" OR \"agent orchestrator\" OR \"agentic development environment\")",
+    "url": "https://www.google.com/search?q=site%3Amoonshot.ai%20(%22coding%20agent%22%20OR%20%22agent%20harness%22%20OR%20%22agent%20orchestrator%22%20OR%20%22agentic%20development%20environment%22)%20after%3A2026-08-19%20before%3A2026-09-19",
+    "text": "",
+    "links": [],
+    "blocked": false
+  },
+  {
+    "id": "context-memory",
+    "query": "(\"context layer\" OR \"institutional memory\") agent launched",
+    "url": "https://www.google.com/search?q=(%22context%20layer%22%20OR%20%22institutional%20memory%22)%20agent%20launched%20after%3A2026-08-19%20before%3A2026-09-19",
+    "text": "",
+    "links": [],
+    "blocked": false
+  }
+]

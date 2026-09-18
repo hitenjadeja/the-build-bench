@@ -1,6 +1,6 @@
 {
   "version": "1.1.0",
-  "generatedAt": "2026-09-11",
+  "generatedAt": "2026-09-18",
   "sources": [
     {
       "name": "best-of-Agent-Harnesses",
@@ -8868,7 +8868,7 @@
       ],
       "license": "Apache-2.0",
       "availability": "open-source",
-      "officialUrl": "https://tmtcode.com/",
+      "officialUrl": "https://github.com/lllons/TMT",
       "repositoryUrl": "https://github.com/lllons/TMT",
       "monogram": "TMT",
       "tags": [
@@ -8881,11 +8881,10 @@
       "sourceKind": "repository and product site",
       "provenance": "independent-discovery",
       "sourceUrls": [
-        "https://tmtcode.com/",
         "https://github.com/lllons/TMT"
       ],
       "discoveredDate": "2026-09-04",
-      "lastVerifiedDate": "2026-09-04"
+      "lastVerifiedDate": "2026-09-18"
     },
     {
       "id": "termio-sh-termio",
@@ -10817,7 +10816,7 @@
     },
     {
       "id": "gentleman-programming-gentle-pi",
-      "name": "gentle-pi",
+      "name": "gentle-shell",
       "company": "Gentleman Programming",
       "description": "A Pi extension implementing spec-driven workflows, focused subagents, evidence-based test and review gates, safety guards, and project skill discovery.",
       "capabilities": [
@@ -10830,8 +10829,8 @@
       ],
       "license": "MIT",
       "availability": "open-source",
-      "officialUrl": "https://github.com/Gentleman-Programming/gentle-pi",
-      "repositoryUrl": "https://github.com/Gentleman-Programming/gentle-pi",
+      "officialUrl": "https://github.com/Gentleman-Programming/gentle-shell",
+      "repositoryUrl": "https://github.com/Gentleman-Programming/gentle-shell",
       "monogram": "GE",
       "tags": [
         "agent workflows",
@@ -10842,11 +10841,11 @@
       "sourceKind": "official repository",
       "provenance": "independent-discovery",
       "sourceUrls": [
-        "https://github.com/Gentleman-Programming/gentle-pi",
-        "https://github.com/Gentleman-Programming/gentle-pi/blob/main/LICENSE"
+        "https://github.com/Gentleman-Programming/gentle-shell",
+        "https://github.com/Gentleman-Programming/gentle-shell/blob/main/LICENSE"
       ],
       "discoveredDate": "2026-09-11",
-      "lastVerifiedDate": "2026-09-11"
+      "lastVerifiedDate": "2026-09-18"
     },
     {
       "id": "primeintellect-ai-prime-agent",
@@ -11444,37 +11443,465 @@
       "lastVerifiedDate": "2026-09-11"
     },
     {
-      "id": "digitalpine-runtime",
-      "name": "Runtime",
-      "company": "Digital Pine",
-      "description": "A source-available local daemon that serves React artifacts through a shared toolchain and connects running applications to agent sessions over MCP.",
+      "id": "browser-use-browser-use-pi",
+      "name": "Browser Use Pi",
+      "company": "Browser Use",
+      "description": "A TypeScript browser-agent SDK built on Pi, with a persistent JavaScript REPL, Chrome control, reusable sessions, streaming and context compaction.",
       "capabilities": [
-        "Tool integration",
-        "Agent workflows",
-        "MCP"
+        "Browser automation",
+        "Context management",
+        "Session persistence"
+      ],
+      "languages": [
+        "JavaScript"
+      ],
+      "license": "MIT",
+      "availability": "open-source",
+      "officialUrl": "https://github.com/browser-use/browser-use-pi",
+      "repositoryUrl": "https://github.com/browser-use/browser-use-pi",
+      "monogram": "BR",
+      "tags": [
+        "browser",
+        "SDK",
+        "Pi"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "repository",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://github.com/browser-use/browser-use-pi",
+        "https://github.com/browser-use/browser-use-pi/blob/main/LICENSE"
+      ],
+      "discoveredDate": "2026-09-18",
+      "lastVerifiedDate": "2026-09-18"
+    },
+    {
+      "id": "nvlabs-sol-pi",
+      "name": "SoL-Pi",
+      "company": "NVIDIA",
+      "description": "A Pi extension that combines follow-up tool actions, stores large observations for recall, reduces logs with evidence checks and compacts completed work.",
+      "capabilities": [
+        "Context management",
+        "Tool execution",
+        "Evaluation"
       ],
       "languages": [
         "TypeScript"
       ],
-      "license": "FSL-1.1-MIT",
-      "availability": "proprietary",
-      "officialUrl": "https://github.com/DigitalPine/runtime",
-      "repositoryUrl": "https://github.com/DigitalPine/runtime",
-      "monogram": "RU",
+      "license": "MIT",
+      "availability": "open-source",
+      "officialUrl": "https://github.com/NVlabs/SoL-Pi",
+      "repositoryUrl": "https://github.com/NVlabs/SoL-Pi",
+      "monogram": "SO",
       "tags": [
-        "tool integration",
-        "agent workflows",
-        "mcp"
+        "Pi",
+        "context",
+        "efficiency"
       ],
       "reviewStatus": "source-verified",
-      "sourceKind": "official repository and documentation",
+      "sourceKind": "repository",
       "provenance": "independent-discovery",
       "sourceUrls": [
-        "https://github.com/DigitalPine/runtime",
-        "https://github.com/DigitalPine/runtime/blob/main/LICENSE"
+        "https://github.com/NVlabs/SoL-Pi",
+        "https://github.com/NVlabs/SoL-Pi/blob/main/LICENSE"
       ],
-      "discoveredDate": "2026-09-11",
-      "lastVerifiedDate": "2026-09-11"
+      "discoveredDate": "2026-09-18",
+      "lastVerifiedDate": "2026-09-18"
+    },
+    {
+      "id": "gen-verse-recuris",
+      "name": "Recuris",
+      "company": "Gen-Verse",
+      "description": "A memory-evolution framework that uses agent execution traces and held-out validation to revise skill memory for long-running tasks.",
+      "capabilities": [
+        "Persistent memory",
+        "Evaluation",
+        "Context management"
+      ],
+      "languages": [
+        "Python"
+      ],
+      "license": "Apache-2.0",
+      "availability": "open-source",
+      "officialUrl": "https://github.com/Gen-Verse/Recuris",
+      "repositoryUrl": "https://github.com/Gen-Verse/Recuris",
+      "monogram": "RE",
+      "tags": [
+        "memory",
+        "evaluation",
+        "research"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "repository",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://github.com/Gen-Verse/Recuris",
+        "https://github.com/Gen-Verse/Recuris/blob/main/LICENSE"
+      ],
+      "discoveredDate": "2026-09-18",
+      "lastVerifiedDate": "2026-09-18"
+    },
+    {
+      "id": "handyutils-sctxx",
+      "name": "sctxx",
+      "company": "handyutils",
+      "description": "A Rust command-line tool that extracts Claude Code, Codex and Pi transcripts into compact handoff artifacts with source references and verification.",
+      "capabilities": [
+        "Context management",
+        "Session handoff"
+      ],
+      "languages": [
+        "Rust"
+      ],
+      "license": "Apache-2.0",
+      "availability": "open-source",
+      "officialUrl": "https://github.com/handyutils/sctxx",
+      "repositoryUrl": "https://github.com/handyutils/sctxx",
+      "monogram": "SC",
+      "tags": [
+        "context",
+        "handoff",
+        "CLI"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "repository",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://github.com/handyutils/sctxx",
+        "https://github.com/handyutils/sctxx/blob/main/LICENSE"
+      ],
+      "discoveredDate": "2026-09-18",
+      "lastVerifiedDate": "2026-09-18"
+    },
+    {
+      "id": "ccompactor-ccompactor",
+      "name": "CCompactor",
+      "company": "CCompactor",
+      "description": "A TypeScript tool for extracting, checking and transferring coding-agent session context across Claude Code, Codex and Pi.",
+      "capabilities": [
+        "Context management",
+        "Session handoff"
+      ],
+      "languages": [
+        "TypeScript"
+      ],
+      "license": "MIT",
+      "availability": "open-source",
+      "officialUrl": "https://github.com/ccompactor/ccompactor",
+      "repositoryUrl": "https://github.com/ccompactor/ccompactor",
+      "monogram": "CC",
+      "tags": [
+        "context",
+        "handoff",
+        "CLI"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "repository",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://github.com/ccompactor/ccompactor",
+        "https://github.com/ccompactor/ccompactor/blob/main/LICENSE"
+      ],
+      "discoveredDate": "2026-09-18",
+      "lastVerifiedDate": "2026-09-18"
+    },
+    {
+      "id": "j3n5en-ensocode",
+      "name": "EnsoCode",
+      "company": "J3n5en",
+      "description": "A local desktop workbench built on Pi for parallel coding-agent tasks, optional isolated worktrees, approvals, terminals and diff review.",
+      "capabilities": [
+        "Multi-agent workflows",
+        "Repository operations",
+        "Human approvals"
+      ],
+      "languages": [
+        "TypeScript"
+      ],
+      "license": "MIT",
+      "availability": "open-source",
+      "officialUrl": "https://github.com/J3n5en/EnsoCode",
+      "repositoryUrl": "https://github.com/J3n5en/EnsoCode",
+      "monogram": "EN",
+      "tags": [
+        "desktop",
+        "Pi",
+        "worktrees"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "repository",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://github.com/J3n5en/EnsoCode",
+        "https://github.com/J3n5en/EnsoCode/blob/dev/LICENSE"
+      ],
+      "discoveredDate": "2026-09-18",
+      "lastVerifiedDate": "2026-09-18"
+    },
+    {
+      "id": "agentverse-os-agentverse-os",
+      "name": "AgentVerse OS",
+      "company": "AgentVerse OS",
+      "description": "An alpha personal cloud workspace that hosts coding agents and isolated development environments behind a browser desktop on a single server.",
+      "capabilities": [
+        "Execution environments",
+        "Workspace management"
+      ],
+      "languages": [
+        "Rust"
+      ],
+      "license": "Apache-2.0",
+      "availability": "open-source",
+      "officialUrl": "https://github.com/agentverse-os/AgentVerse-OS",
+      "repositoryUrl": "https://github.com/agentverse-os/AgentVerse-OS",
+      "monogram": "AG",
+      "tags": [
+        "self-hosted",
+        "cloud",
+        "alpha"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "repository",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://github.com/agentverse-os/AgentVerse-OS",
+        "https://github.com/agentverse-os/AgentVerse-OS/blob/main/LICENSE"
+      ],
+      "discoveredDate": "2026-09-18",
+      "lastVerifiedDate": "2026-09-18"
+    },
+    {
+      "id": "therajtiwari-durable-agents",
+      "name": "durable-agents",
+      "company": "Raj Tiwari",
+      "description": "A Python agent runtime with an event log, PostgreSQL-backed recovery, tool dispatch and pauses for human approval.",
+      "capabilities": [
+        "Durable execution",
+        "Tool execution",
+        "Human approvals"
+      ],
+      "languages": [
+        "Python"
+      ],
+      "license": "MIT",
+      "availability": "open-source",
+      "officialUrl": "https://github.com/therajtiwari/durable-agents",
+      "repositoryUrl": "https://github.com/therajtiwari/durable-agents",
+      "monogram": "DU",
+      "tags": [
+        "runtime",
+        "PostgreSQL",
+        "recovery"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "repository",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://github.com/therajtiwari/durable-agents",
+        "https://github.com/therajtiwari/durable-agents/blob/main/LICENSE"
+      ],
+      "discoveredDate": "2026-09-18",
+      "lastVerifiedDate": "2026-09-18"
+    },
+    {
+      "id": "lucy971326-edith-harness",
+      "name": "EDITH-Harness",
+      "company": "lucy971326",
+      "description": "A Go agent runtime and web workbench with file editing, terminals, session recovery, diff review and parallel subagent collaboration.",
+      "capabilities": [
+        "Multi-agent workflows",
+        "Repository operations",
+        "Session persistence"
+      ],
+      "languages": [
+        "Go"
+      ],
+      "license": "MIT",
+      "availability": "open-source",
+      "officialUrl": "https://github.com/lucy971326/EDITH-Harness",
+      "repositoryUrl": "https://github.com/lucy971326/EDITH-Harness",
+      "monogram": "ED",
+      "tags": [
+        "Go",
+        "workbench",
+        "subagents"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "repository",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://github.com/lucy971326/EDITH-Harness",
+        "https://github.com/lucy971326/EDITH-Harness/blob/main/LICENSE"
+      ],
+      "discoveredDate": "2026-09-18",
+      "lastVerifiedDate": "2026-09-18"
+    },
+    {
+      "id": "yc-software-qm",
+      "name": "QM",
+      "company": "YC Software",
+      "description": "A shared agent workspace for Slack and the web with scoped memory, durable sandboxes, scheduled work and adapters for multiple coding harnesses.",
+      "capabilities": [
+        "Multi-agent workflows",
+        "Persistent memory",
+        "Execution environments"
+      ],
+      "languages": [
+        "TypeScript"
+      ],
+      "license": "MIT",
+      "availability": "open-source",
+      "officialUrl": "https://github.com/yc-software/qm",
+      "repositoryUrl": "https://github.com/yc-software/qm",
+      "monogram": "QM",
+      "tags": [
+        "Slack",
+        "sandbox",
+        "self-hosted"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "repository",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://github.com/yc-software/qm",
+        "https://github.com/yc-software/qm/blob/main/LICENSE"
+      ],
+      "discoveredDate": "2026-09-18",
+      "lastVerifiedDate": "2026-09-18"
+    },
+    {
+      "id": "intelligent-internet-zenith",
+      "name": "Zenith",
+      "company": "Intelligent Internet",
+      "description": "A harness that coordinates long-running coding tasks through MCP and ACP, with persistent mission state, worker dispatch and independent validation.",
+      "capabilities": [
+        "Multi-agent workflows",
+        "Evaluation",
+        "Durable execution"
+      ],
+      "languages": [
+        "Python"
+      ],
+      "license": "Apache-2.0",
+      "availability": "open-source",
+      "officialUrl": "https://github.com/Intelligent-Internet/zenith",
+      "repositoryUrl": "https://github.com/Intelligent-Internet/zenith",
+      "monogram": "ZE",
+      "tags": [
+        "orchestration",
+        "MCP",
+        "ACP"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "repository",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://github.com/Intelligent-Internet/zenith",
+        "https://github.com/Intelligent-Internet/zenith/blob/main/LICENSE"
+      ],
+      "discoveredDate": "2026-09-18",
+      "lastVerifiedDate": "2026-09-18"
+    },
+    {
+      "id": "opendatahub-io-agentic-ci",
+      "name": "agentic-ci",
+      "company": "Open Data Hub",
+      "description": "A Python runner for coding agents in CI with local, Podman and OpenShell execution backends, streamed output and telemetry.",
+      "capabilities": [
+        "Execution environments",
+        "CI automation",
+        "Observability"
+      ],
+      "languages": [
+        "Python"
+      ],
+      "license": "Apache-2.0",
+      "availability": "open-source",
+      "officialUrl": "https://github.com/opendatahub-io/agentic-ci",
+      "repositoryUrl": "https://github.com/opendatahub-io/agentic-ci",
+      "monogram": "AG",
+      "tags": [
+        "CI",
+        "sandbox",
+        "multi-harness"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "repository",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://github.com/opendatahub-io/agentic-ci",
+        "https://github.com/opendatahub-io/agentic-ci/blob/main/LICENSE"
+      ],
+      "discoveredDate": "2026-09-18",
+      "lastVerifiedDate": "2026-09-18"
+    },
+    {
+      "id": "sausheong-harness",
+      "name": "Harness (Go)",
+      "company": "Chang Sau Sheong",
+      "description": "A Go library providing a streaming agent loop, tool dispatch, session storage, context compaction, token budgets and provider integration.",
+      "capabilities": [
+        "Tool execution",
+        "Context management",
+        "Session persistence"
+      ],
+      "languages": [
+        "Go"
+      ],
+      "license": "MIT",
+      "availability": "open-source",
+      "officialUrl": "https://github.com/sausheong/harness",
+      "repositoryUrl": "https://github.com/sausheong/harness",
+      "monogram": "HA",
+      "tags": [
+        "Go",
+        "SDK",
+        "runtime"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "repository",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://github.com/sausheong/harness",
+        "https://github.com/sausheong/harness/blob/main/LICENSE"
+      ],
+      "discoveredDate": "2026-09-18",
+      "lastVerifiedDate": "2026-09-18"
+    },
+    {
+      "id": "amaretto-cobalt",
+      "name": "Cobalt",
+      "company": "Amaretto Software Labs",
+      "description": "A hosted coding-agent workspace with persistent task computers, shared reviews, browser testing, scheduled work and coordination across agent tasks.",
+      "capabilities": [
+        "Execution environments",
+        "Multi-agent workflows",
+        "Browser automation",
+        "Scheduled automation"
+      ],
+      "languages": [
+        "Not disclosed"
+      ],
+      "license": "Commercial terms",
+      "availability": "proprietary",
+      "officialUrl": "https://cobaltcode.ai/",
+      "repositoryUrl": null,
+      "monogram": "CO",
+      "tags": [
+        "cloud",
+        "multi-harness",
+        "collaboration"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "official-docs",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://cobaltcode.ai/blog/cobalt-1-0",
+        "https://cobaltcode.ai/docs/getting-started",
+        "https://cobaltcode.ai/terms"
+      ],
+      "discoveredDate": "2026-09-18",
+      "lastVerifiedDate": "2026-09-18"
     }
   ]
 }

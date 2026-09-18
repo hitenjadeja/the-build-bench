@@ -1,0 +1,196 @@
+{
+  "generatedAt": "2026-09-18",
+  "mode": "weekly",
+  "days": 30,
+  "since": "2026-08-19",
+  "knownEntryCount": 340,
+  "deferredCandidateCount": 46,
+  "upstreamCatalogs": [
+    {
+      "name": "best-of-Agent-Harnesses",
+      "url": "https://github.com/RyanAlberts/best-of-Agent-Harnesses"
+    },
+    {
+      "name": "awesome-agent-harness",
+      "url": "https://github.com/mahonzhan/awesome-agent-harness"
+    }
+  ],
+  "webQueries": [
+    {
+      "id": "launch-harness",
+      "query": "\"agent harness\" (launched OR released OR beta OR preview OR introducing)"
+    },
+    {
+      "id": "launch-coding-agent",
+      "query": "(\"coding agent\" OR \"software engineering agent\") (launched OR released OR beta OR preview)"
+    },
+    {
+      "id": "launch-development-environment",
+      "query": "\"agentic development environment\" OR \"AI development environment\" launch"
+    },
+    {
+      "id": "launch-orchestration",
+      "query": "(\"agent orchestrator\" OR \"cross-agent orchestrator\" OR \"multi-agent coding\") (launch OR released OR beta)"
+    },
+    {
+      "id": "launch-background-agent",
+      "query": "(\"background coding agent\" OR \"remote coding agent\" OR \"autonomous worker agent\") new"
+    },
+    {
+      "id": "launch-runtime",
+      "query": "(\"agent runtime\" OR \"agent loop\" OR \"agent harness SDK\") developer tool launch"
+    }
+  ],
+  "communityQueries": [
+    {
+      "id": "reddit-codex-launches",
+      "query": "site:reddit.com/r/codex (launched OR released OR announcing OR built) (agent OR harness OR orchestrator)"
+    },
+    {
+      "id": "reddit-claude-launches",
+      "query": "site:reddit.com/r/ClaudeCode (\"agent harness\" OR \"coding agent\" OR orchestrator)"
+    },
+    {
+      "id": "reddit-agent-launches",
+      "query": "site:reddit.com (\"cross-agent orchestrator\" OR \"agentic development environment\" OR \"new agent harness\")"
+    },
+    {
+      "id": "hacker-news-launches",
+      "query": "site:news.ycombinator.com (\"coding agent\" OR \"agent harness\" OR \"agent orchestrator\")"
+    },
+    {
+      "id": "vendor-community-signals",
+      "query": "(Spotify OR Stripe OR Microsoft OR Google OR Amazon OR Cloudflare) (\"coding agent\" OR \"agent harness\" OR \"agent orchestrator\")"
+    }
+  ],
+  "githubQueries": [
+    {
+      "id": "github-agent-harness",
+      "query": "agent harness in:name,description,readme created:>=2026-08-19"
+    },
+    {
+      "id": "github-coding-agent",
+      "query": "coding agent in:name,description created:>=2026-08-19"
+    },
+    {
+      "id": "github-agent-orchestrator",
+      "query": "agent orchestrator in:name,description,readme created:>=2026-08-19"
+    },
+    {
+      "id": "github-agent-runtime",
+      "query": "agent runtime in:name,description created:>=2026-08-19"
+    }
+  ],
+  "vendorQueries": [
+    {
+      "id": "vendor-openai.com",
+      "vendor": "OpenAI",
+      "query": "site:openai.com (\"coding agent\" OR \"agent harness\" OR \"agent orchestrator\" OR \"agentic development environment\")"
+    },
+    {
+      "id": "vendor-anthropic.com",
+      "vendor": "Anthropic",
+      "query": "site:anthropic.com (\"coding agent\" OR \"agent harness\" OR \"agent orchestrator\" OR \"agentic development environment\")"
+    },
+    {
+      "id": "vendor-google.com",
+      "vendor": "Google",
+      "query": "site:google.com (\"coding agent\" OR \"agent harness\" OR \"agent orchestrator\" OR \"agentic development environment\")"
+    },
+    {
+      "id": "vendor-microsoft.com",
+      "vendor": "Microsoft",
+      "query": "site:microsoft.com (\"coding agent\" OR \"agent harness\" OR \"agent orchestrator\" OR \"agentic development environment\")"
+    },
+    {
+      "id": "vendor-github.com",
+      "vendor": "GitHub",
+      "query": "site:github.com (\"coding agent\" OR \"agent harness\" OR \"agent orchestrator\" OR \"agentic development environment\")"
+    },
+    {
+      "id": "vendor-aws.amazon.com",
+      "vendor": "Amazon Web Services",
+      "query": "site:aws.amazon.com (\"coding agent\" OR \"agent harness\" OR \"agent orchestrator\" OR \"agentic development environment\")"
+    },
+    {
+      "id": "vendor-cursor.com",
+      "vendor": "Cursor",
+      "query": "site:cursor.com (\"coding agent\" OR \"agent harness\" OR \"agent orchestrator\" OR \"agentic development environment\")"
+    },
+    {
+      "id": "vendor-cognition.ai",
+      "vendor": "Cognition",
+      "query": "site:cognition.ai (\"coding agent\" OR \"agent harness\" OR \"agent orchestrator\" OR \"agentic development environment\")"
+    },
+    {
+      "id": "vendor-sourcegraph.com",
+      "vendor": "Sourcegraph",
+      "query": "site:sourcegraph.com (\"coding agent\" OR \"agent harness\" OR \"agent orchestrator\" OR \"agentic development environment\")"
+    },
+    {
+      "id": "vendor-replit.com",
+      "vendor": "Replit",
+      "query": "site:replit.com (\"coding agent\" OR \"agent harness\" OR \"agent orchestrator\" OR \"agentic development environment\")"
+    },
+    {
+      "id": "vendor-jetbrains.com",
+      "vendor": "JetBrains",
+      "query": "site:jetbrains.com (\"coding agent\" OR \"agent harness\" OR \"agent orchestrator\" OR \"agentic development environment\")"
+    },
+    {
+      "id": "vendor-windsurf.com",
+      "vendor": "Windsurf",
+      "query": "site:windsurf.com (\"coding agent\" OR \"agent harness\" OR \"agent orchestrator\" OR \"agentic development environment\")"
+    },
+    {
+      "id": "vendor-warp.dev",
+      "vendor": "Warp",
+      "query": "site:warp.dev (\"coding agent\" OR \"agent harness\" OR \"agent orchestrator\" OR \"agentic development environment\")"
+    },
+    {
+      "id": "vendor-spotify.com",
+      "vendor": "Spotify",
+      "query": "site:spotify.com (\"coding agent\" OR \"agent harness\" OR \"agent orchestrator\" OR \"agentic development environment\")"
+    },
+    {
+      "id": "vendor-stripe.com",
+      "vendor": "Stripe",
+      "query": "site:stripe.com (\"coding agent\" OR \"agent harness\" OR \"agent orchestrator\" OR \"agentic development environment\")"
+    },
+    {
+      "id": "vendor-cloudflare.com",
+      "vendor": "Cloudflare",
+      "query": "site:cloudflare.com (\"coding agent\" OR \"agent harness\" OR \"agent orchestrator\" OR \"agentic development environment\")"
+    },
+    {
+      "id": "vendor-docker.com",
+      "vendor": "Docker",
+      "query": "site:docker.com (\"coding agent\" OR \"agent harness\" OR \"agent orchestrator\" OR \"agentic development environment\")"
+    },
+    {
+      "id": "vendor-vercel.com",
+      "vendor": "Vercel",
+      "query": "site:vercel.com (\"coding agent\" OR \"agent harness\" OR \"agent orchestrator\" OR \"agentic development environment\")"
+    },
+    {
+      "id": "vendor-huggingface.co",
+      "vendor": "Hugging Face",
+      "query": "site:huggingface.co (\"coding agent\" OR \"agent harness\" OR \"agent orchestrator\" OR \"agentic development environment\")"
+    },
+    {
+      "id": "vendor-deepseek.com",
+      "vendor": "DeepSeek",
+      "query": "site:deepseek.com (\"coding agent\" OR \"agent harness\" OR \"agent orchestrator\" OR \"agentic development environment\")"
+    },
+    {
+      "id": "vendor-qwen.ai",
+      "vendor": "Qwen",
+      "query": "site:qwen.ai (\"coding agent\" OR \"agent harness\" OR \"agent orchestrator\" OR \"agentic development environment\")"
+    },
+    {
+      "id": "vendor-moonshot.ai",
+      "vendor": "Moonshot AI",
+      "query": "site:moonshot.ai (\"coding agent\" OR \"agent harness\" OR \"agent orchestrator\" OR \"agentic development environment\")"
+    }
+  ]
+}

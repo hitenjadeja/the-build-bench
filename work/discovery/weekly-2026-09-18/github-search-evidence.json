@@ -1,0 +1,1430 @@
+[
+  {
+    "id": "github-agent-harness",
+    "query": "agent harness in:name,description,readme created:>=2026-08-19",
+    "results": [
+      {
+        "createdAt": "2026-08-31T01:39:18Z",
+        "description": "Continual learning infra for self-improving agents",
+        "fullName": "Human-Agent-Society/reef",
+        "updatedAt": "2026-09-18T08:15:48Z",
+        "url": "https://github.com/Human-Agent-Society/reef"
+      },
+      {
+        "createdAt": "2026-09-02T14:48:47Z",
+        "description": "SoL-Pi: Scaling Auto-Research Loops for Efficient Agent Harnesses",
+        "fullName": "NVlabs/SoL-Pi",
+        "updatedAt": "2026-09-18T08:12:19Z",
+        "url": "https://github.com/NVlabs/SoL-Pi"
+      },
+      {
+        "createdAt": "2026-08-25T06:51:42Z",
+        "description": "The open-source trading harness for agents",
+        "fullName": "MariusOTB/OpenTrade-Agent",
+        "updatedAt": "2026-09-16T12:28:21Z",
+        "url": "https://github.com/MariusOTB/OpenTrade-Agent"
+      },
+      {
+        "createdAt": "2026-08-20T11:55:29Z",
+        "description": "Claude Code on Android:  AI-powered mobile coding IDE for Android \u2014 chat with a coding agent, run Linux commands, edit files, review diffs, and preview web apps directly from your phone. No root required.",
+        "fullName": "techjarves/Mobile-Harness",
+        "updatedAt": "2026-09-18T04:22:25Z",
+        "url": "https://github.com/techjarves/Mobile-Harness"
+      },
+      {
+        "createdAt": "2026-08-28T13:50:08Z",
+        "description": "Small, modular coding-agent harness for Node.js",
+        "fullName": "HowProgrammingWorks/Agent",
+        "updatedAt": "2026-09-11T03:45:10Z",
+        "url": "https://github.com/HowProgrammingWorks/Agent"
+      },
+      {
+        "createdAt": "2026-08-22T05:07:35Z",
+        "description": "\ud83e\udde9 FrontierAgent, our agent framework, open-sourced alongside it \u2014 native command-line TUI, ReAct and Agent Team modes, one command on macOS and Linux, no preinstall, no hard Docker dependency.",
+        "fullName": "ApodexAI/FrontierAgent",
+        "updatedAt": "2026-09-18T08:12:28Z",
+        "url": "https://github.com/ApodexAI/FrontierAgent"
+      },
+      {
+        "createdAt": "2026-08-27T14:20:58Z",
+        "description": "Autonomous research system for measurable, computer-executable research.",
+        "fullName": "sapientinc/PRAXIST",
+        "updatedAt": "2026-09-18T07:42:26Z",
+        "url": "https://github.com/sapientinc/PRAXIST"
+      },
+      {
+        "createdAt": "2026-08-28T22:19:49Z",
+        "description": "Fork this to build an AI Chessathon agent.",
+        "fullName": "advitrocks9/aichessathon-starter",
+        "updatedAt": "2026-09-12T09:43:37Z",
+        "url": "https://github.com/advitrocks9/aichessathon-starter"
+      },
+      {
+        "createdAt": "2026-09-16T21:30:12Z",
+        "description": "i. am. speed.",
+        "fullName": "browser-use/jev-ultrafast",
+        "updatedAt": "2026-09-18T08:18:18Z",
+        "url": "https://github.com/browser-use/jev-ultrafast"
+      },
+      {
+        "createdAt": "2026-08-26T04:57:19Z",
+        "description": "Pentest Harness \u2014 Heaven for Hackers. A self-hosted AI agent harness for authorized pentests, bug bounty, security labs, and CTFs. Bring your own AI model API; sessions stay local.",
+        "fullName": "S1N6H/pentest-harness",
+        "updatedAt": "2026-09-17T08:35:58Z",
+        "url": "https://github.com/S1N6H/pentest-harness"
+      },
+      {
+        "createdAt": "2026-09-03T08:45:37Z",
+        "description": "RSIH \u2014 versionable, shareable agent harness: Pi coding agent + Genome config layer",
+        "fullName": "CosmosMind-ai/RSI-Harness",
+        "updatedAt": "2026-09-18T07:34:58Z",
+        "url": "https://github.com/CosmosMind-ai/RSI-Harness"
+      },
+      {
+        "createdAt": "2026-09-01T19:56:46Z",
+        "description": "A video game for AI agents. Created by Jarren Rocks",
+        "fullName": "Station-Sciences/bot-crossing",
+        "updatedAt": "2026-09-18T05:47:23Z",
+        "url": "https://github.com/Station-Sciences/bot-crossing"
+      },
+      {
+        "createdAt": "2026-08-21T21:12:31Z",
+        "description": "You don't write AGENTS.md. You train it with gradient descent.",
+        "fullName": "kunchenguid/backpass",
+        "updatedAt": "2026-09-18T07:03:57Z",
+        "url": "https://github.com/kunchenguid/backpass"
+      },
+      {
+        "createdAt": "2026-09-07T08:58:08Z",
+        "description": "Just a VLM Agent Can Play Robots",
+        "fullName": "showlab/Show-Harness",
+        "updatedAt": "2026-09-18T07:29:16Z",
+        "url": "https://github.com/showlab/Show-Harness"
+      },
+      {
+        "createdAt": "2026-08-28T12:57:24Z",
+        "description": "ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
+        "fullName": "XiaoDuoYa/codex-with-chatgpt",
+        "updatedAt": "2026-09-18T08:10:01Z",
+        "url": "https://github.com/XiaoDuoYa/codex-with-chatgpt"
+      },
+      {
+        "createdAt": "2026-08-19T07:41:12Z",
+        "description": "DeepSeek Harness \u7834\u7532\uff1a\u8ba9\u6240\u6709\u6a21\u578b\u90fd\u80fd\u7834\u7532\uff0c\u4e0d\u540c\u6a21\u578b\u53ef\u6362\u4e0d\u540c\u63d0\u793a\u8bcd\uff1b\u9ed8\u8ba4\u63d0\u793a\u8bcd\u9762\u5411\u56fd\u6a21\u300c\u5c0f\u7801\u9171\u300d\u3002Jailbreak for every model \u2014 swap prompts per model. \u6c42 Star \u6536\u85cf \u2b50",
+        "fullName": "YuJunZhiXue/dsh-purge",
+        "updatedAt": "2026-09-18T08:13:32Z",
+        "url": "https://github.com/YuJunZhiXue/dsh-purge"
+      },
+      {
+        "createdAt": "2026-08-25T15:53:56Z",
+        "description": "ACRYL - Agent Context Relay Yielding Lifecycles. One persistent workspace, one canonical context, any coding agent.",
+        "fullName": "acryldev/acryl",
+        "updatedAt": "2026-09-18T08:16:45Z",
+        "url": "https://github.com/acryldev/acryl"
+      },
+      {
+        "createdAt": "2026-08-20T09:51:28Z",
+        "description": "A Survey on Ontology Engineering, Graph Engineering, Loop Engineering, Harness Engineering, Context Engineering and Prompt Engineering",
+        "fullName": "DEEP-JLU/Awesome-Graph-Engineering",
+        "updatedAt": "2026-09-18T07:48:40Z",
+        "url": "https://github.com/DEEP-JLU/Awesome-Graph-Engineering"
+      },
+      {
+        "createdAt": "2026-09-01T03:04:36Z",
+        "description": "Harness of Harness: Multi-Day Autonomous Software Development with Continual Improvement",
+        "fullName": "Flesymeb/HarnessOfHarness",
+        "updatedAt": "2026-09-17T13:36:58Z",
+        "url": "https://github.com/Flesymeb/HarnessOfHarness"
+      },
+      {
+        "createdAt": "2026-08-27T17:59:23Z",
+        "description": "Open-source multi-provider AI gateway for Claude Code and other coding agents, with model routing, streaming, tools, reasoning, fallbacks, and local model support",
+        "fullName": "hkqr/my-free-code",
+        "updatedAt": "2026-09-15T16:32:43Z",
+        "url": "https://github.com/hkqr/my-free-code"
+      },
+      {
+        "createdAt": "2026-09-05T01:28:05Z",
+        "description": "A small, complete Python agent harness: tools, compaction, retries, and a single-file TUI. Built to learn and use as a baseline.",
+        "fullName": "mini-harness/mini-harness",
+        "updatedAt": "2026-09-18T08:16:45Z",
+        "url": "https://github.com/mini-harness/mini-harness"
+      },
+      {
+        "createdAt": "2026-08-31T11:49:53Z",
+        "description": "Public results and task definitions for FrontierHarness Eval",
+        "fullName": "frontier-harness-eval/eval",
+        "updatedAt": "2026-09-18T03:53:16Z",
+        "url": "https://github.com/frontier-harness-eval/eval"
+      },
+      {
+        "createdAt": "2026-08-19T09:26:03Z",
+        "description": "Compile real-world Claude Code and Codex trajectories into verified, tradable post-training assets.",
+        "fullName": "jinzijian/EvoTrace",
+        "updatedAt": "2026-09-16T13:30:54Z",
+        "url": "https://github.com/jinzijian/EvoTrace"
+      },
+      {
+        "createdAt": "2026-09-12T06:59:27Z",
+        "description": "Stop letting AI code blind. Map the architecture before every change with Birdview.",
+        "fullName": "Qiuner/birdview",
+        "updatedAt": "2026-09-18T06:39:43Z",
+        "url": "https://github.com/Qiuner/birdview"
+      },
+      {
+        "createdAt": "2026-08-31T01:02:18Z",
+        "description": "Stop your AI from making things up \u2014 it proposes, deterministic tools decide, every claim checked against ground truth with evidence. Grounded facts and context survive resets. Reverse engineering is the proving ground. MCP server + CLI.",
+        "fullName": "2akouwu/reverify",
+        "updatedAt": "2026-09-18T05:24:31Z",
+        "url": "https://github.com/2akouwu/reverify"
+      },
+      {
+        "createdAt": "2026-08-29T08:41:53Z",
+        "description": "OrcaReplay \u2014 Time travel for AI agents. Record, replay, fork, and debug any agent run with any model. Built by the OrcaRouter.ai team.",
+        "fullName": "Continuum-AI-Corp/OrcaReplay",
+        "updatedAt": "2026-09-17T23:41:38Z",
+        "url": "https://github.com/Continuum-AI-Corp/OrcaReplay"
+      },
+      {
+        "createdAt": "2026-08-20T22:57:11Z",
+        "description": "A fast coding-agent harness in Go. Tool-use loop, bubbletea TUI, provider-routable models with live catalog discovery, MCP support, background subagents. One binary, no runtime, built for open-source models.",
+        "fullName": "context-labs/whip",
+        "updatedAt": "2026-09-17T16:28:11Z",
+        "url": "https://github.com/context-labs/whip"
+      },
+      {
+        "createdAt": "2026-08-31T18:15:02Z",
+        "description": "",
+        "fullName": "cmu-agents/assignment-1",
+        "updatedAt": "2026-09-18T06:51:44Z",
+        "url": "https://github.com/cmu-agents/assignment-1"
+      },
+      {
+        "createdAt": "2026-08-25T05:33:44Z",
+        "description": "Recursive Experiential\u2013Working Memory Evolution for Long-Horizon Agent Harnesses",
+        "fullName": "Gen-Verse/Recuris",
+        "updatedAt": "2026-09-18T07:21:19Z",
+        "url": "https://github.com/Gen-Verse/Recuris"
+      },
+      {
+        "createdAt": "2026-08-26T14:11:03Z",
+        "description": "Agent-first web presentation workspace: turn briefs into editable slide decks and export native PPTX on demand.",
+        "fullName": "seekskyworld/CreatPPT",
+        "updatedAt": "2026-09-17T09:51:27Z",
+        "url": "https://github.com/seekskyworld/CreatPPT"
+      },
+      {
+        "createdAt": "2026-08-22T17:19:45Z",
+        "description": "Build AI Agents like playing LEGOs. Everything is a Plugin.",
+        "fullName": "singula-ai/alego",
+        "updatedAt": "2026-09-13T18:21:23Z",
+        "url": "https://github.com/singula-ai/alego"
+      },
+      {
+        "createdAt": "2026-08-22T23:06:26Z",
+        "description": "",
+        "fullName": "ray-r-ren/biointelligence-agent",
+        "updatedAt": "2026-09-16T17:06:23Z",
+        "url": "https://github.com/ray-r-ren/biointelligence-agent"
+      },
+      {
+        "createdAt": "2026-08-21T05:05:19Z",
+        "description": "Multi-harness control protocol that turns requests into approved design contracts, orchestrating isolated worker sessions for sequential implementation and independent code reviews under Orca supervision for Claude Code, Codex, Cursor, Antigravity, and other AI coding agents.",
+        "fullName": "hieuphung97/dely",
+        "updatedAt": "2026-09-18T02:33:52Z",
+        "url": "https://github.com/hieuphung97/dely"
+      },
+      {
+        "createdAt": "2026-08-27T18:30:44Z",
+        "description": "Run any model in Grok Bot \u2014 one-command setup, model picker UI, evidence-based provider wire maps, and an update-proof doctor. Not farming you, arming you.",
+        "fullName": "OnlyTerp/opengrok",
+        "updatedAt": "2026-09-18T06:57:01Z",
+        "url": "https://github.com/OnlyTerp/opengrok"
+      },
+      {
+        "createdAt": "2026-09-04T08:34:54Z",
+        "description": "NeoHorse-1: Towards Recursive Self-Improvement via Agentic Post-Training with Routing Harness.",
+        "fullName": "TokenRhythm/NeoHorse",
+        "updatedAt": "2026-09-18T08:18:15Z",
+        "url": "https://github.com/TokenRhythm/NeoHorse"
+      },
+      {
+        "createdAt": "2026-08-19T16:46:48Z",
+        "description": "Curated bilingual list of Grok Bot resources \u2014 always-on AI teammates with their own cloud computer.",
+        "fullName": "RongleCat/awesome-grok-bot",
+        "updatedAt": "2026-09-18T07:23:25Z",
+        "url": "https://github.com/RongleCat/awesome-grok-bot"
+      },
+      {
+        "createdAt": "2026-08-19T05:02:00Z",
+        "description": "AI-assisted local creator workbench for DeepSeek Harness",
+        "fullName": "oil-oil/dsh-oil-creator",
+        "updatedAt": "2026-09-17T23:30:57Z",
+        "url": "https://github.com/oil-oil/dsh-oil-creator"
+      },
+      {
+        "createdAt": "2026-09-07T03:32:55Z",
+        "description": "Codex-native harness with reusable agents, persistent multi-agent orchestration, and communication logs.",
+        "fullName": "revfactory/codex-harness",
+        "updatedAt": "2026-09-18T08:15:07Z",
+        "url": "https://github.com/revfactory/codex-harness"
+      },
+      {
+        "createdAt": "2026-08-23T00:06:10Z",
+        "description": "",
+        "fullName": "browser-use/windows-harness",
+        "updatedAt": "2026-09-17T19:49:16Z",
+        "url": "https://github.com/browser-use/windows-harness"
+      },
+      {
+        "createdAt": "2026-08-20T12:29:47Z",
+        "description": "Visual desktop Harness & control center for Pi Coding Agent \u2014 inspect runtime, context, tools & sessions; manage models & skills; browse files & Git. Powered by Pi Agent Harness.",
+        "fullName": "wangmiaozero/pi-harness",
+        "updatedAt": "2026-09-18T06:21:19Z",
+        "url": "https://github.com/wangmiaozero/pi-harness"
+      },
+      {
+        "createdAt": "2026-08-28T13:20:32Z",
+        "description": "",
+        "fullName": "PeakVisionAI/PeakVisionOS-SDK",
+        "updatedAt": "2026-09-15T16:36:07Z",
+        "url": "https://github.com/PeakVisionAI/PeakVisionOS-SDK"
+      },
+      {
+        "createdAt": "2026-08-27T09:42:45Z",
+        "description": "Autonomous LLM Trading Asterism \u2014 a research-only multi-agent trading platform with evidence-first research, an auditable console, Shadow simulation and explicitly authorized broker execution.",
+        "fullName": "kyky2347/ALTA",
+        "updatedAt": "2026-09-18T07:50:48Z",
+        "url": "https://github.com/kyky2347/ALTA"
+      },
+      {
+        "createdAt": "2026-09-07T09:50:46Z",
+        "description": "",
+        "fullName": "emo-xiaoyu/harness-mix",
+        "updatedAt": "2026-09-18T08:01:20Z",
+        "url": "https://github.com/emo-xiaoyu/harness-mix"
+      },
+      {
+        "createdAt": "2026-08-22T15:25:08Z",
+        "description": "An agent skill for building premium, immersive, scroll-driven websites. Works with Codex, Claude Code, and other coding agents. Also available as a Claude Code plugin.",
+        "fullName": "nateherkai/scroll-craft",
+        "updatedAt": "2026-09-18T08:09:32Z",
+        "url": "https://github.com/nateherkai/scroll-craft"
+      },
+      {
+        "createdAt": "2026-08-24T12:02:01Z",
+        "description": "\u540c\u82b1\u987a\u514d\u8d39\u5f00\u6e90AI\u63d2\u4ef6FQGate\uff08\u539f\u63d2\u4ef6\u540d tonghuasun-agent\uff09\uff1a\u4e3a Codex\u3001Claude Code\u3001DeepSeek \u7b49 AI \u5de5\u5177\u63d0\u4f9b\u672c\u673a A \u80a1\u5b9e\u65f6\u884c\u60c5\u3001K \u7ebf\u3001Level-2\u3001\u8d44\u8baf\u3001\u8d26\u6237\u67e5\u8be2\u4e0e\u53ef\u9009\u4ea4\u6613\u80fd\u529b\u3002",
+        "fullName": "zhuyifang/tonghuasun-agent",
+        "updatedAt": "2026-09-18T04:17:30Z",
+        "url": "https://github.com/zhuyifang/tonghuasun-agent"
+      },
+      {
+        "createdAt": "2026-09-05T19:47:45Z",
+        "description": "A tiny TypeScript web agent, hill climbed on real browser evals.",
+        "fullName": "browser-use/browser-use-pi",
+        "updatedAt": "2026-09-18T04:22:26Z",
+        "url": "https://github.com/browser-use/browser-use-pi"
+      },
+      {
+        "createdAt": "2026-09-05T18:29:18Z",
+        "description": "\u771f\u5b9e API \u5b9a\u4ef7\uff1a\u8ba2\u9605\u6708\u8d39 \u00f7 \u5b9e\u9645\u53ef\u7528 token\uff0c\u542b\u989d\u5ea6\u3001\u5355\u4ef7\u4e0e\u5206\u699c\u5e15\u7d2f\u6258\u56fe\u3002Real API pricing: subscription fee \u00f7 usable tokens, with allowance, unit-price, and leaderboard Pareto charts.",
+        "fullName": "FeiZhuLulu/real-api-pricing",
+        "updatedAt": "2026-09-18T07:32:51Z",
+        "url": "https://github.com/FeiZhuLulu/real-api-pricing"
+      },
+      {
+        "createdAt": "2026-09-10T01:42:59Z",
+        "description": "Agent skill for creative 3D visualization: turn an idea into a Three.js/Blender scene worth exploring. Claude Code + Codex plugin, 223 recipes, 440 knowledge records, 22 proved kits, 37 runnable studies.",
+        "fullName": "viettranx/3dviz-pro-max",
+        "updatedAt": "2026-09-18T07:44:49Z",
+        "url": "https://github.com/viettranx/3dviz-pro-max"
+      },
+      {
+        "createdAt": "2026-08-19T06:18:06Z",
+        "description": "A Harness System for Open-source Drug Discovery Engine",
+        "fullName": "aurekaresearch/OpenDDE-Harness",
+        "updatedAt": "2026-09-17T08:41:50Z",
+        "url": "https://github.com/aurekaresearch/OpenDDE-Harness"
+      },
+      {
+        "createdAt": "2026-09-01T11:24:22Z",
+        "description": "cc\u7684agent\u77e5\u8bc6\u5206\u4eab",
+        "fullName": "Ceceliawai/Agent",
+        "updatedAt": "2026-09-18T06:21:58Z",
+        "url": "https://github.com/Ceceliawai/Agent"
+      }
+    ],
+    "error": null
+  },
+  {
+    "id": "github-coding-agent",
+    "query": "coding agent in:name,description created:>=2026-08-19",
+    "results": [
+      {
+        "createdAt": "2026-08-28T13:50:08Z",
+        "description": "Small, modular coding-agent harness for Node.js",
+        "fullName": "HowProgrammingWorks/Agent",
+        "updatedAt": "2026-09-11T03:45:10Z",
+        "url": "https://github.com/HowProgrammingWorks/Agent"
+      },
+      {
+        "createdAt": "2026-08-20T09:16:02Z",
+        "description": "A GUI for your coding agents",
+        "fullName": "hardbeat920/monocode",
+        "updatedAt": "2026-09-18T07:57:55Z",
+        "url": "https://github.com/hardbeat920/monocode"
+      },
+      {
+        "createdAt": "2026-08-22T15:25:08Z",
+        "description": "An agent skill for building premium, immersive, scroll-driven websites. Works with Codex, Claude Code, and other coding agents. Also available as a Claude Code plugin.",
+        "fullName": "nateherkai/scroll-craft",
+        "updatedAt": "2026-09-18T08:09:32Z",
+        "url": "https://github.com/nateherkai/scroll-craft"
+      },
+      {
+        "createdAt": "2026-08-21T21:14:33Z",
+        "description": "Local observability for AI coding agents. Agenttrail Map shows project structure and activity; Agenttrail Kitchen visualizes tasks and role contributions in 3D.",
+        "fullName": "sodiumsun/agenttrail",
+        "updatedAt": "2026-09-18T08:14:22Z",
+        "url": "https://github.com/sodiumsun/agenttrail"
+      },
+      {
+        "createdAt": "2026-09-03T08:45:37Z",
+        "description": "RSIH \u2014 versionable, shareable agent harness: Pi coding agent + Genome config layer",
+        "fullName": "CosmosMind-ai/RSI-Harness",
+        "updatedAt": "2026-09-18T07:34:58Z",
+        "url": "https://github.com/CosmosMind-ai/RSI-Harness"
+      },
+      {
+        "createdAt": "2026-09-05T21:26:04Z",
+        "description": "Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300\u00b5s in-memory BM25 search, embedded MCP server, and progressive disclosure. Slashes token bloat by 80% with zero external databases or dependencies. Built in pure Go.",
+        "fullName": "okf-memory/okf-agent-memory",
+        "updatedAt": "2026-09-18T07:52:26Z",
+        "url": "https://github.com/okf-memory/okf-agent-memory"
+      },
+      {
+        "createdAt": "2026-09-01T21:52:29Z",
+        "description": "Long-term memory runtime for AI agents \u2014 plain Markdown as the source of truth, local ranked retrieval, and an independent sleep-time Manage layer. Claude Code and Codex share one store. No API key.",
+        "fullName": "tigerless-labs/agent-memory",
+        "updatedAt": "2026-09-18T08:14:42Z",
+        "url": "https://github.com/tigerless-labs/agent-memory"
+      },
+      {
+        "createdAt": "2026-09-12T18:20:00Z",
+        "description": "Personal cloud OS for a developer and their AI agents on a single server. One-command install on Ubuntu, then everything in the browser: a windowed desktop, isolated workspaces with VS Code, Claude Code and Codex, a store of 944 self-hosted apps, backups and updates. Access only via Tailscale, nothing exposed to the internet. Rust core, Svelte UI.",
+        "fullName": "agentverse-os/AgentVerse-OS",
+        "updatedAt": "2026-09-18T08:15:52Z",
+        "url": "https://github.com/agentverse-os/AgentVerse-OS"
+      },
+      {
+        "createdAt": "2026-08-25T15:53:56Z",
+        "description": "ACRYL - Agent Context Relay Yielding Lifecycles. One persistent workspace, one canonical context, any coding agent.",
+        "fullName": "acryldev/acryl",
+        "updatedAt": "2026-09-18T08:16:45Z",
+        "url": "https://github.com/acryldev/acryl"
+      },
+      {
+        "createdAt": "2026-08-27T17:59:23Z",
+        "description": "Open-source multi-provider AI gateway for Claude Code and other coding agents, with model routing, streaming, tools, reasoning, fallbacks, and local model support",
+        "fullName": "hkqr/my-free-code",
+        "updatedAt": "2026-09-15T16:32:43Z",
+        "url": "https://github.com/hkqr/my-free-code"
+      },
+      {
+        "createdAt": "2026-08-19T06:55:39Z",
+        "description": "Native macOS console for herdr \u2014 all your coding agents and their live terminals, across devices",
+        "fullName": "missuo/herdrm",
+        "updatedAt": "2026-09-18T06:18:18Z",
+        "url": "https://github.com/missuo/herdrm"
+      },
+      {
+        "createdAt": "2026-08-24T12:02:01Z",
+        "description": "\u540c\u82b1\u987a\u514d\u8d39\u5f00\u6e90AI\u63d2\u4ef6FQGate\uff08\u539f\u63d2\u4ef6\u540d tonghuasun-agent\uff09\uff1a\u4e3a Codex\u3001Claude Code\u3001DeepSeek \u7b49 AI \u5de5\u5177\u63d0\u4f9b\u672c\u673a A \u80a1\u5b9e\u65f6\u884c\u60c5\u3001K \u7ebf\u3001Level-2\u3001\u8d44\u8baf\u3001\u8d26\u6237\u67e5\u8be2\u4e0e\u53ef\u9009\u4ea4\u6613\u80fd\u529b\u3002",
+        "fullName": "zhuyifang/tonghuasun-agent",
+        "updatedAt": "2026-09-18T04:17:30Z",
+        "url": "https://github.com/zhuyifang/tonghuasun-agent"
+      },
+      {
+        "createdAt": "2026-09-04T11:03:14Z",
+        "description": "Agent2 \u2014 An autonomous AI agent for coding, cybersecurity, terminal automation, and intelligent task execution.",
+        "fullName": "aaravshah1311/Agent-2",
+        "updatedAt": "2026-09-18T07:22:03Z",
+        "url": "https://github.com/aaravshah1311/Agent-2"
+      },
+      {
+        "createdAt": "2026-08-25T14:24:24Z",
+        "description": "Skills that translate your coding agent's output into plain language: honest reports, straight verdicts, steps you can follow. MIT.",
+        "fullName": "kharmanskyi/open-steps",
+        "updatedAt": "2026-09-18T08:15:49Z",
+        "url": "https://github.com/kharmanskyi/open-steps"
+      },
+      {
+        "createdAt": "2026-09-05T16:46:07Z",
+        "description": "An AI toolkit that turns agents into teachers rather than code yapping machines",
+        "fullName": "i-am-manware/Manware-s-AI-Learning-Toolkit",
+        "updatedAt": "2026-09-18T07:14:36Z",
+        "url": "https://github.com/i-am-manware/Manware-s-AI-Learning-Toolkit"
+      },
+      {
+        "createdAt": "2026-08-28T16:30:26Z",
+        "description": "Vicoa is the agentic IDE for running a team of coding agents from any device. Desktop, mobile, VPS, open-source, self-hostable.",
+        "fullName": "vicoa-ai/vicoa",
+        "updatedAt": "2026-09-18T08:09:10Z",
+        "url": "https://github.com/vicoa-ai/vicoa"
+      },
+      {
+        "createdAt": "2026-08-20T11:55:29Z",
+        "description": "Claude Code on Android:  AI-powered mobile coding IDE for Android \u2014 chat with a coding agent, run Linux commands, edit files, review diffs, and preview web apps directly from your phone. No root required.",
+        "fullName": "techjarves/Mobile-Harness",
+        "updatedAt": "2026-09-18T04:22:25Z",
+        "url": "https://github.com/techjarves/Mobile-Harness"
+      },
+      {
+        "createdAt": "2026-08-21T17:52:45Z",
+        "description": "Catch intent conflicts before code conflicts. The open-source coordination protocol for coding agents, built above Git.",
+        "fullName": "naw103/foremerge",
+        "updatedAt": "2026-09-18T08:15:53Z",
+        "url": "https://github.com/naw103/foremerge"
+      },
+      {
+        "createdAt": "2026-09-01T17:00:33Z",
+        "description": "Code is cheap, show me the talk: version control for agent sessions",
+        "fullName": "Einsia/agent-git",
+        "updatedAt": "2026-09-18T06:54:00Z",
+        "url": "https://github.com/Einsia/agent-git"
+      },
+      {
+        "createdAt": "2026-08-23T18:12:45Z",
+        "description": "Job board CLI for coding agents. Search and judge millions of worldwide postings from all white-collar sectors, refreshed hourly.",
+        "fullName": "pinloop-ai/pinloop-cli",
+        "updatedAt": "2026-09-18T08:05:55Z",
+        "url": "https://github.com/pinloop-ai/pinloop-cli"
+      },
+      {
+        "createdAt": "2026-09-07T13:38:34Z",
+        "description": "code agent",
+        "fullName": "Gurp-S/XEYO",
+        "updatedAt": "2026-09-18T08:15:06Z",
+        "url": "https://github.com/Gurp-S/XEYO"
+      },
+      {
+        "createdAt": "2026-09-02T16:32:59Z",
+        "description": "A curated list of open-source AI agent platforms: AI coworkers and teammates, agent builders and frameworks, workflow automation platforms, browser agents, and coding agents, with licenses.",
+        "fullName": "Agenta-AI/awesome-ai-agent-platforms",
+        "updatedAt": "2026-09-17T16:50:48Z",
+        "url": "https://github.com/Agenta-AI/awesome-ai-agent-platforms"
+      },
+      {
+        "createdAt": "2026-08-21T02:57:42Z",
+        "description": "An open-source game coding agent environment and benchmark for Godot.",
+        "fullName": "GamePhanesStudio/GamePhanes",
+        "updatedAt": "2026-09-13T00:27:34Z",
+        "url": "https://github.com/GamePhanesStudio/GamePhanes"
+      },
+      {
+        "createdAt": "2026-09-10T22:07:14Z",
+        "description": "Configure and run existing coding-agent CLIs from one desktop app.",
+        "fullName": "agent-launch/agent-launcher",
+        "updatedAt": "2026-09-18T07:50:34Z",
+        "url": "https://github.com/agent-launch/agent-launcher"
+      },
+      {
+        "createdAt": "2026-08-24T18:38:19Z",
+        "description": "Create polished product demo videos with AI coding agents and Remotion. The UI is code, not a screen recording.",
+        "fullName": "Alexwtlf/agentic-product-demo",
+        "updatedAt": "2026-09-18T08:15:50Z",
+        "url": "https://github.com/Alexwtlf/agentic-product-demo"
+      },
+      {
+        "createdAt": "2026-08-20T07:55:08Z",
+        "description": "Code-only runtime toolkit for cost-aware multi-agent organization and control",
+        "fullName": "w1u2d3i4/multitown",
+        "updatedAt": "2026-09-07T16:12:50Z",
+        "url": "https://github.com/w1u2d3i4/multitown"
+      },
+      {
+        "createdAt": "2026-08-30T23:36:34Z",
+        "description": "Make your AI agent write documents like Notion \u2014 Codex & Claude Code skill that locks document structure & Notion visual style",
+        "fullName": "heyman333/agent-notion-template-docs",
+        "updatedAt": "2026-09-18T07:19:45Z",
+        "url": "https://github.com/heyman333/agent-notion-template-docs"
+      },
+      {
+        "createdAt": "2026-09-02T13:25:24Z",
+        "description": "WeChat group & official-account AI knowledge digest \u2014 agent-friendly (Codex/Claude Code), Windows/macOS/Linux",
+        "fullName": "JackyCufe/signal-vaults",
+        "updatedAt": "2026-09-17T10:59:14Z",
+        "url": "https://github.com/JackyCufe/signal-vaults"
+      },
+      {
+        "createdAt": "2026-08-28T05:56:49Z",
+        "description": "De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
+        "fullName": "Nanako0129/sepia",
+        "updatedAt": "2026-09-18T07:42:21Z",
+        "url": "https://github.com/Nanako0129/sepia"
+      },
+      {
+        "createdAt": "2026-08-19T06:46:20Z",
+        "description": "Manage, migrate, convert, and extract recurring experience from local coding Agent history",
+        "fullName": "lohoz/agenthist",
+        "updatedAt": "2026-09-15T16:36:07Z",
+        "url": "https://github.com/lohoz/agenthist"
+      },
+      {
+        "createdAt": "2026-09-08T09:48:30Z",
+        "description": "Native macOS workspace with one local knowledge graph across Claude Code, Codex, OpenCode, and Cursor.",
+        "fullName": "codejunkie99/agentic-stack-desktop",
+        "updatedAt": "2026-09-17T22:14:53Z",
+        "url": "https://github.com/codejunkie99/agentic-stack-desktop"
+      },
+      {
+        "createdAt": "2026-09-05T18:37:43Z",
+        "description": "Independent iOS client for Lody \u2014 native chat, sessions, and coding-agent collaboration on iPhone",
+        "fullName": "Innei/lody-ios",
+        "updatedAt": "2026-09-18T06:44:42Z",
+        "url": "https://github.com/Innei/lody-ios"
+      },
+      {
+        "createdAt": "2026-08-31T10:54:19Z",
+        "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+        "fullName": "Tyche-MKR/scientific-agent-skills",
+        "updatedAt": "2026-09-16T15:32:47Z",
+        "url": "https://github.com/Tyche-MKR/scientific-agent-skills"
+      },
+      {
+        "createdAt": "2026-09-13T21:43:02Z",
+        "description": "Your coding agent starts every session knowing nothing about your project. One line, and it writes its own memory from your real code, then grades itself.",
+        "fullName": "NirDiamant/Agentic_Engineering",
+        "updatedAt": "2026-09-18T06:33:55Z",
+        "url": "https://github.com/NirDiamant/Agentic_Engineering"
+      },
+      {
+        "createdAt": "2026-08-20T19:16:16Z",
+        "description": "Review code 100X faster. Lens draws every PR as animated architecture and data-flow walkthroughs, inside the pull request itself. Use it as a GitHub App, GitHub Action, CLI, or a skill for your coding agent",
+        "fullName": "coldteadotai/pr-lens",
+        "updatedAt": "2026-09-18T06:02:07Z",
+        "url": "https://github.com/coldteadotai/pr-lens"
+      },
+      {
+        "createdAt": "2026-08-28T18:03:04Z",
+        "description": "An agent organization structured as a company \u2014 15+ departments, 125+ skills, each independently installable, citing the standards and regulators that settle the question. Runs in Claude Code and ChatGPT.",
+        "fullName": "cbrock84/headcount",
+        "updatedAt": "2026-09-18T07:59:01Z",
+        "url": "https://github.com/cbrock84/headcount"
+      },
+      {
+        "createdAt": "2026-09-10T19:38:53Z",
+        "description": "sctxx \u2014 coding agent Session Context Extractor. standalone, agent-agnostic CLI (plus a thin Agent Skill wrapper) that reads a coding-agent session transcript from disk \u2014 Claude Code, Codex CLI, or Pi \u2014 and produces a compact, verified, provenance-linked handoff artifact that any other coding agent can load to continue the work. LLM-anchored fold.",
+        "fullName": "handyutils/sctxx",
+        "updatedAt": "2026-09-13T20:16:32Z",
+        "url": "https://github.com/handyutils/sctxx"
+      },
+      {
+        "createdAt": "2026-09-14T10:50:30Z",
+        "description": "An explorable island world to learn AI coding and build real projects with AI agents. Powered by DeepSeek Harness.",
+        "fullName": "Qiuner/agent-isles",
+        "updatedAt": "2026-09-18T08:10:56Z",
+        "url": "https://github.com/Qiuner/agent-isles"
+      },
+      {
+        "createdAt": "2026-08-26T07:32:24Z",
+        "description": "Local music analysis and deterministic video tooling for creators and coding agents.",
+        "fullName": "chosuicide/beatscope",
+        "updatedAt": "2026-09-17T06:05:43Z",
+        "url": "https://github.com/chosuicide/beatscope"
+      },
+      {
+        "createdAt": "2026-09-12T14:35:46Z",
+        "description": "TypeScript CLI: extract any coding-agent session (Claude Code, Codex, Pi) into a compact, verified, provenance-linked handoff another agent can continue from.",
+        "fullName": "ccompactor/ccompactor",
+        "updatedAt": "2026-09-14T03:06:06Z",
+        "url": "https://github.com/ccompactor/ccompactor"
+      },
+      {
+        "createdAt": "2026-08-23T12:40:38Z",
+        "description": "A minimal local coding agent in Go \u2014 a faithful port of Sebastian Raschka's mini-coding-agent, with no LLM framework.",
+        "fullName": "aiongo/mini-coding-agent-go",
+        "updatedAt": "2026-09-15T16:36:08Z",
+        "url": "https://github.com/aiongo/mini-coding-agent-go"
+      },
+      {
+        "createdAt": "2026-08-31T22:24:31Z",
+        "description": "A local corpus of open-source code, searchable by you or your coding agent. One Rust binary, no runtime, no MCP.",
+        "fullName": "KenKaiii/agent-steroids",
+        "updatedAt": "2026-09-17T02:13:22Z",
+        "url": "https://github.com/KenKaiii/agent-steroids"
+      },
+      {
+        "createdAt": "2026-08-26T13:31:40Z",
+        "description": "One Developer. An Entire Fleet of Autonomous Coding Agents. Local-first desktop agent workbench built on Electron + pi.",
+        "fullName": "J3n5en/EnsoCode",
+        "updatedAt": "2026-09-18T08:06:55Z",
+        "url": "https://github.com/J3n5en/EnsoCode"
+      },
+      {
+        "createdAt": "2026-08-28T20:01:23Z",
+        "description": "SEO Landing: Give your AI coding agent the capabilities of a senior Technical SEO engineer.  An agent skill for building high-performance, technically optimized SEO landing pages. Turn an AI coding agent into a technical SEO specialist.  Build and improve landing pages with: \u2022 \ud83d\ude80 100/100 Google PageSpeed target \u2022 \u26a1 Core Web Vitals optimization ",
+        "fullName": "aleksandr-alhoff/seo-landing",
+        "updatedAt": "2026-09-17T18:22:08Z",
+        "url": "https://github.com/aleksandr-alhoff/seo-landing"
+      },
+      {
+        "createdAt": "2026-08-30T10:29:47Z",
+        "description": "BlackPearl \u2014 DeepSeek-powered AI agent harness and orchestration ecosystem with 286+ skills, 273+ specialist agents, plugins, security, QA and automation.",
+        "fullName": "BlackPearl-AI/BlackPearl-CodingAgent",
+        "updatedAt": "2026-09-18T05:06:41Z",
+        "url": "https://github.com/BlackPearl-AI/BlackPearl-CodingAgent"
+      },
+      {
+        "createdAt": "2026-08-27T17:42:04Z",
+        "description": "Code as World: Agentic Discovery of Executable World Representations for Physical Reasoning",
+        "fullName": "MirroS-Lab/Code-as-World",
+        "updatedAt": "2026-09-17T12:18:59Z",
+        "url": "https://github.com/MirroS-Lab/Code-as-World"
+      },
+      {
+        "createdAt": "2026-08-22T13:39:19Z",
+        "description": "Live monitor and workspace orchestrator for AI coding agents (Herdr, OMP, Hermes, Claude, Codex) in the Omarchy bar",
+        "fullName": "meviusisback/agent-orchestr",
+        "updatedAt": "2026-09-17T19:35:36Z",
+        "url": "https://github.com/meviusisback/agent-orchestr"
+      },
+      {
+        "createdAt": "2026-09-04T15:24:50Z",
+        "description": "Build a cinematic click-driven video website: LTX footage, image/video prompts, coding-agent build spec, workflow and seam-safe playback guide.",
+        "fullName": "amirmushichge/video-states-website",
+        "updatedAt": "2026-09-17T21:53:45Z",
+        "url": "https://github.com/amirmushichge/video-states-website"
+      },
+      {
+        "createdAt": "2026-08-21T19:18:55Z",
+        "description": "Two-model debate review of PRs and MRs, plus a babysitter that works the review rounds. Skills for any coding agent.",
+        "fullName": "amElnagdy/review-skills",
+        "updatedAt": "2026-09-17T11:27:31Z",
+        "url": "https://github.com/amElnagdy/review-skills"
+      },
+      {
+        "createdAt": "2026-09-03T02:15:43Z",
+        "description": "A nightly newspaper that writes itself: an agent runs the desks, the figures come from code, and it refuses to publish an edition with marks in it.",
+        "fullName": "vaelkeep/hermes-paper-agent",
+        "updatedAt": "2026-09-14T09:27:36Z",
+        "url": "https://github.com/vaelkeep/hermes-paper-agent"
+      }
+    ],
+    "error": null
+  },
+  {
+    "id": "github-agent-orchestrator",
+    "query": "agent orchestrator in:name,description,readme created:>=2026-08-19",
+    "results": [
+      {
+        "createdAt": "2026-09-05T16:03:06Z",
+        "description": "Use Astra as orchestrator and Luna for subagents in Codex",
+        "fullName": "donvito/codex-astra-luna-orchestrator",
+        "updatedAt": "2026-09-18T05:42:46Z",
+        "url": "https://github.com/donvito/codex-astra-luna-orchestrator"
+      },
+      {
+        "createdAt": "2026-09-02T21:48:23Z",
+        "description": "Fable 5.1 orchestrates. GPT-5.6 Luna and DeepSeek V4 Flash implement.",
+        "fullName": "codejunkie99/fable-orchestrator",
+        "updatedAt": "2026-09-15T18:29:28Z",
+        "url": "https://github.com/codejunkie99/fable-orchestrator"
+      },
+      {
+        "createdAt": "2026-08-25T06:51:42Z",
+        "description": "The open-source trading harness for agents",
+        "fullName": "MariusOTB/OpenTrade-Agent",
+        "updatedAt": "2026-09-16T12:28:21Z",
+        "url": "https://github.com/MariusOTB/OpenTrade-Agent"
+      },
+      {
+        "createdAt": "2026-08-24T15:25:27Z",
+        "description": "",
+        "fullName": "interviewstreet/hackerrank-orchestrate-september26",
+        "updatedAt": "2026-09-17T21:44:42Z",
+        "url": "https://github.com/interviewstreet/hackerrank-orchestrate-september26"
+      },
+      {
+        "createdAt": "2026-08-27T14:20:58Z",
+        "description": "Autonomous research system for measurable, computer-executable research.",
+        "fullName": "sapientinc/PRAXIST",
+        "updatedAt": "2026-09-18T07:42:26Z",
+        "url": "https://github.com/sapientinc/PRAXIST"
+      },
+      {
+        "createdAt": "2026-08-19T13:25:08Z",
+        "description": "Autonomous Offensive Security, Bug Bounty & Red Teaming Agent Framework powered by Hermes Agent, specialized reasoning skills, and multi-model LLM orchestration.",
+        "fullName": "Zyrexnn/Cybermes",
+        "updatedAt": "2026-09-18T04:10:19Z",
+        "url": "https://github.com/Zyrexnn/Cybermes"
+      },
+      {
+        "createdAt": "2026-08-25T16:55:32Z",
+        "description": "Wemux - self-hostable AI agent collaboration platform (Apache-2.0, community edition)",
+        "fullName": "wemux-ai/wemux",
+        "updatedAt": "2026-09-17T21:26:36Z",
+        "url": "https://github.com/wemux-ai/wemux"
+      },
+      {
+        "createdAt": "2026-08-30T06:49:05Z",
+        "description": "Cost-efficient Codex multi-agent orchestration using Sol for planning and review, Luna for implementation, and Terra as a fallback.",
+        "fullName": "breko861-hash/sol-luna-codex-orchestrator",
+        "updatedAt": "2026-09-17T08:14:57Z",
+        "url": "https://github.com/breko861-hash/sol-luna-codex-orchestrator"
+      },
+      {
+        "createdAt": "2026-08-21T21:12:31Z",
+        "description": "You don't write AGENTS.md. You train it with gradient descent.",
+        "fullName": "kunchenguid/backpass",
+        "updatedAt": "2026-09-18T07:03:57Z",
+        "url": "https://github.com/kunchenguid/backpass"
+      },
+      {
+        "createdAt": "2026-09-07T19:51:28Z",
+        "description": "A multi-provider, multi-agent orchestrator that organizes agents into a visual authority hierarchy.",
+        "fullName": "Maurdekye/orgtree",
+        "updatedAt": "2026-09-18T07:04:08Z",
+        "url": "https://github.com/Maurdekye/orgtree"
+      },
+      {
+        "createdAt": "2026-08-22T14:16:48Z",
+        "description": "\u9762\u5411\u6296\u97f3\u76f4\u64ad\u7535\u5546\u7684 Windows \u672c\u5730 AI Agent Studio\uff0c\u8d2f\u901a\u4e3b\u64ad\u53d1\u73b0\u3001\u76f4\u64ad\u6d1e\u5bdf\u3001\u76f4\u64ad\u590d\u76d8\u4e0e\u77ed\u89c6\u9891\u5185\u5bb9\u7f16\u5bfc\u7684\u7edf\u4e00\u667a\u80fd\u5de5\u4f5c\u6d41\u3002",
+        "fullName": "HanyuanWang/LiveStream-Agent-Studio",
+        "updatedAt": "2026-09-18T07:44:00Z",
+        "url": "https://github.com/HanyuanWang/LiveStream-Agent-Studio"
+      },
+      {
+        "createdAt": "2026-08-19T09:26:03Z",
+        "description": "Compile real-world Claude Code and Codex trajectories into verified, tradable post-training assets.",
+        "fullName": "jinzijian/EvoTrace",
+        "updatedAt": "2026-09-16T13:30:54Z",
+        "url": "https://github.com/jinzijian/EvoTrace"
+      },
+      {
+        "createdAt": "2026-08-31T01:02:18Z",
+        "description": "Stop your AI from making things up \u2014 it proposes, deterministic tools decide, every claim checked against ground truth with evidence. Grounded facts and context survive resets. Reverse engineering is the proving ground. MCP server + CLI.",
+        "fullName": "2akouwu/reverify",
+        "updatedAt": "2026-09-18T05:24:31Z",
+        "url": "https://github.com/2akouwu/reverify"
+      },
+      {
+        "createdAt": "2026-08-28T16:30:26Z",
+        "description": "Vicoa is the agentic IDE for running a team of coding agents from any device. Desktop, mobile, VPS, open-source, self-hostable.",
+        "fullName": "vicoa-ai/vicoa",
+        "updatedAt": "2026-09-18T08:09:10Z",
+        "url": "https://github.com/vicoa-ai/vicoa"
+      },
+      {
+        "createdAt": "2026-09-13T20:39:43Z",
+        "description": "The offical repo for \"Dream-RSI: Recursive Self-Improvement through Evolving Worlds\"",
+        "fullName": "zhengkid/Dream-RSI",
+        "updatedAt": "2026-09-18T08:17:26Z",
+        "url": "https://github.com/zhengkid/Dream-RSI"
+      },
+      {
+        "createdAt": "2026-08-21T05:05:19Z",
+        "description": "Multi-harness control protocol that turns requests into approved design contracts, orchestrating isolated worker sessions for sequential implementation and independent code reviews under Orca supervision for Claude Code, Codex, Cursor, Antigravity, and other AI coding agents.",
+        "fullName": "hieuphung97/dely",
+        "updatedAt": "2026-09-18T02:33:52Z",
+        "url": "https://github.com/hieuphung97/dely"
+      },
+      {
+        "createdAt": "2026-08-20T09:51:28Z",
+        "description": "A Survey on Ontology Engineering, Graph Engineering, Loop Engineering, Harness Engineering, Context Engineering and Prompt Engineering",
+        "fullName": "DEEP-JLU/Awesome-Graph-Engineering",
+        "updatedAt": "2026-09-18T07:48:40Z",
+        "url": "https://github.com/DEEP-JLU/Awesome-Graph-Engineering"
+      },
+      {
+        "createdAt": "2026-08-28T18:03:04Z",
+        "description": "An agent organization structured as a company \u2014 15+ departments, 125+ skills, each independently installable, citing the standards and regulators that settle the question. Runs in Claude Code and ChatGPT.",
+        "fullName": "cbrock84/headcount",
+        "updatedAt": "2026-09-18T07:59:01Z",
+        "url": "https://github.com/cbrock84/headcount"
+      },
+      {
+        "createdAt": "2026-08-28T15:25:18Z",
+        "description": "",
+        "fullName": "jairorodriguezarias/siesta",
+        "updatedAt": "2026-09-18T04:11:17Z",
+        "url": "https://github.com/jairorodriguezarias/siesta"
+      },
+      {
+        "createdAt": "2026-08-25T17:53:31Z",
+        "description": "Agentic application framework, graph runtime, starters and visual administration platform for Spring AI.",
+        "fullName": "agentic-spring-ai/agentic-spring-ai",
+        "updatedAt": "2026-09-18T08:06:46Z",
+        "url": "https://github.com/agentic-spring-ai/agentic-spring-ai"
+      },
+      {
+        "createdAt": "2026-09-06T12:28:23Z",
+        "description": "Professional agent skills for screenwriting, television writing and dramaturgy",
+        "fullName": "jtydhr88/screenwriting-skills",
+        "updatedAt": "2026-09-18T07:15:05Z",
+        "url": "https://github.com/jtydhr88/screenwriting-skills"
+      },
+      {
+        "createdAt": "2026-09-04T20:49:03Z",
+        "description": "GPT-6 Astra orchestration with dynamic Sol, Terra, and Luna subagents",
+        "fullName": "DannyMac180/astra-advisor",
+        "updatedAt": "2026-09-17T14:44:42Z",
+        "url": "https://github.com/DannyMac180/astra-advisor"
+      },
+      {
+        "createdAt": "2026-08-26T08:52:50Z",
+        "description": "Generate GPT images from Codex or Claude Code using a ChatGPT subscription, without the Images API.",
+        "fullName": "GENEXIS-AI/gpt-image-skill",
+        "updatedAt": "2026-09-18T06:20:22Z",
+        "url": "https://github.com/GENEXIS-AI/gpt-image-skill"
+      },
+      {
+        "createdAt": "2026-08-28T06:03:14Z",
+        "description": "",
+        "fullName": "heygen-com/liveavatar-gpt-live-demos",
+        "updatedAt": "2026-09-17T10:07:54Z",
+        "url": "https://github.com/heygen-com/liveavatar-gpt-live-demos"
+      },
+      {
+        "createdAt": "2026-09-06T16:17:15Z",
+        "description": "",
+        "fullName": "Azure-Samples/claims-processing-hack",
+        "updatedAt": "2026-09-07T10:20:49Z",
+        "url": "https://github.com/Azure-Samples/claims-processing-hack"
+      },
+      {
+        "createdAt": "2026-08-29T21:14:31Z",
+        "description": "The open-source AI coworker for your team: agents with their own cloud computer, your tools and context, handing back finished work websites, decks, spreadsheets, reports, PRs. Runs Claude Code, Codex, OpenCode on your subscription.",
+        "fullName": "useagenthq/useagent",
+        "updatedAt": "2026-09-18T08:15:52Z",
+        "url": "https://github.com/useagenthq/useagent"
+      },
+      {
+        "createdAt": "2026-08-23T18:49:46Z",
+        "description": "One Hermes conductor. Many coding CLIs. Zero trust in self-reports. Production multi-harness orchestration patterns: worktree lanes, verification gates, recovery playbooks \u2014 from 18 kanban boards and every incident that tried to ruin them.",
+        "fullName": "forcewake/hermes-conductor",
+        "updatedAt": "2026-09-14T22:26:38Z",
+        "url": "https://github.com/forcewake/hermes-conductor"
+      },
+      {
+        "createdAt": "2026-09-04T02:28:20Z",
+        "description": "Beyond RAG: An open-source agentic healthcare search framework using Gemini and Google ADK for query fan-out, evidence retrieval, grounding, citation evaluation, and trustworthy healthcare information discovery.",
+        "fullName": "hastimal/gemini-healthcare-agentic-platform",
+        "updatedAt": "2026-09-17T19:35:03Z",
+        "url": "https://github.com/hastimal/gemini-healthcare-agentic-platform"
+      },
+      {
+        "createdAt": "2026-08-19T16:46:48Z",
+        "description": "Curated bilingual list of Grok Bot resources \u2014 always-on AI teammates with their own cloud computer.",
+        "fullName": "RongleCat/awesome-grok-bot",
+        "updatedAt": "2026-09-18T07:23:25Z",
+        "url": "https://github.com/RongleCat/awesome-grok-bot"
+      },
+      {
+        "createdAt": "2026-08-31T10:23:49Z",
+        "description": "A model-agnostic, stateless Go agent runtime featuring dual-IR planning, dependency-aware batch scheduling, capability-driven MCP/tool orchestration, policy-based failure recovery, conditional replanning, side-effect control, and end-to-end execution observability.",
+        "fullName": "cocoyes/zhizhi-agent-runtime",
+        "updatedAt": "2026-09-18T06:58:31Z",
+        "url": "https://github.com/cocoyes/zhizhi-agent-runtime"
+      },
+      {
+        "createdAt": "2026-08-20T12:29:47Z",
+        "description": "Visual desktop Harness & control center for Pi Coding Agent \u2014 inspect runtime, context, tools & sessions; manage models & skills; browse files & Git. Powered by Pi Agent Harness.",
+        "fullName": "wangmiaozero/pi-harness",
+        "updatedAt": "2026-09-18T06:21:19Z",
+        "url": "https://github.com/wangmiaozero/pi-harness"
+      },
+      {
+        "createdAt": "2026-09-07T03:32:55Z",
+        "description": "Codex-native harness with reusable agents, persistent multi-agent orchestration, and communication logs.",
+        "fullName": "revfactory/codex-harness",
+        "updatedAt": "2026-09-18T08:15:07Z",
+        "url": "https://github.com/revfactory/codex-harness"
+      },
+      {
+        "createdAt": "2026-09-07T05:46:59Z",
+        "description": "Open-source end-to-end omni interaction agent for natural full-duplex voice collaboration, continuous audio-visual perception, and asynchronous long-horizon agentic execution.",
+        "fullName": "Omni-Interaction-Gander/Omni-Interaction-Agent",
+        "updatedAt": "2026-09-18T07:32:14Z",
+        "url": "https://github.com/Omni-Interaction-Gander/Omni-Interaction-Agent"
+      },
+      {
+        "createdAt": "2026-08-25T14:24:24Z",
+        "description": "Skills that translate your coding agent's output into plain language: honest reports, straight verdicts, steps you can follow. MIT.",
+        "fullName": "kharmanskyi/open-steps",
+        "updatedAt": "2026-09-18T08:15:49Z",
+        "url": "https://github.com/kharmanskyi/open-steps"
+      },
+      {
+        "createdAt": "2026-08-23T06:15:15Z",
+        "description": "A compounding agent OS for recursive agents. Also an open source alternative to Grok Bot and Meta's Muse.",
+        "fullName": "rome-os/rome",
+        "updatedAt": "2026-09-18T06:47:43Z",
+        "url": "https://github.com/rome-os/rome"
+      },
+      {
+        "createdAt": "2026-09-02T16:32:59Z",
+        "description": "A curated list of open-source AI agent platforms: AI coworkers and teammates, agent builders and frameworks, workflow automation platforms, browser agents, and coding agents, with licenses.",
+        "fullName": "Agenta-AI/awesome-ai-agent-platforms",
+        "updatedAt": "2026-09-17T16:50:48Z",
+        "url": "https://github.com/Agenta-AI/awesome-ai-agent-platforms"
+      },
+      {
+        "createdAt": "2026-08-29T23:16:12Z",
+        "description": "Stop your coding agent from stalling real work on self-invented bookkeeping - receipts, hashes, locks, certification rituals. Ship first, then verify. Skill for Claude Code, Codex, and other agents.",
+        "fullName": "Vuk97/forward-implementation-first",
+        "updatedAt": "2026-09-18T05:35:14Z",
+        "url": "https://github.com/Vuk97/forward-implementation-first"
+      },
+      {
+        "createdAt": "2026-09-06T12:32:26Z",
+        "description": "",
+        "fullName": "zostaff/agent-arena",
+        "updatedAt": "2026-09-18T07:37:41Z",
+        "url": "https://github.com/zostaff/agent-arena"
+      },
+      {
+        "createdAt": "2026-08-22T13:39:19Z",
+        "description": "Live monitor and workspace orchestrator for AI coding agents (Herdr, OMP, Hermes, Claude, Codex) in the Omarchy bar",
+        "fullName": "meviusisback/agent-orchestr",
+        "updatedAt": "2026-09-17T19:35:36Z",
+        "url": "https://github.com/meviusisback/agent-orchestr"
+      },
+      {
+        "createdAt": "2026-08-21T03:31:35Z",
+        "description": "[Anthropic research] We built automated alignment researchers to autonomously post-train other AIs to improve alignment",
+        "fullName": "YuehHanChen/automated_alignment_researcher",
+        "updatedAt": "2026-09-18T07:34:34Z",
+        "url": "https://github.com/YuehHanChen/automated_alignment_researcher"
+      },
+      {
+        "createdAt": "2026-08-23T21:06:33Z",
+        "description": "Building AI agents and retrieval systems, a masterclass in LLM agents, RAG, and production deployment.",
+        "fullName": "Harrypatria/Agentic-AI-Masterclass-Handbook-Usecases-Convergeni",
+        "updatedAt": "2026-09-17T13:16:50Z",
+        "url": "https://github.com/Harrypatria/Agentic-AI-Masterclass-Handbook-Usecases-Convergeni"
+      },
+      {
+        "createdAt": "2026-08-22T17:07:49Z",
+        "description": "Open-source starter stack for Agent product developers: desktop client, control plane, workers, multi-agent workflows, admin, mobile, and operations.",
+        "fullName": "primorLee/agent-workflow-platform",
+        "updatedAt": "2026-09-15T16:36:08Z",
+        "url": "https://github.com/primorLee/agent-workflow-platform"
+      },
+      {
+        "createdAt": "2026-08-29T10:28:37Z",
+        "description": "Awesome list of Paseo plugins",
+        "fullName": "omercnet/awesome-paseo-plugins",
+        "updatedAt": "2026-09-11T16:59:35Z",
+        "url": "https://github.com/omercnet/awesome-paseo-plugins"
+      },
+      {
+        "createdAt": "2026-08-28T13:46:48Z",
+        "description": "An infinite canvas product that allows any number of codex, claude, opencode, pi, and other agents to communicate simultaneously on the canvas",
+        "fullName": "bushm2092-del/agent-weave",
+        "updatedAt": "2026-09-15T16:36:08Z",
+        "url": "https://github.com/bushm2092-del/agent-weave"
+      },
+      {
+        "createdAt": "2026-08-26T08:41:36Z",
+        "description": "CodeMonk \ud83e\udd4b \u2014>An open-source AI powered code intelligence platform that helps developers understand, explore, and navigate complex codebases using modern Spring Boot, Spring AI, RAG, knowledge graphs, and intelligent code analysis",
+        "fullName": "YeamimHossainSajid/CodeMonk",
+        "updatedAt": "2026-09-18T06:09:38Z",
+        "url": "https://github.com/YeamimHossainSajid/CodeMonk"
+      },
+      {
+        "createdAt": "2026-09-08T11:02:27Z",
+        "description": "VS Code \u00d7 Codex \u00d7 Jira, in one free, open-source Mac app. Repository browsing, Kanban tasks, subagent inspection and local code review. Public beta, macOS 15+.",
+        "fullName": "zachealy1/orchestrator",
+        "updatedAt": "2026-09-17T20:03:51Z",
+        "url": "https://github.com/zachealy1/orchestrator"
+      },
+      {
+        "createdAt": "2026-09-07T09:28:33Z",
+        "description": "vLLM based inference framework for agentic workload.",
+        "fullName": "openJiuwen-ai/agent-infer",
+        "updatedAt": "2026-09-18T07:07:06Z",
+        "url": "https://github.com/openJiuwen-ai/agent-infer"
+      },
+      {
+        "createdAt": "2026-08-31T11:58:42Z",
+        "description": "Deterministic, private-by-default skill routing before the main LLM runs. Built by VEDAXI.",
+        "fullName": "luxurylifestyleco/skill-router",
+        "updatedAt": "2026-09-06T16:56:27Z",
+        "url": "https://github.com/luxurylifestyleco/skill-router"
+      },
+      {
+        "createdAt": "2026-08-21T18:04:42Z",
+        "description": "",
+        "fullName": "anshlambagit/AI_Data_Agent",
+        "updatedAt": "2026-09-16T11:49:24Z",
+        "url": "https://github.com/anshlambagit/AI_Data_Agent"
+      },
+      {
+        "createdAt": "2026-08-31T05:35:43Z",
+        "description": "",
+        "fullName": "aryan1403/Amdocs-Workshop",
+        "updatedAt": "2026-09-08T16:12:38Z",
+        "url": "https://github.com/aryan1403/Amdocs-Workshop"
+      }
+    ],
+    "error": null
+  },
+  {
+    "id": "github-agent-runtime",
+    "query": "agent runtime in:name,description created:>=2026-08-19",
+    "results": [
+      {
+        "createdAt": "2026-08-31T10:23:49Z",
+        "description": "A model-agnostic, stateless Go agent runtime featuring dual-IR planning, dependency-aware batch scheduling, capability-driven MCP/tool orchestration, policy-based failure recovery, conditional replanning, side-effect control, and end-to-end execution observability.",
+        "fullName": "cocoyes/zhizhi-agent-runtime",
+        "updatedAt": "2026-09-18T06:58:31Z",
+        "url": "https://github.com/cocoyes/zhizhi-agent-runtime"
+      },
+      {
+        "createdAt": "2026-09-07T16:09:21Z",
+        "description": "Persistent work state and minimal context for long-running AI agents.",
+        "fullName": "originoneai/agent-work-runtime",
+        "updatedAt": "2026-09-18T06:39:47Z",
+        "url": "https://github.com/originoneai/agent-work-runtime"
+      },
+      {
+        "createdAt": "2026-09-01T21:52:29Z",
+        "description": "Long-term memory runtime for AI agents \u2014 plain Markdown as the source of truth, local ranked retrieval, and an independent sleep-time Manage layer. Claude Code and Codex share one store. No API key.",
+        "fullName": "tigerless-labs/agent-memory",
+        "updatedAt": "2026-09-18T08:14:42Z",
+        "url": "https://github.com/tigerless-labs/agent-memory"
+      },
+      {
+        "createdAt": "2026-08-20T07:55:08Z",
+        "description": "Code-only runtime toolkit for cost-aware multi-agent organization and control",
+        "fullName": "w1u2d3i4/multitown",
+        "updatedAt": "2026-09-07T16:12:50Z",
+        "url": "https://github.com/w1u2d3i4/multitown"
+      },
+      {
+        "createdAt": "2026-08-25T17:53:31Z",
+        "description": "Agentic application framework, graph runtime, starters and visual administration platform for Spring AI.",
+        "fullName": "agentic-spring-ai/agentic-spring-ai",
+        "updatedAt": "2026-09-18T08:06:46Z",
+        "url": "https://github.com/agentic-spring-ai/agentic-spring-ai"
+      },
+      {
+        "createdAt": "2026-08-20T09:49:57Z",
+        "description": "Android No-Root Linux Runtime \u00b7 Native Agent Harness \u00b7 PTY Terminal \u00b7 Workspace & Tool Ecosystem",
+        "fullName": "wkbin/taixu",
+        "updatedAt": "2026-09-18T08:18:20Z",
+        "url": "https://github.com/wkbin/taixu"
+      },
+      {
+        "createdAt": "2026-09-03T05:01:54Z",
+        "description": "Local-first macOS runtime security: trace, verify, and recover AI-agent activity.",
+        "fullName": "yardfribley-bit/AgentReins",
+        "updatedAt": "2026-09-17T11:59:14Z",
+        "url": "https://github.com/yardfribley-bit/AgentReins"
+      },
+      {
+        "createdAt": "2026-08-28T11:45:51Z",
+        "description": "Rollout inference runtime for Agentic RL and multi-turn code agents",
+        "fullName": "yuzheng310/qwen3-runtime",
+        "updatedAt": "2026-09-15T10:15:27Z",
+        "url": "https://github.com/yuzheng310/qwen3-runtime"
+      },
+      {
+        "createdAt": "2026-08-31T22:24:31Z",
+        "description": "A local corpus of open-source code, searchable by you or your coding agent. One Rust binary, no runtime, no MCP.",
+        "fullName": "KenKaiii/agent-steroids",
+        "updatedAt": "2026-09-17T02:13:22Z",
+        "url": "https://github.com/KenKaiii/agent-steroids"
+      },
+      {
+        "createdAt": "2026-08-20T12:29:47Z",
+        "description": "Visual desktop Harness & control center for Pi Coding Agent \u2014 inspect runtime, context, tools & sessions; manage models & skills; browse files & Git. Powered by Pi Agent Harness.",
+        "fullName": "wangmiaozero/pi-harness",
+        "updatedAt": "2026-09-18T06:21:19Z",
+        "url": "https://github.com/wangmiaozero/pi-harness"
+      },
+      {
+        "createdAt": "2026-08-20T22:57:11Z",
+        "description": "A fast coding-agent harness in Go. Tool-use loop, bubbletea TUI, provider-routable models with live catalog discovery, MCP support, background subagents. One binary, no runtime, built for open-source models.",
+        "fullName": "context-labs/whip",
+        "updatedAt": "2026-09-17T16:28:11Z",
+        "url": "https://github.com/context-labs/whip"
+      },
+      {
+        "createdAt": "2026-08-29T14:40:53Z",
+        "description": " A multi-model Agent runtime built on Spring Boot 4 / Spring AI 2.0: model routing (Anthropic / DeepSeek / OpenAI /   custom), thinking toggle, Task subagents, hot-pluggable Skills, Docker sandbox + Code Interpreter, MCP tools, dify/n8n   integration, RAG with pgvector, Human-in-the-Loop approvals \u2014 all streamed as structured SSE events.",
+        "fullName": "git-syl/hermes-agent-demo",
+        "updatedAt": "2026-09-15T14:28:08Z",
+        "url": "https://github.com/git-syl/hermes-agent-demo"
+      },
+      {
+        "createdAt": "2026-09-09T12:59:04Z",
+        "description": "Agent Skill for complex work: research before asking, ask before planning, plan before building, verify before delivering, independent review before calling it done. Plain text, no runtime.",
+        "fullName": "Da7-Tech/SureForge",
+        "updatedAt": "2026-09-17T19:47:37Z",
+        "url": "https://github.com/Da7-Tech/SureForge"
+      },
+      {
+        "createdAt": "2026-08-26T06:15:48Z",
+        "description": "CraftStation Agent Runtime Composition System",
+        "fullName": "HernanJiang/CraftStation",
+        "updatedAt": "2026-09-18T08:14:39Z",
+        "url": "https://github.com/HernanJiang/CraftStation"
+      },
+      {
+        "createdAt": "2026-09-06T02:14:50Z",
+        "description": "A lightweight, composable Agent Runtime for building extensible AI agents.",
+        "fullName": "zijie1024/autryn",
+        "updatedAt": "2026-09-18T03:09:58Z",
+        "url": "https://github.com/zijie1024/autryn"
+      },
+      {
+        "createdAt": "2026-08-30T15:58:25Z",
+        "description": "Codex operating rules and quality references for Adobe After Effects workflows using an MCP runtime",
+        "fullName": "GUNMIN-KIM/after-effects-codex-agent",
+        "updatedAt": "2026-09-11T16:35:46Z",
+        "url": "https://github.com/GUNMIN-KIM/after-effects-codex-agent"
+      },
+      {
+        "createdAt": "2026-08-24T16:55:28Z",
+        "description": "Kit is a coding agent runtime. Claude Code but faster, cheaper and more to the point \ud83c\udfaf",
+        "fullName": "speakeasy-api/kit",
+        "updatedAt": "2026-09-18T07:55:33Z",
+        "url": "https://github.com/speakeasy-api/kit"
+      },
+      {
+        "createdAt": "2026-09-14T13:07:19Z",
+        "description": "Peer-replicated agent runtime for native hosts and browser Workers.",
+        "fullName": "kai-compute/agent",
+        "updatedAt": "2026-09-15T12:31:01Z",
+        "url": "https://github.com/kai-compute/agent"
+      },
+      {
+        "createdAt": "2026-08-20T01:55:18Z",
+        "description": "Lightweight personal agent framework: receives messages from Telegram / Feishu / WeChat (iLink) and autonomously completes short,   well-scoped tasks (meal logging, vocab lookups, reminders) inside your data directory. Token-thrifty, no heavy runtime \u2014 with optional   scheduler, WebUI, and monitoring.",
+        "fullName": "crossoverJie/botler-agent",
+        "updatedAt": "2026-09-13T05:41:39Z",
+        "url": "https://github.com/crossoverJie/botler-agent"
+      },
+      {
+        "createdAt": "2026-09-12T22:26:58Z",
+        "description": "Policy-as-code for AI agent permissions. Define bounded permissions in YAML, enforce at runtime.",
+        "fullName": "yunaremaia/agent-guard",
+        "updatedAt": "2026-09-18T03:53:02Z",
+        "url": "https://github.com/yunaremaia/agent-guard"
+      },
+      {
+        "createdAt": "2026-08-31T00:00:28Z",
+        "description": "A distributed durable execution runtime for long-running Agent workloads.",
+        "fullName": "daqiaoliang-coder/agent-runtime",
+        "updatedAt": "2026-09-14T11:45:24Z",
+        "url": "https://github.com/daqiaoliang-coder/agent-runtime"
+      },
+      {
+        "createdAt": "2026-09-09T19:33:01Z",
+        "description": "",
+        "fullName": "thetis-agent/runtime",
+        "updatedAt": "2026-09-18T04:02:09Z",
+        "url": "https://github.com/thetis-agent/runtime"
+      },
+      {
+        "createdAt": "2026-08-21T14:51:37Z",
+        "description": "A curated, comparable catalog of AI agent runtimes, operating systems, orchestration layers, sandboxes, and durable execution platforms.",
+        "fullName": "beejmaxx/awesome-agent-runtimes",
+        "updatedAt": "2026-09-17T09:30:48Z",
+        "url": "https://github.com/beejmaxx/awesome-agent-runtimes"
+      },
+      {
+        "createdAt": "2026-08-24T06:49:32Z",
+        "description": "Eden Agent \u2014 local-first Rust agent runtime with React, Vite, and Electron clients",
+        "fullName": "jiang357357357/EdenAgent",
+        "updatedAt": "2026-09-17T21:16:05Z",
+        "url": "https://github.com/jiang357357357/EdenAgent"
+      },
+      {
+        "createdAt": "2026-09-06T15:21:13Z",
+        "description": "GenPark AI Agent Skill - Dynamically synthesizes and evaluates runtime assertions, pre/post-conditions, and state invariants to detect data corruption before crashes occur.",
+        "fullName": "alphaparkinc/genpark-agent-runtime-invariant-assertion-synthesizer-skill",
+        "updatedAt": "2026-09-06T15:21:48Z",
+        "url": "https://github.com/alphaparkinc/genpark-agent-runtime-invariant-assertion-synthesizer-skill"
+      },
+      {
+        "createdAt": "2026-09-07T08:06:08Z",
+        "description": "GenPark AI Agent Skill - In-memory runtime hotpatching and method swapper allowing dynamic agent self-adaptation with deterministic rollback checkpoints.",
+        "fullName": "Alpha-Park/genpark-agent-runtime-hotpatch-sandbox-injector-skill",
+        "updatedAt": "2026-09-07T08:06:40Z",
+        "url": "https://github.com/Alpha-Park/genpark-agent-runtime-hotpatch-sandbox-injector-skill"
+      },
+      {
+        "createdAt": "2026-09-07T08:05:30Z",
+        "description": "GenPark AI Agent Skill - In-memory runtime hotpatching and method swapper allowing dynamic agent self-adaptation with deterministic rollback checkpoints.",
+        "fullName": "alphaparkinc/genpark-agent-runtime-hotpatch-sandbox-injector-skill",
+        "updatedAt": "2026-09-07T08:06:06Z",
+        "url": "https://github.com/alphaparkinc/genpark-agent-runtime-hotpatch-sandbox-injector-skill"
+      },
+      {
+        "createdAt": "2026-09-06T15:21:51Z",
+        "description": "GenPark AI Agent Skill - Dynamically synthesizes and evaluates runtime assertions, pre/post-conditions, and state invariants to detect data corruption before crashes occur.",
+        "fullName": "Alpha-Park/genpark-agent-runtime-invariant-assertion-synthesizer-skill",
+        "updatedAt": "2026-09-06T15:22:29Z",
+        "url": "https://github.com/Alpha-Park/genpark-agent-runtime-invariant-assertion-synthesizer-skill"
+      },
+      {
+        "createdAt": "2026-08-31T15:37:25Z",
+        "description": "A plugin-first Go runtime for building extensible AI agent products.",
+        "fullName": "lucy971326/EDITH-Harness",
+        "updatedAt": "2026-09-18T06:39:01Z",
+        "url": "https://github.com/lucy971326/EDITH-Harness"
+      },
+      {
+        "createdAt": "2026-08-26T05:13:24Z",
+        "description": "Locked registry for general Agent runtimes, orchestration, skills and tooling.",
+        "fullName": "zinan92/agent",
+        "updatedAt": "2026-09-14T06:41:45Z",
+        "url": "https://github.com/zinan92/agent"
+      },
+      {
+        "createdAt": "2026-09-14T23:24:30Z",
+        "description": "Konteks native runtime connector: installs local coding agents, connects them to Konteks, and keeps itself updated.",
+        "fullName": "konteks-io/runtime",
+        "updatedAt": "2026-09-18T02:24:58Z",
+        "url": "https://github.com/konteks-io/runtime"
+      },
+      {
+        "createdAt": "2026-09-11T01:49:49Z",
+        "description": "A curated collection of papers and resources on robot-use agents, tool-based robot control, embodied agent runtimes, and self-evolving robotic systems.",
+        "fullName": "visitworld123/Awesome-Robot-Use-Agent",
+        "updatedAt": "2026-09-18T07:22:54Z",
+        "url": "https://github.com/visitworld123/Awesome-Robot-Use-Agent"
+      },
+      {
+        "createdAt": "2026-08-23T04:37:32Z",
+        "description": "Least-privilege ephemeral runtime sandbox for autonomous agents with syscall filtering (nono style)",
+        "fullName": "alphaparkinc/genpark-least-privilege-agent-runtime-sandbox-isolator-skill",
+        "updatedAt": "2026-09-01T11:49:50Z",
+        "url": "https://github.com/alphaparkinc/genpark-least-privilege-agent-runtime-sandbox-isolator-skill"
+      },
+      {
+        "createdAt": "2026-09-12T15:08:05Z",
+        "description": "A macOS desktop pet that reacts to what your CLI coding agents are doing. Local-only, no cloud.",
+        "fullName": "dncore/agent-pet-runtime",
+        "updatedAt": "2026-09-18T06:39:59Z",
+        "url": "https://github.com/dncore/agent-pet-runtime"
+      },
+      {
+        "createdAt": "2026-09-01T21:03:47Z",
+        "description": "An open-source, self-hosted, provider-agnostic AI agent runtime \u2014 browser, computer use, files, tools, MCP.",
+        "fullName": "muhtalhakhan/open-agent",
+        "updatedAt": "2026-09-11T20:17:58Z",
+        "url": "https://github.com/muhtalhakhan/open-agent"
+      },
+      {
+        "createdAt": "2026-09-16T11:31:48Z",
+        "description": "The WaniWani agent runtime: an Eve agent that serves website chat for any environment.",
+        "fullName": "WaniWani-AI/agent",
+        "updatedAt": "2026-09-17T20:02:54Z",
+        "url": "https://github.com/WaniWani-AI/agent"
+      },
+      {
+        "createdAt": "2026-08-19T14:29:47Z",
+        "description": "SYNDOVELA governs enterprise Agent Skill composition across runtimes; SYNDOVELA-open provides its open SDKs, contracts, examples, and signed release binaries.",
+        "fullName": "axisrobo/SYNDOVELA-open",
+        "updatedAt": "2026-08-27T10:11:01Z",
+        "url": "https://github.com/axisrobo/SYNDOVELA-open"
+      },
+      {
+        "createdAt": "2026-08-19T19:21:42Z",
+        "description": "THE RUNTIME FIREWALL FOR AUTONOMOUS AI AGENTS",
+        "fullName": "Aaditya1273/Vigil",
+        "updatedAt": "2026-09-16T18:03:20Z",
+        "url": "https://github.com/Aaditya1273/Vigil"
+      },
+      {
+        "createdAt": "2026-09-05T16:29:07Z",
+        "description": "Open-source full-stack AI agent with an embeddable React UI and FastAPI runtime. Self-host with streaming, pause/resume, durable state, and parallel multi-agent subtasks.",
+        "fullName": "XiaoTongYuCode/CornAgent",
+        "updatedAt": "2026-09-18T08:12:58Z",
+        "url": "https://github.com/XiaoTongYuCode/CornAgent"
+      },
+      {
+        "createdAt": "2026-09-03T09:24:16Z",
+        "description": "",
+        "fullName": "Saransh-2194/Hybrid-Code-Repair-Agent-with-Runtime-Drift-Detection",
+        "updatedAt": "2026-09-17T08:31:08Z",
+        "url": "https://github.com/Saransh-2194/Hybrid-Code-Repair-Agent-with-Runtime-Drift-Detection"
+      },
+      {
+        "createdAt": "2026-09-06T14:36:53Z",
+        "description": "GenPark AI Agent Skill - Local namespace variable diff inspector tracking variable creation, modification, and deletion across REPL execution steps.",
+        "fullName": "alphaparkinc/genpark-runtime-variable-diff-state-inspector-skill",
+        "updatedAt": "2026-09-06T14:37:20Z",
+        "url": "https://github.com/alphaparkinc/genpark-runtime-variable-diff-state-inspector-skill"
+      },
+      {
+        "createdAt": "2026-09-06T14:37:21Z",
+        "description": "GenPark AI Agent Skill - Local namespace variable diff inspector tracking variable creation, modification, and deletion across REPL execution steps.",
+        "fullName": "Alpha-Park/genpark-runtime-variable-diff-state-inspector-skill",
+        "updatedAt": "2026-09-06T14:37:45Z",
+        "url": "https://github.com/Alpha-Park/genpark-runtime-variable-diff-state-inspector-skill"
+      },
+      {
+        "createdAt": "2026-08-21T02:25:32Z",
+        "description": "Deterministic canary checks for coding-agent runtimes.",
+        "fullName": "Wattson-Law/runtime-canary",
+        "updatedAt": "2026-08-25T11:36:10Z",
+        "url": "https://github.com/Wattson-Law/runtime-canary"
+      },
+      {
+        "createdAt": "2026-08-28T21:47:51Z",
+        "description": "Event-sourced runtime for durable, crash-resumable LLM agents",
+        "fullName": "therajtiwari/durable-agents",
+        "updatedAt": "2026-09-09T15:39:17Z",
+        "url": "https://github.com/therajtiwari/durable-agents"
+      },
+      {
+        "createdAt": "2026-09-01T13:18:44Z",
+        "description": "Pi-native implementation of SKILL.state for scalable long-horizon agent execution",
+        "fullName": "toadharvard/pi-skill-state-runtime",
+        "updatedAt": "2026-09-13T15:59:20Z",
+        "url": "https://github.com/toadharvard/pi-skill-state-runtime"
+      },
+      {
+        "createdAt": "2026-08-24T15:00:58Z",
+        "description": "",
+        "fullName": "phatnguyen03022001/agent-runtime",
+        "updatedAt": "2026-09-08T02:38:04Z",
+        "url": "https://github.com/phatnguyen03022001/agent-runtime"
+      },
+      {
+        "createdAt": "2026-09-06T13:47:55Z",
+        "description": "AI-programmable agent runtime \u2014 open spec, typed Canvas & minimal kernel with local MCP",
+        "fullName": "viveksha-ai/openviveksha",
+        "updatedAt": "2026-09-14T06:06:49Z",
+        "url": "https://github.com/viveksha-ai/openviveksha"
+      },
+      {
+        "createdAt": "2026-09-01T06:49:17Z",
+        "description": "AgentCore \u2014 Multi-Agent Orchestration & RAG Runtime",
+        "fullName": "huiyuecs/agentcore",
+        "updatedAt": "2026-09-02T06:44:08Z",
+        "url": "https://github.com/huiyuecs/agentcore"
+      },
+      {
+        "createdAt": "2026-08-29T18:51:30Z",
+        "description": "Local-first agent runtime for one continuous identity across Telegram, terminal, provider changes, crashes, and context limits.",
+        "fullName": "HailSyner/tether-agent-runtime",
+        "updatedAt": "2026-09-06T11:04:03Z",
+        "url": "https://github.com/HailSyner/tether-agent-runtime"
+      },
+      {
+        "createdAt": "2026-08-29T23:27:48Z",
+        "description": "Security runtime for AI coding agents: bounded authority, exact-candidate evidence, separate review and human gates. Works with Codex, Claude and OpenCode.",
+        "fullName": "steerion-labs/bounded-agent-runtime",
+        "updatedAt": "2026-09-13T10:41:25Z",
+        "url": "https://github.com/steerion-labs/bounded-agent-runtime"
+      }
+    ],
+    "error": null
+  }
+]

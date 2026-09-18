@@ -1,0 +1,1535 @@
+[
+  {
+    "name": "Human-Agent-Society/reef",
+    "url": "https://github.com/Human-Agent-Society/reef",
+    "lane": "recent-github",
+    "disposition": "duplicate",
+    "reason": "Existing catalog repository or canonical URL identity."
+  },
+  {
+    "name": "NVlabs/SoL-Pi",
+    "url": "https://github.com/NVlabs/SoL-Pi",
+    "lane": "recent-github",
+    "disposition": "published",
+    "reason": "Primary README, source tree, license and canonical identity reviewed."
+  },
+  {
+    "name": "MariusOTB/OpenTrade-Agent",
+    "url": "https://github.com/MariusOTB/OpenTrade-Agent",
+    "lane": "recent-github",
+    "disposition": "deferred-existing",
+    "reason": "Already in deferred queue; no unresolved evidence assumed fixed."
+  },
+  {
+    "name": "techjarves/Mobile-Harness",
+    "url": "https://github.com/techjarves/Mobile-Harness",
+    "lane": "recent-github",
+    "disposition": "duplicate",
+    "reason": "Existing catalog repository or canonical URL identity."
+  },
+  {
+    "name": "HowProgrammingWorks/Agent",
+    "url": "https://github.com/HowProgrammingWorks/Agent",
+    "lane": "recent-github",
+    "disposition": "duplicate",
+    "reason": "Existing catalog repository or canonical URL identity."
+  },
+  {
+    "name": "ApodexAI/FrontierAgent",
+    "url": "https://github.com/ApodexAI/FrontierAgent",
+    "lane": "recent-github",
+    "disposition": "duplicate",
+    "reason": "Existing catalog repository or canonical URL identity."
+  },
+  {
+    "name": "sapientinc/PRAXIST",
+    "url": "https://github.com/sapientinc/PRAXIST",
+    "lane": "recent-github",
+    "disposition": "duplicate",
+    "reason": "Existing catalog repository or canonical URL identity."
+  },
+  {
+    "name": "advitrocks9/aichessathon-starter",
+    "url": "https://github.com/advitrocks9/aichessathon-starter",
+    "lane": "recent-github",
+    "disposition": "rejected",
+    "reason": "Search metadata identifies a skill/prompt collection, list, tutorial, template, domain helper or demonstration rather than a distinct verified harness; not promoted."
+  },
+  {
+    "name": "browser-use/jev-ultrafast",
+    "url": "https://github.com/browser-use/jev-ultrafast",
+    "lane": "recent-github",
+    "disposition": "deferred-new",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "S1N6H/pentest-harness",
+    "url": "https://github.com/S1N6H/pentest-harness",
+    "lane": "recent-github",
+    "disposition": "duplicate",
+    "reason": "Existing catalog repository or canonical URL identity."
+  },
+  {
+    "name": "CosmosMind-ai/RSI-Harness",
+    "url": "https://github.com/CosmosMind-ai/RSI-Harness",
+    "lane": "recent-github",
+    "disposition": "deferred-new",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "Station-Sciences/bot-crossing",
+    "url": "https://github.com/Station-Sciences/bot-crossing",
+    "lane": "recent-github",
+    "disposition": "deferred-new",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "kunchenguid/backpass",
+    "url": "https://github.com/kunchenguid/backpass",
+    "lane": "recent-github",
+    "disposition": "deferred-existing",
+    "reason": "Already in deferred queue; no unresolved evidence assumed fixed."
+  },
+  {
+    "name": "showlab/Show-Harness",
+    "url": "https://github.com/showlab/Show-Harness",
+    "lane": "recent-github",
+    "disposition": "deferred-new",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "XiaoDuoYa/codex-with-chatgpt",
+    "url": "https://github.com/XiaoDuoYa/codex-with-chatgpt",
+    "lane": "recent-github",
+    "disposition": "deferred-new",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "YuJunZhiXue/dsh-purge",
+    "url": "https://github.com/YuJunZhiXue/dsh-purge",
+    "lane": "recent-github",
+    "disposition": "rejected",
+    "reason": "Search metadata identifies a skill/prompt collection, list, tutorial, template, domain helper or demonstration rather than a distinct verified harness; not promoted."
+  },
+  {
+    "name": "acryldev/acryl",
+    "url": "https://github.com/acryldev/acryl",
+    "lane": "recent-github",
+    "disposition": "duplicate",
+    "reason": "Existing catalog repository or canonical URL identity."
+  },
+  {
+    "name": "DEEP-JLU/Awesome-Graph-Engineering",
+    "url": "https://github.com/DEEP-JLU/Awesome-Graph-Engineering",
+    "lane": "recent-github",
+    "disposition": "rejected",
+    "reason": "Search metadata identifies a skill/prompt collection, list, tutorial, template, domain helper or demonstration rather than a distinct verified harness; not promoted."
+  },
+  {
+    "name": "Flesymeb/HarnessOfHarness",
+    "url": "https://github.com/Flesymeb/HarnessOfHarness",
+    "lane": "recent-github",
+    "disposition": "deferred-existing",
+    "reason": "Already in deferred queue; no unresolved evidence assumed fixed."
+  },
+  {
+    "name": "hkqr/my-free-code",
+    "url": "https://github.com/hkqr/my-free-code",
+    "lane": "recent-github",
+    "disposition": "deferred-existing",
+    "reason": "Already in deferred queue; no unresolved evidence assumed fixed."
+  },
+  {
+    "name": "mini-harness/mini-harness",
+    "url": "https://github.com/mini-harness/mini-harness",
+    "lane": "recent-github",
+    "disposition": "deferred-new",
+    "reason": "Official source and implementation are available, but no repository license was found in this review; licensing remains unresolved."
+  },
+  {
+    "name": "frontier-harness-eval/eval",
+    "url": "https://github.com/frontier-harness-eval/eval",
+    "lane": "recent-github",
+    "disposition": "deferred-new",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "jinzijian/EvoTrace",
+    "url": "https://github.com/jinzijian/EvoTrace",
+    "lane": "recent-github",
+    "disposition": "deferred-existing",
+    "reason": "Already in deferred queue; no unresolved evidence assumed fixed."
+  },
+  {
+    "name": "Qiuner/birdview",
+    "url": "https://github.com/Qiuner/birdview",
+    "lane": "recent-github",
+    "disposition": "deferred-new",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "2akouwu/reverify",
+    "url": "https://github.com/2akouwu/reverify",
+    "lane": "recent-github",
+    "disposition": "duplicate",
+    "reason": "Existing catalog repository or canonical URL identity."
+  },
+  {
+    "name": "Continuum-AI-Corp/OrcaReplay",
+    "url": "https://github.com/Continuum-AI-Corp/OrcaReplay",
+    "lane": "recent-github",
+    "disposition": "duplicate",
+    "reason": "Existing catalog repository or canonical URL identity."
+  },
+  {
+    "name": "context-labs/whip",
+    "url": "https://github.com/context-labs/whip",
+    "lane": "recent-github",
+    "disposition": "duplicate",
+    "reason": "Existing catalog repository or canonical URL identity."
+  },
+  {
+    "name": "cmu-agents/assignment-1",
+    "url": "https://github.com/cmu-agents/assignment-1",
+    "lane": "recent-github",
+    "disposition": "rejected",
+    "reason": "Search metadata identifies a skill/prompt collection, list, tutorial, template, domain helper or demonstration rather than a distinct verified harness; not promoted."
+  },
+  {
+    "name": "Gen-Verse/Recuris",
+    "url": "https://github.com/Gen-Verse/Recuris",
+    "lane": "recent-github",
+    "disposition": "published",
+    "reason": "Primary README, source tree, license and canonical identity reviewed."
+  },
+  {
+    "name": "seekskyworld/CreatPPT",
+    "url": "https://github.com/seekskyworld/CreatPPT",
+    "lane": "recent-github",
+    "disposition": "deferred-new",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "singula-ai/alego",
+    "url": "https://github.com/singula-ai/alego",
+    "lane": "recent-github",
+    "disposition": "duplicate",
+    "reason": "Existing catalog repository or canonical URL identity."
+  },
+  {
+    "name": "ray-r-ren/biointelligence-agent",
+    "url": "https://github.com/ray-r-ren/biointelligence-agent",
+    "lane": "recent-github",
+    "disposition": "deferred-new",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "hieuphung97/dely",
+    "url": "https://github.com/hieuphung97/dely",
+    "lane": "recent-github",
+    "disposition": "deferred-new",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "OnlyTerp/opengrok",
+    "url": "https://github.com/OnlyTerp/opengrok",
+    "lane": "recent-github",
+    "disposition": "deferred-new",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "TokenRhythm/NeoHorse",
+    "url": "https://github.com/TokenRhythm/NeoHorse",
+    "lane": "recent-github",
+    "disposition": "deferred-new",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "RongleCat/awesome-grok-bot",
+    "url": "https://github.com/RongleCat/awesome-grok-bot",
+    "lane": "recent-github",
+    "disposition": "rejected",
+    "reason": "Search metadata identifies a skill/prompt collection, list, tutorial, template, domain helper or demonstration rather than a distinct verified harness; not promoted."
+  },
+  {
+    "name": "oil-oil/dsh-oil-creator",
+    "url": "https://github.com/oil-oil/dsh-oil-creator",
+    "lane": "recent-github",
+    "disposition": "deferred-new",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "revfactory/codex-harness",
+    "url": "https://github.com/revfactory/codex-harness",
+    "lane": "recent-github",
+    "disposition": "deferred-new",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "browser-use/windows-harness",
+    "url": "https://github.com/browser-use/windows-harness",
+    "lane": "recent-github",
+    "disposition": "duplicate",
+    "reason": "Existing catalog repository or canonical URL identity."
+  },
+  {
+    "name": "wangmiaozero/pi-harness",
+    "url": "https://github.com/wangmiaozero/pi-harness",
+    "lane": "recent-github",
+    "disposition": "deferred-existing",
+    "reason": "Already in deferred queue; no unresolved evidence assumed fixed."
+  },
+  {
+    "name": "PeakVisionAI/PeakVisionOS-SDK",
+    "url": "https://github.com/PeakVisionAI/PeakVisionOS-SDK",
+    "lane": "recent-github",
+    "disposition": "deferred-new",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "kyky2347/ALTA",
+    "url": "https://github.com/kyky2347/ALTA",
+    "lane": "recent-github",
+    "disposition": "deferred-new",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "emo-xiaoyu/harness-mix",
+    "url": "https://github.com/emo-xiaoyu/harness-mix",
+    "lane": "recent-github",
+    "disposition": "deferred-new",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "nateherkai/scroll-craft",
+    "url": "https://github.com/nateherkai/scroll-craft",
+    "lane": "recent-github",
+    "disposition": "rejected",
+    "reason": "Search metadata identifies a skill/prompt collection, list, tutorial, template, domain helper or demonstration rather than a distinct verified harness; not promoted."
+  },
+  {
+    "name": "zhuyifang/tonghuasun-agent",
+    "url": "https://github.com/zhuyifang/tonghuasun-agent",
+    "lane": "recent-github",
+    "disposition": "deferred-new",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "browser-use/browser-use-pi",
+    "url": "https://github.com/browser-use/browser-use-pi",
+    "lane": "recent-github",
+    "disposition": "published",
+    "reason": "Primary README, source tree, license and canonical identity reviewed."
+  },
+  {
+    "name": "FeiZhuLulu/real-api-pricing",
+    "url": "https://github.com/FeiZhuLulu/real-api-pricing",
+    "lane": "recent-github",
+    "disposition": "rejected",
+    "reason": "Search metadata identifies a skill/prompt collection, list, tutorial, template, domain helper or demonstration rather than a distinct verified harness; not promoted."
+  },
+  {
+    "name": "viettranx/3dviz-pro-max",
+    "url": "https://github.com/viettranx/3dviz-pro-max",
+    "lane": "recent-github",
+    "disposition": "rejected",
+    "reason": "Search metadata identifies a skill/prompt collection, list, tutorial, template, domain helper or demonstration rather than a distinct verified harness; not promoted."
+  },
+  {
+    "name": "aurekaresearch/OpenDDE-Harness",
+    "url": "https://github.com/aurekaresearch/OpenDDE-Harness",
+    "lane": "recent-github",
+    "disposition": "deferred-new",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "Ceceliawai/Agent",
+    "url": "https://github.com/Ceceliawai/Agent",
+    "lane": "recent-github",
+    "disposition": "rejected",
+    "reason": "Search metadata identifies a skill/prompt collection, list, tutorial, template, domain helper or demonstration rather than a distinct verified harness; not promoted."
+  },
+  {
+    "name": "hardbeat920/monocode",
+    "url": "https://github.com/hardbeat920/monocode",
+    "lane": "recent-github",
+    "disposition": "duplicate",
+    "reason": "Existing catalog repository or canonical URL identity."
+  },
+  {
+    "name": "sodiumsun/agenttrail",
+    "url": "https://github.com/sodiumsun/agenttrail",
+    "lane": "recent-github",
+    "disposition": "duplicate",
+    "reason": "Existing catalog repository or canonical URL identity."
+  },
+  {
+    "name": "okf-memory/okf-agent-memory",
+    "url": "https://github.com/okf-memory/okf-agent-memory",
+    "lane": "recent-github",
+    "disposition": "duplicate",
+    "reason": "Existing catalog repository or canonical URL identity."
+  },
+  {
+    "name": "tigerless-labs/agent-memory",
+    "url": "https://github.com/tigerless-labs/agent-memory",
+    "lane": "recent-github",
+    "disposition": "duplicate",
+    "reason": "Existing catalog repository or canonical URL identity."
+  },
+  {
+    "name": "agentverse-os/AgentVerse-OS",
+    "url": "https://github.com/agentverse-os/AgentVerse-OS",
+    "lane": "recent-github",
+    "disposition": "published",
+    "reason": "Primary README, source tree, license and canonical identity reviewed."
+  },
+  {
+    "name": "missuo/herdrm",
+    "url": "https://github.com/missuo/herdrm",
+    "lane": "recent-github",
+    "disposition": "deferred-new",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "aaravshah1311/Agent-2",
+    "url": "https://github.com/aaravshah1311/Agent-2",
+    "lane": "recent-github",
+    "disposition": "deferred-existing",
+    "reason": "Already in deferred queue; no unresolved evidence assumed fixed."
+  },
+  {
+    "name": "kharmanskyi/open-steps",
+    "url": "https://github.com/kharmanskyi/open-steps",
+    "lane": "recent-github",
+    "disposition": "rejected",
+    "reason": "Search metadata identifies a skill/prompt collection, list, tutorial, template, domain helper or demonstration rather than a distinct verified harness; not promoted."
+  },
+  {
+    "name": "i-am-manware/Manware-s-AI-Learning-Toolkit",
+    "url": "https://github.com/i-am-manware/Manware-s-AI-Learning-Toolkit",
+    "lane": "recent-github",
+    "disposition": "deferred-new",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "vicoa-ai/vicoa",
+    "url": "https://github.com/vicoa-ai/vicoa",
+    "lane": "recent-github",
+    "disposition": "duplicate",
+    "reason": "Existing catalog repository or canonical URL identity."
+  },
+  {
+    "name": "naw103/foremerge",
+    "url": "https://github.com/naw103/foremerge",
+    "lane": "recent-github",
+    "disposition": "duplicate",
+    "reason": "Existing catalog repository or canonical URL identity."
+  },
+  {
+    "name": "Einsia/agent-git",
+    "url": "https://github.com/Einsia/agent-git",
+    "lane": "recent-github",
+    "disposition": "deferred-new",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "pinloop-ai/pinloop-cli",
+    "url": "https://github.com/pinloop-ai/pinloop-cli",
+    "lane": "recent-github",
+    "disposition": "rejected",
+    "reason": "Search metadata identifies a skill/prompt collection, list, tutorial, template, domain helper or demonstration rather than a distinct verified harness; not promoted."
+  },
+  {
+    "name": "Gurp-S/XEYO",
+    "url": "https://github.com/Gurp-S/XEYO",
+    "lane": "recent-github",
+    "disposition": "deferred-new",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "Agenta-AI/awesome-ai-agent-platforms",
+    "url": "https://github.com/Agenta-AI/awesome-ai-agent-platforms",
+    "lane": "recent-github",
+    "disposition": "rejected",
+    "reason": "Search metadata identifies a skill/prompt collection, list, tutorial, template, domain helper or demonstration rather than a distinct verified harness; not promoted."
+  },
+  {
+    "name": "GamePhanesStudio/GamePhanes",
+    "url": "https://github.com/GamePhanesStudio/GamePhanes",
+    "lane": "recent-github",
+    "disposition": "duplicate",
+    "reason": "Existing catalog repository or canonical URL identity."
+  },
+  {
+    "name": "agent-launch/agent-launcher",
+    "url": "https://github.com/agent-launch/agent-launcher",
+    "lane": "recent-github",
+    "disposition": "deferred-new",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "Alexwtlf/agentic-product-demo",
+    "url": "https://github.com/Alexwtlf/agentic-product-demo",
+    "lane": "recent-github",
+    "disposition": "rejected",
+    "reason": "Search metadata identifies a skill/prompt collection, list, tutorial, template, domain helper or demonstration rather than a distinct verified harness; not promoted."
+  },
+  {
+    "name": "w1u2d3i4/multitown",
+    "url": "https://github.com/w1u2d3i4/multitown",
+    "lane": "recent-github",
+    "disposition": "deferred-existing",
+    "reason": "Already in deferred queue; no unresolved evidence assumed fixed."
+  },
+  {
+    "name": "heyman333/agent-notion-template-docs",
+    "url": "https://github.com/heyman333/agent-notion-template-docs",
+    "lane": "recent-github",
+    "disposition": "rejected",
+    "reason": "Search metadata identifies a skill/prompt collection, list, tutorial, template, domain helper or demonstration rather than a distinct verified harness; not promoted."
+  },
+  {
+    "name": "JackyCufe/signal-vaults",
+    "url": "https://github.com/JackyCufe/signal-vaults",
+    "lane": "recent-github",
+    "disposition": "rejected",
+    "reason": "Search metadata identifies a skill/prompt collection, list, tutorial, template, domain helper or demonstration rather than a distinct verified harness; not promoted."
+  },
+  {
+    "name": "Nanako0129/sepia",
+    "url": "https://github.com/Nanako0129/sepia",
+    "lane": "recent-github",
+    "disposition": "rejected",
+    "reason": "Search metadata identifies a skill/prompt collection, list, tutorial, template, domain helper or demonstration rather than a distinct verified harness; not promoted."
+  },
+  {
+    "name": "lohoz/agenthist",
+    "url": "https://github.com/lohoz/agenthist",
+    "lane": "recent-github",
+    "disposition": "duplicate",
+    "reason": "Existing catalog repository or canonical URL identity."
+  },
+  {
+    "name": "codejunkie99/agentic-stack-desktop",
+    "url": "https://github.com/codejunkie99/agentic-stack-desktop",
+    "lane": "recent-github",
+    "disposition": "duplicate",
+    "reason": "Existing catalog repository or canonical URL identity."
+  },
+  {
+    "name": "Innei/lody-ios",
+    "url": "https://github.com/Innei/lody-ios",
+    "lane": "recent-github",
+    "disposition": "deferred-new",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "Tyche-MKR/scientific-agent-skills",
+    "url": "https://github.com/Tyche-MKR/scientific-agent-skills",
+    "lane": "recent-github",
+    "disposition": "rejected",
+    "reason": "Search metadata identifies a skill/prompt collection, list, tutorial, template, domain helper or demonstration rather than a distinct verified harness; not promoted."
+  },
+  {
+    "name": "NirDiamant/Agentic_Engineering",
+    "url": "https://github.com/NirDiamant/Agentic_Engineering",
+    "lane": "recent-github",
+    "disposition": "deferred-new",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "coldteadotai/pr-lens",
+    "url": "https://github.com/coldteadotai/pr-lens",
+    "lane": "recent-github",
+    "disposition": "rejected",
+    "reason": "Search metadata identifies a skill/prompt collection, list, tutorial, template, domain helper or demonstration rather than a distinct verified harness; not promoted."
+  },
+  {
+    "name": "cbrock84/headcount",
+    "url": "https://github.com/cbrock84/headcount",
+    "lane": "recent-github",
+    "disposition": "rejected",
+    "reason": "Search metadata identifies a skill/prompt collection, list, tutorial, template, domain helper or demonstration rather than a distinct verified harness; not promoted."
+  },
+  {
+    "name": "handyutils/sctxx",
+    "url": "https://github.com/handyutils/sctxx",
+    "lane": "recent-github",
+    "disposition": "published",
+    "reason": "Primary README, source tree, license and canonical identity reviewed."
+  },
+  {
+    "name": "Qiuner/agent-isles",
+    "url": "https://github.com/Qiuner/agent-isles",
+    "lane": "recent-github",
+    "disposition": "deferred-new",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "chosuicide/beatscope",
+    "url": "https://github.com/chosuicide/beatscope",
+    "lane": "recent-github",
+    "disposition": "deferred-new",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "ccompactor/ccompactor",
+    "url": "https://github.com/ccompactor/ccompactor",
+    "lane": "recent-github",
+    "disposition": "published",
+    "reason": "Primary README, source tree, license and canonical identity reviewed."
+  },
+  {
+    "name": "aiongo/mini-coding-agent-go",
+    "url": "https://github.com/aiongo/mini-coding-agent-go",
+    "lane": "recent-github",
+    "disposition": "deferred-new",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "KenKaiii/agent-steroids",
+    "url": "https://github.com/KenKaiii/agent-steroids",
+    "lane": "recent-github",
+    "disposition": "deferred-existing",
+    "reason": "Already in deferred queue; no unresolved evidence assumed fixed."
+  },
+  {
+    "name": "J3n5en/EnsoCode",
+    "url": "https://github.com/J3n5en/EnsoCode",
+    "lane": "recent-github",
+    "disposition": "published",
+    "reason": "Primary README, source tree, license and canonical identity reviewed."
+  },
+  {
+    "name": "aleksandr-alhoff/seo-landing",
+    "url": "https://github.com/aleksandr-alhoff/seo-landing",
+    "lane": "recent-github",
+    "disposition": "rejected",
+    "reason": "Search metadata identifies a skill/prompt collection, list, tutorial, template, domain helper or demonstration rather than a distinct verified harness; not promoted."
+  },
+  {
+    "name": "BlackPearl-AI/BlackPearl-CodingAgent",
+    "url": "https://github.com/BlackPearl-AI/BlackPearl-CodingAgent",
+    "lane": "recent-github",
+    "disposition": "deferred-existing",
+    "reason": "Already in deferred queue; no unresolved evidence assumed fixed."
+  },
+  {
+    "name": "MirroS-Lab/Code-as-World",
+    "url": "https://github.com/MirroS-Lab/Code-as-World",
+    "lane": "recent-github",
+    "disposition": "deferred-new",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "meviusisback/agent-orchestr",
+    "url": "https://github.com/meviusisback/agent-orchestr",
+    "lane": "recent-github",
+    "disposition": "deferred-new",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "amirmushichge/video-states-website",
+    "url": "https://github.com/amirmushichge/video-states-website",
+    "lane": "recent-github",
+    "disposition": "rejected",
+    "reason": "Search metadata identifies a skill/prompt collection, list, tutorial, template, domain helper or demonstration rather than a distinct verified harness; not promoted."
+  },
+  {
+    "name": "amElnagdy/review-skills",
+    "url": "https://github.com/amElnagdy/review-skills",
+    "lane": "recent-github",
+    "disposition": "rejected",
+    "reason": "Search metadata identifies a skill/prompt collection, list, tutorial, template, domain helper or demonstration rather than a distinct verified harness; not promoted."
+  },
+  {
+    "name": "vaelkeep/hermes-paper-agent",
+    "url": "https://github.com/vaelkeep/hermes-paper-agent",
+    "lane": "recent-github",
+    "disposition": "deferred-new",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "donvito/codex-astra-luna-orchestrator",
+    "url": "https://github.com/donvito/codex-astra-luna-orchestrator",
+    "lane": "recent-github",
+    "disposition": "deferred-new",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "codejunkie99/fable-orchestrator",
+    "url": "https://github.com/codejunkie99/fable-orchestrator",
+    "lane": "recent-github",
+    "disposition": "deferred-new",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "interviewstreet/hackerrank-orchestrate-september26",
+    "url": "https://github.com/interviewstreet/hackerrank-orchestrate-september26",
+    "lane": "recent-github",
+    "disposition": "deferred-new",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "Zyrexnn/Cybermes",
+    "url": "https://github.com/Zyrexnn/Cybermes",
+    "lane": "recent-github",
+    "disposition": "deferred-existing",
+    "reason": "Already in deferred queue; no unresolved evidence assumed fixed."
+  },
+  {
+    "name": "wemux-ai/wemux",
+    "url": "https://github.com/wemux-ai/wemux",
+    "lane": "recent-github",
+    "disposition": "duplicate",
+    "reason": "Existing catalog repository or canonical URL identity."
+  },
+  {
+    "name": "breko861-hash/sol-luna-codex-orchestrator",
+    "url": "https://github.com/breko861-hash/sol-luna-codex-orchestrator",
+    "lane": "recent-github",
+    "disposition": "deferred-new",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "Maurdekye/orgtree",
+    "url": "https://github.com/Maurdekye/orgtree",
+    "lane": "recent-github",
+    "disposition": "duplicate",
+    "reason": "Existing catalog repository or canonical URL identity."
+  },
+  {
+    "name": "HanyuanWang/LiveStream-Agent-Studio",
+    "url": "https://github.com/HanyuanWang/LiveStream-Agent-Studio",
+    "lane": "recent-github",
+    "disposition": "deferred-new",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "zhengkid/Dream-RSI",
+    "url": "https://github.com/zhengkid/Dream-RSI",
+    "lane": "recent-github",
+    "disposition": "deferred-new",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "jairorodriguezarias/siesta",
+    "url": "https://github.com/jairorodriguezarias/siesta",
+    "lane": "recent-github",
+    "disposition": "deferred-new",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "agentic-spring-ai/agentic-spring-ai",
+    "url": "https://github.com/agentic-spring-ai/agentic-spring-ai",
+    "lane": "recent-github",
+    "disposition": "duplicate",
+    "reason": "Existing catalog repository or canonical URL identity."
+  },
+  {
+    "name": "jtydhr88/screenwriting-skills",
+    "url": "https://github.com/jtydhr88/screenwriting-skills",
+    "lane": "recent-github",
+    "disposition": "rejected",
+    "reason": "Search metadata identifies a skill/prompt collection, list, tutorial, template, domain helper or demonstration rather than a distinct verified harness; not promoted."
+  },
+  {
+    "name": "DannyMac180/astra-advisor",
+    "url": "https://github.com/DannyMac180/astra-advisor",
+    "lane": "recent-github",
+    "disposition": "deferred-new",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "GENEXIS-AI/gpt-image-skill",
+    "url": "https://github.com/GENEXIS-AI/gpt-image-skill",
+    "lane": "recent-github",
+    "disposition": "rejected",
+    "reason": "Search metadata identifies a skill/prompt collection, list, tutorial, template, domain helper or demonstration rather than a distinct verified harness; not promoted."
+  },
+  {
+    "name": "heygen-com/liveavatar-gpt-live-demos",
+    "url": "https://github.com/heygen-com/liveavatar-gpt-live-demos",
+    "lane": "recent-github",
+    "disposition": "rejected",
+    "reason": "Search metadata identifies a skill/prompt collection, list, tutorial, template, domain helper or demonstration rather than a distinct verified harness; not promoted."
+  },
+  {
+    "name": "Azure-Samples/claims-processing-hack",
+    "url": "https://github.com/Azure-Samples/claims-processing-hack",
+    "lane": "recent-github",
+    "disposition": "deferred-new",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "useagenthq/useagent",
+    "url": "https://github.com/useagenthq/useagent",
+    "lane": "recent-github",
+    "disposition": "duplicate",
+    "reason": "Existing catalog repository or canonical URL identity."
+  },
+  {
+    "name": "forcewake/hermes-conductor",
+    "url": "https://github.com/forcewake/hermes-conductor",
+    "lane": "recent-github",
+    "disposition": "deferred-new",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "hastimal/gemini-healthcare-agentic-platform",
+    "url": "https://github.com/hastimal/gemini-healthcare-agentic-platform",
+    "lane": "recent-github",
+    "disposition": "deferred-new",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "cocoyes/zhizhi-agent-runtime",
+    "url": "https://github.com/cocoyes/zhizhi-agent-runtime",
+    "lane": "recent-github",
+    "disposition": "duplicate",
+    "reason": "Existing catalog repository or canonical URL identity."
+  },
+  {
+    "name": "Omni-Interaction-Gander/Omni-Interaction-Agent",
+    "url": "https://github.com/Omni-Interaction-Gander/Omni-Interaction-Agent",
+    "lane": "recent-github",
+    "disposition": "deferred-new",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "rome-os/rome",
+    "url": "https://github.com/rome-os/rome",
+    "lane": "recent-github",
+    "disposition": "duplicate",
+    "reason": "Existing catalog repository or canonical URL identity."
+  },
+  {
+    "name": "Vuk97/forward-implementation-first",
+    "url": "https://github.com/Vuk97/forward-implementation-first",
+    "lane": "recent-github",
+    "disposition": "rejected",
+    "reason": "Search metadata identifies a skill/prompt collection, list, tutorial, template, domain helper or demonstration rather than a distinct verified harness; not promoted."
+  },
+  {
+    "name": "zostaff/agent-arena",
+    "url": "https://github.com/zostaff/agent-arena",
+    "lane": "recent-github",
+    "disposition": "deferred-new",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "YuehHanChen/automated_alignment_researcher",
+    "url": "https://github.com/YuehHanChen/automated_alignment_researcher",
+    "lane": "recent-github",
+    "disposition": "deferred-new",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "Harrypatria/Agentic-AI-Masterclass-Handbook-Usecases-Convergeni",
+    "url": "https://github.com/Harrypatria/Agentic-AI-Masterclass-Handbook-Usecases-Convergeni",
+    "lane": "recent-github",
+    "disposition": "rejected",
+    "reason": "Search metadata identifies a skill/prompt collection, list, tutorial, template, domain helper or demonstration rather than a distinct verified harness; not promoted."
+  },
+  {
+    "name": "primorLee/agent-workflow-platform",
+    "url": "https://github.com/primorLee/agent-workflow-platform",
+    "lane": "recent-github",
+    "disposition": "rejected",
+    "reason": "Search metadata identifies a skill/prompt collection, list, tutorial, template, domain helper or demonstration rather than a distinct verified harness; not promoted."
+  },
+  {
+    "name": "omercnet/awesome-paseo-plugins",
+    "url": "https://github.com/omercnet/awesome-paseo-plugins",
+    "lane": "recent-github",
+    "disposition": "rejected",
+    "reason": "Search metadata identifies a skill/prompt collection, list, tutorial, template, domain helper or demonstration rather than a distinct verified harness; not promoted."
+  },
+  {
+    "name": "bushm2092-del/agent-weave",
+    "url": "https://github.com/bushm2092-del/agent-weave",
+    "lane": "recent-github",
+    "disposition": "deferred-new",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "YeamimHossainSajid/CodeMonk",
+    "url": "https://github.com/YeamimHossainSajid/CodeMonk",
+    "lane": "recent-github",
+    "disposition": "deferred-new",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "zachealy1/orchestrator",
+    "url": "https://github.com/zachealy1/orchestrator",
+    "lane": "recent-github",
+    "disposition": "deferred-new",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "openJiuwen-ai/agent-infer",
+    "url": "https://github.com/openJiuwen-ai/agent-infer",
+    "lane": "recent-github",
+    "disposition": "deferred-new",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "luxurylifestyleco/skill-router",
+    "url": "https://github.com/luxurylifestyleco/skill-router",
+    "lane": "recent-github",
+    "disposition": "rejected",
+    "reason": "Search metadata identifies a skill/prompt collection, list, tutorial, template, domain helper or demonstration rather than a distinct verified harness; not promoted."
+  },
+  {
+    "name": "anshlambagit/AI_Data_Agent",
+    "url": "https://github.com/anshlambagit/AI_Data_Agent",
+    "lane": "recent-github",
+    "disposition": "deferred-new",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "aryan1403/Amdocs-Workshop",
+    "url": "https://github.com/aryan1403/Amdocs-Workshop",
+    "lane": "recent-github",
+    "disposition": "deferred-new",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "originoneai/agent-work-runtime",
+    "url": "https://github.com/originoneai/agent-work-runtime",
+    "lane": "recent-github",
+    "disposition": "duplicate",
+    "reason": "Existing catalog repository or canonical URL identity."
+  },
+  {
+    "name": "wkbin/taixu",
+    "url": "https://github.com/wkbin/taixu",
+    "lane": "recent-github",
+    "disposition": "duplicate",
+    "reason": "Existing catalog repository or canonical URL identity."
+  },
+  {
+    "name": "yardfribley-bit/AgentReins",
+    "url": "https://github.com/yardfribley-bit/AgentReins",
+    "lane": "recent-github",
+    "disposition": "deferred-new",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "yuzheng310/qwen3-runtime",
+    "url": "https://github.com/yuzheng310/qwen3-runtime",
+    "lane": "recent-github",
+    "disposition": "deferred-existing",
+    "reason": "Already in deferred queue; no unresolved evidence assumed fixed."
+  },
+  {
+    "name": "git-syl/hermes-agent-demo",
+    "url": "https://github.com/git-syl/hermes-agent-demo",
+    "lane": "recent-github",
+    "disposition": "rejected",
+    "reason": "Search metadata identifies a skill/prompt collection, list, tutorial, template, domain helper or demonstration rather than a distinct verified harness; not promoted."
+  },
+  {
+    "name": "Da7-Tech/SureForge",
+    "url": "https://github.com/Da7-Tech/SureForge",
+    "lane": "recent-github",
+    "disposition": "rejected",
+    "reason": "Search metadata identifies a skill/prompt collection, list, tutorial, template, domain helper or demonstration rather than a distinct verified harness; not promoted."
+  },
+  {
+    "name": "HernanJiang/CraftStation",
+    "url": "https://github.com/HernanJiang/CraftStation",
+    "lane": "recent-github",
+    "disposition": "deferred-new",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "zijie1024/autryn",
+    "url": "https://github.com/zijie1024/autryn",
+    "lane": "recent-github",
+    "disposition": "duplicate",
+    "reason": "Existing catalog repository or canonical URL identity."
+  },
+  {
+    "name": "GUNMIN-KIM/after-effects-codex-agent",
+    "url": "https://github.com/GUNMIN-KIM/after-effects-codex-agent",
+    "lane": "recent-github",
+    "disposition": "deferred-new",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "speakeasy-api/kit",
+    "url": "https://github.com/speakeasy-api/kit",
+    "lane": "recent-github",
+    "disposition": "duplicate",
+    "reason": "Existing catalog repository or canonical URL identity."
+  },
+  {
+    "name": "kai-compute/agent",
+    "url": "https://github.com/kai-compute/agent",
+    "lane": "recent-github",
+    "disposition": "deferred-new",
+    "reason": "Official source and implementation are available, but no repository license was found in this review; licensing remains unresolved."
+  },
+  {
+    "name": "crossoverJie/botler-agent",
+    "url": "https://github.com/crossoverJie/botler-agent",
+    "lane": "recent-github",
+    "disposition": "deferred-existing",
+    "reason": "Already in deferred queue; no unresolved evidence assumed fixed."
+  },
+  {
+    "name": "yunaremaia/agent-guard",
+    "url": "https://github.com/yunaremaia/agent-guard",
+    "lane": "recent-github",
+    "disposition": "deferred-new",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "daqiaoliang-coder/agent-runtime",
+    "url": "https://github.com/daqiaoliang-coder/agent-runtime",
+    "lane": "recent-github",
+    "disposition": "deferred-new",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "thetis-agent/runtime",
+    "url": "https://github.com/thetis-agent/runtime",
+    "lane": "recent-github",
+    "disposition": "deferred-existing",
+    "reason": "Already in deferred queue; no unresolved evidence assumed fixed."
+  },
+  {
+    "name": "beejmaxx/awesome-agent-runtimes",
+    "url": "https://github.com/beejmaxx/awesome-agent-runtimes",
+    "lane": "recent-github",
+    "disposition": "rejected",
+    "reason": "Search metadata identifies a skill/prompt collection, list, tutorial, template, domain helper or demonstration rather than a distinct verified harness; not promoted."
+  },
+  {
+    "name": "jiang357357357/EdenAgent",
+    "url": "https://github.com/jiang357357357/EdenAgent",
+    "lane": "recent-github",
+    "disposition": "deferred-existing",
+    "reason": "Already in deferred queue; no unresolved evidence assumed fixed."
+  },
+  {
+    "name": "alphaparkinc/genpark-agent-runtime-invariant-assertion-synthesizer-skill",
+    "url": "https://github.com/alphaparkinc/genpark-agent-runtime-invariant-assertion-synthesizer-skill",
+    "lane": "recent-github",
+    "disposition": "rejected",
+    "reason": "Search metadata identifies a skill/prompt collection, list, tutorial, template, domain helper or demonstration rather than a distinct verified harness; not promoted."
+  },
+  {
+    "name": "Alpha-Park/genpark-agent-runtime-hotpatch-sandbox-injector-skill",
+    "url": "https://github.com/Alpha-Park/genpark-agent-runtime-hotpatch-sandbox-injector-skill",
+    "lane": "recent-github",
+    "disposition": "rejected",
+    "reason": "Search metadata identifies a skill/prompt collection, list, tutorial, template, domain helper or demonstration rather than a distinct verified harness; not promoted."
+  },
+  {
+    "name": "alphaparkinc/genpark-agent-runtime-hotpatch-sandbox-injector-skill",
+    "url": "https://github.com/alphaparkinc/genpark-agent-runtime-hotpatch-sandbox-injector-skill",
+    "lane": "recent-github",
+    "disposition": "rejected",
+    "reason": "Search metadata identifies a skill/prompt collection, list, tutorial, template, domain helper or demonstration rather than a distinct verified harness; not promoted."
+  },
+  {
+    "name": "Alpha-Park/genpark-agent-runtime-invariant-assertion-synthesizer-skill",
+    "url": "https://github.com/Alpha-Park/genpark-agent-runtime-invariant-assertion-synthesizer-skill",
+    "lane": "recent-github",
+    "disposition": "rejected",
+    "reason": "Search metadata identifies a skill/prompt collection, list, tutorial, template, domain helper or demonstration rather than a distinct verified harness; not promoted."
+  },
+  {
+    "name": "lucy971326/EDITH-Harness",
+    "url": "https://github.com/lucy971326/EDITH-Harness",
+    "lane": "recent-github",
+    "disposition": "published",
+    "reason": "Primary README, source tree, license and canonical identity reviewed."
+  },
+  {
+    "name": "zinan92/agent",
+    "url": "https://github.com/zinan92/agent",
+    "lane": "recent-github",
+    "disposition": "rejected",
+    "reason": "Search metadata identifies a skill/prompt collection, list, tutorial, template, domain helper or demonstration rather than a distinct verified harness; not promoted."
+  },
+  {
+    "name": "konteks-io/runtime",
+    "url": "https://github.com/konteks-io/runtime",
+    "lane": "recent-github",
+    "disposition": "deferred-new",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "visitworld123/Awesome-Robot-Use-Agent",
+    "url": "https://github.com/visitworld123/Awesome-Robot-Use-Agent",
+    "lane": "recent-github",
+    "disposition": "rejected",
+    "reason": "Search metadata identifies a skill/prompt collection, list, tutorial, template, domain helper or demonstration rather than a distinct verified harness; not promoted."
+  },
+  {
+    "name": "alphaparkinc/genpark-least-privilege-agent-runtime-sandbox-isolator-skill",
+    "url": "https://github.com/alphaparkinc/genpark-least-privilege-agent-runtime-sandbox-isolator-skill",
+    "lane": "recent-github",
+    "disposition": "rejected",
+    "reason": "Search metadata identifies a skill/prompt collection, list, tutorial, template, domain helper or demonstration rather than a distinct verified harness; not promoted."
+  },
+  {
+    "name": "dncore/agent-pet-runtime",
+    "url": "https://github.com/dncore/agent-pet-runtime",
+    "lane": "recent-github",
+    "disposition": "deferred-new",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "muhtalhakhan/open-agent",
+    "url": "https://github.com/muhtalhakhan/open-agent",
+    "lane": "recent-github",
+    "disposition": "deferred-new",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "WaniWani-AI/agent",
+    "url": "https://github.com/WaniWani-AI/agent",
+    "lane": "recent-github",
+    "disposition": "deferred-new",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "axisrobo/SYNDOVELA-open",
+    "url": "https://github.com/axisrobo/SYNDOVELA-open",
+    "lane": "recent-github",
+    "disposition": "rejected",
+    "reason": "Search metadata identifies a skill/prompt collection, list, tutorial, template, domain helper or demonstration rather than a distinct verified harness; not promoted."
+  },
+  {
+    "name": "Aaditya1273/Vigil",
+    "url": "https://github.com/Aaditya1273/Vigil",
+    "lane": "recent-github",
+    "disposition": "deferred-new",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "XiaoTongYuCode/CornAgent",
+    "url": "https://github.com/XiaoTongYuCode/CornAgent",
+    "lane": "recent-github",
+    "disposition": "deferred-new",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "Saransh-2194/Hybrid-Code-Repair-Agent-with-Runtime-Drift-Detection",
+    "url": "https://github.com/Saransh-2194/Hybrid-Code-Repair-Agent-with-Runtime-Drift-Detection",
+    "lane": "recent-github",
+    "disposition": "deferred-new",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "alphaparkinc/genpark-runtime-variable-diff-state-inspector-skill",
+    "url": "https://github.com/alphaparkinc/genpark-runtime-variable-diff-state-inspector-skill",
+    "lane": "recent-github",
+    "disposition": "rejected",
+    "reason": "Search metadata identifies a skill/prompt collection, list, tutorial, template, domain helper or demonstration rather than a distinct verified harness; not promoted."
+  },
+  {
+    "name": "Alpha-Park/genpark-runtime-variable-diff-state-inspector-skill",
+    "url": "https://github.com/Alpha-Park/genpark-runtime-variable-diff-state-inspector-skill",
+    "lane": "recent-github",
+    "disposition": "rejected",
+    "reason": "Search metadata identifies a skill/prompt collection, list, tutorial, template, domain helper or demonstration rather than a distinct verified harness; not promoted."
+  },
+  {
+    "name": "Wattson-Law/runtime-canary",
+    "url": "https://github.com/Wattson-Law/runtime-canary",
+    "lane": "recent-github",
+    "disposition": "deferred-new",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "therajtiwari/durable-agents",
+    "url": "https://github.com/therajtiwari/durable-agents",
+    "lane": "recent-github",
+    "disposition": "published",
+    "reason": "Primary README, source tree, license and canonical identity reviewed."
+  },
+  {
+    "name": "toadharvard/pi-skill-state-runtime",
+    "url": "https://github.com/toadharvard/pi-skill-state-runtime",
+    "lane": "recent-github",
+    "disposition": "rejected",
+    "reason": "Search metadata identifies a skill/prompt collection, list, tutorial, template, domain helper or demonstration rather than a distinct verified harness; not promoted."
+  },
+  {
+    "name": "phatnguyen03022001/agent-runtime",
+    "url": "https://github.com/phatnguyen03022001/agent-runtime",
+    "lane": "recent-github",
+    "disposition": "deferred-new",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "viveksha-ai/openviveksha",
+    "url": "https://github.com/viveksha-ai/openviveksha",
+    "lane": "recent-github",
+    "disposition": "deferred-new",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "huiyuecs/agentcore",
+    "url": "https://github.com/huiyuecs/agentcore",
+    "lane": "recent-github",
+    "disposition": "deferred-new",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "HailSyner/tether-agent-runtime",
+    "url": "https://github.com/HailSyner/tether-agent-runtime",
+    "lane": "recent-github",
+    "disposition": "deferred-new",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "steerion-labs/bounded-agent-runtime",
+    "url": "https://github.com/steerion-labs/bounded-agent-runtime",
+    "lane": "recent-github",
+    "disposition": "deferred-new",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "alirezarezvani/claude-skills",
+    "url": "https://github.com/alirezarezvani/claude-skills",
+    "lane": "deterministic",
+    "disposition": "rejected",
+    "reason": "Search metadata identifies a skill/prompt collection, list, tutorial, template, domain helper or demonstration rather than a distinct verified harness; not promoted."
+  },
+  {
+    "name": "amElnagdy/delegate-skills",
+    "url": "https://github.com/amElnagdy/delegate-skills",
+    "lane": "deterministic",
+    "disposition": "rejected",
+    "reason": "Search metadata identifies a skill/prompt collection, list, tutorial, template, domain helper or demonstration rather than a distinct verified harness; not promoted."
+  },
+  {
+    "name": "repowise-dev/claude-code-prompts",
+    "url": "https://github.com/repowise-dev/claude-code-prompts",
+    "lane": "deterministic",
+    "disposition": "rejected",
+    "reason": "Search metadata identifies a skill/prompt collection, list, tutorial, template, domain helper or demonstration rather than a distinct verified harness; not promoted."
+  },
+  {
+    "name": "friuns2/codex-mobile",
+    "url": "https://github.com/friuns2/codex-mobile",
+    "lane": "deterministic",
+    "disposition": "deferred-new",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "Gentleman-Programming/gentle-shell",
+    "url": "https://github.com/Gentleman-Programming/gentle-shell",
+    "lane": "deterministic",
+    "disposition": "duplicate",
+    "reason": "Existing catalog repository or canonical URL identity."
+  },
+  {
+    "name": "dongshuyan/compass-skills",
+    "url": "https://github.com/dongshuyan/compass-skills",
+    "lane": "deterministic",
+    "disposition": "rejected",
+    "reason": "Search metadata identifies a skill/prompt collection, list, tutorial, template, domain helper or demonstration rather than a distinct verified harness; not promoted."
+  },
+  {
+    "name": "JohnCrickett/ai-assisted-engineering",
+    "url": "https://github.com/JohnCrickett/ai-assisted-engineering",
+    "lane": "deterministic",
+    "disposition": "deferred-new",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "decodingai-magazine/building-a-coding-agent-from-scratch-course",
+    "url": "https://github.com/decodingai-magazine/building-a-coding-agent-from-scratch-course",
+    "lane": "deterministic",
+    "disposition": "deferred-new",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "rrezartprebreza/spring-boot-skills",
+    "url": "https://github.com/rrezartprebreza/spring-boot-skills",
+    "lane": "deterministic",
+    "disposition": "rejected",
+    "reason": "Search metadata identifies a skill/prompt collection, list, tutorial, template, domain helper or demonstration rather than a distinct verified harness; not promoted."
+  },
+  {
+    "name": "VoltAgent/awesome-design-md",
+    "url": "https://github.com/VoltAgent/awesome-design-md",
+    "lane": "deterministic",
+    "disposition": "rejected",
+    "reason": "Search metadata identifies a skill/prompt collection, list, tutorial, template, domain helper or demonstration rather than a distinct verified harness; not promoted."
+  },
+  {
+    "name": "JuliusBrussee/caveman",
+    "url": "https://github.com/JuliusBrussee/caveman",
+    "lane": "deterministic",
+    "disposition": "deferred-new",
+    "reason": "Token proxy and skill package with custom NOASSERTION license; standalone harness role and license terms require review."
+  },
+  {
+    "name": "ayghri/i-have-adhd",
+    "url": "https://github.com/ayghri/i-have-adhd",
+    "lane": "deterministic",
+    "disposition": "rejected",
+    "reason": "Search metadata identifies a skill/prompt collection, list, tutorial, template, domain helper or demonstration rather than a distinct verified harness; not promoted."
+  },
+  {
+    "name": "JCodesMore/ai-website-cloner-template",
+    "url": "https://github.com/JCodesMore/ai-website-cloner-template",
+    "lane": "deterministic",
+    "disposition": "rejected",
+    "reason": "Search metadata identifies a skill/prompt collection, list, tutorial, template, domain helper or demonstration rather than a distinct verified harness; not promoted."
+  },
+  {
+    "name": "zarazhangrui/frontend-slides",
+    "url": "https://github.com/zarazhangrui/frontend-slides",
+    "lane": "deterministic",
+    "disposition": "rejected",
+    "reason": "Search metadata identifies a skill/prompt collection, list, tutorial, template, domain helper or demonstration rather than a distinct verified harness; not promoted."
+  },
+  {
+    "name": "xyteee/xyteeecode",
+    "url": "https://xyteee.com",
+    "lane": "deterministic",
+    "disposition": "deferred-new",
+    "reason": "npm lead points to a personal homepage; canonical source, licensing and ownership remain unverified."
+  },
+  {
+    "name": "songdongdong/@wukonglabs/wukong",
+    "url": "https://cnb.cool/O.o/wukong.git",
+    "lane": "deterministic",
+    "disposition": "duplicate",
+    "reason": "Existing catalog repository or canonical URL identity."
+  },
+  {
+    "name": "AmariahAK/atlarix-releases",
+    "url": "https://github.com/AmariahAK/atlarix-releases",
+    "lane": "upstream",
+    "disposition": "deferred-new",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "Continuum-AI-Corp/OrcaReplay",
+    "url": "https://github.com/Continuum-AI-Corp/OrcaReplay",
+    "lane": "upstream",
+    "disposition": "duplicate",
+    "reason": "Existing catalog repository or canonical URL identity."
+  },
+  {
+    "name": "JanYork/llm-wiki-cli",
+    "url": "https://github.com/JanYork/llm-wiki-cli",
+    "lane": "upstream",
+    "disposition": "duplicate",
+    "reason": "Existing catalog repository or canonical URL identity."
+  },
+  {
+    "name": "Mintplex-Labs/anything-llm",
+    "url": "https://github.com/Mintplex-Labs/anything-llm",
+    "lane": "upstream",
+    "disposition": "duplicate",
+    "reason": "Existing catalog repository or canonical URL identity."
+  },
+  {
+    "name": "PrimeIntellect-ai/prime-agent",
+    "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+    "lane": "upstream",
+    "disposition": "duplicate",
+    "reason": "Existing catalog repository or canonical URL identity."
+  },
+  {
+    "name": "S1LV3RJ1NX/mcp-guardian",
+    "url": "https://github.com/S1LV3RJ1NX/mcp-guardian",
+    "lane": "upstream",
+    "disposition": "deferred-existing",
+    "reason": "Already in deferred queue; no unresolved evidence assumed fixed."
+  },
+  {
+    "name": "TIGER-AI-Lab/ClawBench",
+    "url": "https://github.com/TIGER-AI-Lab/ClawBench",
+    "lane": "upstream",
+    "disposition": "duplicate",
+    "reason": "Existing catalog repository or canonical URL identity."
+  },
+  {
+    "name": "deepseek-ai/deepseek-harness",
+    "url": "https://github.com/deepseek-ai/deepseek-harness",
+    "lane": "upstream",
+    "disposition": "duplicate",
+    "reason": "Existing catalog repository or canonical URL identity."
+  },
+  {
+    "name": "google-antigravity/antigravity-sdk-python",
+    "url": "https://github.com/google-antigravity/antigravity-sdk-python",
+    "lane": "upstream",
+    "disposition": "deferred-existing",
+    "reason": "Already in deferred queue; no unresolved evidence assumed fixed."
+  },
+  {
+    "name": "hjqcan/GoodMemory",
+    "url": "https://github.com/hjqcan/GoodMemory",
+    "lane": "upstream",
+    "disposition": "duplicate",
+    "reason": "Existing catalog repository or canonical URL identity."
+  },
+  {
+    "name": "jackispm/nausicaa-harness",
+    "url": "https://github.com/jackispm/nausicaa-harness",
+    "lane": "upstream",
+    "disposition": "duplicate",
+    "reason": "Existing catalog repository or canonical URL identity."
+  },
+  {
+    "name": "labmimors/dsh-mcp-lens",
+    "url": "https://github.com/labmimors/dsh-mcp-lens",
+    "lane": "upstream",
+    "disposition": "duplicate",
+    "reason": "Existing catalog repository or canonical URL identity."
+  },
+  {
+    "name": "msaleme/red-team-blue-team-agent-fabric",
+    "url": "https://github.com/msaleme/red-team-blue-team-agent-fabric",
+    "lane": "upstream",
+    "disposition": "duplicate",
+    "reason": "Existing catalog repository or canonical URL identity."
+  },
+  {
+    "name": "open-jarvis/OpenJarvis",
+    "url": "https://github.com/open-jarvis/OpenJarvis",
+    "lane": "upstream",
+    "disposition": "deferred-new",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "rxdt/loopgate_harness",
+    "url": "https://github.com/rxdt/loopgate_harness",
+    "lane": "upstream",
+    "disposition": "duplicate",
+    "reason": "Existing catalog repository or canonical URL identity."
+  },
+  {
+    "name": "yc-software/qm",
+    "url": "https://github.com/yc-software/qm",
+    "lane": "upstream",
+    "disposition": "published",
+    "reason": "Primary README, source tree, license and canonical identity reviewed."
+  },
+  {
+    "name": "yylo-dev/yylo",
+    "url": "https://github.com/yylo-dev/yylo",
+    "lane": "upstream",
+    "disposition": "duplicate",
+    "reason": "Existing catalog repository or canonical URL identity."
+  },
+  {
+    "name": "pomerium/agentops",
+    "url": "https://github.com/pomerium/agentops",
+    "lane": "web",
+    "disposition": "deferred-new",
+    "reason": "Official source and implementation are available, but no repository license was found in this review; licensing remains unresolved."
+  },
+  {
+    "name": "lunarnexus/orchestra",
+    "url": "https://github.com/lunarnexus/orchestra",
+    "lane": "web",
+    "disposition": "deferred-new",
+    "reason": "Official source and implementation are available, but no repository license was found in this review; licensing remains unresolved."
+  },
+  {
+    "name": "Intelligent-Internet/zenith",
+    "url": "https://github.com/Intelligent-Internet/zenith",
+    "lane": "web",
+    "disposition": "published",
+    "reason": "Primary README, source tree, license and canonical identity reviewed."
+  },
+  {
+    "name": "opendatahub-io/agentic-ci",
+    "url": "https://github.com/opendatahub-io/agentic-ci",
+    "lane": "web",
+    "disposition": "published",
+    "reason": "Primary README, source tree, license and canonical identity reviewed."
+  },
+  {
+    "name": "sausheong/harness",
+    "url": "https://github.com/sausheong/harness",
+    "lane": "web",
+    "disposition": "published",
+    "reason": "Primary README, source tree, license and canonical identity reviewed."
+  },
+  {
+    "name": "TimothyVang/Coding-Agent-Harness",
+    "url": "https://github.com/TimothyVang/Coding-Agent-Harness",
+    "lane": "web",
+    "disposition": "deferred-new",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "evanfang0054/agent-harness",
+    "url": "https://github.com/evanfang0054/agent-harness",
+    "lane": "web",
+    "disposition": "deferred-new",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "earthwalker17/agent-os",
+    "url": "https://github.com/earthwalker17/agent-os",
+    "lane": "web",
+    "disposition": "deferred-new",
+    "reason": "Potential execution, orchestration, context, memory or evaluation component. Full primary implementation, license, identity and provenance review remains incomplete; search metadata alone does not establish eligibility."
+  },
+  {
+    "name": "Context institutional knowledge filesystem",
+    "url": "https://www.context.ai/blog/a-filesystem-for-context",
+    "lane": "web",
+    "disposition": "deferred-new",
+    "reason": "Official June 6 post proves a context/memory layer but is outside the launch window. Product identity, terms and duplicate-product boundaries need further review; potential backfill."
+  },
+  {
+    "name": "dbt Developer Agent",
+    "url": "https://www.getdbt.com/blog/the-dbt-developer-agent-is-now-in-preview",
+    "lane": "web",
+    "disposition": "deferred-new",
+    "reason": "Official preview announcement surfaced outside the requested launch window; current availability, terms and catalog identity require review."
+  },
+  {
+    "name": "Cline SDK",
+    "url": "https://cline.bot/sdk",
+    "lane": "web",
+    "disposition": "deferred-new",
+    "reason": "Official SDK page surfaced; determine whether this is a separately catalogable runtime or an extension of the existing Cline entry before promotion."
+  },
+  {
+    "name": "Meta Organizational Second Brain",
+    "url": "https://engineering.fb.com/2026/09/02/ml-applications/organizational-second-brain-ai-learns-from-experts/",
+    "lane": "web",
+    "disposition": "deferred-new",
+    "reason": "Official engineering post surfaced; primary implementation/access, internal-system scope and licensing have not been reviewed."
+  },
+  {
+    "name": "Alchemyst AI memory layer",
+    "url": "https://new.getalchemystai.com/about-us",
+    "lane": "web",
+    "disposition": "deferred-new",
+    "reason": "Official marketing lead describes agent memory; product-specific docs, availability and licensing remain unreviewed."
+  },
+  {
+    "name": "Take Interest context layer",
+    "url": "https://takeinterest.ai/context-layer",
+    "lane": "web",
+    "disposition": "deferred-new",
+    "reason": "Official context-layer lead requires implementation, terms and product identity review."
+  },
+  {
+    "name": "Clears context layer",
+    "url": "https://www.clears.ai/context-layer",
+    "lane": "web",
+    "disposition": "deferred-new",
+    "reason": "Official context-layer lead requires implementation, terms and product identity review."
+  }
+]

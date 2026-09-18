@@ -1,0 +1,34 @@
+[
+  {
+    "repo": "RyanAlberts/best-of-Agent-Harnesses",
+    "commitCount": 16,
+    "baseline": "0a52d4ecafe63ff4387d2500bce9561d0cede3c0",
+    "added": [
+      "AmariahAK/atlarix-releases",
+      "Continuum-AI-Corp/OrcaReplay",
+      "JanYork/llm-wiki-cli",
+      "Mintplex-Labs/anything-llm",
+      "PrimeIntellect-ai/prime-agent",
+      "S1LV3RJ1NX/mcp-guardian",
+      "TIGER-AI-Lab/ClawBench",
+      "deepseek-ai/deepseek-harness",
+      "google-antigravity/antigravity-sdk-python",
+      "hjqcan/GoodMemory",
+      "jackispm/nausicaa-harness",
+      "labmimors/dsh-mcp-lens",
+      "msaleme/red-team-blue-team-agent-fabric",
+      "open-jarvis/OpenJarvis",
+      "rxdt/loopgate_harness",
+      "yc-software/qm",
+      "yylo-dev/yylo"
+    ],
+    "removed": []
+  },
+  {
+    "repo": "mahonzhan/awesome-agent-harness",
+    "commitCount": 0,
+    "baseline": "7b930266551e7d2535f7c38f8987c67aa7374eb2",
+    "added": [],
+    "removed": []
+  }
+]

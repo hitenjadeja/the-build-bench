@@ -1,0 +1,11 @@
+[
+  {
+    "url": "https://cobaltcode.ai/terms",
+    "effectiveDate": "2026-08-19",
+    "finding": "Amaretto Software Labs ltd identified as operator. Service intellectual property retained by operator/licensors. Commercial account/subscription terms; not open source."
+  },
+  {
+    "url": "https://cobaltcode.ai/docs/getting-started",
+    "finding": "Public quickstart documents account, connected agent, repository, personal provider authorization, task creation, preview, review and suspend/resume. Confirms available product workflow."
+  }
+]
