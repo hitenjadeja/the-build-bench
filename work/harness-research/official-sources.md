@@ -1,7 +1,7 @@
 # official-sources
 
-Status: PARTIAL
-Run date: 2026-09-18
+Status: COMPLETE
+Run date: 2026-09-21
 Mode: network dry run
 
 | name | company | capability | canonical URL | repository URL | evidence URL | notes |
@@ -267,7 +267,7 @@ Mode: network dry run
 | Shipwright | ABJ360 | Repository operations, Terminal automation, Sandboxed execution, Task planning | https://github.com/abj360/shipwright | https://github.com/abj360/shipwright | https://github.com/abj360/shipwright | Published source-verified; last verified 2026-09-04. |
 | Agentdeck | Dark Necrocities | Remote execution, Session management, Agent monitoring | https://github.com/darknecrocities/Agentdeck | https://github.com/darknecrocities/Agentdeck | https://github.com/darknecrocities/Agentdeck | Published source-verified; last verified 2026-09-04. |
 | Amadeus | Godric-W | Repository operations, Terminal automation, Agent runtime | https://github.com/Godric-W/Amadeus | https://github.com/Godric-W/Amadeus | https://github.com/Godric-W/Amadeus | Published source-verified; last verified 2026-09-04. |
-| TMT | lllons | Repository operations, Terminal automation, Agent runtime, Task orchestration | https://tmtcode.com/ | https://github.com/lllons/TMT | https://tmtcode.com/ | Published source-verified; last verified 2026-09-04. |
+| TMT | lllons | Repository operations, Terminal automation, Agent runtime, Task orchestration | https://github.com/lllons/TMT | https://github.com/lllons/TMT | https://github.com/lllons/TMT | Published source-verified; last verified 2026-09-18. |
 | Termio | Termio | Multi-agent orchestration, Terminal automation, Remote execution, Session management | https://termio.sh | https://github.com/termio-sh/termio | https://termio.sh | Published source-verified; last verified 2026-09-04. |
 | Zhizhi Agent Runtime | cocoyes | Agent runtime, Task orchestration, Failure recovery, Observability | https://github.com/cocoyes/zhizhi-agent-runtime | https://github.com/cocoyes/zhizhi-agent-runtime | https://github.com/cocoyes/zhizhi-agent-runtime | Published source-verified; last verified 2026-09-04. |
 | AgentKit | Akino Kaede | Agent runtime, Tool execution, Application embedding | https://github.com/AkinoKaede/AgentKit | https://github.com/AkinoKaede/AgentKit | https://github.com/AkinoKaede/AgentKit | Published source-verified; last verified 2026-09-04. |
@@ -326,7 +326,7 @@ Mode: network dry run
 | dreb | aebrer | Agent runtime, Repository operations, Multi-agent orchestration | https://github.com/aebrer/dreb | https://github.com/aebrer/dreb | https://github.com/aebrer/dreb | Published source-verified; last verified 2026-09-11. |
 | OpenDesign | Nexu | Agent workflows, Skill management, Session management | https://github.com/nexu-io/open-design | https://github.com/nexu-io/open-design | https://github.com/nexu-io/open-design | Published source-verified; last verified 2026-09-11. |
 | Open-Inspect | Cole Murray | Remote execution, Sandboxing, Multi-agent orchestration | https://github.com/ColeMurray/background-agents | https://github.com/ColeMurray/background-agents | https://github.com/ColeMurray/background-agents | Published source-verified; last verified 2026-09-11. |
-| gentle-pi | Gentleman Programming | Agent workflows, Quality gates, Skill management | https://github.com/Gentleman-Programming/gentle-pi | https://github.com/Gentleman-Programming/gentle-pi | https://github.com/Gentleman-Programming/gentle-pi | Published source-verified; last verified 2026-09-11. |
+| gentle-shell | Gentleman Programming | Agent workflows, Quality gates, Skill management | https://github.com/Gentleman-Programming/gentle-shell | https://github.com/Gentleman-Programming/gentle-shell | https://github.com/Gentleman-Programming/gentle-shell | Published source-verified; last verified 2026-09-18. |
 | Prime Agent | Prime Intellect | Agent runtime, Multi-agent orchestration, Memory | https://github.com/PrimeIntellect-ai/prime-agent | https://github.com/PrimeIntellect-ai/prime-agent | https://github.com/PrimeIntellect-ai/prime-agent | Published source-verified; last verified 2026-09-11. |
 | OpenWiki | LangChain | Memory, Knowledge management, Context management | https://github.com/langchain-ai/openwiki | https://github.com/langchain-ai/openwiki | https://github.com/langchain-ai/openwiki | Published source-verified; last verified 2026-09-11. |
 | Frame | kaanozhan | Agent workflows, Context management, Multi-agent orchestration | https://github.com/kaanozhan/Frame | https://github.com/kaanozhan/Frame | https://github.com/kaanozhan/Frame | Published source-verified; last verified 2026-09-11. |
@@ -345,7 +345,20 @@ Mode: network dry run
 | ClawDE | ClawDE | Agent runtime, Session management, Multi-agent orchestration | https://github.com/nself-org/clawde | https://github.com/nself-org/clawde | https://github.com/nself-org/clawde | Published source-verified; last verified 2026-09-11. |
 | Plugsuits | Woonggi Min | Agent runtime, Session management, Headless / CI | https://github.com/minpeter/pss-runtime | https://github.com/minpeter/pss-runtime | https://github.com/minpeter/pss-runtime | Published source-verified; last verified 2026-09-11. |
 | Praxist | Sapient Intelligence | Multi-agent orchestration, Evaluation, Memory | https://github.com/sapientinc/PRAXIST | https://github.com/sapientinc/PRAXIST | https://github.com/sapientinc/PRAXIST | Published source-verified; last verified 2026-09-11. |
-| Runtime | Digital Pine | Tool integration, Agent workflows, MCP | https://github.com/DigitalPine/runtime | https://github.com/DigitalPine/runtime | https://github.com/DigitalPine/runtime | Published source-verified; last verified 2026-09-11. |
+| Browser Use Pi | Browser Use | Browser automation, Context management, Session persistence | https://github.com/browser-use/browser-use-pi | https://github.com/browser-use/browser-use-pi | https://github.com/browser-use/browser-use-pi | Published source-verified; last verified 2026-09-18. |
+| SoL-Pi | NVIDIA | Context management, Tool execution, Evaluation | https://github.com/NVlabs/SoL-Pi | https://github.com/NVlabs/SoL-Pi | https://github.com/NVlabs/SoL-Pi | Published source-verified; last verified 2026-09-18. |
+| Recuris | Gen-Verse | Persistent memory, Evaluation, Context management | https://github.com/Gen-Verse/Recuris | https://github.com/Gen-Verse/Recuris | https://github.com/Gen-Verse/Recuris | Published source-verified; last verified 2026-09-18. |
+| sctxx | handyutils | Context management, Session handoff | https://github.com/handyutils/sctxx | https://github.com/handyutils/sctxx | https://github.com/handyutils/sctxx | Published source-verified; last verified 2026-09-18. |
+| CCompactor | CCompactor | Context management, Session handoff | https://github.com/ccompactor/ccompactor | https://github.com/ccompactor/ccompactor | https://github.com/ccompactor/ccompactor | Published source-verified; last verified 2026-09-18. |
+| EnsoCode | J3n5en | Multi-agent workflows, Repository operations, Human approvals | https://github.com/J3n5en/EnsoCode | https://github.com/J3n5en/EnsoCode | https://github.com/J3n5en/EnsoCode | Published source-verified; last verified 2026-09-18. |
+| AgentVerse OS | AgentVerse OS | Execution environments, Workspace management | https://github.com/agentverse-os/AgentVerse-OS | https://github.com/agentverse-os/AgentVerse-OS | https://github.com/agentverse-os/AgentVerse-OS | Published source-verified; last verified 2026-09-18. |
+| durable-agents | Raj Tiwari | Durable execution, Tool execution, Human approvals | https://github.com/therajtiwari/durable-agents | https://github.com/therajtiwari/durable-agents | https://github.com/therajtiwari/durable-agents | Published source-verified; last verified 2026-09-18. |
+| EDITH-Harness | lucy971326 | Multi-agent workflows, Repository operations, Session persistence | https://github.com/lucy971326/EDITH-Harness | https://github.com/lucy971326/EDITH-Harness | https://github.com/lucy971326/EDITH-Harness | Published source-verified; last verified 2026-09-18. |
+| QM | YC Software | Multi-agent workflows, Persistent memory, Execution environments | https://github.com/yc-software/qm | https://github.com/yc-software/qm | https://github.com/yc-software/qm | Published source-verified; last verified 2026-09-18. |
+| Zenith | Intelligent Internet | Multi-agent workflows, Evaluation, Durable execution | https://github.com/Intelligent-Internet/zenith | https://github.com/Intelligent-Internet/zenith | https://github.com/Intelligent-Internet/zenith | Published source-verified; last verified 2026-09-18. |
+| agentic-ci | Open Data Hub | Execution environments, CI automation, Observability | https://github.com/opendatahub-io/agentic-ci | https://github.com/opendatahub-io/agentic-ci | https://github.com/opendatahub-io/agentic-ci | Published source-verified; last verified 2026-09-18. |
+| Harness (Go) | Chang Sau Sheong | Tool execution, Context management, Session persistence | https://github.com/sausheong/harness | https://github.com/sausheong/harness | https://github.com/sausheong/harness | Published source-verified; last verified 2026-09-18. |
+| Cobalt | Amaretto Software Labs | Execution environments, Multi-agent workflows, Browser automation, Scheduled automation | https://cobaltcode.ai/ | null | https://cobaltcode.ai/blog/cobalt-1-0 | Published source-verified; last verified 2026-09-18. |
 | Codex | OpenAI | Repository operations | https://developers.openai.com/codex/ | https://github.com/openai/codex | https://github.com/openai/codex | Repository identity reachable; default branch main. |
 | Claude Code | Anthropic | Repository operations | https://code.claude.com/docs/en/overview | https://github.com/anthropics/claude-code | https://github.com/anthropics/claude-code | Repository identity reachable; default branch main. |
 | Grok Build | SpaceXAI | Repository operations | https://x.ai/cli | https://github.com/xai-org/grok-build | https://github.com/xai-org/grok-build | Repository identity reachable; default branch main. |
@@ -589,7 +602,7 @@ Mode: network dry run
 | Shipwright | ABJ360 | Repository operations | https://github.com/abj360/shipwright | https://github.com/abj360/shipwright | https://github.com/abj360/shipwright | Repository identity reachable; default branch main. |
 | Agentdeck | Dark Necrocities | Remote execution | https://github.com/darknecrocities/Agentdeck | https://github.com/darknecrocities/Agentdeck | https://github.com/darknecrocities/Agentdeck | Repository identity reachable; default branch main. |
 | Amadeus | Godric-W | Repository operations | https://github.com/Godric-W/Amadeus | https://github.com/Godric-W/Amadeus | https://github.com/Godric-W/Amadeus | Repository identity reachable; default branch main. |
-| TMT | lllons | Repository operations | https://tmtcode.com/ | https://github.com/lllons/TMT | https://github.com/lllons/TMT | Repository identity reachable; default branch main. |
+| TMT | lllons | Repository operations | https://github.com/lllons/TMT | https://github.com/lllons/TMT | https://github.com/lllons/TMT | Repository identity reachable; default branch main. |
 | Termio | Termio | Multi-agent orchestration | https://termio.sh | https://github.com/termio-sh/termio | https://github.com/termio-sh/termio | Repository identity reachable; default branch main. |
 | Zhizhi Agent Runtime | cocoyes | Agent runtime | https://github.com/cocoyes/zhizhi-agent-runtime | https://github.com/cocoyes/zhizhi-agent-runtime | https://github.com/cocoyes/zhizhi-agent-runtime | Repository identity reachable; default branch master. |
 | AgentKit | Akino Kaede | Agent runtime | https://github.com/AkinoKaede/AgentKit | https://github.com/AkinoKaede/AgentKit | https://github.com/AkinoKaede/AgentKit | Repository identity reachable; default branch main. |
@@ -631,7 +644,7 @@ Mode: network dry run
 | Foremerge | naw103 | Multi-agent orchestration | https://github.com/naw103/foremerge | https://github.com/naw103/foremerge | https://github.com/naw103/foremerge | Repository identity reachable; default branch main. |
 | Reverify | 2akouwu | Evaluation | https://github.com/2akouwu/reverify | https://github.com/2akouwu/reverify | https://github.com/2akouwu/reverify | Repository identity reachable; default branch main. |
 | ARTEMIS | Google | Computer use | https://github.com/google/artemis | https://github.com/google/artemis | https://github.com/google/artemis | Repository identity reachable; default branch main. |
-| Agent Work Runtime | OriginOne AI | Memory | https://github.com/originoneai/agent-work-runtime | https://github.com/originoneai/agent-work-runtime | https://github.com/originoneai/agent-work-runtime | Repository identity reachable; default branch main. |
+| Agent Work Runtime | OriginOne AI | Memory | https://github.com/originoneai/agent-work-runtime | https://github.com/originoneai/agent-work-runtime | https://github.com/originoneai/awr | Repository identity reachable; default branch main. |
 | Taixu | wkbin | Agent runtime | https://github.com/wkbin/taixu | https://github.com/wkbin/taixu | https://github.com/wkbin/taixu | Repository identity reachable; default branch main. |
 | useAgent | useAgent | Remote execution | https://github.com/useagenthq/useagent | https://github.com/useagenthq/useagent | https://github.com/useagenthq/useagent | Repository identity reachable; default branch main. |
 | Fan Browser Agent | 7757 | Browser automation | https://github.com/7757/Fan-Browser-Agent | https://github.com/7757/Fan-Browser-Agent | https://github.com/7757/Fan-Browser-Agent | Repository identity reachable; default branch main. |
@@ -646,7 +659,7 @@ Mode: network dry run
 | dreb | aebrer | Agent runtime | https://github.com/aebrer/dreb | https://github.com/aebrer/dreb | https://github.com/aebrer/dreb | Repository identity reachable; default branch master. |
 | OpenDesign | Nexu | Agent workflows | https://github.com/nexu-io/open-design | https://github.com/nexu-io/open-design | https://github.com/nexu-io/open-design | Repository identity reachable; default branch main. |
 | Open-Inspect | Cole Murray | Remote execution | https://github.com/ColeMurray/background-agents | https://github.com/ColeMurray/background-agents | https://github.com/ColeMurray/background-agents | Repository identity reachable; default branch main. |
-| gentle-pi | Gentleman Programming | Agent workflows | https://github.com/Gentleman-Programming/gentle-pi | https://github.com/Gentleman-Programming/gentle-pi | https://github.com/Gentleman-Programming/gentle-shell | Repository identity reachable; default branch main. |
+| gentle-shell | Gentleman Programming | Agent workflows | https://github.com/Gentleman-Programming/gentle-shell | https://github.com/Gentleman-Programming/gentle-shell | https://github.com/Gentleman-Programming/gentle-shell | Repository identity reachable; default branch main. |
 | Prime Agent | Prime Intellect | Agent runtime | https://github.com/PrimeIntellect-ai/prime-agent | https://github.com/PrimeIntellect-ai/prime-agent | https://github.com/PrimeIntellect-ai/prime-agent | Repository identity reachable; default branch main. |
 | OpenWiki | LangChain | Memory | https://github.com/langchain-ai/openwiki | https://github.com/langchain-ai/openwiki | https://github.com/langchain-ai/openwiki | Repository identity reachable; default branch main. |
 | Frame | kaanozhan | Agent workflows | https://github.com/kaanozhan/Frame | https://github.com/kaanozhan/Frame | https://github.com/kaanozhan/Frame | Repository identity reachable; default branch main. |
@@ -656,7 +669,16 @@ Mode: network dry run
 | ClawDE | ClawDE | Agent runtime | https://github.com/nself-org/clawde | https://github.com/nself-org/clawde | https://github.com/nself-org/clawde | Repository identity reachable; default branch main. |
 | Plugsuits | Woonggi Min | Agent runtime | https://github.com/minpeter/pss-runtime | https://github.com/minpeter/pss-runtime | https://github.com/minpeter/pss-runtime | Repository identity reachable; default branch main. |
 | Praxist | Sapient Intelligence | Multi-agent orchestration | https://github.com/sapientinc/PRAXIST | https://github.com/sapientinc/PRAXIST | https://github.com/sapientinc/PRAXIST | Repository identity reachable; default branch main. |
-
-## Lane notes
-
-- https://api.github.com/repos/digitalpine/runtime: 404 Not Found
+| Browser Use Pi | Browser Use | Browser automation | https://github.com/browser-use/browser-use-pi | https://github.com/browser-use/browser-use-pi | https://github.com/browser-use/browser-use-pi | Repository identity reachable; default branch main. |
+| SoL-Pi | NVIDIA | Context management | https://github.com/NVlabs/SoL-Pi | https://github.com/NVlabs/SoL-Pi | https://github.com/NVlabs/SoL-Pi | Repository identity reachable; default branch main. |
+| Recuris | Gen-Verse | Persistent memory | https://github.com/Gen-Verse/Recuris | https://github.com/Gen-Verse/Recuris | https://github.com/Gen-Verse/Recuris | Repository identity reachable; default branch main. |
+| sctxx | handyutils | Context management | https://github.com/handyutils/sctxx | https://github.com/handyutils/sctxx | https://github.com/handyutils/sctxx | Repository identity reachable; default branch main. |
+| CCompactor | CCompactor | Context management | https://github.com/ccompactor/ccompactor | https://github.com/ccompactor/ccompactor | https://github.com/ccompactor/ccompactor | Repository identity reachable; default branch main. |
+| EnsoCode | J3n5en | Multi-agent workflows | https://github.com/J3n5en/EnsoCode | https://github.com/J3n5en/EnsoCode | https://github.com/J3n5en/EnsoCode | Repository identity reachable; default branch main. |
+| AgentVerse OS | AgentVerse OS | Execution environments | https://github.com/agentverse-os/AgentVerse-OS | https://github.com/agentverse-os/AgentVerse-OS | https://github.com/agentverse-os/AgentVerse-OS | Repository identity reachable; default branch main. |
+| durable-agents | Raj Tiwari | Durable execution | https://github.com/therajtiwari/durable-agents | https://github.com/therajtiwari/durable-agents | https://github.com/therajtiwari/durable-agents | Repository identity reachable; default branch main. |
+| EDITH-Harness | lucy971326 | Multi-agent workflows | https://github.com/lucy971326/EDITH-Harness | https://github.com/lucy971326/EDITH-Harness | https://github.com/lucy971326/EDITH-Harness | Repository identity reachable; default branch main. |
+| QM | YC Software | Multi-agent workflows | https://github.com/yc-software/qm | https://github.com/yc-software/qm | https://github.com/yc-software/qm | Repository identity reachable; default branch main. |
+| Zenith | Intelligent Internet | Multi-agent workflows | https://github.com/Intelligent-Internet/zenith | https://github.com/Intelligent-Internet/zenith | https://github.com/Intelligent-Internet/zenith | Repository identity reachable; default branch main. |
+| agentic-ci | Open Data Hub | Execution environments | https://github.com/opendatahub-io/agentic-ci | https://github.com/opendatahub-io/agentic-ci | https://github.com/opendatahub-io/agentic-ci | Repository identity reachable; default branch main. |
+| Harness (Go) | Chang Sau Sheong | Tool execution | https://github.com/sausheong/harness | https://github.com/sausheong/harness | https://github.com/sausheong/harness | Repository identity reachable; default branch main. |

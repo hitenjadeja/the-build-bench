@@ -1,20 +1,19 @@
 # broad-verification
 
 Status: COMPLETE
-Run date: 2026-09-18
+Run date: 2026-09-21
 Mode: network dry run
 
 | name | company | capability | canonical URL | repository URL | evidence URL | notes |
 | --- | --- | --- | --- | --- | --- | --- |
 | claude-skills | alirezarezvani | AI coding / project harness | https://alirezarezvani.medium.com/ | https://github.com/alirezarezvani/claude-skills | https://github.com/alirezarezvani/claude-skills | Compiled from discovery; exact duplicate checks passed. Human verification still required. |
+| anti-slop | miqdadbadjuber | AI coding / project harness | https://skills.sh/miqdadbadjuber/anti-slop | https://github.com/miqdadbadjuber/anti-slop | https://github.com/miqdadbadjuber/anti-slop | Compiled from discovery; exact duplicate checks passed. Human verification still required. |
 | delegate-skills | amElnagdy | AI coding / project harness | https://www.skills.sh/amelnagdy/delegate-skills | https://github.com/amElnagdy/delegate-skills | https://github.com/amElnagdy/delegate-skills | Compiled from discovery; exact duplicate checks passed. Human verification still required. |
 | claude-code-prompts | repowise-dev | AI coding / project harness | https://github.com/repowise-dev/claude-code-prompts | https://github.com/repowise-dev/claude-code-prompts | https://github.com/repowise-dev/claude-code-prompts | Compiled from discovery; exact duplicate checks passed. Human verification still required. |
 | codex-mobile | friuns2 | AI coding / project harness | https://friuns2.github.io/codex-mobile/ | https://github.com/friuns2/codex-mobile | https://github.com/friuns2/codex-mobile | Compiled from discovery; exact duplicate checks passed. Human verification still required. |
-| gentle-shell | Gentleman-Programming | AI coding / project harness | https://gentle-ai.gentlemanprogramming.com/ | https://github.com/Gentleman-Programming/gentle-shell | https://github.com/Gentleman-Programming/gentle-shell | Compiled from discovery; exact duplicate checks passed. Human verification still required. |
 | compass-skills | dongshuyan | AI coding / project harness | https://github.com/dongshuyan/compass-skills | https://github.com/dongshuyan/compass-skills | https://github.com/dongshuyan/compass-skills | Compiled from discovery; exact duplicate checks passed. Human verification still required. |
-| ai-assisted-engineering | JohnCrickett | AI coding / project harness | https://github.com/JohnCrickett/ai-assisted-engineering | https://github.com/JohnCrickett/ai-assisted-engineering | https://github.com/JohnCrickett/ai-assisted-engineering | Compiled from discovery; exact duplicate checks passed. Human verification still required. |
 | building-a-coding-agent-from-scratch-course | decodingai-magazine | AI coding / project harness | https://github.com/decodingai-magazine/building-a-coding-agent-from-scratch-course | https://github.com/decodingai-magazine/building-a-coding-agent-from-scratch-course | https://github.com/decodingai-magazine/building-a-coding-agent-from-scratch-course | Compiled from discovery; exact duplicate checks passed. Human verification still required. |
-| spring-boot-skills | rrezartprebreza | AI coding / project harness | https://github.com/rrezartprebreza/spring-boot-skills | https://github.com/rrezartprebreza/spring-boot-skills | https://github.com/rrezartprebreza/spring-boot-skills | Compiled from discovery; exact duplicate checks passed. Human verification still required. |
+| ai-assisted-engineering | JohnCrickett | AI coding / project harness | https://github.com/JohnCrickett/ai-assisted-engineering | https://github.com/JohnCrickett/ai-assisted-engineering | https://github.com/JohnCrickett/ai-assisted-engineering | Compiled from discovery; exact duplicate checks passed. Human verification still required. |
 | awesome-design-md | VoltAgent | AI coding / project harness | https://getdesign.md/ | https://github.com/VoltAgent/awesome-design-md | https://github.com/VoltAgent/awesome-design-md | Compiled from discovery; exact duplicate checks passed. Human verification still required. |
 | caveman | JuliusBrussee | AI coding / project harness | https://docs.caveman.so/docs/quickstart | https://github.com/JuliusBrussee/caveman | https://github.com/JuliusBrussee/caveman | Compiled from discovery; exact duplicate checks passed. Human verification still required. |
 | i-have-adhd | ayghri | AI coding / project harness | https://github.com/ayghri/i-have-adhd | https://github.com/ayghri/i-have-adhd | https://github.com/ayghri/i-have-adhd | Compiled from discovery; exact duplicate checks passed. Human verification still required. |

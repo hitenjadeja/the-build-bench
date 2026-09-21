@@ -1,6 +1,6 @@
 {
   "version": "1.1.0",
-  "generatedAt": "2026-09-18",
+  "generatedAt": "2026-09-21",
   "sources": [
     {
       "name": "best-of-Agent-Harnesses",
@@ -46,8 +46,41 @@
         "https://github.com/alirezarezvani/claude-skills",
         "https://alirezarezvani.medium.com/"
       ],
-      "discoveredDate": "2026-09-18",
-      "lastVerifiedDate": "2026-09-18"
+      "discoveredDate": "2026-09-21",
+      "lastVerifiedDate": "2026-09-21"
+    },
+    {
+      "id": "miqdadbadjuber-antislop",
+      "name": "anti-slop",
+      "company": "miqdadbadjuber",
+      "description": "Rules for an AI coding agent to filter out generic AI-generated UI designs, text, and code.",
+      "capabilities": [
+        "Repository operations"
+      ],
+      "languages": [
+        "JavaScript"
+      ],
+      "license": "MIT",
+      "availability": "unclear",
+      "officialUrl": "https://skills.sh/miqdadbadjuber/anti-slop",
+      "repositoryUrl": "https://github.com/miqdadbadjuber/anti-slop",
+      "monogram": "AN",
+      "tags": [
+        "accessibility",
+        "agent-skills",
+        "discovered",
+        "needs review"
+      ],
+      "reviewStatus": "needs-review",
+      "sourceKind": "discovery-candidate",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://api.github.com/search/repositories?sort=stars&order=desc&per_page=20&q=topic%3Aai-coding-agent%20archived%3Afalse",
+        "https://github.com/miqdadbadjuber/anti-slop",
+        "https://skills.sh/miqdadbadjuber/anti-slop"
+      ],
+      "discoveredDate": "2026-09-21",
+      "lastVerifiedDate": "2026-09-21"
     },
     {
       "id": "amelnagdy-delegateskills",
@@ -79,8 +112,8 @@
         "https://github.com/amElnagdy/delegate-skills",
         "https://www.skills.sh/amelnagdy/delegate-skills"
       ],
-      "discoveredDate": "2026-09-18",
-      "lastVerifiedDate": "2026-09-18"
+      "discoveredDate": "2026-09-21",
+      "lastVerifiedDate": "2026-09-21"
     },
     {
       "id": "repowisedev-claudecodeprompts",
@@ -111,8 +144,8 @@
         "https://api.github.com/search/repositories?sort=stars&order=desc&per_page=20&q=topic%3Aai-coding-agent%20archived%3Afalse",
         "https://github.com/repowise-dev/claude-code-prompts"
       ],
-      "discoveredDate": "2026-09-18",
-      "lastVerifiedDate": "2026-09-18"
+      "discoveredDate": "2026-09-21",
+      "lastVerifiedDate": "2026-09-21"
     },
     {
       "id": "friuns2-codexmobile",
@@ -144,41 +177,8 @@
         "https://github.com/friuns2/codex-mobile",
         "https://friuns2.github.io/codex-mobile/"
       ],
-      "discoveredDate": "2026-09-18",
-      "lastVerifiedDate": "2026-09-18"
-    },
-    {
-      "id": "gentlemanprogramming-gentleshell",
-      "name": "gentle-shell",
-      "company": "Gentleman-Programming",
-      "description": "Turn Pi into el Gentleman: a senior-architect development harness with SDD/OpenSpec, subagents, strict TDD evidence, review guardrails, and skill discovery.",
-      "capabilities": [
-        "Repository operations"
-      ],
-      "languages": [
-        "TypeScript"
-      ],
-      "license": "MIT",
-      "availability": "unclear",
-      "officialUrl": "https://gentle-ai.gentlemanprogramming.com/",
-      "repositoryUrl": "https://github.com/Gentleman-Programming/gentle-shell",
-      "monogram": "GE",
-      "tags": [
-        "agent-harness",
-        "agent-skills",
-        "discovered",
-        "needs review"
-      ],
-      "reviewStatus": "needs-review",
-      "sourceKind": "discovery-candidate",
-      "provenance": "independent-discovery",
-      "sourceUrls": [
-        "https://api.github.com/search/repositories?sort=stars&order=desc&per_page=20&q=topic%3Aai-coding-agent%20archived%3Afalse",
-        "https://github.com/Gentleman-Programming/gentle-shell",
-        "https://gentle-ai.gentlemanprogramming.com/"
-      ],
-      "discoveredDate": "2026-09-18",
-      "lastVerifiedDate": "2026-09-18"
+      "discoveredDate": "2026-09-21",
+      "lastVerifiedDate": "2026-09-21"
     },
     {
       "id": "dongshuyan-compassskills",
@@ -209,40 +209,8 @@
         "https://api.github.com/search/repositories?sort=stars&order=desc&per_page=20&q=topic%3Aai-coding-agent%20archived%3Afalse",
         "https://github.com/dongshuyan/compass-skills"
       ],
-      "discoveredDate": "2026-09-18",
-      "lastVerifiedDate": "2026-09-18"
-    },
-    {
-      "id": "johncrickett-aiassistedengineering",
-      "name": "ai-assisted-engineering",
-      "company": "JohnCrickett",
-      "description": "A Guide To AI-Assisted Software Engineering",
-      "capabilities": [
-        "Repository operations"
-      ],
-      "languages": [
-        "Unknown"
-      ],
-      "license": "Unknown",
-      "availability": "unclear",
-      "officialUrl": "https://github.com/JohnCrickett/ai-assisted-engineering",
-      "repositoryUrl": "https://github.com/JohnCrickett/ai-assisted-engineering",
-      "monogram": "AI",
-      "tags": [
-        "ai",
-        "ai-agents",
-        "discovered",
-        "needs review"
-      ],
-      "reviewStatus": "needs-review",
-      "sourceKind": "discovery-candidate",
-      "provenance": "independent-discovery",
-      "sourceUrls": [
-        "https://api.github.com/search/repositories?sort=stars&order=desc&per_page=20&q=topic%3Aai-coding-agent%20archived%3Afalse",
-        "https://github.com/JohnCrickett/ai-assisted-engineering"
-      ],
-      "discoveredDate": "2026-09-18",
-      "lastVerifiedDate": "2026-09-18"
+      "discoveredDate": "2026-09-21",
+      "lastVerifiedDate": "2026-09-21"
     },
     {
       "id": "decodingaimagazine-buildingacodingagentfromscratchcourse",
@@ -273,28 +241,28 @@
         "https://api.github.com/search/repositories?sort=stars&order=desc&per_page=20&q=topic%3Aai-coding-agent%20archived%3Afalse",
         "https://github.com/decodingai-magazine/building-a-coding-agent-from-scratch-course"
       ],
-      "discoveredDate": "2026-09-18",
-      "lastVerifiedDate": "2026-09-18"
+      "discoveredDate": "2026-09-21",
+      "lastVerifiedDate": "2026-09-21"
     },
     {
-      "id": "rrezartprebreza-springbootskills",
-      "name": "spring-boot-skills",
-      "company": "rrezartprebreza",
-      "description": "Production-grade Claude Code and Codex skills for Spring Boot developers",
+      "id": "johncrickett-aiassistedengineering",
+      "name": "ai-assisted-engineering",
+      "company": "JohnCrickett",
+      "description": "A Guide To AI-Assisted Software Engineering",
       "capabilities": [
         "Repository operations"
       ],
       "languages": [
-        "Java"
+        "Unknown"
       ],
-      "license": "MIT",
+      "license": "Unknown",
       "availability": "unclear",
-      "officialUrl": "https://github.com/rrezartprebreza/spring-boot-skills",
-      "repositoryUrl": "https://github.com/rrezartprebreza/spring-boot-skills",
-      "monogram": "SP",
+      "officialUrl": "https://github.com/JohnCrickett/ai-assisted-engineering",
+      "repositoryUrl": "https://github.com/JohnCrickett/ai-assisted-engineering",
+      "monogram": "AI",
       "tags": [
-        "ai-coding-agent",
-        "claude",
+        "ai",
+        "ai-agents",
         "discovered",
         "needs review"
       ],
@@ -303,10 +271,10 @@
       "provenance": "independent-discovery",
       "sourceUrls": [
         "https://api.github.com/search/repositories?sort=stars&order=desc&per_page=20&q=topic%3Aai-coding-agent%20archived%3Afalse",
-        "https://github.com/rrezartprebreza/spring-boot-skills"
+        "https://github.com/JohnCrickett/ai-assisted-engineering"
       ],
-      "discoveredDate": "2026-09-18",
-      "lastVerifiedDate": "2026-09-18"
+      "discoveredDate": "2026-09-21",
+      "lastVerifiedDate": "2026-09-21"
     },
     {
       "id": "voltagent-awesomedesignmd",
@@ -338,8 +306,8 @@
         "https://github.com/VoltAgent/awesome-design-md",
         "https://getdesign.md/"
       ],
-      "discoveredDate": "2026-09-18",
-      "lastVerifiedDate": "2026-09-18"
+      "discoveredDate": "2026-09-21",
+      "lastVerifiedDate": "2026-09-21"
     },
     {
       "id": "juliusbrussee-caveman",
@@ -371,8 +339,8 @@
         "https://github.com/JuliusBrussee/caveman",
         "https://docs.caveman.so/docs/quickstart"
       ],
-      "discoveredDate": "2026-09-18",
-      "lastVerifiedDate": "2026-09-18"
+      "discoveredDate": "2026-09-21",
+      "lastVerifiedDate": "2026-09-21"
     },
     {
       "id": "ayghri-ihaveadhd",
@@ -403,8 +371,8 @@
         "https://api.github.com/search/repositories?sort=stars&order=desc&per_page=20&q=%22coding%20agent%22%20in%3Aname%2Cdescription%20stars%3A%3E500%20archived%3Afalse",
         "https://github.com/ayghri/i-have-adhd"
       ],
-      "discoveredDate": "2026-09-18",
-      "lastVerifiedDate": "2026-09-18"
+      "discoveredDate": "2026-09-21",
+      "lastVerifiedDate": "2026-09-21"
     },
     {
       "id": "jcodesmore-aiwebsiteclonertemplate",
@@ -436,8 +404,8 @@
         "https://github.com/JCodesMore/ai-website-cloner-template",
         "https://dsc.gg/jcodesmore"
       ],
-      "discoveredDate": "2026-09-18",
-      "lastVerifiedDate": "2026-09-18"
+      "discoveredDate": "2026-09-21",
+      "lastVerifiedDate": "2026-09-21"
     },
     {
       "id": "zarazhangrui-frontendslides",
@@ -468,8 +436,8 @@
         "https://api.github.com/search/repositories?sort=stars&order=desc&per_page=20&q=%22coding%20agent%22%20in%3Aname%2Cdescription%20stars%3A%3E500%20archived%3Afalse",
         "https://github.com/zarazhangrui/frontend-slides"
       ],
-      "discoveredDate": "2026-09-18",
-      "lastVerifiedDate": "2026-09-18"
+      "discoveredDate": "2026-09-21",
+      "lastVerifiedDate": "2026-09-21"
     },
     {
       "id": "xyteee-xyteeecode",
@@ -500,8 +468,8 @@
         "https://www.npmjs.com/package/xyteeecode",
         "https://xyteee.com"
       ],
-      "discoveredDate": "2026-09-18",
-      "lastVerifiedDate": "2026-09-18"
+      "discoveredDate": "2026-09-21",
+      "lastVerifiedDate": "2026-09-21"
     },
     {
       "id": "songdongdong-wukonglabswukong",
@@ -532,8 +500,8 @@
         "https://www.npmjs.com/package/@wukonglabs/wukong",
         "https://cnb.cool/O.o/wukong.git"
       ],
-      "discoveredDate": "2026-09-18",
-      "lastVerifiedDate": "2026-09-18"
+      "discoveredDate": "2026-09-21",
+      "lastVerifiedDate": "2026-09-21"
     }
   ]
 }

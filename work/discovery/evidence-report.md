@@ -1,13 +1,13 @@
 # Harness discovery evidence report
 
-Run date: 2026-09-18
+Run date: 2026-09-21
 
 This is a dry research artifact. It does not modify `data/harnesses.v1.json`.
 
-- Proposed candidates: 16
-- Exact duplicates excluded: 26
+- Proposed candidates: 15
+- Exact duplicates excluded: 27
 - Fuzzy matches flagged, never merged: 0
-- Partial lanes: official-sources
+- Partial lanes: none
 
 ## Duplicate flags
 
@@ -17,7 +17,8 @@ This is a dry research artifact. It does not modify `data/harnesses.v1.json`.
 - abtop (graykode): repository identity, canonical URL, normalised name + company
 - autobe (wrtnlabs): repository identity, canonical URL
 - Empryo (proxysoul): repository identity, canonical URL, normalised name + company
-- PiDeck (ayuayue): repository identity, canonical URL, normalised name + company
+- gentle-shell (Gentleman-Programming): repository identity, normalised name + company
+- PiDeck (ayuayue): repository identity, normalised name + company
 - pi-web (jmfederico): repository identity, canonical URL, normalised name + company
 - RunVSAgent (wecode-ai): repository identity, canonical URL
 - agent-kanban (saltbo): repository identity, canonical URL, normalised name + company
@@ -25,10 +26,10 @@ This is a dry research artifact. It does not modify `data/harnesses.v1.json`.
 - opencode (anomalyco): repository identity, canonical URL
 - codex (openai): repository identity, normalised name + company
 - pi (earendil-works): repository identity, canonical URL, normalised name + company
-- open-design (nexu-io): repository identity
 - agent-skills (addyosmani): repository identity
-- headroom (headroomlabs-ai): repository identity, normalised name + company
+- open-design (nexu-io): repository identity
 - orca (stablyai): repository identity, canonical URL, normalised name + company
+- headroom (headroomlabs-ai): repository identity, normalised name + company
 - cline (cline): repository identity, normalised name + company
 - openinterpreter (openinterpreter): repository identity, canonical URL, normalised name + company
 - chrome-devtools-mcp (ChromeDevTools): repository identity, normalised name + company
