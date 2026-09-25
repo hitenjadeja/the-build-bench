@@ -1,6 +1,6 @@
 {
   "version": "1.1.0",
-  "generatedAt": "2026-09-18",
+  "generatedAt": "2026-09-25",
   "sources": [
     {
       "name": "best-of-Agent-Harnesses",
@@ -11633,7 +11633,7 @@
       "provenance": "independent-discovery",
       "sourceUrls": [
         "https://github.com/J3n5en/EnsoCode",
-        "https://github.com/J3n5en/EnsoCode/blob/dev/LICENSE"
+        "https://github.com/J3n5en/EnsoCode/blob/main/LICENSE"
       ],
       "discoveredDate": "2026-09-18",
       "lastVerifiedDate": "2026-09-18"
@@ -11902,6 +11902,496 @@
       ],
       "discoveredDate": "2026-09-18",
       "lastVerifiedDate": "2026-09-18"
+    },
+    {
+      "id": "zai-org-zcode",
+      "name": "ZCode",
+      "company": "Z.ai",
+      "description": "A coding workspace with desktop, browser and terminal agents, plus workflow orchestration and a published agent runtime.",
+      "capabilities": [
+        "Repository operations",
+        "Multi-agent workflows",
+        "Terminal automation",
+        "Context management"
+      ],
+      "languages": [
+        "TypeScript"
+      ],
+      "license": "Apache-2.0",
+      "availability": "open-source",
+      "officialUrl": "https://zcode.z.ai/en/",
+      "repositoryUrl": "https://github.com/zai-org/ZCode",
+      "monogram": "Z",
+      "tags": [
+        "coding",
+        "desktop",
+        "orchestration",
+        "runtime"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "repository",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://zcode.z.ai/en/changelog",
+        "https://github.com/zai-org/ZCode",
+        "https://github.com/zai-org/ZCode/blob/main/LICENSE"
+      ],
+      "discoveredDate": "2026-09-25",
+      "lastVerifiedDate": "2026-09-25"
+    },
+    {
+      "id": "tencentcloud-octop-harness",
+      "name": "Octop Harness",
+      "company": "Tencent Cloud",
+      "description": "An agent runtime built on deepagents with model routing, persistent memory, tool integrations and isolated agent management.",
+      "capabilities": [
+        "Agent loop",
+        "Memory & state",
+        "Multi-agent workflows",
+        "MCP & extensions"
+      ],
+      "languages": [
+        "Python"
+      ],
+      "license": "MIT",
+      "availability": "open-source",
+      "officialUrl": "https://github.com/TencentCloud/octop-harness",
+      "repositoryUrl": "https://github.com/TencentCloud/octop-harness",
+      "monogram": "OH",
+      "tags": [
+        "runtime",
+        "memory",
+        "orchestration",
+        "MCP"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "repository",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://github.com/TencentCloud/octop-harness",
+        "https://github.com/TencentCloud/octop-harness/blob/main/LICENSE"
+      ],
+      "discoveredDate": "2026-09-25",
+      "lastVerifiedDate": "2026-09-25"
+    },
+    {
+      "id": "copilotkit-openmuse",
+      "name": "OpenMuse",
+      "company": "CopilotKit",
+      "description": "A self-hostable personal agent with browser and terminal workers, durable tasks, approvals and mobile and web clients.",
+      "capabilities": [
+        "Browser automation",
+        "Terminal automation",
+        "Memory & state",
+        "Approvals"
+      ],
+      "languages": [
+        "TypeScript"
+      ],
+      "license": "MIT",
+      "availability": "open-source",
+      "officialUrl": "https://www.copilotkit.ai/openmuse",
+      "repositoryUrl": "https://github.com/CopilotKit/OpenMuse",
+      "monogram": "O",
+      "tags": [
+        "browser",
+        "mobile",
+        "runtime",
+        "approvals"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "repository",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://github.com/CopilotKit/OpenMuse",
+        "https://github.com/CopilotKit/OpenMuse/blob/main/LICENSE"
+      ],
+      "discoveredDate": "2026-09-25",
+      "lastVerifiedDate": "2026-09-25"
+    },
+    {
+      "id": "davidondrej-cloudroom-core",
+      "name": "Cloudroom core",
+      "company": "Cloudroom",
+      "description": "A pre-release Rust service that runs coding harnesses on Linux VMs and preserves session history through an API.",
+      "capabilities": [
+        "Agent execution",
+        "Session persistence",
+        "Repository operations"
+      ],
+      "languages": [
+        "Rust"
+      ],
+      "license": "Apache-2.0",
+      "availability": "open-source",
+      "officialUrl": "https://github.com/davidondrej/cloudroom-core",
+      "repositoryUrl": "https://github.com/davidondrej/cloudroom-core",
+      "monogram": "CC",
+      "tags": [
+        "runtime",
+        "self-hosted",
+        "coding",
+        "pre-release"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "repository",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://github.com/davidondrej/cloudroom-core",
+        "https://github.com/davidondrej/cloudroom-core/blob/main/LICENSE"
+      ],
+      "discoveredDate": "2026-09-25",
+      "lastVerifiedDate": "2026-09-25"
+    },
+    {
+      "id": "merijjeyn-jive",
+      "name": "Jive",
+      "company": "merijjeyn",
+      "description": "A terminal coding agent that executes planned tool and model decisions as directed acyclic graphs.",
+      "capabilities": [
+        "Agent loop",
+        "Tool orchestration",
+        "Terminal automation"
+      ],
+      "languages": [
+        "TypeScript"
+      ],
+      "license": "MIT",
+      "availability": "open-source",
+      "officialUrl": "https://github.com/merijjeyn/jive",
+      "repositoryUrl": "https://github.com/merijjeyn/jive",
+      "monogram": "J",
+      "tags": [
+        "terminal",
+        "coding",
+        "orchestration",
+        "runtime"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "repository",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://github.com/merijjeyn/jive",
+        "https://github.com/merijjeyn/jive/blob/main/LICENSE"
+      ],
+      "discoveredDate": "2026-09-25",
+      "lastVerifiedDate": "2026-09-25"
+    },
+    {
+      "id": "omotai-runtime",
+      "name": "Omotai Runtime",
+      "company": "Omotai",
+      "description": "A pre-alpha browser control runtime with MCP tools, deterministic policy checks, approval gates and an audit log.",
+      "capabilities": [
+        "Browser automation",
+        "Policy enforcement",
+        "Approvals",
+        "Observability"
+      ],
+      "languages": [
+        "Python"
+      ],
+      "license": "Apache-2.0",
+      "availability": "open-source",
+      "officialUrl": "https://github.com/omotai/runtime",
+      "repositoryUrl": "https://github.com/omotai/runtime",
+      "monogram": "OR",
+      "tags": [
+        "browser",
+        "MCP",
+        "safety",
+        "pre-alpha"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "repository",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://github.com/omotai/runtime",
+        "https://github.com/omotai/runtime/blob/main/LICENSE"
+      ],
+      "discoveredDate": "2026-09-25",
+      "lastVerifiedDate": "2026-09-25"
+    },
+    {
+      "id": "mitkox-esf",
+      "name": "ESF",
+      "company": "mitkox",
+      "description": "A self-hosted software factory that runs coding agents in isolated microVMs, verifies changes and saves execution evidence.",
+      "capabilities": [
+        "Multi-agent workflows",
+        "Sandboxed execution",
+        "Verification",
+        "Repository operations"
+      ],
+      "languages": [
+        "Go"
+      ],
+      "license": "MIT",
+      "availability": "open-source",
+      "officialUrl": "https://github.com/mitkox/esf",
+      "repositoryUrl": "https://github.com/mitkox/esf",
+      "monogram": "E",
+      "tags": [
+        "coding",
+        "orchestration",
+        "sandbox",
+        "verification"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "repository",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://github.com/mitkox/esf",
+        "https://github.com/mitkox/esf/blob/main/LICENSE",
+        "https://github.com/mitkox/esf/blob/main/docs/upstream.md"
+      ],
+      "discoveredDate": "2026-09-25",
+      "lastVerifiedDate": "2026-09-25"
+    },
+    {
+      "id": "makifbaysal-tasktrooper",
+      "name": "TaskTrooper",
+      "company": "TaskTrooper",
+      "description": "A local task board and runtime that assigns work to role agents and launches coding agents on the user’s machine.",
+      "capabilities": [
+        "Multi-agent workflows",
+        "Repository operations",
+        "Task orchestration"
+      ],
+      "languages": [
+        "Go",
+        "TypeScript"
+      ],
+      "license": "Apache-2.0",
+      "availability": "open-source",
+      "officialUrl": "https://tasktrooper.ai/",
+      "repositoryUrl": "https://github.com/makifbaysal/tasktrooper",
+      "monogram": "T",
+      "tags": [
+        "desktop",
+        "coding",
+        "orchestration",
+        "local"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "repository",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://github.com/makifbaysal/tasktrooper",
+        "https://github.com/makifbaysal/tasktrooper/blob/main/LICENSE"
+      ],
+      "discoveredDate": "2026-09-25",
+      "lastVerifiedDate": "2026-09-25"
+    },
+    {
+      "id": "codealive-pragmatic-orchestration",
+      "name": "pragmatic-orchestration",
+      "company": "CodeAlive AI",
+      "description": "A CLI and skill set that delegates tasks to several coding agents, supports steering and records running sessions.",
+      "capabilities": [
+        "Multi-agent workflows",
+        "Task orchestration",
+        "Session management"
+      ],
+      "languages": [
+        "Python"
+      ],
+      "license": "MIT",
+      "availability": "open-source",
+      "officialUrl": "https://github.com/CodeAlive-AI/pragmatic-orchestration",
+      "repositoryUrl": "https://github.com/CodeAlive-AI/pragmatic-orchestration",
+      "monogram": "P",
+      "tags": [
+        "coding",
+        "orchestration",
+        "CLI",
+        "delegation"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "repository",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://github.com/CodeAlive-AI/pragmatic-orchestration",
+        "https://github.com/CodeAlive-AI/pragmatic-orchestration/blob/main/LICENSE"
+      ],
+      "discoveredDate": "2026-09-25",
+      "lastVerifiedDate": "2026-09-25"
+    },
+    {
+      "id": "umutsevdi-imza",
+      "name": "Imza",
+      "company": "umutsevdi",
+      "description": "A native coding agent with sandboxed tools, visible diffs and explicit planning and review modes.",
+      "capabilities": [
+        "Repository operations",
+        "Sandboxed execution",
+        "Code review",
+        "Terminal automation"
+      ],
+      "languages": [
+        "C++"
+      ],
+      "license": "GPL-3.0",
+      "availability": "open-source",
+      "officialUrl": "https://github.com/umutsevdi/imza",
+      "repositoryUrl": "https://github.com/umutsevdi/imza",
+      "monogram": "I",
+      "tags": [
+        "coding",
+        "terminal",
+        "sandbox",
+        "review"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "repository",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://github.com/umutsevdi/imza",
+        "https://github.com/umutsevdi/imza/blob/main/LICENSE"
+      ],
+      "discoveredDate": "2026-09-25",
+      "lastVerifiedDate": "2026-09-25"
+    },
+    {
+      "id": "ztao0916-agentsurf",
+      "name": "AgentSurf",
+      "company": "ztao0916",
+      "description": "An MCP browser control runtime that lets agents use an existing Chrome or Edge session through local tools.",
+      "capabilities": [
+        "Browser automation",
+        "MCP & extensions",
+        "Human approvals"
+      ],
+      "languages": [
+        "TypeScript"
+      ],
+      "license": "Apache-2.0",
+      "availability": "open-source",
+      "officialUrl": "https://github.com/ztao0916/agentsurf-browser-control-runtime",
+      "repositoryUrl": "https://github.com/ztao0916/agentsurf-browser-control-runtime",
+      "monogram": "A",
+      "tags": [
+        "browser",
+        "MCP",
+        "runtime",
+        "local"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "repository",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://github.com/ztao0916/agentsurf-browser-control-runtime",
+        "https://github.com/ztao0916/agentsurf-browser-control-runtime/blob/main/LICENSE"
+      ],
+      "discoveredDate": "2026-09-25",
+      "lastVerifiedDate": "2026-09-25"
+    },
+    {
+      "id": "evannzhongg-nosis",
+      "name": "Nosis",
+      "company": "EvannZhongg",
+      "description": "A personal agent runtime with tool execution, permissions, resumable sessions, memory, subagents and desktop and terminal interfaces.",
+      "capabilities": [
+        "Agent loop",
+        "Memory & state",
+        "Approvals",
+        "Multi-agent workflows"
+      ],
+      "languages": [
+        "Python",
+        "TypeScript"
+      ],
+      "license": "MIT",
+      "availability": "open-source",
+      "officialUrl": "https://github.com/EvannZhongg/Nosis",
+      "repositoryUrl": "https://github.com/EvannZhongg/Nosis",
+      "monogram": "N",
+      "tags": [
+        "runtime",
+        "memory",
+        "desktop",
+        "subagents"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "repository",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://github.com/EvannZhongg/Nosis",
+        "https://github.com/EvannZhongg/Nosis/blob/main/LICENSE"
+      ],
+      "discoveredDate": "2026-09-25",
+      "lastVerifiedDate": "2026-09-25"
+    },
+    {
+      "id": "3vilm33pl3-memory-layer",
+      "name": "Memory Layer",
+      "company": "Olivier Van Acker",
+      "description": "A project-scoped memory service for coding agents that captures, curates and retrieves session decisions through CLI, TUI and MCP interfaces.",
+      "capabilities": [
+        "Memory & state",
+        "Context management",
+        "MCP & extensions"
+      ],
+      "languages": [
+        "Rust"
+      ],
+      "license": "AGPL-3.0-or-later",
+      "availability": "open-source",
+      "officialUrl": "https://www.memory-layer.dev/docs",
+      "repositoryUrl": "https://github.com/3vilM33pl3/memory",
+      "monogram": "ML",
+      "tags": [
+        "memory",
+        "context",
+        "MCP",
+        "local"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "official-docs",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://www.memory-layer.dev/docs",
+        "https://github.com/3vilM33pl3/memory",
+        "https://github.com/3vilM33pl3/memory/blob/main/LICENSE",
+        "https://github.com/3vilM33pl3/memory/releases/tag/v2.0.1"
+      ],
+      "discoveredDate": "2026-09-25",
+      "lastVerifiedDate": "2026-09-25"
+    },
+    {
+      "id": "uipath-coder-eval",
+      "name": "Coder Eval",
+      "company": "UiPath",
+      "description": "An agent-agnostic evaluation harness that runs coding agents in sandboxes against declarative tasks and scores their outputs for CI gates.",
+      "capabilities": [
+        "Evaluation harness",
+        "Sandboxed execution",
+        "Observability",
+        "CI integration"
+      ],
+      "languages": [
+        "Python"
+      ],
+      "license": "Apache-2.0",
+      "availability": "open-source",
+      "officialUrl": "https://coder-eval.com/",
+      "repositoryUrl": "https://github.com/UiPath/coder_eval",
+      "monogram": "CE",
+      "tags": [
+        "evaluation",
+        "coding",
+        "sandbox",
+        "CI"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "repository",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://github.com/UiPath/coder_eval",
+        "https://github.com/UiPath/coder_eval/blob/main/LICENSE"
+      ],
+      "discoveredDate": "2026-09-25",
+      "lastVerifiedDate": "2026-09-25"
     }
   ]
 }

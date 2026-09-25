@@ -964,5 +964,201 @@
     "discoveredAt": "2026-09-11",
     "signalUrl": "https://github.com/DigitalPine/runtime",
     "reason": "Previously published repository and license return HTTP 404 in authenticated GitHub API and public browser review on 2026-09-18. Original record retained in weekly evidence. Restore only after canonical ownership, source and licensing are reachable."
+  },
+  {
+    "name": "unreal-agent",
+    "url": "https://github.com/unreallabsai/unreal-agent",
+    "discoveredAt": "2026-09-25",
+    "signalUrl": "https://github.com/unreallabsai/unreal-agent",
+    "reason": "Repository metadata suggests an agent execution or orchestration concern, but implementation scope, license and provenance have not received full primary-source review."
+  },
+  {
+    "name": "viserys-agent",
+    "url": "https://github.com/rizqinrr/viserys-agent",
+    "discoveredAt": "2026-09-25",
+    "signalUrl": "https://github.com/rizqinrr/viserys-agent",
+    "reason": "Repository metadata suggests an agent execution or orchestration concern, but implementation scope, license and provenance have not received full primary-source review."
+  },
+  {
+    "name": "JevHarness",
+    "url": "https://github.com/TianyuCodings/JevHarness",
+    "discoveredAt": "2026-09-25",
+    "signalUrl": "https://github.com/TianyuCodings/JevHarness",
+    "reason": "Repository metadata suggests an agent execution or orchestration concern, but implementation scope, license and provenance have not received full primary-source review."
+  },
+  {
+    "name": "mini-harness",
+    "url": "https://github.com/HangYu8123/mini-harness",
+    "discoveredAt": "2026-09-25",
+    "signalUrl": "https://github.com/HangYu8123/mini-harness",
+    "reason": "Repository metadata suggests an agent execution or orchestration concern, but implementation scope, license and provenance have not received full primary-source review."
+  },
+  {
+    "name": "abide",
+    "url": "https://github.com/coldteadotai/abide",
+    "discoveredAt": "2026-09-25",
+    "signalUrl": "https://github.com/coldteadotai/abide",
+    "reason": "Repository metadata suggests an agent execution or orchestration concern, but implementation scope, license and provenance have not received full primary-source review."
+  },
+  {
+    "name": "jev-gateway",
+    "url": "https://github.com/vinilana/jev-gateway",
+    "discoveredAt": "2026-09-25",
+    "signalUrl": "https://github.com/vinilana/jev-gateway",
+    "reason": "Repository metadata suggests an agent execution or orchestration concern, but implementation scope, license and provenance have not received full primary-source review."
+  },
+  {
+    "name": "OpenCode-f26-R04",
+    "url": "https://github.com/CMU-17313Q/OpenCode-f26-R04",
+    "discoveredAt": "2026-09-25",
+    "signalUrl": "https://github.com/CMU-17313Q/OpenCode-f26-R04",
+    "reason": "Repository metadata suggests an agent execution or orchestration concern, but implementation scope, license and provenance have not received full primary-source review."
+  },
+  {
+    "name": "self-compact-pi-agent",
+    "url": "https://github.com/disler/self-compact-pi-agent",
+    "discoveredAt": "2026-09-25",
+    "signalUrl": "https://github.com/disler/self-compact-pi-agent",
+    "reason": "Repository metadata suggests an agent execution or orchestration concern, but implementation scope, license and provenance have not received full primary-source review."
+  },
+  {
+    "name": "Agent",
+    "url": "https://github.com/sanjayraj18/Agent",
+    "discoveredAt": "2026-09-25",
+    "signalUrl": "https://github.com/sanjayraj18/Agent",
+    "reason": "Repository metadata suggests an agent execution or orchestration concern, but implementation scope, license and provenance have not received full primary-source review."
+  },
+  {
+    "name": "stanley-code",
+    "url": "https://github.com/devagrawal09/stanley-code",
+    "discoveredAt": "2026-09-25",
+    "signalUrl": "https://github.com/devagrawal09/stanley-code",
+    "reason": "Repository metadata suggests an agent execution or orchestration concern, but implementation scope, license and provenance have not received full primary-source review."
+  },
+  {
+    "name": "herdr-telegram-agents",
+    "url": "https://github.com/permgps/herdr-telegram-agents",
+    "discoveredAt": "2026-09-25",
+    "signalUrl": "https://github.com/permgps/herdr-telegram-agents",
+    "reason": "Repository metadata suggests an agent execution or orchestration concern, but implementation scope, license and provenance have not received full primary-source review."
+  },
+  {
+    "name": "coding-agent",
+    "url": "https://github.com/Guo-Yixin/coding-agent",
+    "discoveredAt": "2026-09-25",
+    "signalUrl": "https://github.com/Guo-Yixin/coding-agent",
+    "reason": "Repository metadata suggests an agent execution or orchestration concern, but implementation scope, license and provenance have not received full primary-source review."
+  },
+  {
+    "name": "agentdock-mcp-harness",
+    "url": "https://github.com/gabyic/agentdock-mcp-harness",
+    "discoveredAt": "2026-09-25",
+    "signalUrl": "https://github.com/gabyic/agentdock-mcp-harness",
+    "reason": "Repository metadata suggests an agent execution or orchestration concern, but implementation scope, license and provenance have not received full primary-source review."
+  },
+  {
+    "name": "movo",
+    "url": "https://github.com/himovo/movo",
+    "discoveredAt": "2026-09-25",
+    "signalUrl": "https://github.com/himovo/movo",
+    "reason": "Repository metadata suggests an agent execution or orchestration concern, but implementation scope, license and provenance have not received full primary-source review."
+  },
+  {
+    "name": "agent-router",
+    "url": "https://github.com/nidhi-singh02/agent-router",
+    "discoveredAt": "2026-09-25",
+    "signalUrl": "https://github.com/nidhi-singh02/agent-router",
+    "reason": "Repository metadata suggests an agent execution or orchestration concern, but implementation scope, license and provenance have not received full primary-source review."
+  },
+  {
+    "name": "alphacode",
+    "url": "https://github.com/dragonked2/alphacode",
+    "discoveredAt": "2026-09-25",
+    "signalUrl": "https://github.com/dragonked2/alphacode",
+    "reason": "Repository metadata suggests an agent execution or orchestration concern, but implementation scope, license and provenance have not received full primary-source review."
+  },
+  {
+    "name": "astra-flash-orchestrator",
+    "url": "https://github.com/ethanplusai/astra-flash-orchestrator",
+    "discoveredAt": "2026-09-25",
+    "signalUrl": "https://github.com/ethanplusai/astra-flash-orchestrator",
+    "reason": "Repository metadata suggests an agent execution or orchestration concern, but implementation scope, license and provenance have not received full primary-source review."
+  },
+  {
+    "name": "Photon_orchestrator",
+    "url": "https://github.com/Esaadatmand/Photon_orchestrator",
+    "discoveredAt": "2026-09-25",
+    "signalUrl": "https://github.com/Esaadatmand/Photon_orchestrator",
+    "reason": "Repository metadata suggests an agent execution or orchestration concern, but implementation scope, license and provenance have not received full primary-source review."
+  },
+  {
+    "name": "aibuildai-llm-posttrain-agent",
+    "url": "https://github.com/aibuildai-inc/aibuildai-llm-posttrain-agent",
+    "discoveredAt": "2026-09-25",
+    "signalUrl": "https://github.com/aibuildai-inc/aibuildai-llm-posttrain-agent",
+    "reason": "Repository metadata suggests an agent execution or orchestration concern, but implementation scope, license and provenance have not received full primary-source review."
+  },
+  {
+    "name": "Canny",
+    "url": "https://github.com/qkal/Canny",
+    "discoveredAt": "2026-09-25",
+    "signalUrl": "https://github.com/qkal/Canny",
+    "reason": "Repository metadata suggests an agent execution or orchestration concern, but implementation scope, license and provenance have not received full primary-source review."
+  },
+  {
+    "name": "Ruko-agent",
+    "url": "https://github.com/Iky969/Ruko-agent",
+    "discoveredAt": "2026-09-25",
+    "signalUrl": "https://github.com/Iky969/Ruko-agent",
+    "reason": "Repository metadata suggests an agent execution or orchestration concern, but implementation scope, license and provenance have not received full primary-source review."
+  },
+  {
+    "name": "agent0",
+    "url": "https://github.com/xudafeng/agent0",
+    "discoveredAt": "2026-09-25",
+    "signalUrl": "https://github.com/xudafeng/agent0",
+    "reason": "Repository metadata suggests an agent execution or orchestration concern, but implementation scope, license and provenance have not received full primary-source review."
+  },
+  {
+    "name": "aside-jev",
+    "url": "https://github.com/himomohi/aside-jev",
+    "discoveredAt": "2026-09-25",
+    "signalUrl": "https://github.com/himomohi/aside-jev",
+    "reason": "Repository metadata suggests an agent execution or orchestration concern, but implementation scope, license and provenance have not received full primary-source review."
+  },
+  {
+    "name": "agent-oversight-framework",
+    "url": "https://github.com/ZhangRui987/agent-oversight-framework",
+    "discoveredAt": "2026-09-25",
+    "signalUrl": "https://github.com/ZhangRui987/agent-oversight-framework",
+    "reason": "Repository metadata suggests an agent execution or orchestration concern, but implementation scope, license and provenance have not received full primary-source review."
+  },
+  {
+    "name": "algen-agent-runtime",
+    "url": "https://github.com/AlgenAI/algen-agent-runtime",
+    "discoveredAt": "2026-09-25",
+    "signalUrl": "https://github.com/AlgenAI/algen-agent-runtime",
+    "reason": "Repository metadata suggests an agent execution or orchestration concern, but implementation scope, license and provenance have not received full primary-source review."
+  },
+  {
+    "name": "myclaw-agent-runtime",
+    "url": "https://github.com/CC254215/myclaw-agent-runtime",
+    "discoveredAt": "2026-09-25",
+    "signalUrl": "https://github.com/CC254215/myclaw-agent-runtime",
+    "reason": "Repository metadata suggests an agent execution or orchestration concern, but implementation scope, license and provenance have not received full primary-source review."
+  },
+  {
+    "name": "Sno Station",
+    "url": "https://github.com/sno-ai/sno-station",
+    "discoveredAt": "2026-09-25",
+    "signalUrl": "https://github.com/sno-ai/sno-station",
+    "reason": "Official README describes a shared-memory agent workstation and Apache-2.0 source, but says installation is not yet available; defer until a usable release is published."
+  },
+  {
+    "name": "Elma",
+    "url": "https://www.elma.sh/blog/ai-coding-institutional-memory",
+    "discoveredAt": "2026-09-25",
+    "signalUrl": "https://www.elma.sh/blog/ai-coding-institutional-memory",
+    "reason": "Search surfaced an official institutional-memory article, but the primary page was inaccessible for independent product, terms and release review."
   }
 ]

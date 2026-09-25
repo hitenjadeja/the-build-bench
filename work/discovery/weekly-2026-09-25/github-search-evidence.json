@@ -1,0 +1,1819 @@
+{
+  "window": [
+    "2026-08-26",
+    "2026-09-25"
+  ],
+  "queries": [
+    "agent harness in:name,description,readme",
+    "coding agent in:name,description",
+    "agent orchestrator in:name,description,readme",
+    "agent runtime in:name,description"
+  ],
+  "limitPerQuery": 50,
+  "rows": 200,
+  "unique": 178,
+  "dispositions": [
+    {
+      "repository": "Human-Agent-Society/reef",
+      "url": "https://github.com/Human-Agent-Society/reef",
+      "createdAt": "2026-08-31T01:39:18Z",
+      "lanes": [
+        "agent-harness"
+      ],
+      "disposition": "cataloged",
+      "reason": "Canonical repository identity already in the catalog, including this run’s reviewed additions."
+    },
+    {
+      "repository": "zai-org/ZCode",
+      "url": "https://github.com/zai-org/ZCode",
+      "createdAt": "2026-09-20T12:01:16Z",
+      "lanes": [
+        "agent-harness",
+        "coding-agent"
+      ],
+      "disposition": "cataloged",
+      "reason": "Canonical repository identity already in the catalog, including this run’s reviewed additions."
+    },
+    {
+      "repository": "browser-use/jev-ultrafast",
+      "url": "https://github.com/browser-use/jev-ultrafast",
+      "createdAt": "2026-09-16T21:30:12Z",
+      "lanes": [
+        "agent-harness"
+      ],
+      "disposition": "previously-deferred",
+      "reason": "Canonical repository identity already in the deferred queue."
+    },
+    {
+      "repository": "unreallabsai/unreal-agent",
+      "url": "https://github.com/unreallabsai/unreal-agent",
+      "createdAt": "2026-09-21T23:14:02Z",
+      "lanes": [
+        "agent-harness"
+      ],
+      "disposition": "deferred",
+      "reason": "Repository metadata suggests an agent execution or orchestration concern, but implementation scope, license and provenance have not received full primary-source review."
+    },
+    {
+      "repository": "NVlabs/SoL-Pi",
+      "url": "https://github.com/NVlabs/SoL-Pi",
+      "createdAt": "2026-09-02T14:48:47Z",
+      "lanes": [
+        "agent-harness"
+      ],
+      "disposition": "cataloged",
+      "reason": "Canonical repository identity already in the catalog, including this run’s reviewed additions."
+    },
+    {
+      "repository": "HowProgrammingWorks/Agent",
+      "url": "https://github.com/HowProgrammingWorks/Agent",
+      "createdAt": "2026-08-28T13:50:08Z",
+      "lanes": [
+        "agent-harness",
+        "coding-agent"
+      ],
+      "disposition": "cataloged",
+      "reason": "Canonical repository identity already in the catalog, including this run’s reviewed additions."
+    },
+    {
+      "repository": "sapientinc/PRAXIST",
+      "url": "https://github.com/sapientinc/PRAXIST",
+      "createdAt": "2026-08-27T14:20:58Z",
+      "lanes": [
+        "agent-harness",
+        "agent-orchestrator"
+      ],
+      "disposition": "cataloged",
+      "reason": "Canonical repository identity already in the catalog, including this run’s reviewed additions."
+    },
+    {
+      "repository": "CosmosMind-ai/RSI-Harness",
+      "url": "https://github.com/CosmosMind-ai/RSI-Harness",
+      "createdAt": "2026-09-03T08:45:37Z",
+      "lanes": [
+        "agent-harness",
+        "coding-agent"
+      ],
+      "disposition": "previously-deferred",
+      "reason": "Canonical repository identity already in the deferred queue."
+    },
+    {
+      "repository": "advitrocks9/aichessathon-starter",
+      "url": "https://github.com/advitrocks9/aichessathon-starter",
+      "createdAt": "2026-08-28T22:19:49Z",
+      "lanes": [
+        "agent-harness"
+      ],
+      "disposition": "rejected",
+      "reason": "Metadata describes a list, guide, skill-only asset, demo, domain-specific app or unrelated companion; no independent harness concern established."
+    },
+    {
+      "repository": "S1N6H/pentest-harness",
+      "url": "https://github.com/S1N6H/pentest-harness",
+      "createdAt": "2026-08-26T04:57:19Z",
+      "lanes": [
+        "agent-harness"
+      ],
+      "disposition": "cataloged",
+      "reason": "Canonical repository identity already in the catalog, including this run’s reviewed additions."
+    },
+    {
+      "repository": "Station-Sciences/bot-crossing",
+      "url": "https://github.com/Station-Sciences/bot-crossing",
+      "createdAt": "2026-09-01T19:56:46Z",
+      "lanes": [
+        "agent-harness"
+      ],
+      "disposition": "previously-deferred",
+      "reason": "Canonical repository identity already in the deferred queue."
+    },
+    {
+      "repository": "yibie/awesome-jev",
+      "url": "https://github.com/yibie/awesome-jev",
+      "createdAt": "2026-09-17T14:23:21Z",
+      "lanes": [
+        "agent-harness",
+        "agent-orchestrator"
+      ],
+      "disposition": "rejected",
+      "reason": "Metadata describes a list, guide, skill-only asset, demo, domain-specific app or unrelated companion; no independent harness concern established."
+    },
+    {
+      "repository": "showlab/Show-Harness",
+      "url": "https://github.com/showlab/Show-Harness",
+      "createdAt": "2026-09-07T08:58:08Z",
+      "lanes": [
+        "agent-harness"
+      ],
+      "disposition": "previously-deferred",
+      "reason": "Canonical repository identity already in the deferred queue."
+    },
+    {
+      "repository": "XiaoDuoYa/codex-with-chatgpt",
+      "url": "https://github.com/XiaoDuoYa/codex-with-chatgpt",
+      "createdAt": "2026-08-28T12:57:24Z",
+      "lanes": [
+        "agent-harness"
+      ],
+      "disposition": "previously-deferred",
+      "reason": "Canonical repository identity already in the deferred queue."
+    },
+    {
+      "repository": "google-research/rrsi",
+      "url": "https://github.com/google-research/rrsi",
+      "createdAt": "2026-09-16T04:50:49Z",
+      "lanes": [
+        "agent-harness",
+        "agent-orchestrator"
+      ],
+      "disposition": "rejected",
+      "reason": "Metadata describes a list, guide, skill-only asset, demo, domain-specific app or unrelated companion; no independent harness concern established."
+    },
+    {
+      "repository": "mini-harness/mini-harness",
+      "url": "https://github.com/mini-harness/mini-harness",
+      "createdAt": "2026-09-05T01:28:05Z",
+      "lanes": [
+        "agent-harness",
+        "agent-orchestrator"
+      ],
+      "disposition": "previously-deferred",
+      "reason": "Canonical repository identity already in the deferred queue."
+    },
+    {
+      "repository": "Gen-Verse/ScienceBuddy",
+      "url": "https://github.com/Gen-Verse/ScienceBuddy",
+      "createdAt": "2026-09-14T07:21:46Z",
+      "lanes": [
+        "agent-harness"
+      ],
+      "disposition": "rejected",
+      "reason": "Metadata describes a list, guide, skill-only asset, demo, domain-specific app or unrelated companion; no independent harness concern established."
+    },
+    {
+      "repository": "frontier-harness-eval/eval",
+      "url": "https://github.com/frontier-harness-eval/eval",
+      "createdAt": "2026-08-31T11:49:53Z",
+      "lanes": [
+        "agent-harness"
+      ],
+      "disposition": "previously-deferred",
+      "reason": "Canonical repository identity already in the deferred queue."
+    },
+    {
+      "repository": "Qiuner/birdview",
+      "url": "https://github.com/Qiuner/birdview",
+      "createdAt": "2026-09-12T06:59:27Z",
+      "lanes": [
+        "agent-harness"
+      ],
+      "disposition": "previously-deferred",
+      "reason": "Canonical repository identity already in the deferred queue."
+    },
+    {
+      "repository": "Devin-AXIS/jev-dsh-decision",
+      "url": "https://github.com/Devin-AXIS/jev-dsh-decision",
+      "createdAt": "2026-09-20T04:39:05Z",
+      "lanes": [
+        "agent-harness"
+      ],
+      "disposition": "rejected",
+      "reason": "Metadata describes a list, guide, skill-only asset, demo, domain-specific app or unrelated companion; no independent harness concern established."
+    },
+    {
+      "repository": "Flesymeb/HarnessOfHarness",
+      "url": "https://github.com/Flesymeb/HarnessOfHarness",
+      "createdAt": "2026-09-01T03:04:36Z",
+      "lanes": [
+        "agent-harness"
+      ],
+      "disposition": "previously-deferred",
+      "reason": "Canonical repository identity already in the deferred queue."
+    },
+    {
+      "repository": "hkqr/my-free-code",
+      "url": "https://github.com/hkqr/my-free-code",
+      "createdAt": "2026-08-27T17:59:23Z",
+      "lanes": [
+        "agent-harness",
+        "coding-agent"
+      ],
+      "disposition": "previously-deferred",
+      "reason": "Canonical repository identity already in the deferred queue."
+    },
+    {
+      "repository": "sno-ai/sno-station",
+      "url": "https://github.com/sno-ai/sno-station",
+      "createdAt": "2026-09-19T06:55:24Z",
+      "lanes": [
+        "agent-harness",
+        "coding-agent"
+      ],
+      "disposition": "rejected",
+      "reason": "Metadata describes a list, guide, skill-only asset, demo, domain-specific app or unrelated companion; no independent harness concern established."
+    },
+    {
+      "repository": "aliyun/ai-agent-handbook",
+      "url": "https://github.com/aliyun/ai-agent-handbook",
+      "createdAt": "2026-09-11T07:02:17Z",
+      "lanes": [
+        "agent-harness"
+      ],
+      "disposition": "rejected",
+      "reason": "Metadata describes a list, guide, skill-only asset, demo, domain-specific app or unrelated companion; no independent harness concern established."
+    },
+    {
+      "repository": "modelscope/ms-cookbook",
+      "url": "https://github.com/modelscope/ms-cookbook",
+      "createdAt": "2026-09-11T14:27:35Z",
+      "lanes": [
+        "agent-harness"
+      ],
+      "disposition": "rejected",
+      "reason": "Metadata describes a list, guide, skill-only asset, demo, domain-specific app or unrelated companion; no independent harness concern established."
+    },
+    {
+      "repository": "cmu-agents/assignment-1",
+      "url": "https://github.com/cmu-agents/assignment-1",
+      "createdAt": "2026-08-31T18:15:02Z",
+      "lanes": [
+        "agent-harness"
+      ],
+      "disposition": "rejected",
+      "reason": "Metadata describes a list, guide, skill-only asset, demo, domain-specific app or unrelated companion; no independent harness concern established."
+    },
+    {
+      "repository": "2akouwu/reverify",
+      "url": "https://github.com/2akouwu/reverify",
+      "createdAt": "2026-08-31T01:02:18Z",
+      "lanes": [
+        "agent-harness",
+        "agent-orchestrator"
+      ],
+      "disposition": "cataloged",
+      "reason": "Canonical repository identity already in the catalog, including this run’s reviewed additions."
+    },
+    {
+      "repository": "rizqinrr/viserys-agent",
+      "url": "https://github.com/rizqinrr/viserys-agent",
+      "createdAt": "2026-09-12T16:51:29Z",
+      "lanes": [
+        "agent-harness",
+        "agent-orchestrator"
+      ],
+      "disposition": "deferred",
+      "reason": "Repository metadata suggests an agent execution or orchestration concern, but implementation scope, license and provenance have not received full primary-source review."
+    },
+    {
+      "repository": "Ceceliawai/Agent",
+      "url": "https://github.com/Ceceliawai/Agent",
+      "createdAt": "2026-09-01T11:24:22Z",
+      "lanes": [
+        "agent-harness"
+      ],
+      "disposition": "rejected",
+      "reason": "Metadata describes a list, guide, skill-only asset, demo, domain-specific app or unrelated companion; no independent harness concern established."
+    },
+    {
+      "repository": "undefined-ui/second-brain-os",
+      "url": "https://github.com/undefined-ui/second-brain-os",
+      "createdAt": "2026-09-07T15:08:13Z",
+      "lanes": [
+        "agent-harness"
+      ],
+      "disposition": "rejected",
+      "reason": "Metadata describes a list, guide, skill-only asset, demo, domain-specific app or unrelated companion; no independent harness concern established."
+    },
+    {
+      "repository": "FeiZhuLulu/real-api-pricing",
+      "url": "https://github.com/FeiZhuLulu/real-api-pricing",
+      "createdAt": "2026-09-05T18:29:18Z",
+      "lanes": [
+        "agent-harness"
+      ],
+      "disposition": "rejected",
+      "reason": "Metadata describes a list, guide, skill-only asset, demo, domain-specific app or unrelated companion; no independent harness concern established."
+    },
+    {
+      "repository": "revfactory/codex-harness",
+      "url": "https://github.com/revfactory/codex-harness",
+      "createdAt": "2026-09-07T03:32:55Z",
+      "lanes": [
+        "agent-harness",
+        "agent-orchestrator"
+      ],
+      "disposition": "previously-deferred",
+      "reason": "Canonical repository identity already in the deferred queue."
+    },
+    {
+      "repository": "Continuum-AI-Corp/OrcaReplay",
+      "url": "https://github.com/Continuum-AI-Corp/OrcaReplay",
+      "createdAt": "2026-08-29T08:41:53Z",
+      "lanes": [
+        "agent-harness"
+      ],
+      "disposition": "cataloged",
+      "reason": "Canonical repository identity already in the catalog, including this run’s reviewed additions."
+    },
+    {
+      "repository": "seekskyworld/CreatPPT",
+      "url": "https://github.com/seekskyworld/CreatPPT",
+      "createdAt": "2026-08-26T14:11:03Z",
+      "lanes": [
+        "agent-harness",
+        "agent-orchestrator"
+      ],
+      "disposition": "previously-deferred",
+      "reason": "Canonical repository identity already in the deferred queue."
+    },
+    {
+      "repository": "davidondrej/cloudroom-core",
+      "url": "https://github.com/davidondrej/cloudroom-core",
+      "createdAt": "2026-09-17T18:56:56Z",
+      "lanes": [
+        "agent-harness",
+        "agent-runtime"
+      ],
+      "disposition": "cataloged",
+      "reason": "Canonical repository identity already in the catalog, including this run’s reviewed additions."
+    },
+    {
+      "repository": "TianyuCodings/JevHarness",
+      "url": "https://github.com/TianyuCodings/JevHarness",
+      "createdAt": "2026-09-21T08:59:46Z",
+      "lanes": [
+        "agent-harness"
+      ],
+      "disposition": "deferred",
+      "reason": "Repository metadata suggests an agent execution or orchestration concern, but implementation scope, license and provenance have not received full primary-source review."
+    },
+    {
+      "repository": "emo-xiaoyu/harness-mix",
+      "url": "https://github.com/emo-xiaoyu/harness-mix",
+      "createdAt": "2026-09-07T09:50:46Z",
+      "lanes": [
+        "agent-harness"
+      ],
+      "disposition": "previously-deferred",
+      "reason": "Canonical repository identity already in the deferred queue."
+    },
+    {
+      "repository": "OnlyTerp/opengrok",
+      "url": "https://github.com/OnlyTerp/opengrok",
+      "createdAt": "2026-08-27T18:30:44Z",
+      "lanes": [
+        "agent-harness"
+      ],
+      "disposition": "previously-deferred",
+      "reason": "Canonical repository identity already in the deferred queue."
+    },
+    {
+      "repository": "TokenRhythm/NeoHorse",
+      "url": "https://github.com/TokenRhythm/NeoHorse",
+      "createdAt": "2026-09-04T08:34:54Z",
+      "lanes": [
+        "agent-harness"
+      ],
+      "disposition": "previously-deferred",
+      "reason": "Canonical repository identity already in the deferred queue."
+    },
+    {
+      "repository": "kyky2347/ALTA",
+      "url": "https://github.com/kyky2347/ALTA",
+      "createdAt": "2026-08-27T09:42:45Z",
+      "lanes": [
+        "agent-harness"
+      ],
+      "disposition": "previously-deferred",
+      "reason": "Canonical repository identity already in the deferred queue."
+    },
+    {
+      "repository": "hellogumbo/awesome-jev",
+      "url": "https://github.com/hellogumbo/awesome-jev",
+      "createdAt": "2026-09-17T15:30:09Z",
+      "lanes": [
+        "agent-harness"
+      ],
+      "disposition": "rejected",
+      "reason": "Metadata describes a list, guide, skill-only asset, demo, domain-specific app or unrelated companion; no independent harness concern established."
+    },
+    {
+      "repository": "AnotiaWang/awesome-jev",
+      "url": "https://github.com/AnotiaWang/awesome-jev",
+      "createdAt": "2026-09-17T12:30:31Z",
+      "lanes": [
+        "agent-harness"
+      ],
+      "disposition": "rejected",
+      "reason": "Metadata describes a list, guide, skill-only asset, demo, domain-specific app or unrelated companion; no independent harness concern established."
+    },
+    {
+      "repository": "mitkox/esf",
+      "url": "https://github.com/mitkox/esf",
+      "createdAt": "2026-09-19T16:07:54Z",
+      "lanes": [
+        "agent-harness",
+        "agent-orchestrator"
+      ],
+      "disposition": "cataloged",
+      "reason": "Canonical repository identity already in the catalog, including this run’s reviewed additions."
+    },
+    {
+      "repository": "HangYu8123/mini-harness",
+      "url": "https://github.com/HangYu8123/mini-harness",
+      "createdAt": "2026-09-13T02:11:22Z",
+      "lanes": [
+        "agent-harness"
+      ],
+      "disposition": "deferred",
+      "reason": "Repository metadata suggests an agent execution or orchestration concern, but implementation scope, license and provenance have not received full primary-source review."
+    },
+    {
+      "repository": "viettranx/3dviz-pro-max",
+      "url": "https://github.com/viettranx/3dviz-pro-max",
+      "createdAt": "2026-09-10T01:42:59Z",
+      "lanes": [
+        "agent-harness"
+      ],
+      "disposition": "rejected",
+      "reason": "Metadata describes a list, guide, skill-only asset, demo, domain-specific app or unrelated companion; no independent harness concern established."
+    },
+    {
+      "repository": "heyjunpenn/awesome-jev",
+      "url": "https://github.com/heyjunpenn/awesome-jev",
+      "createdAt": "2026-09-19T05:14:36Z",
+      "lanes": [
+        "agent-harness"
+      ],
+      "disposition": "rejected",
+      "reason": "Metadata describes a list, guide, skill-only asset, demo, domain-specific app or unrelated companion; no independent harness concern established."
+    },
+    {
+      "repository": "PeakVisionAI/PeakVisionOS-SDK",
+      "url": "https://github.com/PeakVisionAI/PeakVisionOS-SDK",
+      "createdAt": "2026-08-28T13:20:32Z",
+      "lanes": [
+        "agent-harness"
+      ],
+      "disposition": "previously-deferred",
+      "reason": "Canonical repository identity already in the deferred queue."
+    },
+    {
+      "repository": "browser-use/browser-use-pi",
+      "url": "https://github.com/browser-use/browser-use-pi",
+      "createdAt": "2026-09-05T19:47:45Z",
+      "lanes": [
+        "agent-harness"
+      ],
+      "disposition": "cataloged",
+      "reason": "Canonical repository identity already in the catalog, including this run’s reviewed additions."
+    },
+    {
+      "repository": "CopilotKit/openmuse",
+      "url": "https://github.com/CopilotKit/openmuse",
+      "createdAt": "2026-09-15T16:05:44Z",
+      "lanes": [
+        "agent-harness"
+      ],
+      "disposition": "cataloged",
+      "reason": "Canonical repository identity already in the catalog, including this run’s reviewed additions."
+    },
+    {
+      "repository": "fatwang2/awesome-jev",
+      "url": "https://github.com/fatwang2/awesome-jev",
+      "createdAt": "2026-09-18T02:45:39Z",
+      "lanes": [
+        "agent-harness"
+      ],
+      "disposition": "rejected",
+      "reason": "Metadata describes a list, guide, skill-only asset, demo, domain-specific app or unrelated companion; no independent harness concern established."
+    },
+    {
+      "repository": "okf-memory/okf-agent-memory",
+      "url": "https://github.com/okf-memory/okf-agent-memory",
+      "createdAt": "2026-09-05T21:26:04Z",
+      "lanes": [
+        "coding-agent"
+      ],
+      "disposition": "cataloged",
+      "reason": "Canonical repository identity already in the catalog, including this run’s reviewed additions."
+    },
+    {
+      "repository": "tin-computer/tin",
+      "url": "https://github.com/tin-computer/tin",
+      "createdAt": "2026-09-17T03:39:59Z",
+      "lanes": [
+        "coding-agent"
+      ],
+      "disposition": "rejected",
+      "reason": "Metadata describes a list, guide, skill-only asset, demo, domain-specific app or unrelated companion; no independent harness concern established."
+    },
+    {
+      "repository": "agentverse-os/AgentVerse-OS",
+      "url": "https://github.com/agentverse-os/AgentVerse-OS",
+      "createdAt": "2026-09-12T18:20:00Z",
+      "lanes": [
+        "coding-agent"
+      ],
+      "disposition": "cataloged",
+      "reason": "Canonical repository identity already in the catalog, including this run’s reviewed additions."
+    },
+    {
+      "repository": "tigerless-labs/agent-memory",
+      "url": "https://github.com/tigerless-labs/agent-memory",
+      "createdAt": "2026-09-01T21:52:29Z",
+      "lanes": [
+        "coding-agent",
+        "agent-runtime"
+      ],
+      "disposition": "cataloged",
+      "reason": "Canonical repository identity already in the catalog, including this run’s reviewed additions."
+    },
+    {
+      "repository": "Einsia/agent-git",
+      "url": "https://github.com/Einsia/agent-git",
+      "createdAt": "2026-09-01T17:00:33Z",
+      "lanes": [
+        "coding-agent"
+      ],
+      "disposition": "previously-deferred",
+      "reason": "Canonical repository identity already in the deferred queue."
+    },
+    {
+      "repository": "BinaryDeliverer/CodexDesk",
+      "url": "https://github.com/BinaryDeliverer/CodexDesk",
+      "createdAt": "2026-09-23T11:21:44Z",
+      "lanes": [
+        "coding-agent"
+      ],
+      "disposition": "rejected",
+      "reason": "Metadata describes a list, guide, skill-only asset, demo, domain-specific app or unrelated companion; no independent harness concern established."
+    },
+    {
+      "repository": "aaravshah1311/Agent-2",
+      "url": "https://github.com/aaravshah1311/Agent-2",
+      "createdAt": "2026-09-04T11:03:14Z",
+      "lanes": [
+        "coding-agent"
+      ],
+      "disposition": "previously-deferred",
+      "reason": "Canonical repository identity already in the deferred queue."
+    },
+    {
+      "repository": "vicoa-ai/vicoa",
+      "url": "https://github.com/vicoa-ai/vicoa",
+      "createdAt": "2026-08-28T16:30:26Z",
+      "lanes": [
+        "coding-agent",
+        "agent-orchestrator"
+      ],
+      "disposition": "cataloged",
+      "reason": "Canonical repository identity already in the catalog, including this run’s reviewed additions."
+    },
+    {
+      "repository": "i-am-manware/Manware-s-AI-Learning-Toolkit",
+      "url": "https://github.com/i-am-manware/Manware-s-AI-Learning-Toolkit",
+      "createdAt": "2026-09-05T16:46:07Z",
+      "lanes": [
+        "coding-agent"
+      ],
+      "disposition": "previously-deferred",
+      "reason": "Canonical repository identity already in the deferred queue."
+    },
+    {
+      "repository": "Agenta-AI/awesome-ai-agent-platforms",
+      "url": "https://github.com/Agenta-AI/awesome-ai-agent-platforms",
+      "createdAt": "2026-09-02T16:32:59Z",
+      "lanes": [
+        "coding-agent",
+        "agent-orchestrator"
+      ],
+      "disposition": "rejected",
+      "reason": "Metadata describes a list, guide, skill-only asset, demo, domain-specific app or unrelated companion; no independent harness concern established."
+    },
+    {
+      "repository": "coldteadotai/abide",
+      "url": "https://github.com/coldteadotai/abide",
+      "createdAt": "2026-09-18T10:41:48Z",
+      "lanes": [
+        "coding-agent"
+      ],
+      "disposition": "deferred",
+      "reason": "Repository metadata suggests an agent execution or orchestration concern, but implementation scope, license and provenance have not received full primary-source review."
+    },
+    {
+      "repository": "J3n5en/EnsoCode",
+      "url": "https://github.com/J3n5en/EnsoCode",
+      "createdAt": "2026-08-26T13:31:40Z",
+      "lanes": [
+        "coding-agent",
+        "agent-orchestrator"
+      ],
+      "disposition": "cataloged",
+      "reason": "Canonical repository identity already in the catalog, including this run’s reviewed additions."
+    },
+    {
+      "repository": "vinilana/jev-gateway",
+      "url": "https://github.com/vinilana/jev-gateway",
+      "createdAt": "2026-09-18T18:30:56Z",
+      "lanes": [
+        "coding-agent"
+      ],
+      "disposition": "deferred",
+      "reason": "Repository metadata suggests an agent execution or orchestration concern, but implementation scope, license and provenance have not received full primary-source review."
+    },
+    {
+      "repository": "CMU-17313Q/OpenCode-f26-R04",
+      "url": "https://github.com/CMU-17313Q/OpenCode-f26-R04",
+      "createdAt": "2026-09-17T08:42:19Z",
+      "lanes": [
+        "coding-agent"
+      ],
+      "disposition": "deferred",
+      "reason": "Repository metadata suggests an agent execution or orchestration concern, but implementation scope, license and provenance have not received full primary-source review."
+    },
+    {
+      "repository": "agent-launch/agent-launcher",
+      "url": "https://github.com/agent-launch/agent-launcher",
+      "createdAt": "2026-09-10T22:07:14Z",
+      "lanes": [
+        "coding-agent"
+      ],
+      "disposition": "previously-deferred",
+      "reason": "Canonical repository identity already in the deferred queue."
+    },
+    {
+      "repository": "disler/self-compact-pi-agent",
+      "url": "https://github.com/disler/self-compact-pi-agent",
+      "createdAt": "2026-09-20T20:10:16Z",
+      "lanes": [
+        "coding-agent"
+      ],
+      "disposition": "deferred",
+      "reason": "Repository metadata suggests an agent execution or orchestration concern, but implementation scope, license and provenance have not received full primary-source review."
+    },
+    {
+      "repository": "sanjayraj18/Agent",
+      "url": "https://github.com/sanjayraj18/Agent",
+      "createdAt": "2026-09-13T13:07:11Z",
+      "lanes": [
+        "coding-agent"
+      ],
+      "disposition": "deferred",
+      "reason": "Repository metadata suggests an agent execution or orchestration concern, but implementation scope, license and provenance have not received full primary-source review."
+    },
+    {
+      "repository": "heyman333/agent-notion-template-docs",
+      "url": "https://github.com/heyman333/agent-notion-template-docs",
+      "createdAt": "2026-08-30T23:36:34Z",
+      "lanes": [
+        "coding-agent"
+      ],
+      "disposition": "rejected",
+      "reason": "Metadata describes a list, guide, skill-only asset, demo, domain-specific app or unrelated companion; no independent harness concern established."
+    },
+    {
+      "repository": "devagrawal09/stanley-code",
+      "url": "https://github.com/devagrawal09/stanley-code",
+      "createdAt": "2026-09-17T15:15:24Z",
+      "lanes": [
+        "coding-agent"
+      ],
+      "disposition": "deferred",
+      "reason": "Repository metadata suggests an agent execution or orchestration concern, but implementation scope, license and provenance have not received full primary-source review."
+    },
+    {
+      "repository": "NiazMorshed2007/jev-review",
+      "url": "https://github.com/NiazMorshed2007/jev-review",
+      "createdAt": "2026-09-17T05:24:51Z",
+      "lanes": [
+        "coding-agent"
+      ],
+      "disposition": "rejected",
+      "reason": "Metadata describes a list, guide, skill-only asset, demo, domain-specific app or unrelated companion; no independent harness concern established."
+    },
+    {
+      "repository": "Nanako0129/sepia",
+      "url": "https://github.com/Nanako0129/sepia",
+      "createdAt": "2026-08-28T05:56:49Z",
+      "lanes": [
+        "coding-agent"
+      ],
+      "disposition": "rejected",
+      "reason": "Metadata describes a list, guide, skill-only asset, demo, domain-specific app or unrelated companion; no independent harness concern established."
+    },
+    {
+      "repository": "merijjeyn/jive",
+      "url": "https://github.com/merijjeyn/jive",
+      "createdAt": "2026-09-21T15:07:55Z",
+      "lanes": [
+        "coding-agent"
+      ],
+      "disposition": "cataloged",
+      "reason": "Canonical repository identity already in the catalog, including this run’s reviewed additions."
+    },
+    {
+      "repository": "JackyCufe/signal-vaults",
+      "url": "https://github.com/JackyCufe/signal-vaults",
+      "createdAt": "2026-09-02T13:25:24Z",
+      "lanes": [
+        "coding-agent"
+      ],
+      "disposition": "rejected",
+      "reason": "Metadata describes a list, guide, skill-only asset, demo, domain-specific app or unrelated companion; no independent harness concern established."
+    },
+    {
+      "repository": "kerpopule/hermes-jev-skills",
+      "url": "https://github.com/kerpopule/hermes-jev-skills",
+      "createdAt": "2026-09-18T20:01:29Z",
+      "lanes": [
+        "coding-agent"
+      ],
+      "disposition": "rejected",
+      "reason": "Metadata describes a list, guide, skill-only asset, demo, domain-specific app or unrelated companion; no independent harness concern established."
+    },
+    {
+      "repository": "yetone/magpie",
+      "url": "https://github.com/yetone/magpie",
+      "createdAt": "2026-09-23T16:22:35Z",
+      "lanes": [
+        "coding-agent"
+      ],
+      "disposition": "rejected",
+      "reason": "Metadata describes a list, guide, skill-only asset, demo, domain-specific app or unrelated companion; no independent harness concern established."
+    },
+    {
+      "repository": "codejunkie99/agentic-stack-desktop",
+      "url": "https://github.com/codejunkie99/agentic-stack-desktop",
+      "createdAt": "2026-09-08T09:48:30Z",
+      "lanes": [
+        "coding-agent"
+      ],
+      "disposition": "cataloged",
+      "reason": "Canonical repository identity already in the catalog, including this run’s reviewed additions."
+    },
+    {
+      "repository": "Innei/lody-ios",
+      "url": "https://github.com/Innei/lody-ios",
+      "createdAt": "2026-09-05T18:37:43Z",
+      "lanes": [
+        "coding-agent"
+      ],
+      "disposition": "previously-deferred",
+      "reason": "Canonical repository identity already in the deferred queue."
+    },
+    {
+      "repository": "Gurp-S/XEYO",
+      "url": "https://github.com/Gurp-S/XEYO",
+      "createdAt": "2026-09-07T13:38:34Z",
+      "lanes": [
+        "coding-agent"
+      ],
+      "disposition": "previously-deferred",
+      "reason": "Canonical repository identity already in the deferred queue."
+    },
+    {
+      "repository": "permgps/herdr-telegram-agents",
+      "url": "https://github.com/permgps/herdr-telegram-agents",
+      "createdAt": "2026-09-02T07:47:49Z",
+      "lanes": [
+        "coding-agent"
+      ],
+      "disposition": "deferred",
+      "reason": "Repository metadata suggests an agent execution or orchestration concern, but implementation scope, license and provenance have not received full primary-source review."
+    },
+    {
+      "repository": "Guo-Yixin/coding-agent",
+      "url": "https://github.com/Guo-Yixin/coding-agent",
+      "createdAt": "2026-09-19T12:20:32Z",
+      "lanes": [
+        "coding-agent"
+      ],
+      "disposition": "deferred",
+      "reason": "Repository metadata suggests an agent execution or orchestration concern, but implementation scope, license and provenance have not received full primary-source review."
+    },
+    {
+      "repository": "Tyche-MKR/scientific-agent-skills",
+      "url": "https://github.com/Tyche-MKR/scientific-agent-skills",
+      "createdAt": "2026-08-31T10:54:19Z",
+      "lanes": [
+        "coding-agent"
+      ],
+      "disposition": "rejected",
+      "reason": "Metadata describes a list, guide, skill-only asset, demo, domain-specific app or unrelated companion; no independent harness concern established."
+    },
+    {
+      "repository": "makifbaysal/tasktrooper",
+      "url": "https://github.com/makifbaysal/tasktrooper",
+      "createdAt": "2026-09-14T12:45:52Z",
+      "lanes": [
+        "coding-agent"
+      ],
+      "disposition": "cataloged",
+      "reason": "Canonical repository identity already in the catalog, including this run’s reviewed additions."
+    },
+    {
+      "repository": "NirDiamant/Agentic_Engineering",
+      "url": "https://github.com/NirDiamant/Agentic_Engineering",
+      "createdAt": "2026-09-13T21:43:02Z",
+      "lanes": [
+        "coding-agent"
+      ],
+      "disposition": "previously-deferred",
+      "reason": "Canonical repository identity already in the deferred queue."
+    },
+    {
+      "repository": "HangYu8123/Pocket-Agent-CLI",
+      "url": "https://github.com/HangYu8123/Pocket-Agent-CLI",
+      "createdAt": "2026-09-10T13:55:09Z",
+      "lanes": [
+        "coding-agent"
+      ],
+      "disposition": "rejected",
+      "reason": "Metadata describes a list, guide, skill-only asset, demo, domain-specific app or unrelated companion; no independent harness concern established."
+    },
+    {
+      "repository": "cbrock84/headcount",
+      "url": "https://github.com/cbrock84/headcount",
+      "createdAt": "2026-08-28T18:03:04Z",
+      "lanes": [
+        "coding-agent",
+        "agent-orchestrator"
+      ],
+      "disposition": "rejected",
+      "reason": "Metadata describes a list, guide, skill-only asset, demo, domain-specific app or unrelated companion; no independent harness concern established."
+    },
+    {
+      "repository": "gabyic/agentdock-mcp-harness",
+      "url": "https://github.com/gabyic/agentdock-mcp-harness",
+      "createdAt": "2026-09-21T14:03:00Z",
+      "lanes": [
+        "coding-agent"
+      ],
+      "disposition": "deferred",
+      "reason": "Repository metadata suggests an agent execution or orchestration concern, but implementation scope, license and provenance have not received full primary-source review."
+    },
+    {
+      "repository": "handyutils/sctxx",
+      "url": "https://github.com/handyutils/sctxx",
+      "createdAt": "2026-09-10T19:38:53Z",
+      "lanes": [
+        "coding-agent"
+      ],
+      "disposition": "cataloged",
+      "reason": "Canonical repository identity already in the catalog, including this run’s reviewed additions."
+    },
+    {
+      "repository": "kina-cmd/agent-skill-sync",
+      "url": "https://github.com/kina-cmd/agent-skill-sync",
+      "createdAt": "2026-09-12T01:50:30Z",
+      "lanes": [
+        "coding-agent"
+      ],
+      "disposition": "rejected",
+      "reason": "Metadata describes a list, guide, skill-only asset, demo, domain-specific app or unrelated companion; no independent harness concern established."
+    },
+    {
+      "repository": "himovo/movo",
+      "url": "https://github.com/himovo/movo",
+      "createdAt": "2026-09-01T08:46:57Z",
+      "lanes": [
+        "coding-agent"
+      ],
+      "disposition": "deferred",
+      "reason": "Repository metadata suggests an agent execution or orchestration concern, but implementation scope, license and provenance have not received full primary-source review."
+    },
+    {
+      "repository": "chosuicide/beatscope",
+      "url": "https://github.com/chosuicide/beatscope",
+      "createdAt": "2026-08-26T07:32:24Z",
+      "lanes": [
+        "coding-agent"
+      ],
+      "disposition": "previously-deferred",
+      "reason": "Canonical repository identity already in the deferred queue."
+    },
+    {
+      "repository": "nidhi-singh02/agent-router",
+      "url": "https://github.com/nidhi-singh02/agent-router",
+      "createdAt": "2026-09-17T09:55:56Z",
+      "lanes": [
+        "coding-agent"
+      ],
+      "disposition": "deferred",
+      "reason": "Repository metadata suggests an agent execution or orchestration concern, but implementation scope, license and provenance have not received full primary-source review."
+    },
+    {
+      "repository": "dragonked2/alphacode",
+      "url": "https://github.com/dragonked2/alphacode",
+      "createdAt": "2026-09-01T09:57:03Z",
+      "lanes": [
+        "coding-agent"
+      ],
+      "disposition": "deferred",
+      "reason": "Repository metadata suggests an agent execution or orchestration concern, but implementation scope, license and provenance have not received full primary-source review."
+    },
+    {
+      "repository": "liiiiiiiiil/agent-from-scratch",
+      "url": "https://github.com/liiiiiiiiil/agent-from-scratch",
+      "createdAt": "2026-08-26T13:23:32Z",
+      "lanes": [
+        "coding-agent"
+      ],
+      "disposition": "rejected",
+      "reason": "Metadata describes a list, guide, skill-only asset, demo, domain-specific app or unrelated companion; no independent harness concern established."
+    },
+    {
+      "repository": "MirroS-Lab/Code-as-World",
+      "url": "https://github.com/MirroS-Lab/Code-as-World",
+      "createdAt": "2026-08-27T17:42:04Z",
+      "lanes": [
+        "coding-agent"
+      ],
+      "disposition": "previously-deferred",
+      "reason": "Canonical repository identity already in the deferred queue."
+    },
+    {
+      "repository": "KenKaiii/agent-steroids",
+      "url": "https://github.com/KenKaiii/agent-steroids",
+      "createdAt": "2026-08-31T22:24:31Z",
+      "lanes": [
+        "coding-agent",
+        "agent-runtime"
+      ],
+      "disposition": "previously-deferred",
+      "reason": "Canonical repository identity already in the deferred queue."
+    },
+    {
+      "repository": "donvito/codex-astra-luna-orchestrator",
+      "url": "https://github.com/donvito/codex-astra-luna-orchestrator",
+      "createdAt": "2026-09-05T16:03:06Z",
+      "lanes": [
+        "agent-orchestrator"
+      ],
+      "disposition": "previously-deferred",
+      "reason": "Canonical repository identity already in the deferred queue."
+    },
+    {
+      "repository": "codejunkie99/fable-orchestrator",
+      "url": "https://github.com/codejunkie99/fable-orchestrator",
+      "createdAt": "2026-09-02T21:48:23Z",
+      "lanes": [
+        "agent-orchestrator"
+      ],
+      "disposition": "previously-deferred",
+      "reason": "Canonical repository identity already in the deferred queue."
+    },
+    {
+      "repository": "ethanplusai/astra-flash-orchestrator",
+      "url": "https://github.com/ethanplusai/astra-flash-orchestrator",
+      "createdAt": "2026-09-17T05:42:31Z",
+      "lanes": [
+        "agent-orchestrator"
+      ],
+      "disposition": "deferred",
+      "reason": "Repository metadata suggests an agent execution or orchestration concern, but implementation scope, license and provenance have not received full primary-source review."
+    },
+    {
+      "repository": "angusdevgo/Seep-Reverse-Lab",
+      "url": "https://github.com/angusdevgo/Seep-Reverse-Lab",
+      "createdAt": "2026-09-23T18:05:31Z",
+      "lanes": [
+        "agent-orchestrator"
+      ],
+      "disposition": "rejected",
+      "reason": "Metadata describes a list, guide, skill-only asset, demo, domain-specific app or unrelated companion; no independent harness concern established."
+    },
+    {
+      "repository": "unicodef1wn/grokbot-field-notes",
+      "url": "https://github.com/unicodef1wn/grokbot-field-notes",
+      "createdAt": "2026-09-18T09:15:24Z",
+      "lanes": [
+        "agent-orchestrator"
+      ],
+      "disposition": "rejected",
+      "reason": "Metadata describes a list, guide, skill-only asset, demo, domain-specific app or unrelated companion; no independent harness concern established."
+    },
+    {
+      "repository": "zhengkid/Dream-RSI",
+      "url": "https://github.com/zhengkid/Dream-RSI",
+      "createdAt": "2026-09-13T20:39:43Z",
+      "lanes": [
+        "agent-orchestrator"
+      ],
+      "disposition": "previously-deferred",
+      "reason": "Canonical repository identity already in the deferred queue."
+    },
+    {
+      "repository": "breko861-hash/sol-luna-codex-orchestrator",
+      "url": "https://github.com/breko861-hash/sol-luna-codex-orchestrator",
+      "createdAt": "2026-08-30T06:49:05Z",
+      "lanes": [
+        "agent-orchestrator"
+      ],
+      "disposition": "previously-deferred",
+      "reason": "Canonical repository identity already in the deferred queue."
+    },
+    {
+      "repository": "Maurdekye/orgtree",
+      "url": "https://github.com/Maurdekye/orgtree",
+      "createdAt": "2026-09-07T19:51:28Z",
+      "lanes": [
+        "agent-orchestrator"
+      ],
+      "disposition": "cataloged",
+      "reason": "Canonical repository identity already in the catalog, including this run’s reviewed additions."
+    },
+    {
+      "repository": "DannyMac180/astra-advisor",
+      "url": "https://github.com/DannyMac180/astra-advisor",
+      "createdAt": "2026-09-04T20:49:03Z",
+      "lanes": [
+        "agent-orchestrator"
+      ],
+      "disposition": "previously-deferred",
+      "reason": "Canonical repository identity already in the deferred queue."
+    },
+    {
+      "repository": "jtydhr88/screenwriting-skills",
+      "url": "https://github.com/jtydhr88/screenwriting-skills",
+      "createdAt": "2026-09-06T12:28:23Z",
+      "lanes": [
+        "agent-orchestrator"
+      ],
+      "disposition": "rejected",
+      "reason": "Metadata describes a list, guide, skill-only asset, demo, domain-specific app or unrelated companion; no independent harness concern established."
+    },
+    {
+      "repository": "jairorodriguezarias/siesta",
+      "url": "https://github.com/jairorodriguezarias/siesta",
+      "createdAt": "2026-08-28T15:25:18Z",
+      "lanes": [
+        "agent-orchestrator"
+      ],
+      "disposition": "previously-deferred",
+      "reason": "Canonical repository identity already in the deferred queue."
+    },
+    {
+      "repository": "GENEXIS-AI/gpt-image-skill",
+      "url": "https://github.com/GENEXIS-AI/gpt-image-skill",
+      "createdAt": "2026-08-26T08:52:50Z",
+      "lanes": [
+        "agent-orchestrator"
+      ],
+      "disposition": "rejected",
+      "reason": "Metadata describes a list, guide, skill-only asset, demo, domain-specific app or unrelated companion; no independent harness concern established."
+    },
+    {
+      "repository": "madhvantyagi/Gnos",
+      "url": "https://github.com/madhvantyagi/Gnos",
+      "createdAt": "2026-09-12T04:49:03Z",
+      "lanes": [
+        "agent-orchestrator"
+      ],
+      "disposition": "rejected",
+      "reason": "Metadata describes a list, guide, skill-only asset, demo, domain-specific app or unrelated companion; no independent harness concern established."
+    },
+    {
+      "repository": "WellArtDev/hermes-soul-pack",
+      "url": "https://github.com/WellArtDev/hermes-soul-pack",
+      "createdAt": "2026-09-20T07:53:41Z",
+      "lanes": [
+        "agent-orchestrator"
+      ],
+      "disposition": "rejected",
+      "reason": "Metadata describes a list, guide, skill-only asset, demo, domain-specific app or unrelated companion; no independent harness concern established."
+    },
+    {
+      "repository": "hastimal/gemini-healthcare-agentic-platform",
+      "url": "https://github.com/hastimal/gemini-healthcare-agentic-platform",
+      "createdAt": "2026-09-04T02:28:20Z",
+      "lanes": [
+        "agent-orchestrator"
+      ],
+      "disposition": "previously-deferred",
+      "reason": "Canonical repository identity already in the deferred queue."
+    },
+    {
+      "repository": "Azure-Samples/claims-processing-hack",
+      "url": "https://github.com/Azure-Samples/claims-processing-hack",
+      "createdAt": "2026-09-06T16:17:15Z",
+      "lanes": [
+        "agent-orchestrator"
+      ],
+      "disposition": "previously-deferred",
+      "reason": "Canonical repository identity already in the deferred queue."
+    },
+    {
+      "repository": "useagenthq/useagent",
+      "url": "https://github.com/useagenthq/useagent",
+      "createdAt": "2026-08-29T21:14:31Z",
+      "lanes": [
+        "agent-orchestrator"
+      ],
+      "disposition": "cataloged",
+      "reason": "Canonical repository identity already in the catalog, including this run’s reviewed additions."
+    },
+    {
+      "repository": "heygen-com/liveavatar-gpt-live-demos",
+      "url": "https://github.com/heygen-com/liveavatar-gpt-live-demos",
+      "createdAt": "2026-08-28T06:03:14Z",
+      "lanes": [
+        "agent-orchestrator"
+      ],
+      "disposition": "rejected",
+      "reason": "Metadata describes a list, guide, skill-only asset, demo, domain-specific app or unrelated companion; no independent harness concern established."
+    },
+    {
+      "repository": "amitshekhariitbhu/ai-engineering-course",
+      "url": "https://github.com/amitshekhariitbhu/ai-engineering-course",
+      "createdAt": "2026-09-23T08:04:42Z",
+      "lanes": [
+        "agent-orchestrator"
+      ],
+      "disposition": "rejected",
+      "reason": "Metadata describes a list, guide, skill-only asset, demo, domain-specific app or unrelated companion; no independent harness concern established."
+    },
+    {
+      "repository": "wubbyweb/resumatic",
+      "url": "https://github.com/wubbyweb/resumatic",
+      "createdAt": "2026-09-09T10:44:50Z",
+      "lanes": [
+        "agent-orchestrator"
+      ],
+      "disposition": "rejected",
+      "reason": "Metadata describes a list, guide, skill-only asset, demo, domain-specific app or unrelated companion; no independent harness concern established."
+    },
+    {
+      "repository": "openJiuwen-ai/agent-infer",
+      "url": "https://github.com/openJiuwen-ai/agent-infer",
+      "createdAt": "2026-09-07T09:28:33Z",
+      "lanes": [
+        "agent-orchestrator"
+      ],
+      "disposition": "previously-deferred",
+      "reason": "Canonical repository identity already in the deferred queue."
+    },
+    {
+      "repository": "Omni-Interaction-Gander/Omni-Interaction-Agent",
+      "url": "https://github.com/Omni-Interaction-Gander/Omni-Interaction-Agent",
+      "createdAt": "2026-09-07T05:46:59Z",
+      "lanes": [
+        "agent-orchestrator"
+      ],
+      "disposition": "previously-deferred",
+      "reason": "Canonical repository identity already in the deferred queue."
+    },
+    {
+      "repository": "Esaadatmand/Photon_orchestrator",
+      "url": "https://github.com/Esaadatmand/Photon_orchestrator",
+      "createdAt": "2026-09-05T18:55:32Z",
+      "lanes": [
+        "agent-orchestrator"
+      ],
+      "disposition": "deferred",
+      "reason": "Repository metadata suggests an agent execution or orchestration concern, but implementation scope, license and provenance have not received full primary-source review."
+    },
+    {
+      "repository": "cocoyes/zhizhi-agent-runtime",
+      "url": "https://github.com/cocoyes/zhizhi-agent-runtime",
+      "createdAt": "2026-08-31T10:23:49Z",
+      "lanes": [
+        "agent-orchestrator",
+        "agent-runtime"
+      ],
+      "disposition": "cataloged",
+      "reason": "Canonical repository identity already in the catalog, including this run’s reviewed additions."
+    },
+    {
+      "repository": "CodeAlive-AI/pragmatic-orchestration",
+      "url": "https://github.com/CodeAlive-AI/pragmatic-orchestration",
+      "createdAt": "2026-09-17T12:44:49Z",
+      "lanes": [
+        "agent-orchestrator"
+      ],
+      "disposition": "cataloged",
+      "reason": "Canonical repository identity already in the catalog, including this run’s reviewed additions."
+    },
+    {
+      "repository": "cporter202/ai-apis-you-can-ship-today",
+      "url": "https://github.com/cporter202/ai-apis-you-can-ship-today",
+      "createdAt": "2026-09-16T13:01:02Z",
+      "lanes": [
+        "agent-orchestrator"
+      ],
+      "disposition": "rejected",
+      "reason": "Metadata describes a list, guide, skill-only asset, demo, domain-specific app or unrelated companion; no independent harness concern established."
+    },
+    {
+      "repository": "Vuk97/forward-implementation-first",
+      "url": "https://github.com/Vuk97/forward-implementation-first",
+      "createdAt": "2026-08-29T23:16:12Z",
+      "lanes": [
+        "agent-orchestrator"
+      ],
+      "disposition": "rejected",
+      "reason": "Metadata describes a list, guide, skill-only asset, demo, domain-specific app or unrelated companion; no independent harness concern established."
+    },
+    {
+      "repository": "jtydhr88/music-composition-skills",
+      "url": "https://github.com/jtydhr88/music-composition-skills",
+      "createdAt": "2026-09-17T15:33:58Z",
+      "lanes": [
+        "agent-orchestrator"
+      ],
+      "disposition": "rejected",
+      "reason": "Metadata describes a list, guide, skill-only asset, demo, domain-specific app or unrelated companion; no independent harness concern established."
+    },
+    {
+      "repository": "zostaff/agent-arena",
+      "url": "https://github.com/zostaff/agent-arena",
+      "createdAt": "2026-09-06T12:32:26Z",
+      "lanes": [
+        "agent-orchestrator"
+      ],
+      "disposition": "previously-deferred",
+      "reason": "Canonical repository identity already in the deferred queue."
+    },
+    {
+      "repository": "aibuildai-inc/aibuildai-llm-posttrain-agent",
+      "url": "https://github.com/aibuildai-inc/aibuildai-llm-posttrain-agent",
+      "createdAt": "2026-09-16T01:37:46Z",
+      "lanes": [
+        "agent-orchestrator"
+      ],
+      "disposition": "deferred",
+      "reason": "Repository metadata suggests an agent execution or orchestration concern, but implementation scope, license and provenance have not received full primary-source review."
+    },
+    {
+      "repository": "To3akaRin/mac-computer-use",
+      "url": "https://github.com/To3akaRin/mac-computer-use",
+      "createdAt": "2026-09-08T09:09:24Z",
+      "lanes": [
+        "agent-orchestrator"
+      ],
+      "disposition": "rejected",
+      "reason": "Metadata describes a list, guide, skill-only asset, demo, domain-specific app or unrelated companion; no independent harness concern established."
+    },
+    {
+      "repository": "Aqua-123/pstack-for-codex",
+      "url": "https://github.com/Aqua-123/pstack-for-codex",
+      "createdAt": "2026-08-26T07:24:54Z",
+      "lanes": [
+        "agent-orchestrator"
+      ],
+      "disposition": "rejected",
+      "reason": "Metadata describes a list, guide, skill-only asset, demo, domain-specific app or unrelated companion; no independent harness concern established."
+    },
+    {
+      "repository": "bushm2092-del/agent-weave",
+      "url": "https://github.com/bushm2092-del/agent-weave",
+      "createdAt": "2026-08-28T13:46:48Z",
+      "lanes": [
+        "agent-orchestrator"
+      ],
+      "disposition": "previously-deferred",
+      "reason": "Canonical repository identity already in the deferred queue."
+    },
+    {
+      "repository": "pallavi-shekhar/ai-engineering-interview-questions-company-wise",
+      "url": "https://github.com/pallavi-shekhar/ai-engineering-interview-questions-company-wise",
+      "createdAt": "2026-09-19T04:14:43Z",
+      "lanes": [
+        "agent-orchestrator"
+      ],
+      "disposition": "rejected",
+      "reason": "Metadata describes a list, guide, skill-only asset, demo, domain-specific app or unrelated companion; no independent harness concern established."
+    },
+    {
+      "repository": "YeamimHossainSajid/CodeMonk",
+      "url": "https://github.com/YeamimHossainSajid/CodeMonk",
+      "createdAt": "2026-08-26T08:41:36Z",
+      "lanes": [
+        "agent-orchestrator"
+      ],
+      "disposition": "previously-deferred",
+      "reason": "Canonical repository identity already in the deferred queue."
+    },
+    {
+      "repository": "zachealy1/orchestrator",
+      "url": "https://github.com/zachealy1/orchestrator",
+      "createdAt": "2026-09-08T11:02:27Z",
+      "lanes": [
+        "agent-orchestrator"
+      ],
+      "disposition": "previously-deferred",
+      "reason": "Canonical repository identity already in the deferred queue."
+    },
+    {
+      "repository": "codepath/pathreview-ai301-fa26-s3",
+      "url": "https://github.com/codepath/pathreview-ai301-fa26-s3",
+      "createdAt": "2026-09-10T21:31:23Z",
+      "lanes": [
+        "agent-orchestrator"
+      ],
+      "disposition": "rejected",
+      "reason": "Metadata describes a list, guide, skill-only asset, demo, domain-specific app or unrelated companion; no independent harness concern established."
+    },
+    {
+      "repository": "yuzheng310/qwen3-runtime",
+      "url": "https://github.com/yuzheng310/qwen3-runtime",
+      "createdAt": "2026-08-28T11:45:51Z",
+      "lanes": [
+        "agent-runtime"
+      ],
+      "disposition": "previously-deferred",
+      "reason": "Canonical repository identity already in the deferred queue."
+    },
+    {
+      "repository": "TencentCloud/octop-harness",
+      "url": "https://github.com/TencentCloud/octop-harness",
+      "createdAt": "2026-09-24T03:56:58Z",
+      "lanes": [
+        "agent-runtime"
+      ],
+      "disposition": "cataloged",
+      "reason": "Canonical repository identity already in the catalog, including this run’s reviewed additions."
+    },
+    {
+      "repository": "HernanJiang/CraftStation",
+      "url": "https://github.com/HernanJiang/CraftStation",
+      "createdAt": "2026-08-26T06:15:48Z",
+      "lanes": [
+        "agent-runtime"
+      ],
+      "disposition": "previously-deferred",
+      "reason": "Canonical repository identity already in the deferred queue."
+    },
+    {
+      "repository": "lukaske/jev-doom-agent",
+      "url": "https://github.com/lukaske/jev-doom-agent",
+      "createdAt": "2026-09-17T08:37:37Z",
+      "lanes": [
+        "agent-runtime"
+      ],
+      "disposition": "rejected",
+      "reason": "Metadata describes a list, guide, skill-only asset, demo, domain-specific app or unrelated companion; no independent harness concern established."
+    },
+    {
+      "repository": "yunaremaia/agent-guard",
+      "url": "https://github.com/yunaremaia/agent-guard",
+      "createdAt": "2026-09-12T22:26:58Z",
+      "lanes": [
+        "agent-runtime"
+      ],
+      "disposition": "previously-deferred",
+      "reason": "Canonical repository identity already in the deferred queue."
+    },
+    {
+      "repository": "Da7-Tech/SureForge",
+      "url": "https://github.com/Da7-Tech/SureForge",
+      "createdAt": "2026-09-09T12:59:04Z",
+      "lanes": [
+        "agent-runtime"
+      ],
+      "disposition": "rejected",
+      "reason": "Metadata describes a list, guide, skill-only asset, demo, domain-specific app or unrelated companion; no independent harness concern established."
+    },
+    {
+      "repository": "git-syl/hermes-agent-demo",
+      "url": "https://github.com/git-syl/hermes-agent-demo",
+      "createdAt": "2026-08-29T14:40:53Z",
+      "lanes": [
+        "agent-runtime"
+      ],
+      "disposition": "rejected",
+      "reason": "Metadata describes a list, guide, skill-only asset, demo, domain-specific app or unrelated companion; no independent harness concern established."
+    },
+    {
+      "repository": "qkal/Canny",
+      "url": "https://github.com/qkal/Canny",
+      "createdAt": "2026-09-11T20:48:57Z",
+      "lanes": [
+        "agent-runtime"
+      ],
+      "disposition": "deferred",
+      "reason": "Repository metadata suggests an agent execution or orchestration concern, but implementation scope, license and provenance have not received full primary-source review."
+    },
+    {
+      "repository": "zijie1024/autryn",
+      "url": "https://github.com/zijie1024/autryn",
+      "createdAt": "2026-09-06T02:14:50Z",
+      "lanes": [
+        "agent-runtime"
+      ],
+      "disposition": "cataloged",
+      "reason": "Canonical repository identity already in the catalog, including this run’s reviewed additions."
+    },
+    {
+      "repository": "GUNMIN-KIM/after-effects-codex-agent",
+      "url": "https://github.com/GUNMIN-KIM/after-effects-codex-agent",
+      "createdAt": "2026-08-30T15:58:25Z",
+      "lanes": [
+        "agent-runtime"
+      ],
+      "disposition": "previously-deferred",
+      "reason": "Canonical repository identity already in the deferred queue."
+    },
+    {
+      "repository": "kai-compute/agent",
+      "url": "https://github.com/kai-compute/agent",
+      "createdAt": "2026-09-14T13:07:19Z",
+      "lanes": [
+        "agent-runtime"
+      ],
+      "disposition": "previously-deferred",
+      "reason": "Canonical repository identity already in the deferred queue."
+    },
+    {
+      "repository": "muhtalhakhan/open-agent",
+      "url": "https://github.com/muhtalhakhan/open-agent",
+      "createdAt": "2026-09-01T21:03:47Z",
+      "lanes": [
+        "agent-runtime"
+      ],
+      "disposition": "previously-deferred",
+      "reason": "Canonical repository identity already in the deferred queue."
+    },
+    {
+      "repository": "ztao0916/agentsurf-browser-control-runtime",
+      "url": "https://github.com/ztao0916/agentsurf-browser-control-runtime",
+      "createdAt": "2026-09-09T04:07:45Z",
+      "lanes": [
+        "agent-runtime"
+      ],
+      "disposition": "cataloged",
+      "reason": "Canonical repository identity already in the catalog, including this run’s reviewed additions."
+    },
+    {
+      "repository": "daqiaoliang-coder/agent-runtime",
+      "url": "https://github.com/daqiaoliang-coder/agent-runtime",
+      "createdAt": "2026-08-31T00:00:28Z",
+      "lanes": [
+        "agent-runtime"
+      ],
+      "disposition": "previously-deferred",
+      "reason": "Canonical repository identity already in the deferred queue."
+    },
+    {
+      "repository": "thetis-agent/runtime",
+      "url": "https://github.com/thetis-agent/runtime",
+      "createdAt": "2026-09-09T19:33:01Z",
+      "lanes": [
+        "agent-runtime"
+      ],
+      "disposition": "previously-deferred",
+      "reason": "Canonical repository identity already in the deferred queue."
+    },
+    {
+      "repository": "EvannZhongg/Nosis",
+      "url": "https://github.com/EvannZhongg/Nosis",
+      "createdAt": "2026-09-09T09:12:08Z",
+      "lanes": [
+        "agent-runtime"
+      ],
+      "disposition": "cataloged",
+      "reason": "Canonical repository identity already in the catalog, including this run’s reviewed additions."
+    },
+    {
+      "repository": "lucy971326/EDITH-Harness",
+      "url": "https://github.com/lucy971326/EDITH-Harness",
+      "createdAt": "2026-08-31T15:37:25Z",
+      "lanes": [
+        "agent-runtime"
+      ],
+      "disposition": "cataloged",
+      "reason": "Canonical repository identity already in the catalog, including this run’s reviewed additions."
+    },
+    {
+      "repository": "Iky969/Ruko-agent",
+      "url": "https://github.com/Iky969/Ruko-agent",
+      "createdAt": "2026-09-10T13:03:32Z",
+      "lanes": [
+        "agent-runtime"
+      ],
+      "disposition": "deferred",
+      "reason": "Repository metadata suggests an agent execution or orchestration concern, but implementation scope, license and provenance have not received full primary-source review."
+    },
+    {
+      "repository": "smfworks/agent-receipt",
+      "url": "https://github.com/smfworks/agent-receipt",
+      "createdAt": "2026-09-15T19:01:23Z",
+      "lanes": [
+        "agent-runtime"
+      ],
+      "disposition": "rejected",
+      "reason": "Metadata describes a list, guide, skill-only asset, demo, domain-specific app or unrelated companion; no independent harness concern established."
+    },
+    {
+      "repository": "alphaparkinc/genpark-agent-runtime-hotpatch-sandbox-injector-skill",
+      "url": "https://github.com/alphaparkinc/genpark-agent-runtime-hotpatch-sandbox-injector-skill",
+      "createdAt": "2026-09-07T08:05:30Z",
+      "lanes": [
+        "agent-runtime"
+      ],
+      "disposition": "rejected",
+      "reason": "Metadata describes a list, guide, skill-only asset, demo, domain-specific app or unrelated companion; no independent harness concern established."
+    },
+    {
+      "repository": "Alpha-Park/genpark-agent-runtime-hotpatch-sandbox-injector-skill",
+      "url": "https://github.com/Alpha-Park/genpark-agent-runtime-hotpatch-sandbox-injector-skill",
+      "createdAt": "2026-09-07T08:06:08Z",
+      "lanes": [
+        "agent-runtime"
+      ],
+      "disposition": "rejected",
+      "reason": "Metadata describes a list, guide, skill-only asset, demo, domain-specific app or unrelated companion; no independent harness concern established."
+    },
+    {
+      "repository": "alphaparkinc/genpark-agent-runtime-invariant-assertion-synthesizer-skill",
+      "url": "https://github.com/alphaparkinc/genpark-agent-runtime-invariant-assertion-synthesizer-skill",
+      "createdAt": "2026-09-06T15:21:13Z",
+      "lanes": [
+        "agent-runtime"
+      ],
+      "disposition": "rejected",
+      "reason": "Metadata describes a list, guide, skill-only asset, demo, domain-specific app or unrelated companion; no independent harness concern established."
+    },
+    {
+      "repository": "Alpha-Park/genpark-agent-runtime-invariant-assertion-synthesizer-skill",
+      "url": "https://github.com/Alpha-Park/genpark-agent-runtime-invariant-assertion-synthesizer-skill",
+      "createdAt": "2026-09-06T15:21:51Z",
+      "lanes": [
+        "agent-runtime"
+      ],
+      "disposition": "rejected",
+      "reason": "Metadata describes a list, guide, skill-only asset, demo, domain-specific app or unrelated companion; no independent harness concern established."
+    },
+    {
+      "repository": "omotai/runtime",
+      "url": "https://github.com/omotai/runtime",
+      "createdAt": "2026-09-18T16:21:29Z",
+      "lanes": [
+        "agent-runtime"
+      ],
+      "disposition": "cataloged",
+      "reason": "Canonical repository identity already in the catalog, including this run’s reviewed additions."
+    },
+    {
+      "repository": "zinan92/agent",
+      "url": "https://github.com/zinan92/agent",
+      "createdAt": "2026-08-26T05:13:24Z",
+      "lanes": [
+        "agent-runtime"
+      ],
+      "disposition": "rejected",
+      "reason": "Metadata describes a list, guide, skill-only asset, demo, domain-specific app or unrelated companion; no independent harness concern established."
+    },
+    {
+      "repository": "konteks-io/runtime",
+      "url": "https://github.com/konteks-io/runtime",
+      "createdAt": "2026-09-14T23:24:30Z",
+      "lanes": [
+        "agent-runtime"
+      ],
+      "disposition": "previously-deferred",
+      "reason": "Canonical repository identity already in the deferred queue."
+    },
+    {
+      "repository": "alphaparkinc/genpark-openclaw-genteam-agent-channel-runtime-skill",
+      "url": "https://github.com/alphaparkinc/genpark-openclaw-genteam-agent-channel-runtime-skill",
+      "createdAt": "2026-09-07T16:34:41Z",
+      "lanes": [
+        "agent-runtime"
+      ],
+      "disposition": "rejected",
+      "reason": "Metadata describes a list, guide, skill-only asset, demo, domain-specific app or unrelated companion; no independent harness concern established."
+    },
+    {
+      "repository": "dncore/agent-pet-runtime",
+      "url": "https://github.com/dncore/agent-pet-runtime",
+      "createdAt": "2026-09-12T15:08:05Z",
+      "lanes": [
+        "agent-runtime"
+      ],
+      "disposition": "previously-deferred",
+      "reason": "Canonical repository identity already in the deferred queue."
+    },
+    {
+      "repository": "visitworld123/Awesome-Robot-Use-Agent",
+      "url": "https://github.com/visitworld123/Awesome-Robot-Use-Agent",
+      "createdAt": "2026-09-11T01:49:49Z",
+      "lanes": [
+        "agent-runtime"
+      ],
+      "disposition": "rejected",
+      "reason": "Metadata describes a list, guide, skill-only asset, demo, domain-specific app or unrelated companion; no independent harness concern established."
+    },
+    {
+      "repository": "WaniWani-AI/agent",
+      "url": "https://github.com/WaniWani-AI/agent",
+      "createdAt": "2026-09-16T11:31:48Z",
+      "lanes": [
+        "agent-runtime"
+      ],
+      "disposition": "previously-deferred",
+      "reason": "Canonical repository identity already in the deferred queue."
+    },
+    {
+      "repository": "alphaparkinc/genpark-ollama-local-model-runtime-skill",
+      "url": "https://github.com/alphaparkinc/genpark-ollama-local-model-runtime-skill",
+      "createdAt": "2026-09-20T06:31:17Z",
+      "lanes": [
+        "agent-runtime"
+      ],
+      "disposition": "rejected",
+      "reason": "Metadata describes a list, guide, skill-only asset, demo, domain-specific app or unrelated companion; no independent harness concern established."
+    },
+    {
+      "repository": "AgriciDaniel/web-mcp",
+      "url": "https://github.com/AgriciDaniel/web-mcp",
+      "createdAt": "2026-09-06T14:42:18Z",
+      "lanes": [
+        "agent-runtime"
+      ],
+      "disposition": "rejected",
+      "reason": "Metadata describes a list, guide, skill-only asset, demo, domain-specific app or unrelated companion; no independent harness concern established."
+    },
+    {
+      "repository": "XiaoTongYuCode/CornAgent",
+      "url": "https://github.com/XiaoTongYuCode/CornAgent",
+      "createdAt": "2026-09-05T16:29:07Z",
+      "lanes": [
+        "agent-runtime"
+      ],
+      "disposition": "previously-deferred",
+      "reason": "Canonical repository identity already in the deferred queue."
+    },
+    {
+      "repository": "Saransh-2194/Hybrid-Code-Repair-Agent-with-Runtime-Drift-Detection",
+      "url": "https://github.com/Saransh-2194/Hybrid-Code-Repair-Agent-with-Runtime-Drift-Detection",
+      "createdAt": "2026-09-03T09:24:16Z",
+      "lanes": [
+        "agent-runtime"
+      ],
+      "disposition": "previously-deferred",
+      "reason": "Canonical repository identity already in the deferred queue."
+    },
+    {
+      "repository": "alphaparkinc/genpark-runtime-variable-diff-state-inspector-skill",
+      "url": "https://github.com/alphaparkinc/genpark-runtime-variable-diff-state-inspector-skill",
+      "createdAt": "2026-09-06T14:36:53Z",
+      "lanes": [
+        "agent-runtime"
+      ],
+      "disposition": "rejected",
+      "reason": "Metadata describes a list, guide, skill-only asset, demo, domain-specific app or unrelated companion; no independent harness concern established."
+    },
+    {
+      "repository": "Alpha-Park/genpark-runtime-variable-diff-state-inspector-skill",
+      "url": "https://github.com/Alpha-Park/genpark-runtime-variable-diff-state-inspector-skill",
+      "createdAt": "2026-09-06T14:37:21Z",
+      "lanes": [
+        "agent-runtime"
+      ],
+      "disposition": "rejected",
+      "reason": "Metadata describes a list, guide, skill-only asset, demo, domain-specific app or unrelated companion; no independent harness concern established."
+    },
+    {
+      "repository": "therajtiwari/durable-agents",
+      "url": "https://github.com/therajtiwari/durable-agents",
+      "createdAt": "2026-08-28T21:47:51Z",
+      "lanes": [
+        "agent-runtime"
+      ],
+      "disposition": "cataloged",
+      "reason": "Canonical repository identity already in the catalog, including this run’s reviewed additions."
+    },
+    {
+      "repository": "xudafeng/agent0",
+      "url": "https://github.com/xudafeng/agent0",
+      "createdAt": "2026-09-18T18:58:38Z",
+      "lanes": [
+        "agent-runtime"
+      ],
+      "disposition": "deferred",
+      "reason": "Repository metadata suggests an agent execution or orchestration concern, but implementation scope, license and provenance have not received full primary-source review."
+    },
+    {
+      "repository": "toadharvard/pi-skill-state-runtime",
+      "url": "https://github.com/toadharvard/pi-skill-state-runtime",
+      "createdAt": "2026-09-01T13:18:44Z",
+      "lanes": [
+        "agent-runtime"
+      ],
+      "disposition": "rejected",
+      "reason": "Metadata describes a list, guide, skill-only asset, demo, domain-specific app or unrelated companion; no independent harness concern established."
+    },
+    {
+      "repository": "himomohi/aside-jev",
+      "url": "https://github.com/himomohi/aside-jev",
+      "createdAt": "2026-09-17T22:07:20Z",
+      "lanes": [
+        "agent-runtime"
+      ],
+      "disposition": "deferred",
+      "reason": "Repository metadata suggests an agent execution or orchestration concern, but implementation scope, license and provenance have not received full primary-source review."
+    },
+    {
+      "repository": "ZhangRui987/agent-oversight-framework",
+      "url": "https://github.com/ZhangRui987/agent-oversight-framework",
+      "createdAt": "2026-08-30T09:01:42Z",
+      "lanes": [
+        "agent-runtime"
+      ],
+      "disposition": "deferred",
+      "reason": "Repository metadata suggests an agent execution or orchestration concern, but implementation scope, license and provenance have not received full primary-source review."
+    },
+    {
+      "repository": "huiyuecs/agentcore",
+      "url": "https://github.com/huiyuecs/agentcore",
+      "createdAt": "2026-09-01T06:49:17Z",
+      "lanes": [
+        "agent-runtime"
+      ],
+      "disposition": "previously-deferred",
+      "reason": "Canonical repository identity already in the deferred queue."
+    },
+    {
+      "repository": "umutsevdi/imza",
+      "url": "https://github.com/umutsevdi/imza",
+      "createdAt": "2026-09-04T19:24:38Z",
+      "lanes": [
+        "agent-runtime"
+      ],
+      "disposition": "cataloged",
+      "reason": "Canonical repository identity already in the catalog, including this run’s reviewed additions."
+    },
+    {
+      "repository": "AlgenAI/algen-agent-runtime",
+      "url": "https://github.com/AlgenAI/algen-agent-runtime",
+      "createdAt": "2026-09-20T03:10:15Z",
+      "lanes": [
+        "agent-runtime"
+      ],
+      "disposition": "deferred",
+      "reason": "Repository metadata suggests an agent execution or orchestration concern, but implementation scope, license and provenance have not received full primary-source review."
+    },
+    {
+      "repository": "CC254215/myclaw-agent-runtime",
+      "url": "https://github.com/CC254215/myclaw-agent-runtime",
+      "createdAt": "2026-09-19T13:31:08Z",
+      "lanes": [
+        "agent-runtime"
+      ],
+      "disposition": "deferred",
+      "reason": "Repository metadata suggests an agent execution or orchestration concern, but implementation scope, license and provenance have not received full primary-source review."
+    },
+    {
+      "repository": "HailSyner/tether-agent-runtime",
+      "url": "https://github.com/HailSyner/tether-agent-runtime",
+      "createdAt": "2026-08-29T18:51:30Z",
+      "lanes": [
+        "agent-runtime"
+      ],
+      "disposition": "previously-deferred",
+      "reason": "Canonical repository identity already in the deferred queue."
+    }
+  ]
+}
