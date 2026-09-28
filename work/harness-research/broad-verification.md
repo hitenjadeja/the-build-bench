@@ -1,16 +1,17 @@
 # broad-verification
 
 Status: COMPLETE
-Run date: 2026-09-21
+Run date: 2026-09-28
 Mode: network dry run
 
 | name | company | capability | canonical URL | repository URL | evidence URL | notes |
 | --- | --- | --- | --- | --- | --- | --- |
 | claude-skills | alirezarezvani | AI coding / project harness | https://alirezarezvani.medium.com/ | https://github.com/alirezarezvani/claude-skills | https://github.com/alirezarezvani/claude-skills | Compiled from discovery; exact duplicate checks passed. Human verification still required. |
-| anti-slop | miqdadbadjuber | AI coding / project harness | https://skills.sh/miqdadbadjuber/anti-slop | https://github.com/miqdadbadjuber/anti-slop | https://github.com/miqdadbadjuber/anti-slop | Compiled from discovery; exact duplicate checks passed. Human verification still required. |
+| anti-slop | miqdadbadjuber | AI coding / project harness | https://github.com/miqdadbadjuber/anti-slop | https://github.com/miqdadbadjuber/anti-slop | https://github.com/miqdadbadjuber/anti-slop | Compiled from discovery; exact duplicate checks passed. Human verification still required. |
 | delegate-skills | amElnagdy | AI coding / project harness | https://www.skills.sh/amelnagdy/delegate-skills | https://github.com/amElnagdy/delegate-skills | https://github.com/amElnagdy/delegate-skills | Compiled from discovery; exact duplicate checks passed. Human verification still required. |
 | claude-code-prompts | repowise-dev | AI coding / project harness | https://github.com/repowise-dev/claude-code-prompts | https://github.com/repowise-dev/claude-code-prompts | https://github.com/repowise-dev/claude-code-prompts | Compiled from discovery; exact duplicate checks passed. Human verification still required. |
 | codex-mobile | friuns2 | AI coding / project harness | https://friuns2.github.io/codex-mobile/ | https://github.com/friuns2/codex-mobile | https://github.com/friuns2/codex-mobile | Compiled from discovery; exact duplicate checks passed. Human verification still required. |
+| agent-swarm | desplega-ai | AI coding / project harness | https://agent-swarm.dev | https://github.com/desplega-ai/agent-swarm | https://github.com/desplega-ai/agent-swarm | Compiled from discovery; exact duplicate checks passed. Human verification still required. |
 | compass-skills | dongshuyan | AI coding / project harness | https://github.com/dongshuyan/compass-skills | https://github.com/dongshuyan/compass-skills | https://github.com/dongshuyan/compass-skills | Compiled from discovery; exact duplicate checks passed. Human verification still required. |
 | building-a-coding-agent-from-scratch-course | decodingai-magazine | AI coding / project harness | https://github.com/decodingai-magazine/building-a-coding-agent-from-scratch-course | https://github.com/decodingai-magazine/building-a-coding-agent-from-scratch-course | https://github.com/decodingai-magazine/building-a-coding-agent-from-scratch-course | Compiled from discovery; exact duplicate checks passed. Human verification still required. |
 | ai-assisted-engineering | JohnCrickett | AI coding / project harness | https://github.com/JohnCrickett/ai-assisted-engineering | https://github.com/JohnCrickett/ai-assisted-engineering | https://github.com/JohnCrickett/ai-assisted-engineering | Compiled from discovery; exact duplicate checks passed. Human verification still required. |

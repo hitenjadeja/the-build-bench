@@ -1,11 +1,11 @@
 # Harness discovery evidence report
 
-Run date: 2026-09-21
+Run date: 2026-09-28
 
 This is a dry research artifact. It does not modify `data/harnesses.v1.json`.
 
-- Proposed candidates: 15
-- Exact duplicates excluded: 27
+- Proposed candidates: 16
+- Exact duplicates excluded: 26
 - Fuzzy matches flagged, never merged: 0
 - Partial lanes: none
 
@@ -22,7 +22,6 @@ This is a dry research artifact. It does not modify `data/harnesses.v1.json`.
 - pi-web (jmfederico): repository identity, canonical URL, normalised name + company
 - RunVSAgent (wecode-ai): repository identity, canonical URL
 - agent-kanban (saltbo): repository identity, canonical URL, normalised name + company
-- vix (get-vix): repository identity, canonical URL, normalised name + company
 - opencode (anomalyco): repository identity, canonical URL
 - codex (openai): repository identity, normalised name + company
 - pi (earendil-works): repository identity, canonical URL, normalised name + company
@@ -33,8 +32,8 @@ This is a dry research artifact. It does not modify `data/harnesses.v1.json`.
 - cline (cline): repository identity, normalised name + company
 - openinterpreter (openinterpreter): repository identity, canonical URL, normalised name + company
 - chrome-devtools-mcp (ChromeDevTools): repository identity, normalised name + company
-- Codewhale (Hmbown): repository identity, canonical URL, normalised name + company
 - herdr (herdrdev): repository identity, canonical URL
+- Codewhale (Hmbown): repository identity, canonical URL, normalised name + company
 - continue (continuedev): repository identity, normalised name + company
 - DeepSeek-Reasonix (esengine): repository identity, canonical URL, normalised name + company
 - oh-my-pi (can1357): repository identity, normalised name + company
