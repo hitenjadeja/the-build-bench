@@ -1,6 +1,6 @@
 {
   "version": "1.1.0",
-  "generatedAt": "2026-09-25",
+  "generatedAt": "2026-10-02",
   "sources": [
     {
       "name": "best-of-Agent-Harnesses",
@@ -7654,9 +7654,9 @@
     },
     {
       "id": "agentic-spring-ai",
-      "name": "Agentic Spring AI",
-      "company": "Agentic Spring AI",
-      "description": "A Spring AI framework and graph runtime for Java agents and multi-agent applications with context compaction, tool retries, planning, human interruption, persistent workflows, recovery, sandboxed tools, A2A, and visual debugging.",
+      "name": "ARGI",
+      "company": "Agentic AI Java",
+      "description": "Java agent runtime and graph framework with orchestration, context engineering, persisted workflows, human interruption, and tool integrations.",
       "capabilities": [
         "Agent runtime",
         "Multi-agent workflows",
@@ -7668,9 +7668,9 @@
       ],
       "license": "Apache-2.0",
       "availability": "open-source",
-      "officialUrl": "https://agentic-spring-ai.github.io/website/en/",
-      "repositoryUrl": "https://github.com/agentic-spring-ai/agentic-spring-ai",
-      "monogram": "SA",
+      "officialUrl": "https://agentic-ai-java.github.io/argi-website/en/docs/overview",
+      "repositoryUrl": "https://github.com/agentic-ai-java/argi",
+      "monogram": "AR",
       "tags": [
         "java",
         "spring-ai",
@@ -7681,12 +7681,12 @@
       "sourceKind": "repository and documentation",
       "provenance": "independent-discovery",
       "sourceUrls": [
-        "https://agentic-spring-ai.github.io/website/en/",
-        "https://github.com/agentic-spring-ai/agentic-spring-ai",
-        "https://github.com/agentic-spring-ai/agentic-spring-ai/blob/main/LICENSE"
+        "https://agentic-ai-java.github.io/argi-website/en/docs/overview",
+        "https://github.com/agentic-ai-java/argi",
+        "https://github.com/agentic-ai-java/argi/blob/main/LICENSE"
       ],
       "discoveredDate": "2026-08-28",
-      "lastVerifiedDate": "2026-08-28"
+      "lastVerifiedDate": "2026-10-02"
     },
     {
       "id": "rexadbapp-io",
@@ -12392,6 +12392,434 @@
       ],
       "discoveredDate": "2026-09-25",
       "lastVerifiedDate": "2026-09-25"
+    },
+    {
+      "id": "minimax-openagentcore",
+      "name": "OpenAgentCore",
+      "company": "MiniMax AI",
+      "description": "Self-hosted agent service implementing the OpenAI Agents API with native Codex, Claude Code, and MiniMax Code harness adapters.",
+      "capabilities": [
+        "Agent orchestration",
+        "Sandboxed execution",
+        "Memory & state"
+      ],
+      "languages": [
+        "Go"
+      ],
+      "license": "MIT",
+      "availability": "open-source",
+      "officialUrl": "https://github.com/MiniMax-AI/OpenAgentCore",
+      "repositoryUrl": "https://github.com/MiniMax-AI/OpenAgentCore",
+      "monogram": "OA",
+      "tags": [
+        "self-hosted",
+        "agents-api",
+        "multi-harness"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "repository",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://github.com/MiniMax-AI/OpenAgentCore",
+        "https://github.com/MiniMax-AI/OpenAgentCore/blob/main/LICENSE"
+      ],
+      "discoveredDate": "2026-10-02",
+      "lastVerifiedDate": "2026-10-02"
+    },
+    {
+      "id": "qwen-live-harness",
+      "name": "Qwen-Live-Harness",
+      "company": "Qwen",
+      "description": "Desktop agent harness using Qwen Omni Realtime for audio and video interaction, task delegation, proactive interaction, and memory.",
+      "capabilities": [
+        "Agent orchestration",
+        "Memory & state",
+        "Multimodal interaction"
+      ],
+      "languages": [
+        "TypeScript"
+      ],
+      "license": "Apache-2.0",
+      "availability": "open-source",
+      "officialUrl": "https://github.com/QwenLM/Qwen-Live-Harness",
+      "repositoryUrl": "https://github.com/QwenLM/Qwen-Live-Harness",
+      "monogram": "QL",
+      "tags": [
+        "desktop",
+        "multimodal",
+        "delegation"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "repository",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://github.com/QwenLM/Qwen-Live-Harness",
+        "https://github.com/QwenLM/Qwen-Live-Harness/blob/main/LICENSE"
+      ],
+      "discoveredDate": "2026-10-02",
+      "lastVerifiedDate": "2026-10-02"
+    },
+    {
+      "id": "withruntime-runtime",
+      "name": "Runtime",
+      "company": "Runtime",
+      "description": "Firecracker microVM sandboxes for AI agents, with SDKs, a CLI, MCP server, and agent integrations for isolated command execution.",
+      "capabilities": [
+        "Sandboxed execution",
+        "Terminal automation",
+        "MCP"
+      ],
+      "languages": [
+        "TypeScript"
+      ],
+      "license": "Apache-2.0",
+      "availability": "open-source",
+      "officialUrl": "https://github.com/withruntime/runtime",
+      "repositoryUrl": "https://github.com/withruntime/runtime",
+      "monogram": "RT",
+      "tags": [
+        "sandbox",
+        "microvm",
+        "agent-infrastructure"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "repository",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://github.com/withruntime/runtime",
+        "https://github.com/withruntime/runtime/blob/main/LICENSE"
+      ],
+      "discoveredDate": "2026-10-02",
+      "lastVerifiedDate": "2026-10-02"
+    },
+    {
+      "id": "botiverse-antiproton",
+      "name": "antiproton",
+      "company": "Botiverse",
+      "description": "Durable multi-tenant agent runtime using isolated state and credential handling for agents that act on external systems.",
+      "capabilities": [
+        "Agent orchestration",
+        "Memory & state",
+        "Sandboxed execution"
+      ],
+      "languages": [
+        "TypeScript"
+      ],
+      "license": "Apache-2.0",
+      "availability": "open-source",
+      "officialUrl": "https://github.com/botiverse/antiproton",
+      "repositoryUrl": "https://github.com/botiverse/antiproton",
+      "monogram": "AP",
+      "tags": [
+        "durable-execution",
+        "multi-tenant",
+        "credentials"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "repository",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://github.com/botiverse/antiproton",
+        "https://github.com/botiverse/antiproton/blob/master/LICENSE"
+      ],
+      "discoveredDate": "2026-10-02",
+      "lastVerifiedDate": "2026-10-02"
+    },
+    {
+      "id": "ii-agent-runtime",
+      "name": "II Agent Runtime",
+      "company": "Intelligent Iterations",
+      "description": "TypeScript pipeline library for running Codex in controlled containers with scoped GitHub access, configurable limits, and execution records.",
+      "capabilities": [
+        "Agent orchestration",
+        "Sandboxed execution",
+        "Evaluation"
+      ],
+      "languages": [
+        "TypeScript"
+      ],
+      "license": "Apache-2.0",
+      "availability": "open-source",
+      "officialUrl": "https://github.com/intelligent-iterations/ii-agent-runtime",
+      "repositoryUrl": "https://github.com/intelligent-iterations/ii-agent-runtime",
+      "monogram": "II",
+      "tags": [
+        "pipeline",
+        "governance",
+        "coding-agent"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "repository",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://github.com/intelligent-iterations/ii-agent-runtime",
+        "https://github.com/intelligent-iterations/ii-agent-runtime/blob/main/LICENSE"
+      ],
+      "discoveredDate": "2026-10-02",
+      "lastVerifiedDate": "2026-10-02"
+    },
+    {
+      "id": "aashish254-agentvault",
+      "name": "AgentVault",
+      "company": "aashish254",
+      "description": "Runtime permission layer for agents with YAML policies, approval prompts, and signed local audit records; macOS has kernel sandbox support.",
+      "capabilities": [
+        "Approval controls",
+        "Sandboxed execution",
+        "Observability"
+      ],
+      "languages": [
+        "Go"
+      ],
+      "license": "Apache-2.0",
+      "availability": "open-source",
+      "officialUrl": "https://github.com/aashish254/agentvault",
+      "repositoryUrl": "https://github.com/aashish254/agentvault",
+      "monogram": "AV",
+      "tags": [
+        "permissions",
+        "audit",
+        "sandbox"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "repository",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://github.com/aashish254/agentvault",
+        "https://github.com/aashish254/agentvault/blob/main/LICENSE"
+      ],
+      "discoveredDate": "2026-10-02",
+      "lastVerifiedDate": "2026-10-02"
+    },
+    {
+      "id": "lockedinlabs-agent-console",
+      "name": "Agent Console",
+      "company": "LockedIn Labs",
+      "description": "Local observability console for coding-agent sessions, with token and cost tracking, policy hooks, and a self-hosted team hub.",
+      "capabilities": [
+        "Observability",
+        "Agent orchestration"
+      ],
+      "languages": [
+        "JavaScript"
+      ],
+      "license": "MIT",
+      "availability": "open-source",
+      "officialUrl": "https://github.com/LockedinLabs-AI/agent-console",
+      "repositoryUrl": "https://github.com/LockedinLabs-AI/agent-console",
+      "monogram": "AC",
+      "tags": [
+        "session-monitoring",
+        "costs",
+        "local-first"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "repository",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://github.com/LockedinLabs-AI/agent-console",
+        "https://github.com/LockedinLabs-AI/agent-console/blob/main/LICENSE"
+      ],
+      "discoveredDate": "2026-10-02",
+      "lastVerifiedDate": "2026-10-02"
+    },
+    {
+      "id": "nichonauta-minagent",
+      "name": "MinAgent",
+      "company": "Nichonauta",
+      "description": "Small terminal coding agent with workspace file tools, streaming responses, and OpenAI-compatible model endpoints.",
+      "capabilities": [
+        "Repository operations",
+        "Terminal automation"
+      ],
+      "languages": [
+        "JavaScript"
+      ],
+      "license": "MIT",
+      "availability": "open-source",
+      "officialUrl": "https://github.com/Nichonauta/MinAgent",
+      "repositoryUrl": "https://github.com/Nichonauta/MinAgent",
+      "monogram": "MA",
+      "tags": [
+        "terminal",
+        "coding-agent",
+        "local"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "repository",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://github.com/Nichonauta/MinAgent",
+        "https://github.com/Nichonauta/MinAgent/blob/main/LICENSE"
+      ],
+      "discoveredDate": "2026-10-02",
+      "lastVerifiedDate": "2026-10-02"
+    },
+    {
+      "id": "openjiuwen-icode",
+      "name": "iCode",
+      "company": "openJiuwen",
+      "description": "Offline-capable terminal development environment with extensible agent and workflow tools for local coding projects.",
+      "capabilities": [
+        "Repository operations",
+        "Agent orchestration",
+        "Terminal automation"
+      ],
+      "languages": [
+        "Python"
+      ],
+      "license": "Apache-2.0",
+      "availability": "open-source",
+      "officialUrl": "https://github.com/openJiuwen-ai/iCode",
+      "repositoryUrl": "https://github.com/openJiuwen-ai/iCode",
+      "monogram": "IC",
+      "tags": [
+        "terminal",
+        "offline",
+        "development-environment"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "repository",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://github.com/openJiuwen-ai/iCode",
+        "https://github.com/openJiuwen-ai/iCode/blob/main/LICENSE"
+      ],
+      "discoveredDate": "2026-10-02",
+      "lastVerifiedDate": "2026-10-02"
+    },
+    {
+      "id": "boadij-pi-herdsman",
+      "name": "Pi Herdsman",
+      "company": "boadij",
+      "description": "Orchestration layer connecting Pi agent sessions with herdr workspaces for background delegation, supervision, and parallel coding tasks.",
+      "capabilities": [
+        "Agent orchestration",
+        "Repository operations",
+        "Memory & state"
+      ],
+      "languages": [
+        "TypeScript"
+      ],
+      "license": "Apache-2.0",
+      "availability": "open-source",
+      "officialUrl": "https://github.com/boadij/pi-herdsman",
+      "repositoryUrl": "https://github.com/boadij/pi-herdsman",
+      "monogram": "PH",
+      "tags": [
+        "pi",
+        "delegation",
+        "parallel-work"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "repository",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://github.com/boadij/pi-herdsman",
+        "https://github.com/boadij/pi-herdsman/blob/main/LICENSE"
+      ],
+      "discoveredDate": "2026-10-02",
+      "lastVerifiedDate": "2026-10-02"
+    },
+    {
+      "id": "agentsystemlabs-agent-office",
+      "name": "Agent Office",
+      "company": "AgentSystemLabs",
+      "description": "Shared three-dimensional workspace for coding-agent sessions, live terminals, and GitHub project coordination.",
+      "capabilities": [
+        "Agent orchestration",
+        "Terminal automation",
+        "Repository operations"
+      ],
+      "languages": [
+        "TypeScript"
+      ],
+      "license": "MIT",
+      "availability": "open-source",
+      "officialUrl": "https://github.com/AgentSystemLabs/agent-office",
+      "repositoryUrl": "https://github.com/AgentSystemLabs/agent-office",
+      "monogram": "AO",
+      "tags": [
+        "workspace",
+        "coding-agents",
+        "multi-agent"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "repository",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://github.com/AgentSystemLabs/agent-office",
+        "https://github.com/AgentSystemLabs/agent-office/blob/main/LICENSE"
+      ],
+      "discoveredDate": "2026-10-02",
+      "lastVerifiedDate": "2026-10-02"
+    },
+    {
+      "id": "sanuu7-androidharness",
+      "name": "AndroidHarness",
+      "company": "Sanuu7",
+      "description": "Native Android coding agent that edits project files, runs shell and Git tools, maintains sessions, and delegates to subagents on device.",
+      "capabilities": [
+        "Repository operations",
+        "Terminal automation",
+        "Agent orchestration"
+      ],
+      "languages": [
+        "Kotlin"
+      ],
+      "license": "MIT",
+      "availability": "open-source",
+      "officialUrl": "https://github.com/Sanuu7/AndroidHarness",
+      "repositoryUrl": "https://github.com/Sanuu7/AndroidHarness",
+      "monogram": "AH",
+      "tags": [
+        "android",
+        "mobile",
+        "coding-agent"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "repository",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://github.com/Sanuu7/AndroidHarness",
+        "https://github.com/Sanuu7/AndroidHarness/blob/main/LICENSE"
+      ],
+      "discoveredDate": "2026-10-02",
+      "lastVerifiedDate": "2026-10-02"
+    },
+    {
+      "id": "agentctxhq-agentctx",
+      "name": "agentctx",
+      "company": "agentctx",
+      "description": "Local context layer for Claude Code that captures project observations, stores structured decisions, and injects relevant context through hooks and MCP tools.",
+      "capabilities": [
+        "Context management",
+        "Memory & state",
+        "MCP"
+      ],
+      "languages": [
+        "TypeScript"
+      ],
+      "license": "Elastic License 2.0",
+      "availability": "unclear",
+      "officialUrl": "https://www.agentctx.app/",
+      "repositoryUrl": "https://github.com/agentctxhq/agentctx",
+      "monogram": "AC",
+      "tags": [
+        "context-layer",
+        "claude-code",
+        "local-first"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "repository",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://www.agentctx.app/",
+        "https://github.com/agentctxhq/agentctx",
+        "https://github.com/agentctxhq/agentctx/blob/main/LICENSE"
+      ],
+      "discoveredDate": "2026-10-02",
+      "lastVerifiedDate": "2026-10-02"
     }
   ]
 }

@@ -288,10 +288,10 @@
   },
   {
     "name": "JetBrains Air",
-    "url": "https://www.google.com/search?q=site%3Ajetbrains.com%20%22Air%22%20%22Quickstart%22",
+    "url": "https://blog.jetbrains.com/blog/2026/09/22/introducing-jetbrains-air/",
     "discoveredAt": "2026-09-11",
-    "signalUrl": "https://www.google.com/search?q=site%3Ajetbrains.com%20%22Air%22%20%22Quickstart%22",
-    "reason": "Official vendor search surfaced Air documentation, but separate product identity, availability and license review were not completed in this pass."
+    "signalUrl": "https://blog.jetbrains.com/blog/2026/09/22/introducing-jetbrains-air/",
+    "reason": "The official JetBrains announcement defines Air as an umbrella of available and forthcoming products, including IDE, Teams, and Governance surfaces. Resolve the separately shippable product identity, current availability, and proprietary terms before a catalog record."
   },
   {
     "name": "Vinez",
@@ -1160,5 +1160,117 @@
     "discoveredAt": "2026-09-25",
     "signalUrl": "https://www.elma.sh/blog/ai-coding-institutional-memory",
     "reason": "Search surfaced an official institutional-memory article, but the primary page was inaccessible for independent product, terms and release review."
+  },
+  {
+    "name": "AntOmniEvo",
+    "url": "https://github.com/ant-research/AntOmniEvo",
+    "discoveredAt": "2026-10-02",
+    "signalUrl": "https://github.com/ant-research/AntOmniEvo",
+    "reason": "Recent repository search describes a plausible agent execution, context, coordination, safety, or evaluation component. Full primary implementation, release identity, license, and provenance review remains incomplete."
+  },
+  {
+    "name": "TIRx-harness",
+    "url": "https://github.com/mlc-ai/TIRx-harness",
+    "discoveredAt": "2026-10-02",
+    "signalUrl": "https://github.com/mlc-ai/TIRx-harness",
+    "reason": "Recent repository search describes a plausible agent execution, context, coordination, safety, or evaluation component. Full primary implementation, release identity, license, and provenance review remains incomplete."
+  },
+  {
+    "name": "Intent-Router",
+    "url": "https://github.com/angel291592/Intent-Router",
+    "discoveredAt": "2026-10-02",
+    "signalUrl": "https://github.com/angel291592/Intent-Router",
+    "reason": "Recent repository search describes a plausible agent execution, context, coordination, safety, or evaluation component. Full primary implementation, release identity, license, and provenance review remains incomplete."
+  },
+  {
+    "name": "keel",
+    "url": "https://github.com/codejunkie99/keel",
+    "discoveredAt": "2026-10-02",
+    "signalUrl": "https://github.com/codejunkie99/keel",
+    "reason": "Recent repository search describes a plausible agent execution, context, coordination, safety, or evaluation component. Full primary implementation, release identity, license, and provenance review remains incomplete."
+  },
+  {
+    "name": "AI Employees",
+    "url": "https://github.com/markfulton/ai-employees",
+    "discoveredAt": "2026-10-02",
+    "signalUrl": "https://github.com/markfulton/ai-employees",
+    "reason": "Recent repository search describes a plausible agent execution, context, coordination, safety, or evaluation component. Full primary implementation, release identity, license, and provenance review remains incomplete."
+  },
+  {
+    "name": "agentaps",
+    "url": "https://github.com/domenkozar/agentaps",
+    "discoveredAt": "2026-10-02",
+    "signalUrl": "https://github.com/domenkozar/agentaps",
+    "reason": "Recent repository search describes a plausible agent execution, context, coordination, safety, or evaluation component. Full primary implementation, release identity, license, and provenance review remains incomplete."
+  },
+  {
+    "name": "gravity",
+    "url": "https://github.com/ahilles107/gravity",
+    "discoveredAt": "2026-10-02",
+    "signalUrl": "https://github.com/ahilles107/gravity",
+    "reason": "Recent repository search describes a plausible agent execution, context, coordination, safety, or evaluation component. Full primary implementation, release identity, license, and provenance review remains incomplete."
+  },
+  {
+    "name": "openchatx-mcp",
+    "url": "https://github.com/XiaoPuOuO/openchatx-mcp",
+    "discoveredAt": "2026-10-02",
+    "signalUrl": "https://github.com/XiaoPuOuO/openchatx-mcp",
+    "reason": "Recent repository search describes a plausible agent execution, context, coordination, safety, or evaluation component. Full primary implementation, release identity, license, and provenance review remains incomplete."
+  },
+  {
+    "name": "factory",
+    "url": "https://github.com/paoloanzn/factory",
+    "discoveredAt": "2026-10-02",
+    "signalUrl": "https://github.com/paoloanzn/factory",
+    "reason": "Recent repository search describes a plausible agent execution, context, coordination, safety, or evaluation component. Full primary implementation, release identity, license, and provenance review remains incomplete."
+  },
+  {
+    "name": "OrdinConn",
+    "url": "https://github.com/Btkkgo/OrdinConn",
+    "discoveredAt": "2026-10-02",
+    "signalUrl": "https://github.com/Btkkgo/OrdinConn",
+    "reason": "Recent repository search describes a plausible agent execution, context, coordination, safety, or evaluation component. Full primary implementation, release identity, license, and provenance review remains incomplete."
+  },
+  {
+    "name": "synapse",
+    "url": "https://github.com/anshulyadav1976/synapse",
+    "discoveredAt": "2026-10-02",
+    "signalUrl": "https://github.com/anshulyadav1976/synapse",
+    "reason": "Recent repository search describes a plausible agent execution, context, coordination, safety, or evaluation component. Full primary implementation, release identity, license, and provenance review remains incomplete."
+  },
+  {
+    "name": "LocalBot",
+    "url": "https://github.com/saitakarcesme/LocalBot",
+    "discoveredAt": "2026-10-02",
+    "signalUrl": "https://github.com/saitakarcesme/LocalBot",
+    "reason": "Recent repository search describes a plausible agent execution, context, coordination, safety, or evaluation component. Full primary implementation, release identity, license, and provenance review remains incomplete."
+  },
+  {
+    "name": "fusion-runtime",
+    "url": "https://github.com/SamarthUrs18/fusion-runtime",
+    "discoveredAt": "2026-10-02",
+    "signalUrl": "https://github.com/SamarthUrs18/fusion-runtime",
+    "reason": "Recent repository search describes a plausible agent execution, context, coordination, safety, or evaluation component. Full primary implementation, release identity, license, and provenance review remains incomplete."
+  },
+  {
+    "name": "Atlas",
+    "url": "https://github.com/MingyiSecLab/Atlas",
+    "discoveredAt": "2026-10-02",
+    "signalUrl": "https://github.com/MingyiSecLab/Atlas",
+    "reason": "Recent repository search describes a plausible agent execution, context, coordination, safety, or evaluation component. Full primary implementation, release identity, license, and provenance review remains incomplete."
+  },
+  {
+    "name": "Mercury CLI",
+    "url": "https://github.com/Whq02/MercuryCLI",
+    "discoveredAt": "2026-10-02",
+    "signalUrl": "https://github.com/Whq02/MercuryCLI",
+    "reason": "Official repository and product site describe a coding-agent workspace, but GitHub reports NOASSERTION for its license. Review the actual license and product provenance before publication."
+  },
+  {
+    "name": "MatrixOrigin Astra",
+    "url": "https://www.matrixorigin.io/blog/astra-open-source",
+    "discoveredAt": "2026-10-02",
+    "signalUrl": "https://www.matrixorigin.io/blog/astra-open-source",
+    "reason": "Search surfaced an official open-source announcement, but the vendor article was inaccessible in this run. Verify repository identity, implemented runtime, and license from reachable primary sources."
   }
 ]
