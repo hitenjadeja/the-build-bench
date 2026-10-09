@@ -1,0 +1,70 @@
+[
+  {
+    "id": "wrtnlabs-autobe",
+    "name": "AutoBE",
+    "company": "Wrtn Technologies",
+    "description": "An agentic backend builder that turns natural-language requirements into analysis, database schemas, API specifications, executable tests, and TypeScript backend implementations using compiler-backed validation and multi-session model orchestration.",
+    "capabilities": [
+      "Code generation",
+      "Specification workflows",
+      "Test generation",
+      "Tool orchestration"
+    ],
+    "languages": [
+      "TypeScript"
+    ],
+    "license": "AGPL-3.0",
+    "availability": "open-source",
+    "officialUrl": "https://autobe.dev",
+    "repositoryUrl": "https://github.com/wrtnlabs/autobe",
+    "monogram": "BE",
+    "tags": [
+      "backend",
+      "compiler",
+      "specifications",
+      "testing"
+    ],
+    "reviewStatus": "source-verified",
+    "sourceKind": "repository and documentation",
+    "provenance": "independent-discovery",
+    "sourceUrls": [
+      "https://autobe.dev",
+      "https://github.com/wrtnlabs/autobe",
+      "https://github.com/wrtnlabs/autobe/blob/master/LICENSE"
+    ],
+    "discoveredDate": "2026-08-28",
+    "lastVerifiedDate": "2026-08-28"
+  },
+  {
+    "id": "lockedinlabs-agent-console",
+    "name": "Agent Console",
+    "company": "LockedIn Labs",
+    "description": "Local observability console for coding-agent sessions, with token and cost tracking, policy hooks, and a self-hosted team hub.",
+    "capabilities": [
+      "Observability",
+      "Agent orchestration"
+    ],
+    "languages": [
+      "JavaScript"
+    ],
+    "license": "MIT",
+    "availability": "open-source",
+    "officialUrl": "https://github.com/LockedinLabs-AI/agent-console",
+    "repositoryUrl": "https://github.com/LockedinLabs-AI/agent-console",
+    "monogram": "AC",
+    "tags": [
+      "session-monitoring",
+      "costs",
+      "local-first"
+    ],
+    "reviewStatus": "source-verified",
+    "sourceKind": "repository",
+    "provenance": "independent-discovery",
+    "sourceUrls": [
+      "https://github.com/LockedinLabs-AI/agent-console",
+      "https://github.com/LockedinLabs-AI/agent-console/blob/main/LICENSE"
+    ],
+    "discoveredDate": "2026-10-02",
+    "lastVerifiedDate": "2026-10-02"
+  }
+]

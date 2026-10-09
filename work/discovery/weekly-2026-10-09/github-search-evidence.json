@@ -1,0 +1,2246 @@
+{
+  "window": {
+    "from": "2026-09-09",
+    "through": "2026-10-09"
+  },
+  "queryCounts": {
+    "github-harness.json": 50,
+    "github-coding.json": 50,
+    "github-orchestrator.json": 50,
+    "github-runtime.json": 50
+  },
+  "uniqueCount": 184,
+  "dispositionCounts": {
+    "already-cataloged": 18,
+    "previously-deferred": 40,
+    "rejected-metadata": 98,
+    "newly-deferred": 22,
+    "published": 6
+  },
+  "repositories": [
+    {
+      "createdAt": "2026-09-20T12:01:16Z",
+      "description": "Z.ai's coding agent harness. Powerful, intelligent, extensible.",
+      "fullName": "zai-org/ZCode",
+      "updatedAt": "2026-10-09T07:59:33Z",
+      "url": "https://github.com/zai-org/ZCode",
+      "queries": [
+        "github-harness.json",
+        "github-coding.json"
+      ],
+      "disposition": "already-cataloged",
+      "reason": "Canonical repository URL matches existing catalog."
+    },
+    {
+      "createdAt": "2026-09-16T21:30:12Z",
+      "description": "Fastest and cheapest web agent",
+      "fullName": "browser-use/jev-ultrafast",
+      "updatedAt": "2026-10-09T08:03:47Z",
+      "url": "https://github.com/browser-use/jev-ultrafast",
+      "queries": [
+        "github-harness.json"
+      ],
+      "disposition": "previously-deferred",
+      "reason": "Lead already in deferred queue; unresolved evidence remains."
+    },
+    {
+      "createdAt": "2026-09-21T23:14:02Z",
+      "description": "Async-first agent harness",
+      "fullName": "unreallabsai/unreal-agent",
+      "updatedAt": "2026-10-08T21:59:44Z",
+      "url": "https://github.com/unreallabsai/unreal-agent",
+      "queries": [
+        "github-harness.json"
+      ],
+      "disposition": "previously-deferred",
+      "reason": "Lead already in deferred queue; unresolved evidence remains."
+    },
+    {
+      "createdAt": "2026-09-22T23:22:00Z",
+      "description": "Agentic AI security scanner that hunts exploitable vulnerabilities like an adversary, proves them with executable PoCs, and fixes them test-first. A maintained fork of Capital One's VulnHunter, rebuilt for any agent harness.",
+      "fullName": "nealbridges/VulnHunter",
+      "updatedAt": "2026-10-09T07:19:04Z",
+      "url": "https://github.com/nealbridges/VulnHunter",
+      "queries": [
+        "github-harness.json"
+      ],
+      "disposition": "rejected-metadata",
+      "reason": "Description did not establish a distinct reusable harness concern or was a list, tutorial, skill, application, demo, or thin integration."
+    },
+    {
+      "createdAt": "2026-09-16T04:50:49Z",
+      "description": "",
+      "fullName": "google-research/rrsi",
+      "updatedAt": "2026-10-09T07:43:37Z",
+      "url": "https://github.com/google-research/rrsi",
+      "queries": [
+        "github-harness.json",
+        "github-orchestrator.json"
+      ],
+      "disposition": "newly-deferred",
+      "reason": "Plausible harness concern; cited missing evidence recorded in deferred queue."
+    },
+    {
+      "createdAt": "2026-09-19T06:55:24Z",
+      "description": "Sno Station — your Claude Code and Codex working as one squad on your own machine. Shared encrypted memory, agent-to-agent messaging (Reach), squad skills for handoff and cross-vendor review, and a nightly loop that rewrites the agents' own skills with your approval. Open source, no daemon, no cloud required. Assembled in public.",
+      "fullName": "sno-ai/sno-station",
+      "updatedAt": "2026-10-09T05:50:52Z",
+      "url": "https://github.com/sno-ai/sno-station",
+      "queries": [
+        "github-harness.json",
+        "github-coding.json"
+      ],
+      "disposition": "previously-deferred",
+      "reason": "Lead already in deferred queue; unresolved evidence remains."
+    },
+    {
+      "createdAt": "2026-09-22T15:08:18Z",
+      "description": "Codex computer use, decoupled from the app, for usage inside any harness.",
+      "fullName": "amontlabs/lcu",
+      "updatedAt": "2026-10-09T08:01:59Z",
+      "url": "https://github.com/amontlabs/lcu",
+      "queries": [
+        "github-harness.json"
+      ],
+      "disposition": "newly-deferred",
+      "reason": "Plausible harness concern; cited missing evidence recorded in deferred queue."
+    },
+    {
+      "createdAt": "2026-09-11T07:02:17Z",
+      "description": "A practical guide to building enterprise AI agents across their full lifecycle.",
+      "fullName": "aliyun/ai-agent-handbook",
+      "updatedAt": "2026-10-09T07:57:56Z",
+      "url": "https://github.com/aliyun/ai-agent-handbook",
+      "queries": [
+        "github-harness.json"
+      ],
+      "disposition": "rejected-metadata",
+      "reason": "Description did not establish a distinct reusable harness concern or was a list, tutorial, skill, application, demo, or thin integration."
+    },
+    {
+      "createdAt": "2026-09-14T07:21:46Z",
+      "description": "ScienceBuddy: Recursive-in-Recursive Self-Improvement for Interactive Scientific Agents",
+      "fullName": "Gen-Verse/ScienceBuddy",
+      "updatedAt": "2026-10-09T06:15:08Z",
+      "url": "https://github.com/Gen-Verse/ScienceBuddy",
+      "queries": [
+        "github-harness.json"
+      ],
+      "disposition": "rejected-metadata",
+      "reason": "Description did not establish a distinct reusable harness concern or was a list, tutorial, skill, application, demo, or thin integration."
+    },
+    {
+      "createdAt": "2026-09-17T14:23:21Z",
+      "description": "A curated list of public projects, integrations, and discussions built on Jev — TypeSafe AI's System One model for typed decisions.",
+      "fullName": "yibie/awesome-jev",
+      "updatedAt": "2026-10-09T07:43:24Z",
+      "url": "https://github.com/yibie/awesome-jev",
+      "queries": [
+        "github-harness.json",
+        "github-orchestrator.json"
+      ],
+      "disposition": "rejected-metadata",
+      "reason": "Description did not establish a distinct reusable harness concern or was a list, tutorial, skill, application, demo, or thin integration."
+    },
+    {
+      "createdAt": "2026-09-20T04:39:05Z",
+      "description": "Jev DSH 决策引擎｜面向 Agent Harness 的结构化决策插件。原生支持 DeepSeek Harness，通过 iPolloWork 支持 OpenCode、Codex Harness。",
+      "fullName": "Devin-AXIS/jev-dsh-decision",
+      "updatedAt": "2026-10-06T17:50:04Z",
+      "url": "https://github.com/Devin-AXIS/jev-dsh-decision",
+      "queries": [
+        "github-harness.json"
+      ],
+      "disposition": "rejected-metadata",
+      "reason": "Description did not establish a distinct reusable harness concern or was a list, tutorial, skill, application, demo, or thin integration."
+    },
+    {
+      "createdAt": "2026-09-15T04:33:20Z",
+      "description": "An auto-evolution framework that optimizes anything — your 7×24 team of algorithm engineers.",
+      "fullName": "ant-research/AntOmniEvo",
+      "updatedAt": "2026-10-09T07:34:31Z",
+      "url": "https://github.com/ant-research/AntOmniEvo",
+      "queries": [
+        "github-harness.json"
+      ],
+      "disposition": "previously-deferred",
+      "reason": "Lead already in deferred queue; unresolved evidence remains."
+    },
+    {
+      "createdAt": "2026-09-21T03:18:15Z",
+      "description": "Open-source, self-hosted implementation of the OpenAI Agents API with multiple native harnesses.",
+      "fullName": "MiniMax-AI/OpenAgentCore",
+      "updatedAt": "2026-10-09T04:28:11Z",
+      "url": "https://github.com/MiniMax-AI/OpenAgentCore",
+      "queries": [
+        "github-harness.json"
+      ],
+      "disposition": "already-cataloged",
+      "reason": "Canonical repository URL matches existing catalog."
+    },
+    {
+      "createdAt": "2026-09-24T03:56:58Z",
+      "description": "A production-grade agent runtime engineered from the Harness Engineering philosophy.",
+      "fullName": "TencentCloud/octop-harness",
+      "updatedAt": "2026-10-09T05:54:26Z",
+      "url": "https://github.com/TencentCloud/octop-harness",
+      "queries": [
+        "github-harness.json",
+        "github-runtime.json"
+      ],
+      "disposition": "already-cataloged",
+      "reason": "Canonical repository URL matches existing catalog."
+    },
+    {
+      "createdAt": "2026-09-18T00:36:27Z",
+      "description": "Official repository for \"Context Language Models\"",
+      "fullName": "facebookresearch/context-language-models",
+      "updatedAt": "2026-10-09T07:13:22Z",
+      "url": "https://github.com/facebookresearch/context-language-models",
+      "queries": [
+        "github-harness.json"
+      ],
+      "disposition": "rejected-metadata",
+      "reason": "Description did not establish a distinct reusable harness concern or was a list, tutorial, skill, application, demo, or thin integration."
+    },
+    {
+      "createdAt": "2026-09-23T18:05:31Z",
+      "description": "Agent-Native multi-platform reverse engineering and CWE-602 client-side authorization audit workbench.",
+      "fullName": "angusdevgo/Seep-Reverse-Lab",
+      "updatedAt": "2026-10-09T07:46:43Z",
+      "url": "https://github.com/angusdevgo/Seep-Reverse-Lab",
+      "queries": [
+        "github-harness.json",
+        "github-orchestrator.json"
+      ],
+      "disposition": "rejected-metadata",
+      "reason": "Description did not establish a distinct reusable harness concern or was a list, tutorial, skill, application, demo, or thin integration."
+    },
+    {
+      "createdAt": "2026-09-30T01:41:01Z",
+      "description": "A self-hosted coding agent for background work - works with Claude Code, Codex, OpenCode & 100+ providers",
+      "fullName": "BerriAI/moyai",
+      "updatedAt": "2026-10-09T07:54:22Z",
+      "url": "https://github.com/BerriAI/moyai",
+      "queries": [
+        "github-harness.json",
+        "github-coding.json"
+      ],
+      "disposition": "published",
+      "reason": "Official README, metadata, license, provenance and identity reviewed."
+    },
+    {
+      "createdAt": "2026-09-21T02:54:51Z",
+      "description": "微信聊天记录一键转发到 AI Agent 与 Obsidian 的原生 macOS 工具",
+      "fullName": "freestylefly/WeChatBridge",
+      "updatedAt": "2026-10-09T07:24:21Z",
+      "url": "https://github.com/freestylefly/WeChatBridge",
+      "queries": [
+        "github-harness.json"
+      ],
+      "disposition": "rejected-metadata",
+      "reason": "Description did not establish a distinct reusable harness concern or was a list, tutorial, skill, application, demo, or thin integration."
+    },
+    {
+      "createdAt": "2026-09-22T06:00:27Z",
+      "description": "Intent compiler for AI agents — converges vague requests into typed IntentSpec contracts (probe, ask, or halt before routing), the input layer for routers and typed-decision models like Jev & Laya",
+      "fullName": "angel291592/Intent-Router",
+      "updatedAt": "2026-10-09T07:34:55Z",
+      "url": "https://github.com/angel291592/Intent-Router",
+      "queries": [
+        "github-harness.json"
+      ],
+      "disposition": "previously-deferred",
+      "reason": "Lead already in deferred queue; unresolved evidence remains."
+    },
+    {
+      "createdAt": "2026-09-29T16:30:57Z",
+      "description": "An Open Compiler Harness for Agentic GPU Programming",
+      "fullName": "mlc-ai/TIRx-harness",
+      "updatedAt": "2026-10-09T07:06:02Z",
+      "url": "https://github.com/mlc-ai/TIRx-harness",
+      "queries": [
+        "github-harness.json"
+      ],
+      "disposition": "previously-deferred",
+      "reason": "Lead already in deferred queue; unresolved evidence remains."
+    },
+    {
+      "createdAt": "2026-09-22T22:08:29Z",
+      "description": "Local-first macOS coding workspace with local Laya and optional Jev decision selection",
+      "fullName": "codejunkie99/keel",
+      "updatedAt": "2026-10-09T01:48:12Z",
+      "url": "https://github.com/codejunkie99/keel",
+      "queries": [
+        "github-harness.json"
+      ],
+      "disposition": "previously-deferred",
+      "reason": "Lead already in deferred queue; unresolved evidence remains."
+    },
+    {
+      "createdAt": "2026-09-21T08:59:46Z",
+      "description": "LLM-authored task-specific Jev harnesses with optional full-trajectory reward reflection and GEPA evolution.",
+      "fullName": "TianyuCodings/JevHarness",
+      "updatedAt": "2026-10-09T06:32:01Z",
+      "url": "https://github.com/TianyuCodings/JevHarness",
+      "queries": [
+        "github-harness.json"
+      ],
+      "disposition": "previously-deferred",
+      "reason": "Lead already in deferred queue; unresolved evidence remains."
+    },
+    {
+      "createdAt": "2026-09-13T02:11:22Z",
+      "description": "A local minimized harness, with simplified output and logs for self-evolve",
+      "fullName": "HangYu8123/mini-harness",
+      "updatedAt": "2026-10-06T06:49:00Z",
+      "url": "https://github.com/HangYu8123/mini-harness",
+      "queries": [
+        "github-harness.json"
+      ],
+      "disposition": "previously-deferred",
+      "reason": "Lead already in deferred queue; unresolved evidence remains."
+    },
+    {
+      "createdAt": "2026-09-11T14:27:35Z",
+      "description": "魔搭紫皮书｜ModelScope Cookbook：面向开发者的开源模型应用实战指南，覆盖模型选型、推理、微调、评测、RAG、Agent 与 AIGC，从跑通第一个模型到构建实际应用。",
+      "fullName": "modelscope/ms-cookbook",
+      "updatedAt": "2026-10-09T03:32:53Z",
+      "url": "https://github.com/modelscope/ms-cookbook",
+      "queries": [
+        "github-harness.json"
+      ],
+      "disposition": "rejected-metadata",
+      "reason": "Description did not establish a distinct reusable harness concern or was a list, tutorial, skill, application, demo, or thin integration."
+    },
+    {
+      "createdAt": "2026-09-20T15:56:50Z",
+      "description": "Harness-Zero: Harness Distillation via Agent-as-Harness",
+      "fullName": "metaevo-ai/harness-zero",
+      "updatedAt": "2026-10-09T04:53:36Z",
+      "url": "https://github.com/metaevo-ai/harness-zero",
+      "queries": [
+        "github-harness.json"
+      ],
+      "disposition": "newly-deferred",
+      "reason": "Plausible harness concern; cited missing evidence recorded in deferred queue."
+    },
+    {
+      "createdAt": "2026-09-23T16:22:35Z",
+      "description": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
+      "fullName": "yetone/magpie",
+      "updatedAt": "2026-10-09T08:04:07Z",
+      "url": "https://github.com/yetone/magpie",
+      "queries": [
+        "github-harness.json",
+        "github-coding.json"
+      ],
+      "disposition": "newly-deferred",
+      "reason": "Plausible harness concern; cited missing evidence recorded in deferred queue."
+    },
+    {
+      "createdAt": "2026-09-12T16:51:29Z",
+      "description": "",
+      "fullName": "rizqinrr/viserys-agent",
+      "updatedAt": "2026-10-06T18:38:52Z",
+      "url": "https://github.com/rizqinrr/viserys-agent",
+      "queries": [
+        "github-harness.json",
+        "github-orchestrator.json"
+      ],
+      "disposition": "previously-deferred",
+      "reason": "Lead already in deferred queue; unresolved evidence remains."
+    },
+    {
+      "createdAt": "2026-09-13T01:45:31Z",
+      "description": "A floating-orb remake of DeepSeek Harness: a clickable desktop orb that summons DeepSeek for chat or task execution anytime.",
+      "fullName": "mini-yifan/deepseek-harness-orb",
+      "updatedAt": "2026-10-09T00:15:30Z",
+      "url": "https://github.com/mini-yifan/deepseek-harness-orb",
+      "queries": [
+        "github-harness.json"
+      ],
+      "disposition": "rejected-metadata",
+      "reason": "Description did not establish a distinct reusable harness concern or was a list, tutorial, skill, application, demo, or thin integration."
+    },
+    {
+      "createdAt": "2026-09-12T06:59:27Z",
+      "description": "Stop letting AI code blind. Map the architecture before every change with Birdview.",
+      "fullName": "Qiuner/birdview",
+      "updatedAt": "2026-10-09T04:34:48Z",
+      "url": "https://github.com/Qiuner/birdview",
+      "queries": [
+        "github-harness.json"
+      ],
+      "disposition": "previously-deferred",
+      "reason": "Lead already in deferred queue; unresolved evidence remains."
+    },
+    {
+      "createdAt": "2026-09-19T16:07:54Z",
+      "description": "Engineering Software Factory - open source, self-hosted, local AI first",
+      "fullName": "mitkox/esf",
+      "updatedAt": "2026-10-08T19:40:00Z",
+      "url": "https://github.com/mitkox/esf",
+      "queries": [
+        "github-harness.json",
+        "github-orchestrator.json"
+      ],
+      "disposition": "already-cataloged",
+      "reason": "Canonical repository URL matches existing catalog."
+    },
+    {
+      "createdAt": "2026-09-12T12:20:24Z",
+      "description": "GPT-6 Astra for embodied AI and robotics.",
+      "fullName": "zjwzcx/Awesome-Astra-Embodied-AI",
+      "updatedAt": "2026-10-09T07:22:18Z",
+      "url": "https://github.com/zjwzcx/Awesome-Astra-Embodied-AI",
+      "queries": [
+        "github-harness.json"
+      ],
+      "disposition": "rejected-metadata",
+      "reason": "Description did not establish a distinct reusable harness concern or was a list, tutorial, skill, application, demo, or thin integration."
+    },
+    {
+      "createdAt": "2026-09-22T17:18:54Z",
+      "description": "Agnes Harness: A pluggable agent harness for Forward Deployed Engineering (FDE). Built for trust. Made for the real world.",
+      "fullName": "AgnesAI-Labs/agnes-harness",
+      "updatedAt": "2026-10-09T06:17:24Z",
+      "url": "https://github.com/AgnesAI-Labs/agnes-harness",
+      "queries": [
+        "github-harness.json"
+      ],
+      "disposition": "published",
+      "reason": "Official README, metadata, license, provenance and identity reviewed."
+    },
+    {
+      "createdAt": "2026-09-26T00:32:48Z",
+      "description": "A cartoon 3D office where your team hires Claude Code workers at desks, shares live terminals, talks over voice, and tracks GitHub issues and PRs.",
+      "fullName": "AgentSystemLabs/agent-office",
+      "updatedAt": "2026-10-09T05:53:58Z",
+      "url": "https://github.com/AgentSystemLabs/agent-office",
+      "queries": [
+        "github-harness.json",
+        "github-coding.json"
+      ],
+      "disposition": "already-cataloged",
+      "reason": "Canonical repository URL matches existing catalog."
+    },
+    {
+      "createdAt": "2026-09-19T05:14:36Z",
+      "description": "A verified, community-maintained catalog of 981 open-source projects built with Jev.",
+      "fullName": "heyjunpenn/awesome-jev",
+      "updatedAt": "2026-10-09T07:44:26Z",
+      "url": "https://github.com/heyjunpenn/awesome-jev",
+      "queries": [
+        "github-harness.json",
+        "github-orchestrator.json"
+      ],
+      "disposition": "rejected-metadata",
+      "reason": "Description did not establish a distinct reusable harness concern or was a list, tutorial, skill, application, demo, or thin integration."
+    },
+    {
+      "createdAt": "2026-09-13T20:10:38Z",
+      "description": "A workspace and framework to build domain-specific systems for agentic knowledge work.",
+      "fullName": "arsumbris/arsumbris",
+      "updatedAt": "2026-10-09T07:18:19Z",
+      "url": "https://github.com/arsumbris/arsumbris",
+      "queries": [
+        "github-harness.json"
+      ],
+      "disposition": "rejected-metadata",
+      "reason": "Description did not establish a distinct reusable harness concern or was a list, tutorial, skill, application, demo, or thin integration."
+    },
+    {
+      "createdAt": "2026-10-03T04:26:57Z",
+      "description": "First-class Linux packaging for DeepSeek Harness desktop — AppImage, .deb, .tar.gz for x64/arm64, built by native CI.",
+      "fullName": "Zhou-Yujing114514/deepseek-harness-linux",
+      "updatedAt": "2026-10-08T11:56:18Z",
+      "url": "https://github.com/Zhou-Yujing114514/deepseek-harness-linux",
+      "queries": [
+        "github-harness.json"
+      ],
+      "disposition": "rejected-metadata",
+      "reason": "Description did not establish a distinct reusable harness concern or was a list, tutorial, skill, application, demo, or thin integration."
+    },
+    {
+      "createdAt": "2026-09-17T18:56:56Z",
+      "description": "Open-source, self-hostable Rust runtime that runs Claude Code, Codex, and Pi in the cloud.",
+      "fullName": "davidondrej/cloudroom-core",
+      "updatedAt": "2026-10-09T08:00:13Z",
+      "url": "https://github.com/davidondrej/cloudroom-core",
+      "queries": [
+        "github-harness.json"
+      ],
+      "disposition": "already-cataloged",
+      "reason": "Canonical repository URL matches existing catalog."
+    },
+    {
+      "createdAt": "2026-09-10T01:42:59Z",
+      "description": "Agent skill for creative 3D visualization: turn an idea into a Three.js/Blender scene worth exploring. Claude Code + Codex plugin, 223 recipes, 440 knowledge records, 22 proved kits, 37 runnable studies.",
+      "fullName": "viettranx/3dviz-pro-max",
+      "updatedAt": "2026-10-09T04:57:24Z",
+      "url": "https://github.com/viettranx/3dviz-pro-max",
+      "queries": [
+        "github-harness.json"
+      ],
+      "disposition": "rejected-metadata",
+      "reason": "Description did not establish a distinct reusable harness concern or was a list, tutorial, skill, application, demo, or thin integration."
+    },
+    {
+      "createdAt": "2026-09-22T04:28:47Z",
+      "description": "《Jev 工程学：为 coding agent 而作》完整中文翻译 — 保留原结构与 7 张插图",
+      "fullName": "yibie/jev-engineering-zh",
+      "updatedAt": "2026-10-09T02:23:15Z",
+      "url": "https://github.com/yibie/jev-engineering-zh",
+      "queries": [
+        "github-harness.json"
+      ],
+      "disposition": "rejected-metadata",
+      "reason": "Description did not establish a distinct reusable harness concern or was a list, tutorial, skill, application, demo, or thin integration."
+    },
+    {
+      "createdAt": "2026-09-28T10:43:35Z",
+      "description": "Deepseek Harness悬浮球插件。",
+      "fullName": "mini-yifan/dsh-orb-cordis",
+      "updatedAt": "2026-10-09T07:07:09Z",
+      "url": "https://github.com/mini-yifan/dsh-orb-cordis",
+      "queries": [
+        "github-harness.json"
+      ],
+      "disposition": "rejected-metadata",
+      "reason": "Description did not establish a distinct reusable harness concern or was a list, tutorial, skill, application, demo, or thin integration."
+    },
+    {
+      "createdAt": "2026-09-17T12:30:31Z",
+      "description": "A curated list of decision models (System One / typed decision models): hosted APIs, open-weight models, runtimes, SDKs, applications, benchmarks, and papers.",
+      "fullName": "AnotiaWang/awesome-decision-models",
+      "updatedAt": "2026-10-09T06:40:42Z",
+      "url": "https://github.com/AnotiaWang/awesome-decision-models",
+      "queries": [
+        "github-harness.json"
+      ],
+      "disposition": "rejected-metadata",
+      "reason": "Description did not establish a distinct reusable harness concern or was a list, tutorial, skill, application, demo, or thin integration."
+    },
+    {
+      "createdAt": "2026-09-19T16:48:59Z",
+      "description": "A curated list of tools  built for Jev — TypeSafe AI's System One model for typed decisions.",
+      "fullName": "v-modal/awesome-jev-tools",
+      "updatedAt": "2026-10-08T23:36:54Z",
+      "url": "https://github.com/v-modal/awesome-jev-tools",
+      "queries": [
+        "github-harness.json",
+        "github-orchestrator.json"
+      ],
+      "disposition": "rejected-metadata",
+      "reason": "Description did not establish a distinct reusable harness concern or was a list, tutorial, skill, application, demo, or thin integration."
+    },
+    {
+      "createdAt": "2026-09-12T11:28:53Z",
+      "description": "Official implementation of OmniHarness: Harnessing Generalizable Visual Generation via Symbolic Policy Learning.",
+      "fullName": "OmniHarness/OmniHarness",
+      "updatedAt": "2026-10-02T22:40:50Z",
+      "url": "https://github.com/OmniHarness/OmniHarness",
+      "queries": [
+        "github-harness.json"
+      ],
+      "disposition": "rejected-metadata",
+      "reason": "Description did not establish a distinct reusable harness concern or was a list, tutorial, skill, application, demo, or thin integration."
+    },
+    {
+      "createdAt": "2026-09-10T07:32:35Z",
+      "description": "An open-source agent harness powered by the Qwen Omni Realtime API—see, hear, and act, with built-in memory.",
+      "fullName": "QwenLM/Qwen-Live-Harness",
+      "updatedAt": "2026-10-09T02:44:17Z",
+      "url": "https://github.com/QwenLM/Qwen-Live-Harness",
+      "queries": [
+        "github-harness.json"
+      ],
+      "disposition": "already-cataloged",
+      "reason": "Canonical repository URL matches existing catalog."
+    },
+    {
+      "createdAt": "2026-09-23T06:13:06Z",
+      "description": "nanoMuse: an open-source personal agent for every device you own. One agent with a name and a look of its own that does things, keeps working while the app is closed, remembers you, and asks before anything you cannot undo. On Android, iPhone and iPad, Windows / macOS / Linux and in the browser; your phone's screen and your computer as its hands.",
+      "fullName": "nano-muse/nanoMuse",
+      "updatedAt": "2026-10-09T07:58:20Z",
+      "url": "https://github.com/nano-muse/nanoMuse",
+      "queries": [
+        "github-harness.json"
+      ],
+      "disposition": "newly-deferred",
+      "reason": "Plausible harness concern; cited missing evidence recorded in deferred queue."
+    },
+    {
+      "createdAt": "2026-09-17T15:30:09Z",
+      "description": "A community directory of projects built on Jev, TypeSafe AI's System One model.",
+      "fullName": "hellogumbo/awesome-jev",
+      "updatedAt": "2026-10-09T04:37:07Z",
+      "url": "https://github.com/hellogumbo/awesome-jev",
+      "queries": [
+        "github-harness.json"
+      ],
+      "disposition": "rejected-metadata",
+      "reason": "Description did not establish a distinct reusable harness concern or was a list, tutorial, skill, application, demo, or thin integration."
+    },
+    {
+      "createdAt": "2026-10-01T15:29:28Z",
+      "description": "BootLoops 1.0: certified computational tools and house engines for exact and high-precision physics and quantitative science, built to be driven by LLM agents. MIT; docs CC BY 4.0.",
+      "fullName": "BootLoops-ai/bootloops",
+      "updatedAt": "2026-10-09T07:21:54Z",
+      "url": "https://github.com/BootLoops-ai/bootloops",
+      "queries": [
+        "github-harness.json"
+      ],
+      "disposition": "rejected-metadata",
+      "reason": "Description did not establish a distinct reusable harness concern or was a list, tutorial, skill, application, demo, or thin integration."
+    },
+    {
+      "createdAt": "2026-09-12T09:07:32Z",
+      "description": "A curated list of papers and resources on Recursive Self-Improvement (RSI) for AI.",
+      "fullName": "theseus-labs-rsi/awesome-rsi",
+      "updatedAt": "2026-10-09T05:42:56Z",
+      "url": "https://github.com/theseus-labs-rsi/awesome-rsi",
+      "queries": [
+        "github-harness.json"
+      ],
+      "disposition": "rejected-metadata",
+      "reason": "Description did not establish a distinct reusable harness concern or was a list, tutorial, skill, application, demo, or thin integration."
+    },
+    {
+      "createdAt": "2026-09-18T09:21:33Z",
+      "description": "Qwen-Planner-Agent: A Closed-Loop AI-for-AI Framework for Real-World Mobile Planner Agents",
+      "fullName": "Tongyi-MAI/Qwen-Planner-Agent",
+      "updatedAt": "2026-10-08T08:39:34Z",
+      "url": "https://github.com/Tongyi-MAI/Qwen-Planner-Agent",
+      "queries": [
+        "github-harness.json"
+      ],
+      "disposition": "newly-deferred",
+      "reason": "Plausible harness concern; cited missing evidence recorded in deferred queue."
+    },
+    {
+      "createdAt": "2026-09-18T02:45:39Z",
+      "description": "A source-backed Jev project directory with a reusable Jev-only GitHub review workflow.",
+      "fullName": "fatwang2/awesome-jev",
+      "updatedAt": "2026-10-09T00:51:05Z",
+      "url": "https://github.com/fatwang2/awesome-jev",
+      "queries": [
+        "github-harness.json"
+      ],
+      "disposition": "rejected-metadata",
+      "reason": "Description did not establish a distinct reusable harness concern or was a list, tutorial, skill, application, demo, or thin integration."
+    },
+    {
+      "createdAt": "2026-09-19T12:20:32Z",
+      "description": "CODING — 一款以本地优先为核心的AI编程代理，支持基于代码仓库的规划、执行、验证与交付。",
+      "fullName": "Guo-Yixin/coding-agent",
+      "updatedAt": "2026-10-07T05:01:06Z",
+      "url": "https://github.com/Guo-Yixin/coding-agent",
+      "queries": [
+        "github-coding.json"
+      ],
+      "disposition": "previously-deferred",
+      "reason": "Lead already in deferred queue; unresolved evidence remains."
+    },
+    {
+      "createdAt": "2026-09-21T05:26:26Z",
+      "description": "A desktop coding agent with free access to frontier models.",
+      "fullName": "omnirush-ai/omnirush-gui",
+      "updatedAt": "2026-10-09T07:57:34Z",
+      "url": "https://github.com/omnirush-ai/omnirush-gui",
+      "queries": [
+        "github-coding.json"
+      ],
+      "disposition": "newly-deferred",
+      "reason": "Plausible harness concern; cited missing evidence recorded in deferred queue."
+    },
+    {
+      "createdAt": "2026-09-17T03:39:59Z",
+      "description": "Open-source marketing system, designed for coding agents.",
+      "fullName": "tin-computer/tin",
+      "updatedAt": "2026-10-09T00:04:59Z",
+      "url": "https://github.com/tin-computer/tin",
+      "queries": [
+        "github-coding.json"
+      ],
+      "disposition": "rejected-metadata",
+      "reason": "Description did not establish a distinct reusable harness concern or was a list, tutorial, skill, application, demo, or thin integration."
+    },
+    {
+      "createdAt": "2026-09-12T18:20:00Z",
+      "description": "Personal cloud OS for a developer and their AI agents on a single server. One-command install on Ubuntu, then everything in the browser: a windowed desktop, isolated workspaces with VS Code, Claude Code and Codex, a store of 944 self-hosted apps, backups and updates. Access only via Tailscale, nothing exposed to the internet. Rust core, Svelte UI.",
+      "fullName": "agentverse-os/AgentVerse-OS",
+      "updatedAt": "2026-10-09T01:48:08Z",
+      "url": "https://github.com/agentverse-os/AgentVerse-OS",
+      "queries": [
+        "github-coding.json"
+      ],
+      "disposition": "already-cataloged",
+      "reason": "Canonical repository URL matches existing catalog."
+    },
+    {
+      "createdAt": "2026-09-26T04:06:56Z",
+      "description": "Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant files and source context.",
+      "fullName": "dzhng/jevgrep",
+      "updatedAt": "2026-10-09T07:50:38Z",
+      "url": "https://github.com/dzhng/jevgrep",
+      "queries": [
+        "github-coding.json"
+      ],
+      "disposition": "newly-deferred",
+      "reason": "Plausible harness concern; cited missing evidence recorded in deferred queue."
+    },
+    {
+      "createdAt": "2026-09-18T10:41:48Z",
+      "description": "Make your coding agent abide by all your project rules ",
+      "fullName": "coldteadotai/abide",
+      "updatedAt": "2026-10-09T05:56:21Z",
+      "url": "https://github.com/coldteadotai/abide",
+      "queries": [
+        "github-coding.json"
+      ],
+      "disposition": "previously-deferred",
+      "reason": "Lead already in deferred queue; unresolved evidence remains."
+    },
+    {
+      "createdAt": "2026-09-27T21:54:12Z",
+      "description": "A tiny friend in your Mac's notch and on your iPhone that keeps an eye on your AI coding agents: Claude Code, Codex, Cursor, Gemini CLI, Antigravity and more. Approve from the notch or your Lock Screen.",
+      "fullName": "Louis-CFM/coucou",
+      "updatedAt": "2026-10-09T07:59:07Z",
+      "url": "https://github.com/Louis-CFM/coucou",
+      "queries": [
+        "github-coding.json"
+      ],
+      "disposition": "rejected-metadata",
+      "reason": "Description did not establish a distinct reusable harness concern or was a list, tutorial, skill, application, demo, or thin integration."
+    },
+    {
+      "createdAt": "2026-09-29T02:17:31Z",
+      "description": "Kantor Agent: kantor 3D tanpa konfigurasi yang menampilkan Claude Code & subagent-nya bekerja (plugin Claude Code)",
+      "fullName": "humaedihume/kantor-agent",
+      "updatedAt": "2026-10-08T06:31:23Z",
+      "url": "https://github.com/humaedihume/kantor-agent",
+      "queries": [
+        "github-coding.json"
+      ],
+      "disposition": "rejected-metadata",
+      "reason": "Description did not establish a distinct reusable harness concern or was a list, tutorial, skill, application, demo, or thin integration."
+    },
+    {
+      "createdAt": "2026-10-04T03:33:57Z",
+      "description": "Turn one illustration into an animated 2D mesh avatar with a coding agent and a local editor",
+      "fullName": "shinshin86/mesh-avatar-studio",
+      "updatedAt": "2026-10-09T08:02:51Z",
+      "url": "https://github.com/shinshin86/mesh-avatar-studio",
+      "queries": [
+        "github-coding.json"
+      ],
+      "disposition": "rejected-metadata",
+      "reason": "Description did not establish a distinct reusable harness concern or was a list, tutorial, skill, application, demo, or thin integration."
+    },
+    {
+      "createdAt": "2026-09-18T18:30:56Z",
+      "description": "An easy way to use jev with your coding agent for tool calling reasoning",
+      "fullName": "vinilana/jev-gateway",
+      "updatedAt": "2026-10-09T07:46:51Z",
+      "url": "https://github.com/vinilana/jev-gateway",
+      "queries": [
+        "github-coding.json"
+      ],
+      "disposition": "previously-deferred",
+      "reason": "Lead already in deferred queue; unresolved evidence remains."
+    },
+    {
+      "createdAt": "2026-10-07T03:32:07Z",
+      "description": "Dori mode: an always-on messenger agent that launches, tracks and closes coding-agent sessions in herdr (skill + bun CLI). Experimental.",
+      "fullName": "sisyphuslabs/omo-dori-mode-experimental",
+      "updatedAt": "2026-10-08T22:00:52Z",
+      "url": "https://github.com/sisyphuslabs/omo-dori-mode-experimental",
+      "queries": [
+        "github-coding.json"
+      ],
+      "disposition": "rejected-metadata",
+      "reason": "Description did not establish a distinct reusable harness concern or was a list, tutorial, skill, application, demo, or thin integration."
+    },
+    {
+      "createdAt": "2026-09-20T20:10:16Z",
+      "description": "A Pi coding-agent extension that lets a long-running agent watch its own context and compact itself",
+      "fullName": "disler/self-compact-pi-agent",
+      "updatedAt": "2026-10-08T11:31:13Z",
+      "url": "https://github.com/disler/self-compact-pi-agent",
+      "queries": [
+        "github-coding.json"
+      ],
+      "disposition": "previously-deferred",
+      "reason": "Lead already in deferred queue; unresolved evidence remains."
+    },
+    {
+      "createdAt": "2026-09-28T02:35:07Z",
+      "description": "An inbox for your coding agents. macOS app, runs Claude Code and Codex on your own subscription, no server and no account.",
+      "fullName": "savannahfeder/agentbox",
+      "updatedAt": "2026-10-09T04:50:33Z",
+      "url": "https://github.com/savannahfeder/agentbox",
+      "queries": [
+        "github-coding.json"
+      ],
+      "disposition": "newly-deferred",
+      "reason": "Plausible harness concern; cited missing evidence recorded in deferred queue."
+    },
+    {
+      "createdAt": "2026-09-24T17:55:34Z",
+      "description": "A universal GUI for coding harnesses.",
+      "fullName": "domenkozar/agentaps",
+      "updatedAt": "2026-10-08T17:15:21Z",
+      "url": "https://github.com/domenkozar/agentaps",
+      "queries": [
+        "github-coding.json"
+      ],
+      "disposition": "previously-deferred",
+      "reason": "Lead already in deferred queue; unresolved evidence remains."
+    },
+    {
+      "createdAt": "2026-09-21T15:07:55Z",
+      "description": "A terminal coding agent that plans work as executable graphs",
+      "fullName": "merijjeyn/jive",
+      "updatedAt": "2026-10-05T21:19:48Z",
+      "url": "https://github.com/merijjeyn/jive",
+      "queries": [
+        "github-coding.json"
+      ],
+      "disposition": "already-cataloged",
+      "reason": "Canonical repository URL matches existing catalog."
+    },
+    {
+      "createdAt": "2026-09-10T13:55:09Z",
+      "description": "Codex CLI and Claude Code CLI on your phones. No computers required. ",
+      "fullName": "HangYu8123/Pocket-Agent-CLI",
+      "updatedAt": "2026-10-08T07:59:06Z",
+      "url": "https://github.com/HangYu8123/Pocket-Agent-CLI",
+      "queries": [
+        "github-coding.json"
+      ],
+      "disposition": "rejected-metadata",
+      "reason": "Description did not establish a distinct reusable harness concern or was a list, tutorial, skill, application, demo, or thin integration."
+    },
+    {
+      "createdAt": "2026-09-17T08:42:19Z",
+      "description": "The open source coding agent.",
+      "fullName": "CMU-17313Q/OpenCode-f26-R04",
+      "updatedAt": "2026-09-23T10:45:21Z",
+      "url": "https://github.com/CMU-17313Q/OpenCode-f26-R04",
+      "queries": [
+        "github-coding.json"
+      ],
+      "disposition": "previously-deferred",
+      "reason": "Lead already in deferred queue; unresolved evidence remains."
+    },
+    {
+      "createdAt": "2026-10-03T11:48:59Z",
+      "description": "Guides for building game mods with AI coding agents: passthrough mods, Rust rewrites, mod loaders, prompting, and troubleshooting.",
+      "fullName": "trevaintdead/ai-game-modding-guides",
+      "updatedAt": "2026-10-09T08:00:12Z",
+      "url": "https://github.com/trevaintdead/ai-game-modding-guides",
+      "queries": [
+        "github-coding.json"
+      ],
+      "disposition": "rejected-metadata",
+      "reason": "Description did not establish a distinct reusable harness concern or was a list, tutorial, skill, application, demo, or thin integration."
+    },
+    {
+      "createdAt": "2026-09-27T04:06:05Z",
+      "description": "Open-source skills and toolkits that let Claude Code, Codex and other coding agents make video. 180 repos by type, each security-graded. English / 中文.",
+      "fullName": "zhuyansen/awesome-claude-video-skills",
+      "updatedAt": "2026-10-09T07:14:34Z",
+      "url": "https://github.com/zhuyansen/awesome-claude-video-skills",
+      "queries": [
+        "github-coding.json"
+      ],
+      "disposition": "rejected-metadata",
+      "reason": "Description did not establish a distinct reusable harness concern or was a list, tutorial, skill, application, demo, or thin integration."
+    },
+    {
+      "createdAt": "2026-09-29T18:44:48Z",
+      "description": "A motion design toolkit for coding agents.",
+      "fullName": "whaleyxbt/claude-motion",
+      "updatedAt": "2026-10-09T07:49:45Z",
+      "url": "https://github.com/whaleyxbt/claude-motion",
+      "queries": [
+        "github-coding.json"
+      ],
+      "disposition": "rejected-metadata",
+      "reason": "Description did not establish a distinct reusable harness concern or was a list, tutorial, skill, application, demo, or thin integration."
+    },
+    {
+      "createdAt": "2026-09-28T10:26:29Z",
+      "description": "Self-Evolving Coding Agents for Physical World",
+      "fullName": "HexaFuture/PhysicalCoding",
+      "updatedAt": "2026-10-08T09:44:28Z",
+      "url": "https://github.com/HexaFuture/PhysicalCoding",
+      "queries": [
+        "github-coding.json"
+      ],
+      "disposition": "newly-deferred",
+      "reason": "Plausible harness concern; cited missing evidence recorded in deferred queue."
+    },
+    {
+      "createdAt": "2026-09-13T13:07:11Z",
+      "description": "Agent is an local terminal coding agent that can understand coding tasks, inspect and edit workspace files, run commands in a controlled sandbox, ask for approval before risky actions, and verify its work with tests. It uses a streaming LLM provider, a typed event-driven agent loop, safe developer tools, SQLite-backed durable sessions,",
+      "fullName": "sanjayraj18/Agent",
+      "updatedAt": "2026-10-07T18:16:32Z",
+      "url": "https://github.com/sanjayraj18/Agent",
+      "queries": [
+        "github-coding.json",
+        "github-orchestrator.json"
+      ],
+      "disposition": "previously-deferred",
+      "reason": "Lead already in deferred queue; unresolved evidence remains."
+    },
+    {
+      "createdAt": "2026-09-27T17:19:00Z",
+      "description": "Ten levels of Jev, from one smart if statement to a coding agent that reaches for Jev on its own",
+      "fullName": "disler/ten-levels-of-jev",
+      "updatedAt": "2026-10-08T19:19:30Z",
+      "url": "https://github.com/disler/ten-levels-of-jev",
+      "queries": [
+        "github-coding.json"
+      ],
+      "disposition": "rejected-metadata",
+      "reason": "Description did not establish a distinct reusable harness concern or was a list, tutorial, skill, application, demo, or thin integration."
+    },
+    {
+      "createdAt": "2026-10-02T19:49:23Z",
+      "description": "Run coding agents on your dev boxes: worktrees, terminals, orchestration, kits and automations, with a desktop app.",
+      "fullName": "cosscom/shipyard",
+      "updatedAt": "2026-10-09T07:58:13Z",
+      "url": "https://github.com/cosscom/shipyard",
+      "queries": [
+        "github-coding.json",
+        "github-orchestrator.json"
+      ],
+      "disposition": "published",
+      "reason": "Official README, metadata, license, provenance and identity reviewed."
+    },
+    {
+      "createdAt": "2026-09-24T20:41:56Z",
+      "description": "",
+      "fullName": "The-AI-Security-Lab/securing-ai-coding-agents",
+      "updatedAt": "2026-10-06T17:36:25Z",
+      "url": "https://github.com/The-AI-Security-Lab/securing-ai-coding-agents",
+      "queries": [
+        "github-coding.json"
+      ],
+      "disposition": "rejected-metadata",
+      "reason": "Description did not establish a distinct reusable harness concern or was a list, tutorial, skill, application, demo, or thin integration."
+    },
+    {
+      "createdAt": "2026-09-18T20:01:29Z",
+      "description": "Jev-powered model routing, memory, compaction, skill selection, computer and browser use for Hermes agents (also Claude Code and Codex)",
+      "fullName": "kerpopule/hermes-jev-skills",
+      "updatedAt": "2026-10-09T06:19:44Z",
+      "url": "https://github.com/kerpopule/hermes-jev-skills",
+      "queries": [
+        "github-coding.json"
+      ],
+      "disposition": "rejected-metadata",
+      "reason": "Description did not establish a distinct reusable harness concern or was a list, tutorial, skill, application, demo, or thin integration."
+    },
+    {
+      "createdAt": "2026-09-17T05:24:51Z",
+      "description": "Local-first MCP plugin for continuous software-quality review by AI coding agents, powered by Jev.",
+      "fullName": "NiazMorshed2007/jev-review",
+      "updatedAt": "2026-10-08T06:58:10Z",
+      "url": "https://github.com/NiazMorshed2007/jev-review",
+      "queries": [
+        "github-coding.json"
+      ],
+      "disposition": "rejected-metadata",
+      "reason": "Description did not establish a distinct reusable harness concern or was a list, tutorial, skill, application, demo, or thin integration."
+    },
+    {
+      "createdAt": "2026-09-24T23:08:17Z",
+      "description": "A lightweight terminal AI coding agent with workspace-aware tools, file editing, image input, and support for OpenAI-compatible APIs.",
+      "fullName": "Nichonauta/MinAgent",
+      "updatedAt": "2026-10-03T14:36:55Z",
+      "url": "https://github.com/Nichonauta/MinAgent",
+      "queries": [
+        "github-coding.json"
+      ],
+      "disposition": "already-cataloged",
+      "reason": "Canonical repository URL matches existing catalog."
+    },
+    {
+      "createdAt": "2026-09-28T22:57:22Z",
+      "description": "Cinematic launch films and motion design from code, directed by your coding agent.",
+      "fullName": "Leonxlnx/cinetic",
+      "updatedAt": "2026-10-09T03:32:31Z",
+      "url": "https://github.com/Leonxlnx/cinetic",
+      "queries": [
+        "github-coding.json"
+      ],
+      "disposition": "rejected-metadata",
+      "reason": "Description did not establish a distinct reusable harness concern or was a list, tutorial, skill, application, demo, or thin integration."
+    },
+    {
+      "createdAt": "2026-09-17T09:55:56Z",
+      "description": "CLI that picks Cursor, Claude Code, Codex, or OpenCode + model/effort for a task, then launches it. Powered by Jev and Herdr",
+      "fullName": "nidhi-singh02/agent-router",
+      "updatedAt": "2026-10-08T13:50:08Z",
+      "url": "https://github.com/nidhi-singh02/agent-router",
+      "queries": [
+        "github-coding.json"
+      ],
+      "disposition": "previously-deferred",
+      "reason": "Lead already in deferred queue; unresolved evidence remains."
+    },
+    {
+      "createdAt": "2026-09-17T15:15:24Z",
+      "description": "Bounded TypeSafe Jev workflows for coding agents.",
+      "fullName": "devagrawal09/stanley-code",
+      "updatedAt": "2026-10-09T07:32:38Z",
+      "url": "https://github.com/devagrawal09/stanley-code",
+      "queries": [
+        "github-coding.json"
+      ],
+      "disposition": "previously-deferred",
+      "reason": "Lead already in deferred queue; unresolved evidence remains."
+    },
+    {
+      "createdAt": "2026-09-25T00:53:17Z",
+      "description": "把外部 Agent CLI、持久终端、工作区调试和远程访问，装进 DSH 原生界面。",
+      "fullName": "jingyi0605/Codingns4DSH",
+      "updatedAt": "2026-10-09T07:43:56Z",
+      "url": "https://github.com/jingyi0605/Codingns4DSH",
+      "queries": [
+        "github-coding.json"
+      ],
+      "disposition": "rejected-metadata",
+      "reason": "Description did not establish a distinct reusable harness concern or was a list, tutorial, skill, application, demo, or thin integration."
+    },
+    {
+      "createdAt": "2026-09-28T22:44:22Z",
+      "description": "Toolkit del webinar Agenti AI per i contenuti (Agents Week di Learnn): prompt, skill, procedure e cartella di esempio per Claude Code, Cowork, Codex e ChatGPT",
+      "fullName": "lucamastella/agenti-ai-contenuti",
+      "updatedAt": "2026-10-08T08:10:24Z",
+      "url": "https://github.com/lucamastella/agenti-ai-contenuti",
+      "queries": [
+        "github-coding.json"
+      ],
+      "disposition": "rejected-metadata",
+      "reason": "Description did not establish a distinct reusable harness concern or was a list, tutorial, skill, application, demo, or thin integration."
+    },
+    {
+      "createdAt": "2026-09-15T09:06:27Z",
+      "description": "Native macOS GUI for Pi Coding Agent",
+      "fullName": "hieunc229/Pie",
+      "updatedAt": "2026-10-09T02:23:42Z",
+      "url": "https://github.com/hieunc229/Pie",
+      "queries": [
+        "github-coding.json"
+      ],
+      "disposition": "rejected-metadata",
+      "reason": "Description did not establish a distinct reusable harness concern or was a list, tutorial, skill, application, demo, or thin integration."
+    },
+    {
+      "createdAt": "2026-09-16T08:54:33Z",
+      "description": "Visualize your Codex and Claude Code subagents. Advanced traces view, tokens breakdown, and cost usage is also supported.",
+      "fullName": "donvito/agent-monitor",
+      "updatedAt": "2026-10-06T20:23:26Z",
+      "url": "https://github.com/donvito/agent-monitor",
+      "queries": [
+        "github-coding.json"
+      ],
+      "disposition": "newly-deferred",
+      "reason": "Plausible harness concern; cited missing evidence recorded in deferred queue."
+    },
+    {
+      "createdAt": "2026-09-28T15:16:41Z",
+      "description": "A local video studio for your coding agent. Describe a video in one sentence: your agent directs, your machine renders. Claude Code, Codex, Cursor, Devin and more. No API keys, no uploads.",
+      "fullName": "FavioVazquez/showtime",
+      "updatedAt": "2026-10-09T07:44:15Z",
+      "url": "https://github.com/FavioVazquez/showtime",
+      "queries": [
+        "github-coding.json"
+      ],
+      "disposition": "rejected-metadata",
+      "reason": "Description did not establish a distinct reusable harness concern or was a list, tutorial, skill, application, demo, or thin integration."
+    },
+    {
+      "createdAt": "2026-09-20T19:26:20Z",
+      "description": "Hermes Agent model-provider plugin: Claude Pro/Max subscription through the official Claude Code CLI (experimental)",
+      "fullName": "NousResearch/hermes-plugin-claude-subscription-directsdk",
+      "updatedAt": "2026-10-08T22:25:35Z",
+      "url": "https://github.com/NousResearch/hermes-plugin-claude-subscription-directsdk",
+      "queries": [
+        "github-coding.json"
+      ],
+      "disposition": "rejected-metadata",
+      "reason": "Description did not establish a distinct reusable harness concern or was a list, tutorial, skill, application, demo, or thin integration."
+    },
+    {
+      "createdAt": "2026-09-22T11:55:04Z",
+      "description": "Standalone local audio generation MCP and Agent Skill for AI coding agents. Install Stable Audio 3 Medium and generate sound effects and music without ComfyUI.",
+      "fullName": "AIEGOBOT/agent-audio",
+      "updatedAt": "2026-10-08T09:03:16Z",
+      "url": "https://github.com/AIEGOBOT/agent-audio",
+      "queries": [
+        "github-coding.json"
+      ],
+      "disposition": "rejected-metadata",
+      "reason": "Description did not establish a distinct reusable harness concern or was a list, tutorial, skill, application, demo, or thin integration."
+    },
+    {
+      "createdAt": "2026-09-13T21:43:02Z",
+      "description": "Your coding agent starts every session knowing nothing about your project. One line, and it writes its own memory from your real code, then grades itself.",
+      "fullName": "NirDiamant/Agentic_Engineering",
+      "updatedAt": "2026-10-03T20:15:18Z",
+      "url": "https://github.com/NirDiamant/Agentic_Engineering",
+      "queries": [
+        "github-coding.json"
+      ],
+      "disposition": "previously-deferred",
+      "reason": "Lead already in deferred queue; unresolved evidence remains."
+    },
+    {
+      "createdAt": "2026-09-21T14:03:00Z",
+      "description": "Use your ChatGPT or Claude Web quota for remote coding without a second server-side API token meter",
+      "fullName": "gabyic/agentdock-mcp-harness",
+      "updatedAt": "2026-10-09T04:44:31Z",
+      "url": "https://github.com/gabyic/agentdock-mcp-harness",
+      "queries": [
+        "github-coding.json",
+        "github-orchestrator.json"
+      ],
+      "disposition": "previously-deferred",
+      "reason": "Lead already in deferred queue; unresolved evidence remains."
+    },
+    {
+      "createdAt": "2026-09-28T03:32:41Z",
+      "description": "Self-hosted browser workspace for Claude Code and Codex CLI, with Docker sessions, terminal, files, Git, and usage tracking.",
+      "fullName": "devilcoolyue/agentbox",
+      "updatedAt": "2026-10-09T07:37:55Z",
+      "url": "https://github.com/devilcoolyue/agentbox",
+      "queries": [
+        "github-coding.json"
+      ],
+      "disposition": "rejected-metadata",
+      "reason": "Description did not establish a distinct reusable harness concern or was a list, tutorial, skill, application, demo, or thin integration."
+    },
+    {
+      "createdAt": "2026-09-10T19:38:53Z",
+      "description": "sctxx — coding agent Session Context Extractor. standalone, agent-agnostic CLI (plus a thin Agent Skill wrapper) that reads a coding-agent session transcript from disk — Claude Code, Codex CLI, or Pi — and produces a compact, verified, provenance-linked handoff artifact that any other coding agent can load to continue the work. LLM-anchored fold.",
+      "fullName": "handyutils/sctxx",
+      "updatedAt": "2026-09-13T20:16:32Z",
+      "url": "https://github.com/handyutils/sctxx",
+      "queries": [
+        "github-coding.json"
+      ],
+      "disposition": "already-cataloged",
+      "reason": "Canonical repository URL matches existing catalog."
+    },
+    {
+      "createdAt": "2026-09-12T01:50:30Z",
+      "description": "Scan, classify (A/B/C/D) and sync AI-agent SKILL.md files across toolchains (Codex, Claude Code, WorkBuddy). Zero-dependency Python CLI.",
+      "fullName": "kina-cmd/agent-skill-sync",
+      "updatedAt": "2026-10-06T03:04:50Z",
+      "url": "https://github.com/kina-cmd/agent-skill-sync",
+      "queries": [
+        "github-coding.json"
+      ],
+      "disposition": "rejected-metadata",
+      "reason": "Description did not establish a distinct reusable harness concern or was a list, tutorial, skill, application, demo, or thin integration."
+    },
+    {
+      "createdAt": "2026-09-29T05:19:01Z",
+      "description": "✨Local coding agent powered by Ollama.",
+      "fullName": "ARUNAGIRINATHAN-K/mini-coding-agent",
+      "updatedAt": "2026-10-06T06:10:21Z",
+      "url": "https://github.com/ARUNAGIRINATHAN-K/mini-coding-agent",
+      "queries": [
+        "github-coding.json"
+      ],
+      "disposition": "rejected-metadata",
+      "reason": "Description did not establish a distinct reusable harness concern or was a list, tutorial, skill, application, demo, or thin integration."
+    },
+    {
+      "createdAt": "2026-09-30T18:00:53Z",
+      "description": "Behavior-guardrail hooks for Claude Code: test-tampering + outbound-action guards",
+      "fullName": "hahahahahahahahah6/agent-guard",
+      "updatedAt": "2026-10-08T02:03:59Z",
+      "url": "https://github.com/hahahahahahahahah6/agent-guard",
+      "queries": [
+        "github-coding.json"
+      ],
+      "disposition": "newly-deferred",
+      "reason": "Plausible harness concern; cited missing evidence recorded in deferred queue."
+    },
+    {
+      "createdAt": "2026-10-03T00:59:54Z",
+      "description": "",
+      "fullName": "blendi-remade/agentcraft",
+      "updatedAt": "2026-10-09T07:56:00Z",
+      "url": "https://github.com/blendi-remade/agentcraft",
+      "queries": [
+        "github-orchestrator.json"
+      ],
+      "disposition": "rejected-metadata",
+      "reason": "Description did not establish a distinct reusable harness concern or was a list, tutorial, skill, application, demo, or thin integration."
+    },
+    {
+      "createdAt": "2026-09-17T05:42:31Z",
+      "description": "Coordinate your models from Codex. Plan, delegate, use host tools, and review work across workspaces. Formerly Astra Flash Orchestrator.",
+      "fullName": "ethanplusai/codex-on-crack",
+      "updatedAt": "2026-10-09T05:17:20Z",
+      "url": "https://github.com/ethanplusai/codex-on-crack",
+      "queries": [
+        "github-orchestrator.json"
+      ],
+      "disposition": "newly-deferred",
+      "reason": "Plausible harness concern; cited missing evidence recorded in deferred queue."
+    },
+    {
+      "createdAt": "2026-09-12T04:49:03Z",
+      "description": "Teaching harness , help you to learn anything , It teaches like real teacher , design curriculum  , generate videos , simulations , images , pdfs , tracks your learning style etc",
+      "fullName": "madhvantyagi/Gnos",
+      "updatedAt": "2026-10-09T06:17:49Z",
+      "url": "https://github.com/madhvantyagi/Gnos",
+      "queries": [
+        "github-orchestrator.json"
+      ],
+      "disposition": "rejected-metadata",
+      "reason": "Description did not establish a distinct reusable harness concern or was a list, tutorial, skill, application, demo, or thin integration."
+    },
+    {
+      "createdAt": "2026-09-30T05:43:35Z",
+      "description": "Reusable prompts for a structured, evidence-first bug bounty hunting workflow",
+      "fullName": "mdpsec/bug-bounty-hunting-prompts",
+      "updatedAt": "2026-10-09T00:53:33Z",
+      "url": "https://github.com/mdpsec/bug-bounty-hunting-prompts",
+      "queries": [
+        "github-orchestrator.json"
+      ],
+      "disposition": "rejected-metadata",
+      "reason": "Description did not establish a distinct reusable harness concern or was a list, tutorial, skill, application, demo, or thin integration."
+    },
+    {
+      "createdAt": "2026-09-18T09:15:24Z",
+      "description": "Rules, playbooks, bot roles and a failure log from the xAI Grok Bot team's 72-hour live build. Drop AGENTS.md into your repo and go.",
+      "fullName": "unicodef1wn/grokbot-field-notes",
+      "updatedAt": "2026-10-09T01:59:46Z",
+      "url": "https://github.com/unicodef1wn/grokbot-field-notes",
+      "queries": [
+        "github-orchestrator.json"
+      ],
+      "disposition": "rejected-metadata",
+      "reason": "Description did not establish a distinct reusable harness concern or was a list, tutorial, skill, application, demo, or thin integration."
+    },
+    {
+      "createdAt": "2026-09-27T13:20:04Z",
+      "description": "When Claude keeps giving you bad answers, make 100 versions of it fight to the death. Same task, 100 different strategies, a bracket, one answer left. Free Claude Code skill.",
+      "fullName": "Jakeschincariol/arena-skill",
+      "updatedAt": "2026-10-09T06:18:31Z",
+      "url": "https://github.com/Jakeschincariol/arena-skill",
+      "queries": [
+        "github-orchestrator.json"
+      ],
+      "disposition": "rejected-metadata",
+      "reason": "Description did not establish a distinct reusable harness concern or was a list, tutorial, skill, application, demo, or thin integration."
+    },
+    {
+      "createdAt": "2026-09-13T20:39:43Z",
+      "description": "The offical repo for \"Dream-RSI: Recursive Self-Improvement through Evolving Worlds\"",
+      "fullName": "zhengkid/Dream-RSI",
+      "updatedAt": "2026-10-09T07:57:21Z",
+      "url": "https://github.com/zhengkid/Dream-RSI",
+      "queries": [
+        "github-orchestrator.json"
+      ],
+      "disposition": "previously-deferred",
+      "reason": "Lead already in deferred queue; unresolved evidence remains."
+    },
+    {
+      "createdAt": "2026-09-21T08:52:26Z",
+      "description": "An open protocol for distributed multi-agent autoformalization.",
+      "fullName": "Weber-GeoML/Choir",
+      "updatedAt": "2026-10-07T04:25:34Z",
+      "url": "https://github.com/Weber-GeoML/Choir",
+      "queries": [
+        "github-orchestrator.json"
+      ],
+      "disposition": "rejected-metadata",
+      "reason": "Description did not establish a distinct reusable harness concern or was a list, tutorial, skill, application, demo, or thin integration."
+    },
+    {
+      "createdAt": "2026-09-25T04:50:06Z",
+      "description": "AI System Design - Learn how to design AI systems built on LLMs, RAG, and AI Agents step by step.",
+      "fullName": "amitshekhariitbhu/ai-system-design",
+      "updatedAt": "2026-10-09T04:04:08Z",
+      "url": "https://github.com/amitshekhariitbhu/ai-system-design",
+      "queries": [
+        "github-orchestrator.json"
+      ],
+      "disposition": "rejected-metadata",
+      "reason": "Description did not establish a distinct reusable harness concern or was a list, tutorial, skill, application, demo, or thin integration."
+    },
+    {
+      "createdAt": "2026-09-10T21:31:15Z",
+      "description": "PathReview — AI301 Fall 2026 Section 1 student copy. Fork this repo, claim an issue, open your PR here.",
+      "fullName": "codepath/pathreview-ai301-fa26-s1",
+      "updatedAt": "2026-10-05T21:28:42Z",
+      "url": "https://github.com/codepath/pathreview-ai301-fa26-s1",
+      "queries": [
+        "github-orchestrator.json"
+      ],
+      "disposition": "rejected-metadata",
+      "reason": "Description did not establish a distinct reusable harness concern or was a list, tutorial, skill, application, demo, or thin integration."
+    },
+    {
+      "createdAt": "2026-09-10T21:31:23Z",
+      "description": "PathReview — AI301 Fall 2026 Section 3 student copy. Fork this repo, claim an issue, open your PR here.",
+      "fullName": "codepath/pathreview-ai301-fa26-s3",
+      "updatedAt": "2026-09-28T05:47:22Z",
+      "url": "https://github.com/codepath/pathreview-ai301-fa26-s3",
+      "queries": [
+        "github-orchestrator.json"
+      ],
+      "disposition": "rejected-metadata",
+      "reason": "Description did not establish a distinct reusable harness concern or was a list, tutorial, skill, application, demo, or thin integration."
+    },
+    {
+      "createdAt": "2026-09-18T22:39:23Z",
+      "description": "Imagine Telegram but single person, with agents, and end-to-end encrypted. Alternative to Grok bot, Muse, Dots",
+      "fullName": "egoist/lorca",
+      "updatedAt": "2026-10-09T08:03:52Z",
+      "url": "https://github.com/egoist/lorca",
+      "queries": [
+        "github-orchestrator.json"
+      ],
+      "disposition": "rejected-metadata",
+      "reason": "Description did not establish a distinct reusable harness concern or was a list, tutorial, skill, application, demo, or thin integration."
+    },
+    {
+      "createdAt": "2026-09-16T13:01:02Z",
+      "description": "This GitHub repo is a powerhouse collection of AI APIs you can start using immediately to ship real products — from LLM tools to computer vision and agents. One of the most valuable AI API lists on GitHub.",
+      "fullName": "cporter202/ai-apis-you-can-ship-today",
+      "updatedAt": "2026-10-09T07:24:20Z",
+      "url": "https://github.com/cporter202/ai-apis-you-can-ship-today",
+      "queries": [
+        "github-orchestrator.json"
+      ],
+      "disposition": "rejected-metadata",
+      "reason": "Description did not establish a distinct reusable harness concern or was a list, tutorial, skill, application, demo, or thin integration."
+    },
+    {
+      "createdAt": "2026-09-20T07:53:41Z",
+      "description": "Hermes Soul Pack",
+      "fullName": "WellArtDev/hermes-soul-pack",
+      "updatedAt": "2026-10-09T03:06:31Z",
+      "url": "https://github.com/WellArtDev/hermes-soul-pack",
+      "queries": [
+        "github-orchestrator.json"
+      ],
+      "disposition": "rejected-metadata",
+      "reason": "Description did not establish a distinct reusable harness concern or was a list, tutorial, skill, application, demo, or thin integration."
+    },
+    {
+      "createdAt": "2026-09-28T03:35:08Z",
+      "description": "A lightweight, extensible, fully offline development platform and agent/workflow toolkit for the AI era, with an intuitive TUI, easy deployment, and complete control over your data, agents, and workflows.",
+      "fullName": "openJiuwen-ai/iCode",
+      "updatedAt": "2026-10-09T07:08:46Z",
+      "url": "https://github.com/openJiuwen-ai/iCode",
+      "queries": [
+        "github-orchestrator.json"
+      ],
+      "disposition": "already-cataloged",
+      "reason": "Canonical repository URL matches existing catalog."
+    },
+    {
+      "createdAt": "2026-09-23T08:04:42Z",
+      "description": "AI Engineering Course - A free and complete AI Engineering Course to learn AI Engineering step by step - from Machine Learning, Neural Networks, and Transformers to LLMs, Fine-Tuning, RAG, AI Agents, LLM Inference, Evaluation, AI Safety, and AI System Design.",
+      "fullName": "amitshekhariitbhu/ai-engineering-course",
+      "updatedAt": "2026-10-09T02:09:58Z",
+      "url": "https://github.com/amitshekhariitbhu/ai-engineering-course",
+      "queries": [
+        "github-orchestrator.json"
+      ],
+      "disposition": "rejected-metadata",
+      "reason": "Description did not establish a distinct reusable harness concern or was a list, tutorial, skill, application, demo, or thin integration."
+    },
+    {
+      "createdAt": "2026-09-22T16:29:04Z",
+      "description": "Course materials for the AI-Augmented Software Engineering lecture series at Istinye University.",
+      "fullName": "scottyUX/AI-Augmented-Software-Engineering",
+      "updatedAt": "2026-10-08T16:03:24Z",
+      "url": "https://github.com/scottyUX/AI-Augmented-Software-Engineering",
+      "queries": [
+        "github-orchestrator.json"
+      ],
+      "disposition": "rejected-metadata",
+      "reason": "Description did not establish a distinct reusable harness concern or was a list, tutorial, skill, application, demo, or thin integration."
+    },
+    {
+      "createdAt": "2026-10-05T07:40:37Z",
+      "description": "pstack reworked for T3 Code: delegated subagents, worktree threads, PR watching, scheduled runs.",
+      "fullName": "uzairansaruzi/p3-stack",
+      "updatedAt": "2026-10-09T01:47:12Z",
+      "url": "https://github.com/uzairansaruzi/p3-stack",
+      "queries": [
+        "github-orchestrator.json"
+      ],
+      "disposition": "newly-deferred",
+      "reason": "Plausible harness concern; cited missing evidence recorded in deferred queue."
+    },
+    {
+      "createdAt": "2026-09-19T04:14:43Z",
+      "description": "Your Cheat Sheet For AI Engineering Interviews at Top AI Companies - Questions and Answers.",
+      "fullName": "pallavi-shekhar/ai-engineering-interview-questions-company-wise",
+      "updatedAt": "2026-10-09T07:33:15Z",
+      "url": "https://github.com/pallavi-shekhar/ai-engineering-interview-questions-company-wise",
+      "queries": [
+        "github-orchestrator.json"
+      ],
+      "disposition": "rejected-metadata",
+      "reason": "Description did not establish a distinct reusable harness concern or was a list, tutorial, skill, application, demo, or thin integration."
+    },
+    {
+      "createdAt": "2026-09-24T13:32:45Z",
+      "description": "",
+      "fullName": "aws-samples/sample-voice-ai-agent-studio",
+      "updatedAt": "2026-10-07T09:37:55Z",
+      "url": "https://github.com/aws-samples/sample-voice-ai-agent-studio",
+      "queries": [
+        "github-orchestrator.json"
+      ],
+      "disposition": "rejected-metadata",
+      "reason": "Description did not establish a distinct reusable harness concern or was a list, tutorial, skill, application, demo, or thin integration."
+    },
+    {
+      "createdAt": "2026-09-21T18:34:16Z",
+      "description": "An ADK agents for social posts. ",
+      "fullName": "sonikajanagill/ai-devcamp-labs",
+      "updatedAt": "2026-10-03T14:26:35Z",
+      "url": "https://github.com/sonikajanagill/ai-devcamp-labs",
+      "queries": [
+        "github-orchestrator.json"
+      ],
+      "disposition": "rejected-metadata",
+      "reason": "Description did not establish a distinct reusable harness concern or was a list, tutorial, skill, application, demo, or thin integration."
+    },
+    {
+      "createdAt": "2026-09-09T10:44:50Z",
+      "description": "",
+      "fullName": "rgolabs/resumatic",
+      "updatedAt": "2026-09-19T20:44:45Z",
+      "url": "https://github.com/rgolabs/resumatic",
+      "queries": [
+        "github-orchestrator.json"
+      ],
+      "disposition": "rejected-metadata",
+      "reason": "Description did not establish a distinct reusable harness concern or was a list, tutorial, skill, application, demo, or thin integration."
+    },
+    {
+      "createdAt": "2026-09-16T01:37:46Z",
+      "description": "AIBuildAI LLM-Post-Train Agent: a recursive self-improving (RSI) agent for autonomous LLM post-training",
+      "fullName": "aibuildai-inc/aibuildai-llm-posttrain-agent",
+      "updatedAt": "2026-10-09T07:54:52Z",
+      "url": "https://github.com/aibuildai-inc/aibuildai-llm-posttrain-agent",
+      "queries": [
+        "github-orchestrator.json"
+      ],
+      "disposition": "previously-deferred",
+      "reason": "Lead already in deferred queue; unresolved evidence remains."
+    },
+    {
+      "createdAt": "2026-09-17T12:44:49Z",
+      "description": "Pragmatic multi-agent orchestration: independent review and steerable delegation across Codex, Claude Code, OpenCode, Grok Build, Gemini, and Devin CLI — porch CLI + Agent Skills",
+      "fullName": "CodeAlive-AI/pragmatic-orchestration",
+      "updatedAt": "2026-10-07T08:54:39Z",
+      "url": "https://github.com/CodeAlive-AI/pragmatic-orchestration",
+      "queries": [
+        "github-orchestrator.json"
+      ],
+      "disposition": "already-cataloged",
+      "reason": "Canonical repository URL matches existing catalog."
+    },
+    {
+      "createdAt": "2026-09-17T15:33:58Z",
+      "description": "Professional agent skills for composing and arranging popular music",
+      "fullName": "jtydhr88/music-composition-skills",
+      "updatedAt": "2026-10-08T08:24:09Z",
+      "url": "https://github.com/jtydhr88/music-composition-skills",
+      "queries": [
+        "github-orchestrator.json"
+      ],
+      "disposition": "rejected-metadata",
+      "reason": "Description did not establish a distinct reusable harness concern or was a list, tutorial, skill, application, demo, or thin integration."
+    },
+    {
+      "createdAt": "2026-09-27T06:34:11Z",
+      "description": "A 3D virtual office for your AI agent fleet — desks, meetings with auto-generated minutes, live screen-peeking, and a Kanban board synced to Hermes. Next.js + Three.js, stateless, no DB.",
+      "fullName": "JuniorXcoder/hermes-virtual-office",
+      "updatedAt": "2026-10-09T03:09:27Z",
+      "url": "https://github.com/JuniorXcoder/hermes-virtual-office",
+      "queries": [
+        "github-orchestrator.json"
+      ],
+      "disposition": "newly-deferred",
+      "reason": "Plausible harness concern; cited missing evidence recorded in deferred queue."
+    },
+    {
+      "createdAt": "2026-10-04T15:36:19Z",
+      "description": "Portable Lean 4 autoformalization skills for Codex and Claude Code",
+      "fullName": "scottnarmstrong/LeanAutoformalizationSkills",
+      "updatedAt": "2026-10-08T22:16:35Z",
+      "url": "https://github.com/scottnarmstrong/LeanAutoformalizationSkills",
+      "queries": [
+        "github-orchestrator.json"
+      ],
+      "disposition": "rejected-metadata",
+      "reason": "Description did not establish a distinct reusable harness concern or was a list, tutorial, skill, application, demo, or thin integration."
+    },
+    {
+      "createdAt": "2026-09-17T04:00:49Z",
+      "description": "Semantic tool routing and typed System One decisions for the Pi coding agent using TypeSafe Jev",
+      "fullName": "TheoOliveira/pi-jev",
+      "updatedAt": "2026-10-07T07:24:33Z",
+      "url": "https://github.com/TheoOliveira/pi-jev",
+      "queries": [
+        "github-orchestrator.json"
+      ],
+      "disposition": "rejected-metadata",
+      "reason": "Description did not establish a distinct reusable harness concern or was a list, tutorial, skill, application, demo, or thin integration."
+    },
+    {
+      "createdAt": "2026-09-26T04:00:48Z",
+      "description": "AzerothCore WoW client designed for autonomous AI agent players.",
+      "fullName": "agent-wow/agent-wow",
+      "updatedAt": "2026-10-09T06:01:02Z",
+      "url": "https://github.com/agent-wow/agent-wow",
+      "queries": [
+        "github-orchestrator.json"
+      ],
+      "disposition": "rejected-metadata",
+      "reason": "Description did not establish a distinct reusable harness concern or was a list, tutorial, skill, application, demo, or thin integration."
+    },
+    {
+      "createdAt": "2026-09-24T04:05:42Z",
+      "description": "Multi-platform IM channel bridge with unified message abstraction for AI agents and bots",
+      "fullName": "TencentCloud/octop-gateway",
+      "updatedAt": "2026-10-09T06:36:20Z",
+      "url": "https://github.com/TencentCloud/octop-gateway",
+      "queries": [
+        "github-orchestrator.json"
+      ],
+      "disposition": "rejected-metadata",
+      "reason": "Description did not establish a distinct reusable harness concern or was a list, tutorial, skill, application, demo, or thin integration."
+    },
+    {
+      "createdAt": "2026-10-05T02:08:17Z",
+      "description": "",
+      "fullName": "Shyboy0499/antibody",
+      "updatedAt": "2026-10-09T07:55:22Z",
+      "url": "https://github.com/Shyboy0499/antibody",
+      "queries": [
+        "github-orchestrator.json"
+      ],
+      "disposition": "rejected-metadata",
+      "reason": "Description did not establish a distinct reusable harness concern or was a list, tutorial, skill, application, demo, or thin integration."
+    },
+    {
+      "createdAt": "2026-09-16T10:50:05Z",
+      "description": "",
+      "fullName": "danicat/game-dev-starter-kit",
+      "updatedAt": "2026-09-22T15:55:17Z",
+      "url": "https://github.com/danicat/game-dev-starter-kit",
+      "queries": [
+        "github-orchestrator.json"
+      ],
+      "disposition": "rejected-metadata",
+      "reason": "Description did not establish a distinct reusable harness concern or was a list, tutorial, skill, application, demo, or thin integration."
+    },
+    {
+      "createdAt": "2026-09-20T15:02:38Z",
+      "description": "AI Engineer Roadmap - A step-by-step AI Engineering roadmap to become an AI Engineer, with a blog for every topic.",
+      "fullName": "amitshekhariitbhu/ai-engineer-roadmap",
+      "updatedAt": "2026-10-09T06:07:39Z",
+      "url": "https://github.com/amitshekhariitbhu/ai-engineer-roadmap",
+      "queries": [
+        "github-orchestrator.json"
+      ],
+      "disposition": "rejected-metadata",
+      "reason": "Description did not establish a distinct reusable harness concern or was a list, tutorial, skill, application, demo, or thin integration."
+    },
+    {
+      "createdAt": "2026-09-30T08:39:30Z",
+      "description": "Best free & open source personal agent. Always-on, proactive, sessionless. Browser, computer use, files, remote control. Competiable with ChatGPT/codex and claude code. Selfhost your open source alternative to Muse, Dots, Instinct and Town. Built with Go/Elixir/Lean.",
+      "fullName": "AFK-surf/Comma",
+      "updatedAt": "2026-10-09T06:45:38Z",
+      "url": "https://github.com/AFK-surf/Comma",
+      "queries": [
+        "github-orchestrator.json"
+      ],
+      "disposition": "rejected-metadata",
+      "reason": "Description did not establish a distinct reusable harness concern or was a list, tutorial, skill, application, demo, or thin integration."
+    },
+    {
+      "createdAt": "2026-09-18T10:12:18Z",
+      "description": "A curated, source-backed list of projects built with Jev, TypeSafe AI's System One model for typed decisions.",
+      "fullName": "cobanov/awesome-jev",
+      "updatedAt": "2026-10-09T07:44:10Z",
+      "url": "https://github.com/cobanov/awesome-jev",
+      "queries": [
+        "github-orchestrator.json"
+      ],
+      "disposition": "rejected-metadata",
+      "reason": "Description did not establish a distinct reusable harness concern or was a list, tutorial, skill, application, demo, or thin integration."
+    },
+    {
+      "createdAt": "2026-09-18T13:37:03Z",
+      "description": "Awesome Jev — evidence-graded index of TypeSafe System One: SDKs, MCP tools, agents, apps and open models. 20 languages, rebuilt every 2 hours.",
+      "fullName": "wh000wh000/awesome-jev-live",
+      "updatedAt": "2026-10-09T06:36:16Z",
+      "url": "https://github.com/wh000wh000/awesome-jev-live",
+      "queries": [
+        "github-orchestrator.json"
+      ],
+      "disposition": "rejected-metadata",
+      "reason": "Description did not establish a distinct reusable harness concern or was a list, tutorial, skill, application, demo, or thin integration."
+    },
+    {
+      "createdAt": "2026-09-09T09:15:05Z",
+      "description": "A curated list of software factories, agent factories, and dark factories: systems that run AI coding agents autonomously, in parallel, and in loops.",
+      "fullName": "varun1505/awesome-software-factories",
+      "updatedAt": "2026-10-09T05:33:05Z",
+      "url": "https://github.com/varun1505/awesome-software-factories",
+      "queries": [
+        "github-orchestrator.json"
+      ],
+      "disposition": "rejected-metadata",
+      "reason": "Description did not establish a distinct reusable harness concern or was a list, tutorial, skill, application, demo, or thin integration."
+    },
+    {
+      "createdAt": "2026-10-02T20:52:53Z",
+      "description": "Code-first video, rendered natively on WebGPU.",
+      "fullName": "gatewai-dev/framefields",
+      "updatedAt": "2026-10-09T07:37:33Z",
+      "url": "https://github.com/gatewai-dev/framefields",
+      "queries": [
+        "github-orchestrator.json"
+      ],
+      "disposition": "rejected-metadata",
+      "reason": "Description did not establish a distinct reusable harness concern or was a list, tutorial, skill, application, demo, or thin integration."
+    },
+    {
+      "createdAt": "2026-09-18T17:22:58Z",
+      "description": "Typed decisions with TypeSafe's Jev, the first System One model",
+      "fullName": "valentynkit/awesome-jev-typesafe",
+      "updatedAt": "2026-10-08T19:31:04Z",
+      "url": "https://github.com/valentynkit/awesome-jev-typesafe",
+      "queries": [
+        "github-orchestrator.json"
+      ],
+      "disposition": "rejected-metadata",
+      "reason": "Description did not establish a distinct reusable harness concern or was a list, tutorial, skill, application, demo, or thin integration."
+    },
+    {
+      "createdAt": "2026-09-13T13:35:12Z",
+      "description": "Codex plugin for orchestrating local coding-agent CLIs with task contracts, questions, observability, and review gates",
+      "fullName": "Augani/agent-orchestrator",
+      "updatedAt": "2026-10-08T03:10:08Z",
+      "url": "https://github.com/Augani/agent-orchestrator",
+      "queries": [
+        "github-orchestrator.json"
+      ],
+      "disposition": "newly-deferred",
+      "reason": "Plausible harness concern; cited missing evidence recorded in deferred queue."
+    },
+    {
+      "createdAt": "2026-09-20T15:21:09Z",
+      "description": "Acta: A Decision-Centric Runtime for Agents",
+      "fullName": "zjunlp/JevLoop",
+      "updatedAt": "2026-10-05T02:45:59Z",
+      "url": "https://github.com/zjunlp/JevLoop",
+      "queries": [
+        "github-runtime.json"
+      ],
+      "disposition": "newly-deferred",
+      "reason": "Plausible harness concern; cited missing evidence recorded in deferred queue."
+    },
+    {
+      "createdAt": "2026-09-17T08:37:37Z",
+      "description": "A browser-native Doom agent experiment with structured spatial state, composable AI controls, live decision telemetry, and a Chocolate Doom WebAssembly runtime.",
+      "fullName": "lukaske/jev-doom-agent",
+      "updatedAt": "2026-10-09T02:49:57Z",
+      "url": "https://github.com/lukaske/jev-doom-agent",
+      "queries": [
+        "github-runtime.json"
+      ],
+      "disposition": "rejected-metadata",
+      "reason": "Description did not establish a distinct reusable harness concern or was a list, tutorial, skill, application, demo, or thin integration."
+    },
+    {
+      "createdAt": "2026-09-14T23:24:30Z",
+      "description": "Konteks native runtime connector: installs local coding agents, connects them to Konteks, and keeps itself updated.",
+      "fullName": "konteks-io/runtime",
+      "updatedAt": "2026-10-09T04:41:29Z",
+      "url": "https://github.com/konteks-io/runtime",
+      "queries": [
+        "github-runtime.json"
+      ],
+      "disposition": "previously-deferred",
+      "reason": "Lead already in deferred queue; unresolved evidence remains."
+    },
+    {
+      "createdAt": "2026-09-14T17:28:16Z",
+      "description": "Runtime AI Scientist (formerly RAC AI Scientist): official code for \"Can AI Scientists Coordinate at Runtime?\" (arXiv 2610.00980). Runtime Agent Coordination (RAC) for multi-agent AI scientists such as ARK, Agent Laboratory, and EvoScientist, evaluated on ResearchClawBench.",
+      "fullName": "systemind-team/Runtime-AI-Scientist",
+      "updatedAt": "2026-10-05T02:47:54Z",
+      "url": "https://github.com/systemind-team/Runtime-AI-Scientist",
+      "queries": [
+        "github-runtime.json"
+      ],
+      "disposition": "rejected-metadata",
+      "reason": "Description did not establish a distinct reusable harness concern or was a list, tutorial, skill, application, demo, or thin integration."
+    },
+    {
+      "createdAt": "2026-09-12T22:26:58Z",
+      "description": "Policy-as-code for AI agent permissions. Define bounded permissions in YAML, enforce at runtime.",
+      "fullName": "yunaremaia/agent-guard",
+      "updatedAt": "2026-10-07T09:02:24Z",
+      "url": "https://github.com/yunaremaia/agent-guard",
+      "queries": [
+        "github-runtime.json"
+      ],
+      "disposition": "previously-deferred",
+      "reason": "Lead already in deferred queue; unresolved evidence remains."
+    },
+    {
+      "createdAt": "2026-09-23T14:25:56Z",
+      "description": "Turn ChatGPT into a local agent runtime. Operate your computer, use local tools, discover MCP servers, and delegate work to your own models through one MCP connection.",
+      "fullName": "XiaoPuOuO/openchatx-mcp",
+      "updatedAt": "2026-10-09T00:26:21Z",
+      "url": "https://github.com/XiaoPuOuO/openchatx-mcp",
+      "queries": [
+        "github-runtime.json"
+      ],
+      "disposition": "previously-deferred",
+      "reason": "Lead already in deferred queue; unresolved evidence remains."
+    },
+    {
+      "createdAt": "2026-09-11T20:48:57Z",
+      "description": "Stops AI coding agents from claiming work is done without evidence. Deterministic hooks decide, TypeSafe's Jev advises. Append-only ledger, zero runtime dependencies.",
+      "fullName": "qkal/Canny",
+      "updatedAt": "2026-10-08T20:37:41Z",
+      "url": "https://github.com/qkal/Canny",
+      "queries": [
+        "github-runtime.json"
+      ],
+      "disposition": "previously-deferred",
+      "reason": "Lead already in deferred queue; unresolved evidence remains."
+    },
+    {
+      "createdAt": "2026-09-09T12:59:04Z",
+      "description": "Agent Skill for complex work: research before asking, ask before planning, plan before building, verify before delivering, independent review before calling it done. Plain text, no runtime.",
+      "fullName": "Da7-Tech/SureForge",
+      "updatedAt": "2026-10-07T14:27:43Z",
+      "url": "https://github.com/Da7-Tech/SureForge",
+      "queries": [
+        "github-runtime.json"
+      ],
+      "disposition": "rejected-metadata",
+      "reason": "Description did not establish a distinct reusable harness concern or was a list, tutorial, skill, application, demo, or thin integration."
+    },
+    {
+      "createdAt": "2026-09-14T13:55:40Z",
+      "description": "Small programmable, remotely controlled runtime system for coding agents",
+      "fullName": "paoloanzn/factory",
+      "updatedAt": "2026-09-28T06:53:27Z",
+      "url": "https://github.com/paoloanzn/factory",
+      "queries": [
+        "github-runtime.json"
+      ],
+      "disposition": "previously-deferred",
+      "reason": "Lead already in deferred queue; unresolved evidence remains."
+    },
+    {
+      "createdAt": "2026-10-02T16:29:02Z",
+      "description": "Curated, runtime-neutral skills for coding agents (agentskills.io format): pragmatic, XP-minded, evidence-first.",
+      "fullName": "rafaelob/pragmatic-agent-skills",
+      "updatedAt": "2026-10-08T22:35:39Z",
+      "url": "https://github.com/rafaelob/pragmatic-agent-skills",
+      "queries": [
+        "github-runtime.json"
+      ],
+      "disposition": "rejected-metadata",
+      "reason": "Description did not establish a distinct reusable harness concern or was a list, tutorial, skill, application, demo, or thin integration."
+    },
+    {
+      "createdAt": "2026-09-09T09:12:08Z",
+      "description": "Nosis is a lightweight personal agent runtime: per-session execution boundaries with OS-level sandboxing, computer use, a full built-in toolset, Skill / Plugin / MCP extensions, one runtime shared by GUI and TUI, and file-persisted sessions, plans, and memory.",
+      "fullName": "EvannZhongg/Nosis",
+      "updatedAt": "2026-10-08T04:09:57Z",
+      "url": "https://github.com/EvannZhongg/Nosis",
+      "queries": [
+        "github-runtime.json"
+      ],
+      "disposition": "already-cataloged",
+      "reason": "Canonical repository URL matches existing catalog."
+    },
+    {
+      "createdAt": "2026-09-14T13:07:19Z",
+      "description": "Peer-replicated agent runtime for native hosts and browser Workers.",
+      "fullName": "kai-compute/agent",
+      "updatedAt": "2026-09-15T12:31:01Z",
+      "url": "https://github.com/kai-compute/agent",
+      "queries": [
+        "github-runtime.json"
+      ],
+      "disposition": "previously-deferred",
+      "reason": "Lead already in deferred queue; unresolved evidence remains."
+    },
+    {
+      "createdAt": "2026-10-01T08:26:38Z",
+      "description": "An open-source agent runtime inspired by OpenAI’s Dots: persistent AI agents that pursue goals, react to events, and keep work moving 24×7.",
+      "fullName": "Shashankss1205/OpenDots",
+      "updatedAt": "2026-10-08T16:51:10Z",
+      "url": "https://github.com/Shashankss1205/OpenDots",
+      "queries": [
+        "github-runtime.json"
+      ],
+      "disposition": "published",
+      "reason": "Official README, metadata, license, provenance and identity reviewed."
+    },
+    {
+      "createdAt": "2026-09-28T13:05:59Z",
+      "description": "One process = one agent. Go single-repo personal agent runtime with decoupled plugins.",
+      "fullName": "Donald24718/OkHuman",
+      "updatedAt": "2026-10-09T00:58:26Z",
+      "url": "https://github.com/Donald24718/OkHuman",
+      "queries": [
+        "github-runtime.json"
+      ],
+      "disposition": "newly-deferred",
+      "reason": "Plausible harness concern; cited missing evidence recorded in deferred queue."
+    },
+    {
+      "createdAt": "2026-09-29T07:42:50Z",
+      "description": "The most comprehensive comparison of platforms offering cloud runtime / sandbox / VM compute for agents. By boat.dev.",
+      "fullName": "ariana-dot-dev/battleships",
+      "updatedAt": "2026-10-05T13:30:58Z",
+      "url": "https://github.com/ariana-dot-dev/battleships",
+      "queries": [
+        "github-runtime.json"
+      ],
+      "disposition": "rejected-metadata",
+      "reason": "Description did not establish a distinct reusable harness concern or was a list, tutorial, skill, application, demo, or thin integration."
+    },
+    {
+      "createdAt": "2026-10-01T21:35:07Z",
+      "description": "Nucleo Agentic Runtime",
+      "fullName": "redouble-ai/nucleo",
+      "updatedAt": "2026-10-08T14:36:16Z",
+      "url": "https://github.com/redouble-ai/nucleo",
+      "queries": [
+        "github-runtime.json"
+      ],
+      "disposition": "published",
+      "reason": "Official README, metadata, license, provenance and identity reviewed."
+    },
+    {
+      "createdAt": "2026-09-26T07:32:38Z",
+      "description": "The open runtime to build, run, and govern managed AI agents",
+      "fullName": "orca-ae/orca-agent-engine",
+      "updatedAt": "2026-10-09T08:01:41Z",
+      "url": "https://github.com/orca-ae/orca-agent-engine",
+      "queries": [
+        "github-runtime.json"
+      ],
+      "disposition": "published",
+      "reason": "Official README, metadata, license, provenance and identity reviewed."
+    },
+    {
+      "createdAt": "2026-09-30T06:08:58Z",
+      "description": "Agent Harness for Enterprise: Engineering the Runtime for Reliable AI Agents",
+      "fullName": "monuminu/Cypher-workshop26",
+      "updatedAt": "2026-10-07T14:44:49Z",
+      "url": "https://github.com/monuminu/Cypher-workshop26",
+      "queries": [
+        "github-runtime.json"
+      ],
+      "disposition": "rejected-metadata",
+      "reason": "Description did not establish a distinct reusable harness concern or was a list, tutorial, skill, application, demo, or thin integration."
+    },
+    {
+      "createdAt": "2026-09-09T04:07:45Z",
+      "description": "Local MCP server and Chrome browser control runtime that lets AI agents use your existing browser session.",
+      "fullName": "ztao0916/agentsurf-browser-control-runtime",
+      "updatedAt": "2026-10-09T07:21:32Z",
+      "url": "https://github.com/ztao0916/agentsurf-browser-control-runtime",
+      "queries": [
+        "github-runtime.json"
+      ],
+      "disposition": "already-cataloged",
+      "reason": "Canonical repository URL matches existing catalog."
+    },
+    {
+      "createdAt": "2026-09-09T19:33:01Z",
+      "description": "",
+      "fullName": "thetis-agent/runtime",
+      "updatedAt": "2026-10-09T02:52:24Z",
+      "url": "https://github.com/thetis-agent/runtime",
+      "queries": [
+        "github-runtime.json"
+      ],
+      "disposition": "previously-deferred",
+      "reason": "Lead already in deferred queue; unresolved evidence remains."
+    },
+    {
+      "createdAt": "2026-10-04T19:35:01Z",
+      "description": "Recursive agent runtime for large-scale autonomous software engineering.",
+      "fullName": "kyora-sh/kyora",
+      "updatedAt": "2026-10-08T23:16:59Z",
+      "url": "https://github.com/kyora-sh/kyora",
+      "queries": [
+        "github-runtime.json"
+      ],
+      "disposition": "newly-deferred",
+      "reason": "Plausible harness concern; cited missing evidence recorded in deferred queue."
+    },
+    {
+      "createdAt": "2026-09-15T19:01:23Z",
+      "description": "Turn any agent session into a dark, shareable receipt card — tools, approvals, refuses, runtime.",
+      "fullName": "smfworks/agent-receipt",
+      "updatedAt": "2026-09-19T11:25:30Z",
+      "url": "https://github.com/smfworks/agent-receipt",
+      "queries": [
+        "github-runtime.json"
+      ],
+      "disposition": "rejected-metadata",
+      "reason": "Description did not establish a distinct reusable harness concern or was a list, tutorial, skill, application, demo, or thin integration."
+    },
+    {
+      "createdAt": "2026-09-10T13:03:32Z",
+      "description": "AI Coding Agent CLI berbasis Node.js/TypeScript, zero runtime dependencies.",
+      "fullName": "Iky969/Ruko-agent",
+      "updatedAt": "2026-10-07T22:14:31Z",
+      "url": "https://github.com/Iky969/Ruko-agent",
+      "queries": [
+        "github-runtime.json"
+      ],
+      "disposition": "previously-deferred",
+      "reason": "Lead already in deferred queue; unresolved evidence remains."
+    },
+    {
+      "createdAt": "2026-09-20T03:10:15Z",
+      "description": "Algen Agent Runtime",
+      "fullName": "AlgenAI/algen-agent-runtime",
+      "updatedAt": "2026-10-01T18:52:40Z",
+      "url": "https://github.com/AlgenAI/algen-agent-runtime",
+      "queries": [
+        "github-runtime.json"
+      ],
+      "disposition": "previously-deferred",
+      "reason": "Lead already in deferred queue; unresolved evidence remains."
+    },
+    {
+      "createdAt": "2026-09-20T11:58:13Z",
+      "description": "Open-source model-agnostic runtime for AI agents to perceive, understand and operate computers and mobile environments.",
+      "fullName": "Btkkgo/OrdinConn",
+      "updatedAt": "2026-10-08T05:54:12Z",
+      "url": "https://github.com/Btkkgo/OrdinConn",
+      "queries": [
+        "github-runtime.json"
+      ],
+      "disposition": "previously-deferred",
+      "reason": "Lead already in deferred queue; unresolved evidence remains."
+    },
+    {
+      "createdAt": "2026-09-11T01:49:49Z",
+      "description": "News: We add many jev+robot in infrastructure. A curated collection of papers and resources on robot-use agents, tool-based robot control, embodied agent runtimes, and self-evolving robotic systems.",
+      "fullName": "visitworld123/Awesome-Robot-Use-Agent",
+      "updatedAt": "2026-10-08T06:55:27Z",
+      "url": "https://github.com/visitworld123/Awesome-Robot-Use-Agent",
+      "queries": [
+        "github-runtime.json"
+      ],
+      "disposition": "rejected-metadata",
+      "reason": "Description did not establish a distinct reusable harness concern or was a list, tutorial, skill, application, demo, or thin integration."
+    },
+    {
+      "createdAt": "2026-09-26T03:34:41Z",
+      "description": "Sandboxes for AI agents: TypeScript, Python, Go, Java and Ruby SDKs, the runtime CLI, an MCP server, and agent integrations. Firecracker microVMs.",
+      "fullName": "withruntime/runtime",
+      "updatedAt": "2026-10-06T03:24:01Z",
+      "url": "https://github.com/withruntime/runtime",
+      "queries": [
+        "github-runtime.json"
+      ],
+      "disposition": "already-cataloged",
+      "reason": "Canonical repository URL matches existing catalog."
+    },
+    {
+      "createdAt": "2026-09-18T16:21:29Z",
+      "description": "Deterministic security runtime between AI agents and the browser (MCP server).",
+      "fullName": "omotai/runtime",
+      "updatedAt": "2026-09-23T18:28:50Z",
+      "url": "https://github.com/omotai/runtime",
+      "queries": [
+        "github-runtime.json"
+      ],
+      "disposition": "already-cataloged",
+      "reason": "Canonical repository URL matches existing catalog."
+    },
+    {
+      "createdAt": "2026-09-25T03:51:33Z",
+      "description": "CoreML-native local decision runtime for AI agents · 18 install profiles · 20-scenario protocol · offline · ~50.93 MB · by Soulite Magic",
+      "fullName": "petershifi123-wq/solve-lite",
+      "updatedAt": "2026-10-09T03:27:39Z",
+      "url": "https://github.com/petershifi123-wq/solve-lite",
+      "queries": [
+        "github-runtime.json"
+      ],
+      "disposition": "rejected-metadata",
+      "reason": "Description did not establish a distinct reusable harness concern or was a list, tutorial, skill, application, demo, or thin integration."
+    },
+    {
+      "createdAt": "2026-10-03T23:47:13Z",
+      "description": "Universal Autonomous Agent Runtime Self-Healing & Diagnostics Engine. Detects configuration drift, corrupted execution state, and missing runtime resources, executing automated root-cause classification and snapshot rollback.",
+      "fullName": "alphaparkinc/genpark-agent-runtime-self-healing-diagnostics-skill",
+      "updatedAt": "2026-10-03T23:47:41Z",
+      "url": "https://github.com/alphaparkinc/genpark-agent-runtime-self-healing-diagnostics-skill",
+      "queries": [
+        "github-runtime.json"
+      ],
+      "disposition": "rejected-metadata",
+      "reason": "Description did not establish a distinct reusable harness concern or was a list, tutorial, skill, application, demo, or thin integration."
+    },
+    {
+      "createdAt": "2026-10-03T23:47:42Z",
+      "description": "Universal Autonomous Agent Runtime Self-Healing & Diagnostics Engine. Detects configuration drift, corrupted execution state, and missing runtime resources, executing automated root-cause classification and snapshot rollback.",
+      "fullName": "Alpha-Park/genpark-agent-runtime-self-healing-diagnostics-skill",
+      "updatedAt": "2026-10-03T23:48:10Z",
+      "url": "https://github.com/Alpha-Park/genpark-agent-runtime-self-healing-diagnostics-skill",
+      "queries": [
+        "github-runtime.json"
+      ],
+      "disposition": "rejected-metadata",
+      "reason": "Description did not establish a distinct reusable harness concern or was a list, tutorial, skill, application, demo, or thin integration."
+    },
+    {
+      "createdAt": "2026-09-12T15:08:05Z",
+      "description": "A macOS desktop pet that reacts to what your CLI coding agents are doing. Local-only, no cloud.",
+      "fullName": "dncore/agent-pet-runtime",
+      "updatedAt": "2026-09-28T02:31:14Z",
+      "url": "https://github.com/dncore/agent-pet-runtime",
+      "queries": [
+        "github-runtime.json"
+      ],
+      "disposition": "previously-deferred",
+      "reason": "Lead already in deferred queue; unresolved evidence remains."
+    },
+    {
+      "createdAt": "2026-10-06T22:00:03Z",
+      "description": "Native macOS notch companion for agent runtimes, with an optional Pixel HQ/Paperclip connector.",
+      "fullName": "GrimClawBot/Pixel-Companion",
+      "updatedAt": "2026-10-08T18:55:19Z",
+      "url": "https://github.com/GrimClawBot/Pixel-Companion",
+      "queries": [
+        "github-runtime.json"
+      ],
+      "disposition": "rejected-metadata",
+      "reason": "Description did not establish a distinct reusable harness concern or was a list, tutorial, skill, application, demo, or thin integration."
+    },
+    {
+      "createdAt": "2026-09-16T11:31:48Z",
+      "description": "The WaniWani agent runtime: an Eve agent that serves website chat for any environment.",
+      "fullName": "WaniWani-AI/agent",
+      "updatedAt": "2026-10-05T16:34:30Z",
+      "url": "https://github.com/WaniWani-AI/agent",
+      "queries": [
+        "github-runtime.json"
+      ],
+      "disposition": "previously-deferred",
+      "reason": "Lead already in deferred queue; unresolved evidence remains."
+    },
+    {
+      "createdAt": "2026-10-02T09:03:11Z",
+      "description": "A minimal agent runtime in pure Python: tool dispatch, retry with backoff, context compaction",
+      "fullName": "xuweiyang1/Agent",
+      "updatedAt": "2026-10-06T05:33:50Z",
+      "url": "https://github.com/xuweiyang1/Agent",
+      "queries": [
+        "github-runtime.json"
+      ],
+      "disposition": "rejected-metadata",
+      "reason": "Description did not establish a distinct reusable harness concern or was a list, tutorial, skill, application, demo, or thin integration."
+    },
+    {
+      "createdAt": "2026-09-20T06:31:17Z",
+      "description": "GenPark AI Agent Skill - Ollama local LLM runtime orchestration, offline tool calling, GPU memory layer offloading, and private agent pipelines.",
+      "fullName": "alphaparkinc/genpark-ollama-local-model-runtime-skill",
+      "updatedAt": "2026-09-20T06:31:45Z",
+      "url": "https://github.com/alphaparkinc/genpark-ollama-local-model-runtime-skill",
+      "queries": [
+        "github-runtime.json"
+      ],
+      "disposition": "rejected-metadata",
+      "reason": "Description did not establish a distinct reusable harness concern or was a list, tutorial, skill, application, demo, or thin integration."
+    },
+    {
+      "createdAt": "2026-10-03T17:16:47Z",
+      "description": "Durable, inspectable runtime for reliable tool-using AI agents with approvals, recovery, memory, audit, and deterministic evaluation.",
+      "fullName": "yasuss/agent-reliability-runtime",
+      "updatedAt": "2026-10-08T18:48:20Z",
+      "url": "https://github.com/yasuss/agent-reliability-runtime",
+      "queries": [
+        "github-runtime.json"
+      ],
+      "disposition": "newly-deferred",
+      "reason": "Plausible harness concern; cited missing evidence recorded in deferred queue."
+    },
+    {
+      "createdAt": "2026-10-06T07:45:07Z",
+      "description": "A self-contained macOS desktop client for remote Codex and Claude runtimes, with bundled local computer and browser tools.",
+      "fullName": "iancheng64-cmd/AgentBridgeStudio",
+      "updatedAt": "2026-10-07T06:07:44Z",
+      "url": "https://github.com/iancheng64-cmd/AgentBridgeStudio",
+      "queries": [
+        "github-runtime.json"
+      ],
+      "disposition": "newly-deferred",
+      "reason": "Plausible harness concern; cited missing evidence recorded in deferred queue."
+    },
+    {
+      "createdAt": "2026-09-22T09:25:16Z",
+      "description": "A fast agent runtime for running AI agents on any machine.https://axium.ax-labs.workers.dev/",
+      "fullName": "Axium-Labs/AX",
+      "updatedAt": "2026-10-07T12:27:33Z",
+      "url": "https://github.com/Axium-Labs/AX",
+      "queries": [
+        "github-runtime.json"
+      ],
+      "disposition": "newly-deferred",
+      "reason": "Plausible harness concern; cited missing evidence recorded in deferred queue."
+    },
+    {
+      "createdAt": "2026-09-25T09:28:20Z",
+      "description": "SecureClaw: Clawing Back Control of LLM Agents — NeurIPS 2026. Runtime, method adapters, and evaluation code.",
+      "fullName": "ponyyuhan/SecureClaw",
+      "updatedAt": "2026-10-01T13:47:33Z",
+      "url": "https://github.com/ponyyuhan/SecureClaw",
+      "queries": [
+        "github-runtime.json"
+      ],
+      "disposition": "rejected-metadata",
+      "reason": "Description did not establish a distinct reusable harness concern or was a list, tutorial, skill, application, demo, or thin integration."
+    },
+    {
+      "createdAt": "2026-09-27T12:35:50Z",
+      "description": "AgentOS for Android — system-level Agent runtime, AOSP integration, ROM and device support. 一个Root，让你的手机变身为“豆包手机”！",
+      "fullName": "HanZijie/agentos-android",
+      "updatedAt": "2026-10-09T07:55:12Z",
+      "url": "https://github.com/HanZijie/agentos-android",
+      "queries": [
+        "github-runtime.json"
+      ],
+      "disposition": "rejected-metadata",
+      "reason": "Description did not establish a distinct reusable harness concern or was a list, tutorial, skill, application, demo, or thin integration."
+    },
+    {
+      "createdAt": "2026-09-18T18:58:38Z",
+      "description": "An AI agent runtime with tool calling, MCP integration, persistent memory, and task planning.",
+      "fullName": "xudafeng/agent0",
+      "updatedAt": "2026-10-08T17:56:29Z",
+      "url": "https://github.com/xudafeng/agent0",
+      "queries": [
+        "github-runtime.json"
+      ],
+      "disposition": "previously-deferred",
+      "reason": "Lead already in deferred queue; unresolved evidence remains."
+    },
+    {
+      "createdAt": "2026-09-20T10:27:25Z",
+      "description": "",
+      "fullName": "KhALiLXD/agento-runtime",
+      "updatedAt": "2026-10-04T06:49:42Z",
+      "url": "https://github.com/KhALiLXD/agento-runtime",
+      "queries": [
+        "github-runtime.json"
+      ],
+      "disposition": "rejected-metadata",
+      "reason": "Description did not establish a distinct reusable harness concern or was a list, tutorial, skill, application, demo, or thin integration."
+    },
+    {
+      "createdAt": "2026-09-17T22:07:20Z",
+      "description": "Aside agents decide with TypeSafe Jev (System One: Choice/Score/Noul). Not a Cua binding — Jev is the model, Aside is the browser runtime.",
+      "fullName": "himomohi/aside-jev",
+      "updatedAt": "2026-09-23T03:00:40Z",
+      "url": "https://github.com/himomohi/aside-jev",
+      "queries": [
+        "github-runtime.json"
+      ],
+      "disposition": "previously-deferred",
+      "reason": "Lead already in deferred queue; unresolved evidence remains."
+    },
+    {
+      "createdAt": "2026-09-19T09:59:39Z",
+      "description": "Self-hosted voice agent runtime: speech-to-text, an LLM and text-to-speech streaming into each other in one process.",
+      "fullName": "SamarthUrs18/fusion-runtime",
+      "updatedAt": "2026-10-05T14:54:57Z",
+      "url": "https://github.com/SamarthUrs18/fusion-runtime",
+      "queries": [
+        "github-runtime.json"
+      ],
+      "disposition": "previously-deferred",
+      "reason": "Lead already in deferred queue; unresolved evidence remains."
+    },
+    {
+      "createdAt": "2026-09-23T06:32:36Z",
+      "description": "Agent + reusable skill library for LIBERO manipulation tasks (no RL / VLA / world model; no LLM calls at runtime)",
+      "fullName": "ABC12345anouys/EvoBot",
+      "updatedAt": "2026-10-07T01:46:40Z",
+      "url": "https://github.com/ABC12345anouys/EvoBot",
+      "queries": [
+        "github-runtime.json"
+      ],
+      "disposition": "rejected-metadata",
+      "reason": "Description did not establish a distinct reusable harness concern or was a list, tutorial, skill, application, demo, or thin integration."
+    },
+    {
+      "createdAt": "2026-09-17T06:31:48Z",
+      "description": "Reference prototype exploring agentic commerce: TypeSafe/Jev → Axiom → Argent → Silverscript on Kaspa.",
+      "fullName": "axiomarchitecture/axiom-agent-runtime",
+      "updatedAt": "2026-09-25T13:27:01Z",
+      "url": "https://github.com/axiomarchitecture/axiom-agent-runtime",
+      "queries": [
+        "github-runtime.json"
+      ],
+      "disposition": "rejected-metadata",
+      "reason": "Description did not establish a distinct reusable harness concern or was a list, tutorial, skill, application, demo, or thin integration."
+    },
+    {
+      "createdAt": "2026-09-17T02:35:21Z",
+      "description": "Secure. Deploy. Measure. Open infrastructure for agent harnesses.",
+      "fullName": "intelligent-iterations/ii-agent-runtime",
+      "updatedAt": "2026-10-08T01:50:57Z",
+      "url": "https://github.com/intelligent-iterations/ii-agent-runtime",
+      "queries": [
+        "github-runtime.json"
+      ],
+      "disposition": "already-cataloged",
+      "reason": "Canonical repository URL matches existing catalog."
+    },
+    {
+      "createdAt": "2026-09-19T13:31:08Z",
+      "description": "Windows-first observable coding-agent runtime with failure recovery, bounded context, replayable traces and MCP tooling.",
+      "fullName": "CC254215/myclaw-agent-runtime",
+      "updatedAt": "2026-09-21T04:37:34Z",
+      "url": "https://github.com/CC254215/myclaw-agent-runtime",
+      "queries": [
+        "github-runtime.json"
+      ],
+      "disposition": "previously-deferred",
+      "reason": "Lead already in deferred queue; unresolved evidence remains."
+    }
+  ]
+}

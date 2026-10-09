@@ -1,6 +1,6 @@
 {
   "version": "1.1.0",
-  "generatedAt": "2026-10-02",
+  "generatedAt": "2026-10-09",
   "sources": [
     {
       "name": "best-of-Agent-Harnesses",
@@ -7866,42 +7866,6 @@
       "lastVerifiedDate": "2026-08-28"
     },
     {
-      "id": "wrtnlabs-autobe",
-      "name": "AutoBE",
-      "company": "Wrtn Technologies",
-      "description": "An agentic backend builder that turns natural-language requirements into analysis, database schemas, API specifications, executable tests, and TypeScript backend implementations using compiler-backed validation and multi-session model orchestration.",
-      "capabilities": [
-        "Code generation",
-        "Specification workflows",
-        "Test generation",
-        "Tool orchestration"
-      ],
-      "languages": [
-        "TypeScript"
-      ],
-      "license": "AGPL-3.0",
-      "availability": "open-source",
-      "officialUrl": "https://autobe.dev",
-      "repositoryUrl": "https://github.com/wrtnlabs/autobe",
-      "monogram": "BE",
-      "tags": [
-        "backend",
-        "compiler",
-        "specifications",
-        "testing"
-      ],
-      "reviewStatus": "source-verified",
-      "sourceKind": "repository and documentation",
-      "provenance": "independent-discovery",
-      "sourceUrls": [
-        "https://autobe.dev",
-        "https://github.com/wrtnlabs/autobe",
-        "https://github.com/wrtnlabs/autobe/blob/master/LICENSE"
-      ],
-      "discoveredDate": "2026-08-28",
-      "lastVerifiedDate": "2026-08-28"
-    },
-    {
       "id": "proxysoul-empryo",
       "name": "Empryo",
       "company": "proxysoul",
@@ -12592,38 +12556,6 @@
       "lastVerifiedDate": "2026-10-02"
     },
     {
-      "id": "lockedinlabs-agent-console",
-      "name": "Agent Console",
-      "company": "LockedIn Labs",
-      "description": "Local observability console for coding-agent sessions, with token and cost tracking, policy hooks, and a self-hosted team hub.",
-      "capabilities": [
-        "Observability",
-        "Agent orchestration"
-      ],
-      "languages": [
-        "JavaScript"
-      ],
-      "license": "MIT",
-      "availability": "open-source",
-      "officialUrl": "https://github.com/LockedinLabs-AI/agent-console",
-      "repositoryUrl": "https://github.com/LockedinLabs-AI/agent-console",
-      "monogram": "AC",
-      "tags": [
-        "session-monitoring",
-        "costs",
-        "local-first"
-      ],
-      "reviewStatus": "source-verified",
-      "sourceKind": "repository",
-      "provenance": "independent-discovery",
-      "sourceUrls": [
-        "https://github.com/LockedinLabs-AI/agent-console",
-        "https://github.com/LockedinLabs-AI/agent-console/blob/main/LICENSE"
-      ],
-      "discoveredDate": "2026-10-02",
-      "lastVerifiedDate": "2026-10-02"
-    },
-    {
       "id": "nichonauta-minagent",
       "name": "MinAgent",
       "company": "Nichonauta",
@@ -12820,6 +12752,270 @@
       ],
       "discoveredDate": "2026-10-02",
       "lastVerifiedDate": "2026-10-02"
+    },
+    {
+      "id": "berriai-moyai",
+      "name": "Moyai",
+      "company": "BerriAI",
+      "description": "Self-hosted background coding agent that runs selectable harnesses in isolated workspaces and supports browser or Slack task intake, tests, and pull-request handoff.",
+      "capabilities": [
+        "Agent orchestration",
+        "Sandboxed execution",
+        "Repository operations"
+      ],
+      "languages": [
+        "TypeScript"
+      ],
+      "license": "MIT",
+      "availability": "open-source",
+      "officialUrl": "https://github.com/BerriAI/moyai",
+      "repositoryUrl": "https://github.com/BerriAI/moyai",
+      "monogram": "MY",
+      "tags": [
+        "self-hosted",
+        "background-agent",
+        "multi-harness"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "repository",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://github.com/BerriAI/moyai",
+        "https://github.com/BerriAI/moyai/blob/main/LICENSE"
+      ],
+      "discoveredDate": "2026-10-09",
+      "lastVerifiedDate": "2026-10-09"
+    },
+    {
+      "id": "cosscom-shipyard",
+      "name": "Shipyard",
+      "company": "cosscom",
+      "description": "Remote development workspace for coding agents with per-worktree terminals, persistent dev boxes, orchestration, and event-driven automations.",
+      "capabilities": [
+        "Multi-agent orchestration",
+        "Repository operations",
+        "Terminal automation"
+      ],
+      "languages": [
+        "TypeScript",
+        "Rust"
+      ],
+      "license": "MIT",
+      "availability": "open-source",
+      "officialUrl": "https://github.com/cosscom/shipyard",
+      "repositoryUrl": "https://github.com/cosscom/shipyard",
+      "monogram": "SY",
+      "tags": [
+        "remote",
+        "workspace",
+        "multi-agent"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "repository",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://github.com/cosscom/shipyard",
+        "https://github.com/cosscom/shipyard/blob/main/LICENSE"
+      ],
+      "discoveredDate": "2026-10-09",
+      "lastVerifiedDate": "2026-10-09"
+    },
+    {
+      "id": "orca-agent-engine",
+      "name": "Orca Agent Engine",
+      "company": "Orca",
+      "description": "Self-hosted managed-agent runtime with a registry, session harness, sandbox adapters, and governed tool egress; currently a developer preview.",
+      "capabilities": [
+        "Agent orchestration",
+        "Sandboxed execution",
+        "Memory & state"
+      ],
+      "languages": [
+        "TypeScript"
+      ],
+      "license": "Apache-2.0",
+      "availability": "open-source",
+      "officialUrl": "https://github.com/orca-ae/orca-agent-engine",
+      "repositoryUrl": "https://github.com/orca-ae/orca-agent-engine",
+      "monogram": "OE",
+      "tags": [
+        "self-hosted",
+        "runtime",
+        "developer-preview"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "repository",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://github.com/orca-ae/orca-agent-engine",
+        "https://github.com/orca-ae/orca-agent-engine/blob/main/LICENSE"
+      ],
+      "discoveredDate": "2026-10-09",
+      "lastVerifiedDate": "2026-10-09"
+    },
+    {
+      "id": "opendots",
+      "name": "OpenDots",
+      "company": "OpenDots",
+      "description": "Local prototype for persistent goal-driven agents that react to events and heartbeats, retain task history, propose scoped edits, and request approval.",
+      "capabilities": [
+        "Agent orchestration",
+        "Memory & state",
+        "Repository operations"
+      ],
+      "languages": [
+        "Python"
+      ],
+      "license": "MIT",
+      "availability": "open-source",
+      "officialUrl": "https://github.com/Shashankss1205/OpenDots",
+      "repositoryUrl": "https://github.com/Shashankss1205/OpenDots",
+      "monogram": "OD",
+      "tags": [
+        "local",
+        "persistent-agent",
+        "approvals"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "repository",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://github.com/Shashankss1205/OpenDots",
+        "https://github.com/Shashankss1205/OpenDots/blob/main/LICENSE"
+      ],
+      "discoveredDate": "2026-10-09",
+      "lastVerifiedDate": "2026-10-09"
+    },
+    {
+      "id": "redouble-nucleo",
+      "name": "Nucleo",
+      "company": "Redouble AI",
+      "description": "In-process Java agent runtime with model providers, tool execution, and application-level security and audit integration.",
+      "capabilities": [
+        "Agent orchestration",
+        "Tool use",
+        "Memory & state"
+      ],
+      "languages": [
+        "Java"
+      ],
+      "license": "Apache-2.0",
+      "availability": "open-source",
+      "officialUrl": "https://github.com/redouble-ai/nucleo",
+      "repositoryUrl": "https://github.com/redouble-ai/nucleo",
+      "monogram": "NU",
+      "tags": [
+        "runtime",
+        "java",
+        "self-hosted"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "repository",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://github.com/redouble-ai/nucleo",
+        "https://github.com/redouble-ai/nucleo/blob/main/LICENSE"
+      ],
+      "discoveredDate": "2026-10-09",
+      "lastVerifiedDate": "2026-10-09"
+    },
+    {
+      "id": "agnes-harness",
+      "name": "Agnes Harness",
+      "company": "AgnesAI Labs",
+      "description": "Developer-preview agent harness for deployment workflows with model and tool plugins, approvals, traces, and reusable task state.",
+      "capabilities": [
+        "Agent orchestration",
+        "Tool use",
+        "Memory & state"
+      ],
+      "languages": [
+        "TypeScript"
+      ],
+      "license": "Apache-2.0",
+      "availability": "open-source",
+      "officialUrl": "https://github.com/AgnesAI-Labs/agnes-harness",
+      "repositoryUrl": "https://github.com/AgnesAI-Labs/agnes-harness",
+      "monogram": "AH",
+      "tags": [
+        "developer-preview",
+        "plugins",
+        "approvals"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "repository",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://github.com/AgnesAI-Labs/agnes-harness",
+        "https://github.com/AgnesAI-Labs/agnes-harness/blob/main/LICENSE"
+      ],
+      "discoveredDate": "2026-10-09",
+      "lastVerifiedDate": "2026-10-09"
+    },
+    {
+      "id": "warp-factories",
+      "name": "Warp Factories",
+      "company": "Warp",
+      "description": "Early-access software factory that routes repository work through cloud agents for triage, specification, implementation, and review with human approval points.",
+      "capabilities": [
+        "Multi-agent orchestration",
+        "Agent handoffs",
+        "Repository operations"
+      ],
+      "languages": [
+        "Not specified"
+      ],
+      "license": "Commercial / proprietary",
+      "availability": "proprietary",
+      "officialUrl": "https://docs.warp.dev/factories/",
+      "repositoryUrl": null,
+      "monogram": "WF",
+      "tags": [
+        "cloud",
+        "multi-agent",
+        "orchestration"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "official-documentation",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://docs.warp.dev/factories/",
+        "https://docs.warp.dev/factories/how-factories-work/"
+      ],
+      "discoveredDate": "2026-10-09",
+      "lastVerifiedDate": "2026-10-09"
+    },
+    {
+      "id": "bitdefender-ai-guardian",
+      "name": "AI Guardian",
+      "company": "Bitdefender",
+      "description": "Free macOS open-beta guardrail that evaluates supported AI agents’ tool, file, and skill actions against user-defined rules and records decisions.",
+      "capabilities": [
+        "Safety & approvals",
+        "Tool use",
+        "Observability"
+      ],
+      "languages": [
+        "Not specified"
+      ],
+      "license": "Commercial / proprietary",
+      "availability": "proprietary",
+      "officialUrl": "https://www.bitdefender.com/en-us/blog/hotforsecurity/bitdefender-ai-guardian-free-security-for-ai-agents",
+      "repositoryUrl": null,
+      "monogram": "AG",
+      "tags": [
+        "security",
+        "macos",
+        "open-beta"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "official-product-post",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://www.bitdefender.com/en-us/blog/hotforsecurity/bitdefender-ai-guardian-free-security-for-ai-agents"
+      ],
+      "discoveredDate": "2026-10-09",
+      "lastVerifiedDate": "2026-10-09"
     }
   ]
 }

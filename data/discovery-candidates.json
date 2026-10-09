@@ -1272,5 +1272,173 @@
     "discoveredAt": "2026-10-02",
     "signalUrl": "https://www.matrixorigin.io/blog/astra-open-source",
     "reason": "Search surfaced an official open-source announcement, but the vendor article was inaccessible in this run. Verify repository identity, implemented runtime, and license from reachable primary sources."
+  },
+  {
+    "name": "omnirush-gui",
+    "url": "https://github.com/omnirush-ai/omnirush-gui",
+    "discoveredAt": "2026-10-09",
+    "signalUrl": "https://github.com/omnirush-ai/omnirush-gui",
+    "reason": "Desktop coding agent; release and license need a full primary review."
+  },
+  {
+    "name": "jevgrep",
+    "url": "https://github.com/dzhng/jevgrep",
+    "discoveredAt": "2026-10-09",
+    "signalUrl": "https://github.com/dzhng/jevgrep",
+    "reason": "Code-context tool; implementation, license, and standalone identity need review."
+  },
+  {
+    "name": "magpie",
+    "url": "https://github.com/yetone/magpie",
+    "discoveredAt": "2026-10-09",
+    "signalUrl": "https://github.com/yetone/magpie",
+    "reason": "Cross-agent model routing; implementation and license need review."
+  },
+  {
+    "name": "agentbox",
+    "url": "https://github.com/savannahfeder/agentbox",
+    "discoveredAt": "2026-10-09",
+    "signalUrl": "https://github.com/savannahfeder/agentbox",
+    "reason": "Distinct owner from cataloged AgentBox; fuzzy name and product identity need review."
+  },
+  {
+    "name": "PhysicalCoding",
+    "url": "https://github.com/HexaFuture/PhysicalCoding",
+    "discoveredAt": "2026-10-09",
+    "signalUrl": "https://github.com/HexaFuture/PhysicalCoding",
+    "reason": "Physical-world coding agents; implementation and license need review."
+  },
+  {
+    "name": "agent-monitor",
+    "url": "https://github.com/donvito/agent-monitor",
+    "discoveredAt": "2026-10-09",
+    "signalUrl": "https://github.com/donvito/agent-monitor",
+    "reason": "Agent observability tool; implemented scope and license need review."
+  },
+  {
+    "name": "agent-guard",
+    "url": "https://github.com/hahahahahahahahah6/agent-guard",
+    "discoveredAt": "2026-10-09",
+    "signalUrl": "https://github.com/hahahahahahahahah6/agent-guard",
+    "reason": "Agent policy hooks; implemented scope and license need review."
+  },
+  {
+    "name": "codex-on-crack",
+    "url": "https://github.com/ethanplusai/codex-on-crack",
+    "discoveredAt": "2026-10-09",
+    "signalUrl": "https://github.com/ethanplusai/codex-on-crack",
+    "reason": "Cross-model orchestration; implemented scope and license need review."
+  },
+  {
+    "name": "rrsi",
+    "url": "https://github.com/google-research/rrsi",
+    "discoveredAt": "2026-10-09",
+    "signalUrl": "https://github.com/google-research/rrsi",
+    "reason": "Research source; determine reusable runtime or evaluation role."
+  },
+  {
+    "name": "p3-stack",
+    "url": "https://github.com/uzairansaruzi/p3-stack",
+    "discoveredAt": "2026-10-09",
+    "signalUrl": "https://github.com/uzairansaruzi/p3-stack",
+    "reason": "Delegated coding-agent tooling; implemented scope and license need review."
+  },
+  {
+    "name": "hermes-virtual-office",
+    "url": "https://github.com/JuniorXcoder/hermes-virtual-office",
+    "discoveredAt": "2026-10-09",
+    "signalUrl": "https://github.com/JuniorXcoder/hermes-virtual-office",
+    "reason": "Agent fleet interface; determine material orchestration role and license."
+  },
+  {
+    "name": "agent-orchestrator",
+    "url": "https://github.com/Augani/agent-orchestrator",
+    "discoveredAt": "2026-10-09",
+    "signalUrl": "https://github.com/Augani/agent-orchestrator",
+    "reason": "Distinct owner from cataloged Agent Orchestrator; fuzzy name, implementation, and license need review."
+  },
+  {
+    "name": "JevLoop",
+    "url": "https://github.com/zjunlp/JevLoop",
+    "discoveredAt": "2026-10-09",
+    "signalUrl": "https://github.com/zjunlp/JevLoop",
+    "reason": "Agent runtime claim; implementation and license need review."
+  },
+  {
+    "name": "OkHuman",
+    "url": "https://github.com/Donald24718/OkHuman",
+    "discoveredAt": "2026-10-09",
+    "signalUrl": "https://github.com/Donald24718/OkHuman",
+    "reason": "Personal agent runtime; implementation and license need review."
+  },
+  {
+    "name": "kyora",
+    "url": "https://github.com/kyora-sh/kyora",
+    "discoveredAt": "2026-10-09",
+    "signalUrl": "https://github.com/kyora-sh/kyora",
+    "reason": "Early-development Rust runtime; validate working agent loop beyond TUI demo."
+  },
+  {
+    "name": "agent-reliability-runtime",
+    "url": "https://github.com/yasuss/agent-reliability-runtime",
+    "discoveredAt": "2026-10-09",
+    "signalUrl": "https://github.com/yasuss/agent-reliability-runtime",
+    "reason": "Reference implementation; determine reusable product identity versus demonstration."
+  },
+  {
+    "name": "AgentBridgeStudio",
+    "url": "https://github.com/iancheng64-cmd/AgentBridgeStudio",
+    "discoveredAt": "2026-10-09",
+    "signalUrl": "https://github.com/iancheng64-cmd/AgentBridgeStudio",
+    "reason": "Remote agent client; determine material harness role and license."
+  },
+  {
+    "name": "AX",
+    "url": "https://github.com/Axium-Labs/AX",
+    "discoveredAt": "2026-10-09",
+    "signalUrl": "https://github.com/Axium-Labs/AX",
+    "reason": "Agent runtime claim; implementation and license need review."
+  },
+  {
+    "name": "lcu",
+    "url": "https://github.com/amontlabs/lcu",
+    "discoveredAt": "2026-10-09",
+    "signalUrl": "https://github.com/amontlabs/lcu",
+    "reason": "Codex computer-use bridge; implementation and license need review."
+  },
+  {
+    "name": "harness-zero",
+    "url": "https://github.com/metaevo-ai/harness-zero",
+    "discoveredAt": "2026-10-09",
+    "signalUrl": "https://github.com/metaevo-ai/harness-zero",
+    "reason": "Research harness; verify released reusable implementation and license."
+  },
+  {
+    "name": "nanoMuse",
+    "url": "https://github.com/nano-muse/nanoMuse",
+    "discoveredAt": "2026-10-09",
+    "signalUrl": "https://github.com/nano-muse/nanoMuse",
+    "reason": "Persistent personal agent; implementation, release, and license need review."
+  },
+  {
+    "name": "Qwen-Planner-Agent",
+    "url": "https://github.com/Tongyi-MAI/Qwen-Planner-Agent",
+    "discoveredAt": "2026-10-09",
+    "signalUrl": "https://github.com/Tongyi-MAI/Qwen-Planner-Agent",
+    "reason": "Planning agent framework; determine reusable runtime role and license."
+  },
+  {
+    "name": "AutoBE",
+    "url": "https://github.com/wrtnlabs/autobe",
+    "discoveredAt": "2026-08-28",
+    "signalUrl": "https://github.com/wrtnlabs/autobe",
+    "reason": "Previously published official site failed and authenticated GitHub repository/license returned 404 on 2026-10-09. Canonical ownership, source, and licensing are no longer independently verifiable. Original record preserved in weekly audit."
+  },
+  {
+    "name": "Agent Console",
+    "url": "https://github.com/LockedinLabs-AI/agent-console",
+    "discoveredAt": "2026-10-02",
+    "signalUrl": "https://github.com/LockedinLabs-AI/agent-console",
+    "reason": "Previously published repository and license returned authenticated GitHub 404 on 2026-10-09. Canonical ownership, source, and licensing are no longer independently verifiable. Original record preserved in weekly audit."
   }
 ]
