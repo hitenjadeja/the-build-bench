@@ -1,11 +1,11 @@
 # Harness discovery evidence report
 
-Run date: 2026-10-05
+Run date: 2026-10-12
 
 This is a dry research artifact. It does not modify `data/harnesses.v1.json`.
 
 - Proposed candidates: 15
-- Exact duplicates excluded: 27
+- Exact duplicates excluded: 26
 - Fuzzy matches flagged, never merged: 0
 - Partial lanes: none
 
@@ -15,7 +15,6 @@ This is a dry research artifact. It does not modify `data/harnesses.v1.json`.
 - jcode (1jehuang): repository identity, normalised name + company
 - ouroboros (Q00): repository identity, canonical URL, normalised name + company
 - abtop (graykode): repository identity, canonical URL, normalised name + company
-- autobe (wrtnlabs): repository identity, canonical URL
 - Empryo (proxysoul): repository identity, canonical URL, normalised name + company
 - gentle-shell (Gentleman-Programming): repository identity, normalised name + company
 - PiDeck (ayuayue): repository identity, normalised name + company
@@ -34,10 +33,10 @@ This is a dry research artifact. It does not modify `data/harnesses.v1.json`.
 - openinterpreter (openinterpreter): repository identity, canonical URL, normalised name + company
 - chrome-devtools-mcp (ChromeDevTools): repository identity, normalised name + company
 - herdr (herdrdev): repository identity, canonical URL
-- Codewhale (codewhale-hq): canonical URL
 - continue (continuedev): repository identity, normalised name + company
 - DeepSeek-Reasonix (esengine): repository identity, canonical URL, normalised name + company
 - oh-my-pi (can1357): repository identity, normalised name + company
+- agentmemory (rohitg00): repository identity, normalised name + company
 
 ## Fuzzy flags
 
