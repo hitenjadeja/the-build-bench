@@ -1440,5 +1440,187 @@
     "discoveredAt": "2026-10-02",
     "signalUrl": "https://github.com/LockedinLabs-AI/agent-console",
     "reason": "Previously published repository and license returned authenticated GitHub 404 on 2026-10-09. Canonical ownership, source, and licensing are no longer independently verifiable. Original record preserved in weekly audit."
+  },
+  {
+    "name": "ContextsBase",
+    "url": "https://www.contextsbase.com/mcp-server-for-coding-agents",
+    "discoveredAt": "2026-10-16",
+    "signalUrl": "https://www.contextsbase.com/mcp-server-for-coding-agents",
+    "reason": "Official MCP page describes an agent context and task-recording service, but the same domain homepage now presents a general document editor; resolve product identity and current availability."
+  },
+  {
+    "name": "CodeAgent (Harvil1)",
+    "url": "https://github.com/Harvil1/codeAgent",
+    "discoveredAt": "2026-10-16",
+    "signalUrl": "https://github.com/Harvil1/codeAgent",
+    "reason": "Repository description suggests a coding-agent loop; implementation, license, and independent project identity need full primary review."
+  },
+  {
+    "name": "Agent Security (solongate)",
+    "url": "https://github.com/solongate/agent-security",
+    "discoveredAt": "2026-10-16",
+    "signalUrl": "https://github.com/solongate/agent-security",
+    "reason": "Repository description suggests agent tool-call policy and audit controls; implementation, license, and provenance need full primary review."
+  },
+  {
+    "name": "TAP Runtime",
+    "url": "https://github.com/Telara-Labs/TAP-Runtime",
+    "discoveredAt": "2026-10-16",
+    "signalUrl": "https://github.com/Telara-Labs/TAP-Runtime",
+    "reason": "Repository description suggests sandboxed agent programs; implementation, license, and distribution need full primary review."
+  },
+  {
+    "name": "GnosisLab",
+    "url": "https://github.com/cloudcell/gnosislab",
+    "discoveredAt": "2026-10-16",
+    "signalUrl": "https://github.com/cloudcell/gnosislab",
+    "reason": "Repository description suggests an evidence-oriented agent runtime; implementation, license, and provenance need full primary review."
+  },
+  {
+    "name": "semwright",
+    "url": "https://github.com/seradotcom/semwright",
+    "discoveredAt": "2026-10-16",
+    "signalUrl": "https://github.com/seradotcom/semwright",
+    "reason": "Repository description suggests a software-use agent runtime; implementation, license, and project identity need full primary review."
+  },
+  {
+    "name": "open_scion",
+    "url": "https://github.com/feder-cr/open_scion",
+    "discoveredAt": "2026-10-16",
+    "signalUrl": "https://github.com/feder-cr/open_scion",
+    "reason": "Date-bounded GitHub search suggests a material agent runtime, orchestration, context, execution, or safety role; source implementation, license, provenance, and distinct identity require full primary-source review before publication."
+  },
+  {
+    "name": "AI-Scientist-v3",
+    "url": "https://github.com/SakanaAI/AI-Scientist-v3",
+    "discoveredAt": "2026-10-16",
+    "signalUrl": "https://github.com/SakanaAI/AI-Scientist-v3",
+    "reason": "Date-bounded GitHub search suggests a material agent runtime, orchestration, context, execution, or safety role; source implementation, license, provenance, and distinct identity require full primary-source review before publication."
+  },
+  {
+    "name": "agentplay",
+    "url": "https://github.com/Entelligence-AI/agentplay",
+    "discoveredAt": "2026-10-16",
+    "signalUrl": "https://github.com/Entelligence-AI/agentplay",
+    "reason": "Date-bounded GitHub search suggests a material agent runtime, orchestration, context, execution, or safety role; source implementation, license, provenance, and distinct identity require full primary-source review before publication."
+  },
+  {
+    "name": "herdr-projects",
+    "url": "https://github.com/eliasstravik/herdr-projects",
+    "discoveredAt": "2026-10-16",
+    "signalUrl": "https://github.com/eliasstravik/herdr-projects",
+    "reason": "Date-bounded GitHub search suggests a material agent runtime, orchestration, context, execution, or safety role; source implementation, license, provenance, and distinct identity require full primary-source review before publication."
+  },
+  {
+    "name": "openqodex",
+    "url": "https://github.com/openqodex/openqodex",
+    "discoveredAt": "2026-10-16",
+    "signalUrl": "https://github.com/openqodex/openqodex",
+    "reason": "Date-bounded GitHub search suggests a material agent runtime, orchestration, context, execution, or safety role; source implementation, license, provenance, and distinct identity require full primary-source review before publication."
+  },
+  {
+    "name": "Agent Control",
+    "url": "https://github.com/loulanyue/agent-control",
+    "discoveredAt": "2026-10-16",
+    "signalUrl": "https://github.com/loulanyue/agent-control",
+    "reason": "Date-bounded GitHub search suggests a material agent runtime, orchestration, context, execution, or safety role; source implementation, license, provenance, and distinct identity require full primary-source review before publication."
+  },
+  {
+    "name": "prometheus_core",
+    "url": "https://github.com/idaholab/prometheus_core",
+    "discoveredAt": "2026-10-16",
+    "signalUrl": "https://github.com/idaholab/prometheus_core",
+    "reason": "Date-bounded GitHub search suggests a material agent runtime, orchestration, context, execution, or safety role; source implementation, license, provenance, and distinct identity require full primary-source review before publication."
+  },
+  {
+    "name": "HogAgent",
+    "url": "https://github.com/hedgehog-finance/HogAgent",
+    "discoveredAt": "2026-10-16",
+    "signalUrl": "https://github.com/hedgehog-finance/HogAgent",
+    "reason": "Date-bounded GitHub search suggests a material agent runtime, orchestration, context, execution, or safety role; source implementation, license, provenance, and distinct identity require full primary-source review before publication."
+  },
+  {
+    "name": "agent-orca",
+    "url": "https://github.com/heddles/agent-orca",
+    "discoveredAt": "2026-10-16",
+    "signalUrl": "https://github.com/heddles/agent-orca",
+    "reason": "Date-bounded GitHub search suggests a material agent runtime, orchestration, context, execution, or safety role; source implementation, license, provenance, and distinct identity require full primary-source review before publication."
+  },
+  {
+    "name": "Comma",
+    "url": "https://github.com/AFK-surf/Comma",
+    "discoveredAt": "2026-10-16",
+    "signalUrl": "https://github.com/AFK-surf/Comma",
+    "reason": "Date-bounded GitHub search suggests a material agent runtime, orchestration, context, execution, or safety role; source implementation, license, provenance, and distinct identity require full primary-source review before publication."
+  },
+  {
+    "name": "Vitra",
+    "url": "https://github.com/ruhamabek/Vitra",
+    "discoveredAt": "2026-10-16",
+    "signalUrl": "https://github.com/ruhamabek/Vitra",
+    "reason": "Date-bounded GitHub search suggests a material agent runtime, orchestration, context, execution, or safety role; source implementation, license, provenance, and distinct identity require full primary-source review before publication."
+  },
+  {
+    "name": "rutis",
+    "url": "https://github.com/arcships/rutis",
+    "discoveredAt": "2026-10-16",
+    "signalUrl": "https://github.com/arcships/rutis",
+    "reason": "Date-bounded GitHub search suggests a material agent runtime, orchestration, context, execution, or safety role; source implementation, license, provenance, and distinct identity require full primary-source review before publication."
+  },
+  {
+    "name": "Ring Zero Agent Runtime Security",
+    "url": "https://github.com/ringzerosec/jev-runtime-security",
+    "discoveredAt": "2026-10-16",
+    "signalUrl": "https://github.com/ringzerosec/jev-runtime-security",
+    "reason": "Date-bounded GitHub search suggests a material agent runtime, orchestration, context, execution, or safety role; source implementation, license, provenance, and distinct identity require full primary-source review before publication."
+  },
+  {
+    "name": "OrdiBot",
+    "url": "https://github.com/Btkkgo/OrdiBot",
+    "discoveredAt": "2026-10-16",
+    "signalUrl": "https://github.com/Btkkgo/OrdiBot",
+    "reason": "Date-bounded GitHub search suggests a material agent runtime, orchestration, context, execution, or safety role; source implementation, license, provenance, and distinct identity require full primary-source review before publication."
+  },
+  {
+    "name": "agent-keel",
+    "url": "https://github.com/ryang420/agent-keel",
+    "discoveredAt": "2026-10-16",
+    "signalUrl": "https://github.com/ryang420/agent-keel",
+    "reason": "Date-bounded GitHub search suggests a material agent runtime, orchestration, context, execution, or safety role; source implementation, license, provenance, and distinct identity require full primary-source review before publication."
+  },
+  {
+    "name": "PiDurableKit",
+    "url": "https://github.com/finnvoor/PiDurableKit",
+    "discoveredAt": "2026-10-16",
+    "signalUrl": "https://github.com/finnvoor/PiDurableKit",
+    "reason": "Date-bounded GitHub search suggests a material agent runtime, orchestration, context, execution, or safety role; source implementation, license, provenance, and distinct identity require full primary-source review before publication."
+  },
+  {
+    "name": "DeepSeek-Bot",
+    "url": "https://github.com/Fei2411/DeepSeek-Bot",
+    "discoveredAt": "2026-10-16",
+    "signalUrl": "https://github.com/Fei2411/DeepSeek-Bot",
+    "reason": "Date-bounded GitHub search suggests a material agent runtime, orchestration, context, execution, or safety role; source implementation, license, provenance, and distinct identity require full primary-source review before publication."
+  },
+  {
+    "name": "harness2",
+    "url": "https://github.com/google-research/harness2",
+    "discoveredAt": "2026-10-16",
+    "signalUrl": "https://github.com/google-research/harness2",
+    "reason": "Date-bounded GitHub search suggests a material agent runtime, orchestration, context, execution, or safety role; source implementation, license, provenance, and distinct identity require full primary-source review before publication."
+  },
+  {
+    "name": "Feather agent harness",
+    "url": "https://github.com/paper-instruments/feather-train",
+    "discoveredAt": "2026-10-16",
+    "signalUrl": "https://github.com/paper-instruments/feather-train",
+    "reason": "Date-bounded GitHub search suggests a material agent runtime, orchestration, context, execution, or safety role; source implementation, license, provenance, and distinct identity require full primary-source review before publication."
+  },
+  {
+    "name": "Wappy",
+    "url": "https://github.com/csr1010/wappy-kit",
+    "discoveredAt": "2026-10-16",
+    "signalUrl": "https://github.com/csr1010/wappy-kit",
+    "reason": "Date-bounded GitHub search suggests a material agent runtime, orchestration, context, execution, or safety role; source implementation, license, provenance, and distinct identity require full primary-source review before publication."
   }
 ]

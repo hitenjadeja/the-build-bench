@@ -1,6 +1,6 @@
 {
   "version": "1.1.0",
-  "generatedAt": "2026-10-09",
+  "generatedAt": "2026-10-16",
   "sources": [
     {
       "name": "best-of-Agent-Harnesses",
@@ -13016,6 +13016,109 @@
       ],
       "discoveredDate": "2026-10-09",
       "lastVerifiedDate": "2026-10-09"
+    },
+    {
+      "id": "perplexity-space",
+      "name": "SPACE",
+      "company": "Perplexity",
+      "description": "Open-source sandbox platform for agentic code execution with isolated Firecracker microVMs, command sessions, lifecycle APIs, and pluggable runtimes.",
+      "capabilities": [
+        "Sandboxed execution",
+        "Tool use",
+        "Session management"
+      ],
+      "languages": [
+        "Rust"
+      ],
+      "license": "Apache-2.0",
+      "availability": "open-source",
+      "officialUrl": "https://github.com/perplexityai/SPACE",
+      "repositoryUrl": "https://github.com/perplexityai/SPACE",
+      "monogram": "SP",
+      "tags": [
+        "sandbox",
+        "runtime",
+        "microvm"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "repository",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://github.com/perplexityai/SPACE",
+        "https://github.com/perplexityai/SPACE/blob/main/LICENSE",
+        "https://space.docs.perplexity.ai/guide/index.html"
+      ],
+      "discoveredDate": "2026-10-16",
+      "lastVerifiedDate": "2026-10-16"
+    },
+    {
+      "id": "digitalocean-harness-runtime",
+      "name": "Harness Runtime",
+      "company": "DigitalOcean",
+      "description": "Public-preview managed runtime that runs coding-agent harnesses in isolated sandboxes with session lifecycle, approvals, checkpoints, and remote execution.",
+      "capabilities": [
+        "Sandboxed execution",
+        "Agent orchestration",
+        "Safety & approvals"
+      ],
+      "languages": [
+        "Not specified"
+      ],
+      "license": "Commercial / proprietary",
+      "availability": "proprietary",
+      "officialUrl": "https://docs.digitalocean.com/reference/doctl/reference/harness-runtime/",
+      "repositoryUrl": null,
+      "monogram": "HR",
+      "tags": [
+        "cloud",
+        "public-preview",
+        "runtime"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "official-documentation",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://docs.digitalocean.com/reference/doctl/reference/harness-runtime/",
+        "https://docs.digitalocean.com/reference/doctl/reference/harness-runtime/launch/",
+        "https://www.digitalocean.com/legal/mars-preview-terms"
+      ],
+      "discoveredDate": "2026-10-16",
+      "lastVerifiedDate": "2026-10-16"
+    },
+    {
+      "id": "mongodb-atlas-agent-engine",
+      "name": "Atlas Agent Engine",
+      "company": "MongoDB",
+      "description": "Public-preview agent platform combining isolated execution, long-term memory, retrieval, identity-based tool controls, policy, and run tracing.",
+      "capabilities": [
+        "Agent orchestration",
+        "Memory & state",
+        "Safety & approvals",
+        "Observability"
+      ],
+      "languages": [
+        "Not specified"
+      ],
+      "license": "Commercial / proprietary",
+      "availability": "proprietary",
+      "officialUrl": "https://www.mongodb.com/products/platform/atlas-agent-engine",
+      "repositoryUrl": null,
+      "monogram": "AE",
+      "tags": [
+        "cloud",
+        "public-preview",
+        "memory"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "official-product-page",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://www.mongodb.com/products/platform/atlas-agent-engine",
+        "https://www.mongodb.com/docs/agentengine/",
+        "https://www.mongodb.com/company/newsroom/press-releases/mongodb-launches-atlas-agent-engine-to-put-ai-agents-in-production-without-a-new-stack"
+      ],
+      "discoveredDate": "2026-10-16",
+      "lastVerifiedDate": "2026-10-16"
     }
   ]
 }
