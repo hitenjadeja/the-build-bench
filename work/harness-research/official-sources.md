@@ -1,7 +1,7 @@
 # official-sources
 
 Status: COMPLETE
-Run date: 2026-10-12
+Run date: 2026-10-19
 Mode: network dry run
 
 | name | company | capability | canonical URL | repository URL | evidence URL | notes |
@@ -392,6 +392,9 @@ Mode: network dry run
 | Agnes Harness | AgnesAI Labs | Agent orchestration, Tool use, Memory & state | https://github.com/AgnesAI-Labs/agnes-harness | https://github.com/AgnesAI-Labs/agnes-harness | https://github.com/AgnesAI-Labs/agnes-harness | Published source-verified; last verified 2026-10-09. |
 | Warp Factories | Warp | Multi-agent orchestration, Agent handoffs, Repository operations | https://docs.warp.dev/factories/ | null | https://docs.warp.dev/factories/ | Published source-verified; last verified 2026-10-09. |
 | AI Guardian | Bitdefender | Safety & approvals, Tool use, Observability | https://www.bitdefender.com/en-us/blog/hotforsecurity/bitdefender-ai-guardian-free-security-for-ai-agents | null | https://www.bitdefender.com/en-us/blog/hotforsecurity/bitdefender-ai-guardian-free-security-for-ai-agents | Published source-verified; last verified 2026-10-09. |
+| SPACE | Perplexity | Sandboxed execution, Tool use, Session management | https://github.com/perplexityai/SPACE | https://github.com/perplexityai/SPACE | https://github.com/perplexityai/SPACE | Published source-verified; last verified 2026-10-16. |
+| Harness Runtime | DigitalOcean | Sandboxed execution, Agent orchestration, Safety & approvals | https://docs.digitalocean.com/reference/doctl/reference/harness-runtime/ | null | https://docs.digitalocean.com/reference/doctl/reference/harness-runtime/ | Published source-verified; last verified 2026-10-16. |
+| Atlas Agent Engine | MongoDB | Agent orchestration, Memory & state, Safety & approvals, Observability | https://www.mongodb.com/products/platform/atlas-agent-engine | null | https://www.mongodb.com/products/platform/atlas-agent-engine | Published source-verified; last verified 2026-10-16. |
 | Codex | OpenAI | Repository operations | https://developers.openai.com/codex/ | https://github.com/openai/codex | https://github.com/openai/codex | Repository identity reachable; default branch main. |
 | Claude Code | Anthropic | Repository operations | https://code.claude.com/docs/en/overview | https://github.com/anthropics/claude-code | https://github.com/anthropics/claude-code | Repository identity reachable; default branch main. |
 | Grok Build | SpaceXAI | Repository operations | https://x.ai/cli | https://github.com/xai-org/grok-build | https://github.com/xai-org/grok-build | Repository identity reachable; default branch main. |
@@ -726,7 +729,7 @@ Mode: network dry run
 | Imza | umutsevdi | Repository operations | https://github.com/umutsevdi/imza | https://github.com/umutsevdi/imza | https://github.com/umutsevdi/imza | Repository identity reachable; default branch main. |
 | AgentSurf | ztao0916 | Browser automation | https://github.com/ztao0916/agentsurf-browser-control-runtime | https://github.com/ztao0916/agentsurf-browser-control-runtime | https://github.com/ztao0916/agentsurf-browser-control-runtime | Repository identity reachable; default branch main. |
 | Nosis | EvannZhongg | Agent loop | https://github.com/EvannZhongg/Nosis | https://github.com/EvannZhongg/Nosis | https://github.com/EvannZhongg/Nosis | Repository identity reachable; default branch main. |
-| Memory Layer | Olivier Van Acker | Memory & state | https://www.memory-layer.dev/docs | https://github.com/3vilM33pl3/memory | https://github.com/3vilM33pl3/memory | Repository identity reachable; default branch main. |
+| Memory Layer | Olivier Van Acker | Memory & state | https://www.memory-layer.dev/docs | https://github.com/3vilM33pl3/memory | https://github.com/3vilM33pl3/codifix | Repository identity reachable; default branch main. |
 | Coder Eval | UiPath | Evaluation harness | https://coder-eval.com/ | https://github.com/UiPath/coder_eval | https://github.com/UiPath/coder_eval | Repository identity reachable; default branch main. |
 | OpenAgentCore | MiniMax AI | Agent orchestration | https://github.com/MiniMax-AI/OpenAgentCore | https://github.com/MiniMax-AI/OpenAgentCore | https://github.com/MiniMax-AI/OpenAgentCore | Repository identity reachable; default branch main. |
 | Qwen-Live-Harness | Qwen | Agent orchestration | https://github.com/QwenLM/Qwen-Live-Harness | https://github.com/QwenLM/Qwen-Live-Harness | https://github.com/QwenLM/Qwen-Live-Harness | Repository identity reachable; default branch main. |
@@ -746,3 +749,4 @@ Mode: network dry run
 | OpenDots | OpenDots | Agent orchestration | https://github.com/Shashankss1205/OpenDots | https://github.com/Shashankss1205/OpenDots | https://github.com/Shashankss1205/OpenDots | Repository identity reachable; default branch main. |
 | Nucleo | Redouble AI | Agent orchestration | https://github.com/redouble-ai/nucleo | https://github.com/redouble-ai/nucleo | https://github.com/redouble-ai/nucleo | Repository identity reachable; default branch main. |
 | Agnes Harness | AgnesAI Labs | Agent orchestration | https://github.com/AgnesAI-Labs/agnes-harness | https://github.com/AgnesAI-Labs/agnes-harness | https://github.com/AgnesAI-Labs/agnes-harness | Repository identity reachable; default branch main. |
+| SPACE | Perplexity | Sandboxed execution | https://github.com/perplexityai/SPACE | https://github.com/perplexityai/SPACE | https://github.com/perplexityai/SPACE | Repository identity reachable; default branch main. |

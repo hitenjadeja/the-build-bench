@@ -1,11 +1,11 @@
 # Harness discovery evidence report
 
-Run date: 2026-10-12
+Run date: 2026-10-19
 
 This is a dry research artifact. It does not modify `data/harnesses.v1.json`.
 
-- Proposed candidates: 15
-- Exact duplicates excluded: 26
+- Proposed candidates: 17
+- Exact duplicates excluded: 24
 - Fuzzy matches flagged, never merged: 0
 - Partial lanes: none
 
@@ -21,22 +21,20 @@ This is a dry research artifact. It does not modify `data/harnesses.v1.json`.
 - pi-web (jmfederico): repository identity, canonical URL, normalised name + company
 - RunVSAgent (wecode-ai): repository identity, canonical URL
 - agent-kanban (saltbo): repository identity, canonical URL, normalised name + company
-- vix (get-vix): repository identity, canonical URL, normalised name + company
 - opencode (anomalyco): repository identity, canonical URL
 - codex (openai): repository identity, normalised name + company
 - pi (earendil-works): repository identity, canonical URL, normalised name + company
 - agent-skills (addyosmani): repository identity
-- open-design (nexu-io): repository identity
-- orca (stablyai): repository identity, canonical URL, normalised name + company
+- orca (stablyai): repository identity, normalised name + company
 - headroom (headroomlabs-ai): repository identity, normalised name + company
 - cline (cline): repository identity, normalised name + company
 - openinterpreter (openinterpreter): repository identity, canonical URL, normalised name + company
 - chrome-devtools-mcp (ChromeDevTools): repository identity, normalised name + company
 - herdr (herdrdev): repository identity, canonical URL
 - continue (continuedev): repository identity, normalised name + company
-- DeepSeek-Reasonix (esengine): repository identity, canonical URL, normalised name + company
 - oh-my-pi (can1357): repository identity, normalised name + company
-- agentmemory (rohitg00): repository identity, normalised name + company
+- DeepSeek-Reasonix (esengine): repository identity, canonical URL, normalised name + company
+- context-mode (mksglu): repository identity, normalised name + company
 
 ## Fuzzy flags
 

@@ -1,7 +1,7 @@
 # broad-verification
 
 Status: COMPLETE
-Run date: 2026-10-12
+Run date: 2026-10-19
 Mode: network dry run
 
 | name | company | capability | canonical URL | repository URL | evidence URL | notes |
@@ -11,13 +11,15 @@ Mode: network dry run
 | delegate-skills | amElnagdy | AI coding / project harness | https://www.skills.sh/amelnagdy/delegate-skills | https://github.com/amElnagdy/delegate-skills | https://github.com/amElnagdy/delegate-skills | Compiled from discovery; exact duplicate checks passed. Human verification still required. |
 | claude-code-prompts | repowise-dev | AI coding / project harness | https://github.com/repowise-dev/claude-code-prompts | https://github.com/repowise-dev/claude-code-prompts | https://github.com/repowise-dev/claude-code-prompts | Compiled from discovery; exact duplicate checks passed. Human verification still required. |
 | codex-mobile | friuns2 | AI coding / project harness | https://friuns2.github.io/codex-mobile/ | https://github.com/friuns2/codex-mobile | https://github.com/friuns2/codex-mobile | Compiled from discovery; exact duplicate checks passed. Human verification still required. |
-| compass-skills | dongshuyan | AI coding / project harness | https://github.com/dongshuyan/compass-skills | https://github.com/dongshuyan/compass-skills | https://github.com/dongshuyan/compass-skills | Compiled from discovery; exact duplicate checks passed. Human verification still required. |
 | ohmygame | WhiteTowerAI | AI coding / project harness | https://ohmygame.ai/ | https://github.com/WhiteTowerAI/ohmygame | https://github.com/WhiteTowerAI/ohmygame | Compiled from discovery; exact duplicate checks passed. Human verification still required. |
+| compass-skills | dongshuyan | AI coding / project harness | https://github.com/dongshuyan/compass-skills | https://github.com/dongshuyan/compass-skills | https://github.com/dongshuyan/compass-skills | Compiled from discovery; exact duplicate checks passed. Human verification still required. |
+| claude-code-for-beginners | koki7o | AI coding / project harness | https://thedevfounder.com/claude-code?utm_source=github&utm_medium=about | https://github.com/koki7o/claude-code-for-beginners | https://github.com/koki7o/claude-code-for-beginners | Compiled from discovery; exact duplicate checks passed. Human verification still required. |
 | ai-assisted-engineering | JohnCrickett | AI coding / project harness | https://github.com/JohnCrickett/ai-assisted-engineering | https://github.com/JohnCrickett/ai-assisted-engineering | https://github.com/JohnCrickett/ai-assisted-engineering | Compiled from discovery; exact duplicate checks passed. Human verification still required. |
 | spring-boot-skills | rrezartprebreza | AI coding / project harness | https://github.com/rrezartprebreza/spring-boot-skills | https://github.com/rrezartprebreza/spring-boot-skills | https://github.com/rrezartprebreza/spring-boot-skills | Compiled from discovery; exact duplicate checks passed. Human verification still required. |
 | awesome-design-md | VoltAgent | AI coding / project harness | https://getdesign.md/ | https://github.com/VoltAgent/awesome-design-md | https://github.com/VoltAgent/awesome-design-md | Compiled from discovery; exact duplicate checks passed. Human verification still required. |
 | caveman | JuliusBrussee | AI coding / project harness | https://docs.caveman.so/caveman | https://github.com/JuliusBrussee/caveman | https://github.com/JuliusBrussee/caveman | Compiled from discovery; exact duplicate checks passed. Human verification still required. |
+| taste-skill | Leonxlnx | AI coding / project harness | https://tasteskill.dev | https://github.com/Leonxlnx/taste-skill | https://github.com/Leonxlnx/taste-skill | Compiled from discovery; exact duplicate checks passed. Human verification still required. |
 | i-have-adhd | ayghri | AI coding / project harness | https://github.com/ayghri/i-have-adhd | https://github.com/ayghri/i-have-adhd | https://github.com/ayghri/i-have-adhd | Compiled from discovery; exact duplicate checks passed. Human verification still required. |
 | ai-website-cloner-template | JCodesMore | AI coding / project harness | https://dsc.gg/jcodesmore | https://github.com/JCodesMore/ai-website-cloner-template | https://github.com/JCodesMore/ai-website-cloner-template | Compiled from discovery; exact duplicate checks passed. Human verification still required. |
-| frontend-slides | zarazhangrui | AI coding / project harness | https://github.com/zarazhangrui/frontend-slides | https://github.com/zarazhangrui/frontend-slides | https://github.com/zarazhangrui/frontend-slides | Compiled from discovery; exact duplicate checks passed. Human verification still required. |
+| security-audit-skill | cloudflare | AI coding / project harness | https://github.com/cloudflare/security-audit-skill | https://github.com/cloudflare/security-audit-skill | https://github.com/cloudflare/security-audit-skill | Compiled from discovery; exact duplicate checks passed. Human verification still required. |
 | xyteeecode | xyteee | AI coding / project harness | https://xyteee.com | https://xyteee.com | https://xyteee.com | Compiled from discovery; exact duplicate checks passed. Human verification still required. |

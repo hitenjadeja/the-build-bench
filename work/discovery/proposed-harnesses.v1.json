@@ -1,6 +1,6 @@
 {
   "version": "1.1.0",
-  "generatedAt": "2026-10-12",
+  "generatedAt": "2026-10-19",
   "sources": [
     {
       "name": "best-of-Agent-Harnesses",
@@ -46,8 +46,8 @@
         "https://github.com/alirezarezvani/claude-skills",
         "https://alirezarezvani.medium.com/"
       ],
-      "discoveredDate": "2026-10-12",
-      "lastVerifiedDate": "2026-10-12"
+      "discoveredDate": "2026-10-19",
+      "lastVerifiedDate": "2026-10-19"
     },
     {
       "id": "miqdadbadjuber-antislop",
@@ -78,8 +78,8 @@
         "https://api.github.com/search/repositories?sort=stars&order=desc&per_page=20&q=topic%3Aai-coding-agent%20archived%3Afalse",
         "https://github.com/miqdadbadjuber/anti-slop"
       ],
-      "discoveredDate": "2026-10-12",
-      "lastVerifiedDate": "2026-10-12"
+      "discoveredDate": "2026-10-19",
+      "lastVerifiedDate": "2026-10-19"
     },
     {
       "id": "amelnagdy-delegateskills",
@@ -111,8 +111,8 @@
         "https://github.com/amElnagdy/delegate-skills",
         "https://www.skills.sh/amelnagdy/delegate-skills"
       ],
-      "discoveredDate": "2026-10-12",
-      "lastVerifiedDate": "2026-10-12"
+      "discoveredDate": "2026-10-19",
+      "lastVerifiedDate": "2026-10-19"
     },
     {
       "id": "repowisedev-claudecodeprompts",
@@ -143,8 +143,8 @@
         "https://api.github.com/search/repositories?sort=stars&order=desc&per_page=20&q=topic%3Aai-coding-agent%20archived%3Afalse",
         "https://github.com/repowise-dev/claude-code-prompts"
       ],
-      "discoveredDate": "2026-10-12",
-      "lastVerifiedDate": "2026-10-12"
+      "discoveredDate": "2026-10-19",
+      "lastVerifiedDate": "2026-10-19"
     },
     {
       "id": "friuns2-codexmobile",
@@ -176,40 +176,8 @@
         "https://github.com/friuns2/codex-mobile",
         "https://friuns2.github.io/codex-mobile/"
       ],
-      "discoveredDate": "2026-10-12",
-      "lastVerifiedDate": "2026-10-12"
-    },
-    {
-      "id": "dongshuyan-compassskills",
-      "name": "compass-skills",
-      "company": "dongshuyan",
-      "description": "司南：个性化 AI 任务总控 Skills 系统 /COMPASS: Personal Alignment Skills OS for AI Agents",
-      "capabilities": [
-        "Repository operations"
-      ],
-      "languages": [
-        "Python"
-      ],
-      "license": "MIT",
-      "availability": "unclear",
-      "officialUrl": "https://github.com/dongshuyan/compass-skills",
-      "repositoryUrl": "https://github.com/dongshuyan/compass-skills",
-      "monogram": "CO",
-      "tags": [
-        "agent-memory",
-        "agent-skill",
-        "discovered",
-        "needs review"
-      ],
-      "reviewStatus": "needs-review",
-      "sourceKind": "discovery-candidate",
-      "provenance": "independent-discovery",
-      "sourceUrls": [
-        "https://api.github.com/search/repositories?sort=stars&order=desc&per_page=20&q=topic%3Aai-coding-agent%20archived%3Afalse",
-        "https://github.com/dongshuyan/compass-skills"
-      ],
-      "discoveredDate": "2026-10-12",
-      "lastVerifiedDate": "2026-10-12"
+      "discoveredDate": "2026-10-19",
+      "lastVerifiedDate": "2026-10-19"
     },
     {
       "id": "whitetowerai-ohmygame",
@@ -241,8 +209,73 @@
         "https://github.com/WhiteTowerAI/ohmygame",
         "https://ohmygame.ai/"
       ],
-      "discoveredDate": "2026-10-12",
-      "lastVerifiedDate": "2026-10-12"
+      "discoveredDate": "2026-10-19",
+      "lastVerifiedDate": "2026-10-19"
+    },
+    {
+      "id": "dongshuyan-compassskills",
+      "name": "compass-skills",
+      "company": "dongshuyan",
+      "description": "司南：个性化 AI 任务总控 Skills 系统 /COMPASS: Personal Alignment Skills OS for AI Agents",
+      "capabilities": [
+        "Repository operations"
+      ],
+      "languages": [
+        "Python"
+      ],
+      "license": "MIT",
+      "availability": "unclear",
+      "officialUrl": "https://github.com/dongshuyan/compass-skills",
+      "repositoryUrl": "https://github.com/dongshuyan/compass-skills",
+      "monogram": "CO",
+      "tags": [
+        "agent-memory",
+        "agent-skill",
+        "discovered",
+        "needs review"
+      ],
+      "reviewStatus": "needs-review",
+      "sourceKind": "discovery-candidate",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://api.github.com/search/repositories?sort=stars&order=desc&per_page=20&q=topic%3Aai-coding-agent%20archived%3Afalse",
+        "https://github.com/dongshuyan/compass-skills"
+      ],
+      "discoveredDate": "2026-10-19",
+      "lastVerifiedDate": "2026-10-19"
+    },
+    {
+      "id": "koki7o-claudecodeforbeginners",
+      "name": "claude-code-for-beginners",
+      "company": "koki7o",
+      "description": "Your Complete Beginner's Course to Mastering AI-Powered Development with Claude Code",
+      "capabilities": [
+        "Repository operations"
+      ],
+      "languages": [
+        "Unknown"
+      ],
+      "license": "Unknown",
+      "availability": "unclear",
+      "officialUrl": "https://thedevfounder.com/claude-code?utm_source=github&utm_medium=about",
+      "repositoryUrl": "https://github.com/koki7o/claude-code-for-beginners",
+      "monogram": "CL",
+      "tags": [
+        "agentic-coding",
+        "ai-coding",
+        "discovered",
+        "needs review"
+      ],
+      "reviewStatus": "needs-review",
+      "sourceKind": "discovery-candidate",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://api.github.com/search/repositories?sort=stars&order=desc&per_page=20&q=topic%3Aai-coding-agent%20archived%3Afalse",
+        "https://github.com/koki7o/claude-code-for-beginners",
+        "https://thedevfounder.com/claude-code?utm_source=github&utm_medium=about"
+      ],
+      "discoveredDate": "2026-10-19",
+      "lastVerifiedDate": "2026-10-19"
     },
     {
       "id": "johncrickett-aiassistedengineering",
@@ -273,8 +306,8 @@
         "https://api.github.com/search/repositories?sort=stars&order=desc&per_page=20&q=topic%3Aai-coding-agent%20archived%3Afalse",
         "https://github.com/JohnCrickett/ai-assisted-engineering"
       ],
-      "discoveredDate": "2026-10-12",
-      "lastVerifiedDate": "2026-10-12"
+      "discoveredDate": "2026-10-19",
+      "lastVerifiedDate": "2026-10-19"
     },
     {
       "id": "rrezartprebreza-springbootskills",
@@ -305,8 +338,8 @@
         "https://api.github.com/search/repositories?sort=stars&order=desc&per_page=20&q=topic%3Aai-coding-agent%20archived%3Afalse",
         "https://github.com/rrezartprebreza/spring-boot-skills"
       ],
-      "discoveredDate": "2026-10-12",
-      "lastVerifiedDate": "2026-10-12"
+      "discoveredDate": "2026-10-19",
+      "lastVerifiedDate": "2026-10-19"
     },
     {
       "id": "voltagent-awesomedesignmd",
@@ -338,8 +371,8 @@
         "https://github.com/VoltAgent/awesome-design-md",
         "https://getdesign.md/"
       ],
-      "discoveredDate": "2026-10-12",
-      "lastVerifiedDate": "2026-10-12"
+      "discoveredDate": "2026-10-19",
+      "lastVerifiedDate": "2026-10-19"
     },
     {
       "id": "juliusbrussee-caveman",
@@ -371,8 +404,41 @@
         "https://github.com/JuliusBrussee/caveman",
         "https://docs.caveman.so/caveman"
       ],
-      "discoveredDate": "2026-10-12",
-      "lastVerifiedDate": "2026-10-12"
+      "discoveredDate": "2026-10-19",
+      "lastVerifiedDate": "2026-10-19"
+    },
+    {
+      "id": "leonxlnx-tasteskill",
+      "name": "taste-skill",
+      "company": "Leonxlnx",
+      "description": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
+      "capabilities": [
+        "Repository operations"
+      ],
+      "languages": [
+        "JavaScript"
+      ],
+      "license": "MIT",
+      "availability": "unclear",
+      "officialUrl": "https://tasteskill.dev",
+      "repositoryUrl": "https://github.com/Leonxlnx/taste-skill",
+      "monogram": "TA",
+      "tags": [
+        "agent-skills",
+        "ai-agents",
+        "discovered",
+        "needs review"
+      ],
+      "reviewStatus": "needs-review",
+      "sourceKind": "discovery-candidate",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://api.github.com/search/repositories?sort=stars&order=desc&per_page=20&q=%22coding%20agent%22%20in%3Aname%2Cdescription%20stars%3A%3E500%20archived%3Afalse",
+        "https://github.com/Leonxlnx/taste-skill",
+        "https://tasteskill.dev"
+      ],
+      "discoveredDate": "2026-10-19",
+      "lastVerifiedDate": "2026-10-19"
     },
     {
       "id": "ayghri-ihaveadhd",
@@ -403,8 +469,8 @@
         "https://api.github.com/search/repositories?sort=stars&order=desc&per_page=20&q=%22coding%20agent%22%20in%3Aname%2Cdescription%20stars%3A%3E500%20archived%3Afalse",
         "https://github.com/ayghri/i-have-adhd"
       ],
-      "discoveredDate": "2026-10-12",
-      "lastVerifiedDate": "2026-10-12"
+      "discoveredDate": "2026-10-19",
+      "lastVerifiedDate": "2026-10-19"
     },
     {
       "id": "jcodesmore-aiwebsiteclonertemplate",
@@ -436,14 +502,14 @@
         "https://github.com/JCodesMore/ai-website-cloner-template",
         "https://dsc.gg/jcodesmore"
       ],
-      "discoveredDate": "2026-10-12",
-      "lastVerifiedDate": "2026-10-12"
+      "discoveredDate": "2026-10-19",
+      "lastVerifiedDate": "2026-10-19"
     },
     {
-      "id": "zarazhangrui-frontendslides",
-      "name": "frontend-slides",
-      "company": "zarazhangrui",
-      "description": "Create beautiful slides on the web using a coding agent's frontend skills",
+      "id": "cloudflare-securityauditskill",
+      "name": "security-audit-skill",
+      "company": "cloudflare",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "capabilities": [
         "Repository operations"
       ],
@@ -452,12 +518,10 @@
       ],
       "license": "MIT",
       "availability": "unclear",
-      "officialUrl": "https://github.com/zarazhangrui/frontend-slides",
-      "repositoryUrl": "https://github.com/zarazhangrui/frontend-slides",
-      "monogram": "FR",
+      "officialUrl": "https://github.com/cloudflare/security-audit-skill",
+      "repositoryUrl": "https://github.com/cloudflare/security-audit-skill",
+      "monogram": "SE",
       "tags": [
-        "ai-slides",
-        "anthropic",
         "discovered",
         "needs review"
       ],
@@ -466,10 +530,10 @@
       "provenance": "independent-discovery",
       "sourceUrls": [
         "https://api.github.com/search/repositories?sort=stars&order=desc&per_page=20&q=%22coding%20agent%22%20in%3Aname%2Cdescription%20stars%3A%3E500%20archived%3Afalse",
-        "https://github.com/zarazhangrui/frontend-slides"
+        "https://github.com/cloudflare/security-audit-skill"
       ],
-      "discoveredDate": "2026-10-12",
-      "lastVerifiedDate": "2026-10-12"
+      "discoveredDate": "2026-10-19",
+      "lastVerifiedDate": "2026-10-19"
     },
     {
       "id": "xyteee-xyteeecode",
@@ -500,8 +564,8 @@
         "https://www.npmjs.com/package/xyteeecode",
         "https://xyteee.com"
       ],
-      "discoveredDate": "2026-10-12",
-      "lastVerifiedDate": "2026-10-12"
+      "discoveredDate": "2026-10-19",
+      "lastVerifiedDate": "2026-10-19"
     }
   ]
 }
