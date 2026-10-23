@@ -1,6 +1,6 @@
 {
   "version": "1.1.0",
-  "generatedAt": "2026-10-16",
+  "generatedAt": "2026-10-23",
   "sources": [
     {
       "name": "best-of-Agent-Harnesses",
@@ -13119,6 +13119,173 @@
       ],
       "discoveredDate": "2026-10-16",
       "lastVerifiedDate": "2026-10-16"
+    },
+    {
+      "id": "cascade-agent-harness",
+      "name": "Cascade Agent Harness",
+      "company": "Cascade AI",
+      "description": "Governed orchestration layer for employee IT and HR requests that routes work across agents, workflows, and systems using employee context and permissions.",
+      "capabilities": [
+        "Agent orchestration",
+        "Context management",
+        "Safety & approvals"
+      ],
+      "languages": [
+        "Not specified"
+      ],
+      "license": "Commercial / proprietary",
+      "availability": "proprietary",
+      "officialUrl": "https://gocascade.ai/article/cascade-launches-agent-harness/",
+      "repositoryUrl": null,
+      "monogram": "CA",
+      "tags": [
+        "enterprise",
+        "orchestration",
+        "governance"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "vendor-announcement",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://gocascade.ai/article/cascade-launches-agent-harness/",
+        "https://gocascade.ai/product-updates/"
+      ],
+      "discoveredDate": "2026-10-23",
+      "lastVerifiedDate": "2026-10-23"
+    },
+    {
+      "id": "vercel-durable-harness",
+      "name": "durable-harness",
+      "company": "Vercel Labs",
+      "description": "Experimental Workflow SDK integration that runs coding-agent harnesses as resumable sessions with event-logged model and tool calls.",
+      "capabilities": [
+        "Agent runtime",
+        "Workflow orchestration",
+        "Memory & state"
+      ],
+      "languages": [
+        "TypeScript"
+      ],
+      "license": "Apache-2.0",
+      "availability": "open-source",
+      "officialUrl": "https://github.com/vercel-labs/durable-harness",
+      "repositoryUrl": "https://github.com/vercel-labs/durable-harness",
+      "monogram": "DH",
+      "tags": [
+        "durable execution",
+        "coding agents",
+        "SDK"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "official repository",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://github.com/vercel-labs/durable-harness",
+        "https://github.com/vercel-labs/durable-harness/blob/main/LICENSE.md"
+      ],
+      "discoveredDate": "2026-10-23",
+      "lastVerifiedDate": "2026-10-23"
+    },
+    {
+      "id": "reflection-mirror",
+      "name": "Mirror",
+      "company": "Reflection",
+      "description": "Terminal coding agent that reads and edits projects, runs commands, and manages parallel tasks in separate worktree sessions.",
+      "capabilities": [
+        "Repository operations",
+        "Terminal automation",
+        "Multi-agent workflows"
+      ],
+      "languages": [
+        "Rust",
+        "Python"
+      ],
+      "license": "Apache-2.0",
+      "availability": "open-source",
+      "officialUrl": "https://developers.reflection.ai/mirror-overview",
+      "repositoryUrl": "https://github.com/reflection-oss/mirror",
+      "monogram": "MI",
+      "tags": [
+        "terminal",
+        "worktrees",
+        "coding agent"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "official repository",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://developers.reflection.ai/mirror-overview",
+        "https://github.com/reflection-oss/mirror",
+        "https://github.com/reflection-oss/mirror/blob/main/LICENSE"
+      ],
+      "discoveredDate": "2026-10-23",
+      "lastVerifiedDate": "2026-10-23"
+    },
+    {
+      "id": "parcha-agentrun",
+      "name": "AgentRun",
+      "company": "Parcha",
+      "description": "Workflow DSL and Pi extensions for repeatable agent steps, tool decisions, investigation, and escalation within an application’s existing permissions and budgets.",
+      "capabilities": [
+        "Workflow orchestration",
+        "Tool orchestration",
+        "Safety & approvals"
+      ],
+      "languages": [
+        "TypeScript"
+      ],
+      "license": "Apache-2.0",
+      "availability": "open-source",
+      "officialUrl": "https://github.com/Parcha-ai/agentrun",
+      "repositoryUrl": "https://github.com/Parcha-ai/agentrun",
+      "monogram": "AR",
+      "tags": [
+        "workflow",
+        "Pi",
+        "SDK"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "official repository",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://github.com/Parcha-ai/agentrun",
+        "https://github.com/Parcha-ai/agentrun/blob/main/LICENSE"
+      ],
+      "discoveredDate": "2026-10-23",
+      "lastVerifiedDate": "2026-10-23"
+    },
+    {
+      "id": "microsoft-tokeneconomizer",
+      "name": "TokenEconomizer",
+      "company": "Microsoft Research",
+      "description": "Coding-agent plugin that learns repository-specific micro-skills, prunes unused tools, and intervenes in repeated failure loops across sessions.",
+      "capabilities": [
+        "Context management",
+        "Tool orchestration",
+        "Memory & state"
+      ],
+      "languages": [
+        "Python"
+      ],
+      "license": "Apache-2.0",
+      "availability": "open-source",
+      "officialUrl": "https://github.com/microsoft/TokenEconomizer",
+      "repositoryUrl": "https://github.com/microsoft/TokenEconomizer",
+      "monogram": "TE",
+      "tags": [
+        "coding agent",
+        "context",
+        "optimization"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "official repository",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://github.com/microsoft/TokenEconomizer",
+        "https://github.com/microsoft/TokenEconomizer/blob/main/LICENSE"
+      ],
+      "discoveredDate": "2026-10-23",
+      "lastVerifiedDate": "2026-10-23"
     }
   ]
 }

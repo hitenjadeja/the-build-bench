@@ -1622,5 +1622,47 @@
     "discoveredAt": "2026-10-16",
     "signalUrl": "https://github.com/csr1010/wappy-kit",
     "reason": "Date-bounded GitHub search suggests a material agent runtime, orchestration, context, execution, or safety role; source implementation, license, provenance, and distinct identity require full primary-source review before publication."
+  },
+  {
+    "name": "VeriHarness",
+    "url": "https://github.com/google-research/veriharness",
+    "discoveredAt": "2026-10-23",
+    "signalUrl": "https://github.com/google-research/veriharness",
+    "reason": "Official research repository is Apache-2.0, but the README does not yet establish a reusable released harness versus experiment artifacts; review implementation and install path."
+  },
+  {
+    "name": "background-agents",
+    "url": "https://github.com/Hendrixer/background-agents",
+    "discoveredAt": "2026-10-23",
+    "signalUrl": "https://github.com/Hendrixer/background-agents",
+    "reason": "Repository describes background agents, but licensing and a reviewable runnable release are not established."
+  },
+  {
+    "name": "Orbi",
+    "url": "https://github.com/orbi-build/orbi",
+    "discoveredAt": "2026-10-23",
+    "signalUrl": "https://github.com/orbi-build/orbi",
+    "reason": "New upstream-catalog identity; needs direct implementation, license, and provenance review before promotion."
+  },
+  {
+    "name": "Model Citizen",
+    "url": "https://github.com/JakeSelby/model-citizen",
+    "discoveredAt": "2026-10-23",
+    "signalUrl": "https://github.com/JakeSelby/model-citizen",
+    "reason": "New upstream-catalog identity under a renamed project; verify ownership, license, and whether hooks materially provide a distinct harness concern."
+  },
+  {
+    "name": "octo-runtime",
+    "url": "https://github.com/Mininglamp-OSS/octo-runtime",
+    "discoveredAt": "2026-10-23",
+    "signalUrl": "https://github.com/Mininglamp-OSS/octo-runtime",
+    "reason": "Recent runtime repository; implementation, license, and release provenance still require full primary-source review."
+  },
+  {
+    "name": "agent-wow",
+    "url": "https://github.com/agent-wow/agent-wow",
+    "discoveredAt": "2026-10-23",
+    "signalUrl": "https://github.com/agent-wow/agent-wow",
+    "reason": "Recent orchestration repository; execution behavior, license, and provenance not yet reviewed beyond repository search metadata."
   }
 ]
