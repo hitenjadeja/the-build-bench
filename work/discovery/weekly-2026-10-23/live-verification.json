@@ -1,0 +1,24 @@
+{
+  "checkedAt": "2026-10-23T17:06:25.184Z",
+  "pagesRun": "https://github.com/hitenjadeja/the-build-bench/actions/runs/39992123673",
+  "homepageStatus": 200,
+  "catalogStatus": 200,
+  "bundleStatus": 200,
+  "generatedAt": "2026-10-23",
+  "count": 394,
+  "ids": {
+    "cascade-agent-harness": true,
+    "vercel-durable-harness": true,
+    "reflection-mirror": true,
+    "parcha-agentrun": true,
+    "microsoft-tokeneconomizer": true
+  },
+  "namesInBundle": {
+    "Cascade Agent Harness": true,
+    "durable-harness": true,
+    "Mirror": true,
+    "AgentRun": true,
+    "TokenEconomizer": true
+  },
+  "bundlePath": "assets/index-mdYNnKFq.js"
+}
