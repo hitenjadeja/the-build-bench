@@ -1,7 +1,7 @@
 # official-sources
 
 Status: COMPLETE
-Run date: 2026-10-19
+Run date: 2026-10-26
 Mode: network dry run
 
 | name | company | capability | canonical URL | repository URL | evidence URL | notes |
@@ -395,6 +395,11 @@ Mode: network dry run
 | SPACE | Perplexity | Sandboxed execution, Tool use, Session management | https://github.com/perplexityai/SPACE | https://github.com/perplexityai/SPACE | https://github.com/perplexityai/SPACE | Published source-verified; last verified 2026-10-16. |
 | Harness Runtime | DigitalOcean | Sandboxed execution, Agent orchestration, Safety & approvals | https://docs.digitalocean.com/reference/doctl/reference/harness-runtime/ | null | https://docs.digitalocean.com/reference/doctl/reference/harness-runtime/ | Published source-verified; last verified 2026-10-16. |
 | Atlas Agent Engine | MongoDB | Agent orchestration, Memory & state, Safety & approvals, Observability | https://www.mongodb.com/products/platform/atlas-agent-engine | null | https://www.mongodb.com/products/platform/atlas-agent-engine | Published source-verified; last verified 2026-10-16. |
+| Cascade Agent Harness | Cascade AI | Agent orchestration, Context management, Safety & approvals | https://gocascade.ai/article/cascade-launches-agent-harness/ | null | https://gocascade.ai/article/cascade-launches-agent-harness/ | Published source-verified; last verified 2026-10-23. |
+| durable-harness | Vercel Labs | Agent runtime, Workflow orchestration, Memory & state | https://github.com/vercel-labs/durable-harness | https://github.com/vercel-labs/durable-harness | https://github.com/vercel-labs/durable-harness | Published source-verified; last verified 2026-10-23. |
+| Mirror | Reflection | Repository operations, Terminal automation, Multi-agent workflows | https://developers.reflection.ai/mirror-overview | https://github.com/reflection-oss/mirror | https://developers.reflection.ai/mirror-overview | Published source-verified; last verified 2026-10-23. |
+| AgentRun | Parcha | Workflow orchestration, Tool orchestration, Safety & approvals | https://github.com/Parcha-ai/agentrun | https://github.com/Parcha-ai/agentrun | https://github.com/Parcha-ai/agentrun | Published source-verified; last verified 2026-10-23. |
+| TokenEconomizer | Microsoft Research | Context management, Tool orchestration, Memory & state | https://github.com/microsoft/TokenEconomizer | https://github.com/microsoft/TokenEconomizer | https://github.com/microsoft/TokenEconomizer | Published source-verified; last verified 2026-10-23. |
 | Codex | OpenAI | Repository operations | https://developers.openai.com/codex/ | https://github.com/openai/codex | https://github.com/openai/codex | Repository identity reachable; default branch main. |
 | Claude Code | Anthropic | Repository operations | https://code.claude.com/docs/en/overview | https://github.com/anthropics/claude-code | https://github.com/anthropics/claude-code | Repository identity reachable; default branch main. |
 | Grok Build | SpaceXAI | Repository operations | https://x.ai/cli | https://github.com/xai-org/grok-build | https://github.com/xai-org/grok-build | Repository identity reachable; default branch main. |
@@ -750,3 +755,7 @@ Mode: network dry run
 | Nucleo | Redouble AI | Agent orchestration | https://github.com/redouble-ai/nucleo | https://github.com/redouble-ai/nucleo | https://github.com/redouble-ai/nucleo | Repository identity reachable; default branch main. |
 | Agnes Harness | AgnesAI Labs | Agent orchestration | https://github.com/AgnesAI-Labs/agnes-harness | https://github.com/AgnesAI-Labs/agnes-harness | https://github.com/AgnesAI-Labs/agnes-harness | Repository identity reachable; default branch main. |
 | SPACE | Perplexity | Sandboxed execution | https://github.com/perplexityai/SPACE | https://github.com/perplexityai/SPACE | https://github.com/perplexityai/SPACE | Repository identity reachable; default branch main. |
+| durable-harness | Vercel Labs | Agent runtime | https://github.com/vercel-labs/durable-harness | https://github.com/vercel-labs/durable-harness | https://github.com/vercel-labs/durable-harness | Repository identity reachable; default branch main. |
+| Mirror | Reflection | Repository operations | https://developers.reflection.ai/mirror-overview | https://github.com/reflection-oss/mirror | https://github.com/reflection-oss/mirror | Repository identity reachable; default branch main. |
+| AgentRun | Parcha | Workflow orchestration | https://github.com/Parcha-ai/agentrun | https://github.com/Parcha-ai/agentrun | https://github.com/Parcha-ai/agentrun | Repository identity reachable; default branch main. |
+| TokenEconomizer | Microsoft Research | Context management | https://github.com/microsoft/TokenEconomizer | https://github.com/microsoft/TokenEconomizer | https://github.com/microsoft/TokenEconomizer | Repository identity reachable; default branch main. |
