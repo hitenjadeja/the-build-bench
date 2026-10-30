@@ -1,6 +1,6 @@
 {
   "version": "1.1.0",
-  "generatedAt": "2026-10-23",
+  "generatedAt": "2026-10-30",
   "sources": [
     {
       "name": "best-of-Agent-Harnesses",
@@ -9023,41 +9023,6 @@
       "lastVerifiedDate": "2026-09-04"
     },
     {
-      "id": "wukonglabs-wukong",
-      "name": "Wukong",
-      "company": "Wukong Labs",
-      "description": "A CI-first coding agent offered as a CLI and embeddable Node.js SDK, sharing a ReAct loop, built-in repository and command tools, skills, persistent sessions, JSON automation output, multimodal input, and an interactive TUI.",
-      "capabilities": [
-        "Repository operations",
-        "Terminal automation",
-        "Headless / CI",
-        "Skill management"
-      ],
-      "languages": [
-        "TypeScript"
-      ],
-      "license": "MIT",
-      "availability": "open-source",
-      "officialUrl": "https://cnb.cool/O.o/wukong",
-      "repositoryUrl": "https://cnb.cool/O.o/wukong",
-      "monogram": "WK",
-      "tags": [
-        "terminal",
-        "ci",
-        "sdk",
-        "skills"
-      ],
-      "reviewStatus": "source-verified",
-      "sourceKind": "official repository and npm package",
-      "provenance": "independent-discovery",
-      "sourceUrls": [
-        "https://cnb.cool/O.o/wukong",
-        "https://www.npmjs.com/package/@wukonglabs/wukong"
-      ],
-      "discoveredDate": "2026-08-21",
-      "lastVerifiedDate": "2026-09-04"
-    },
-    {
       "id": "huggingface-tau",
       "name": "Tau",
       "company": "Hugging Face",
@@ -13286,6 +13251,71 @@
       ],
       "discoveredDate": "2026-10-23",
       "lastVerifiedDate": "2026-10-23"
+    },
+    {
+      "id": "microsoft-copilot-harness-foundry",
+      "name": "Microsoft Copilot harness in Foundry Agent Service",
+      "company": "Microsoft",
+      "description": "Managed Foundry agent harness that runs the agent loop and sandbox, coordinates model and tool calls, manages working context, supports reusable skills and bounded subagent delegation.",
+      "capabilities": [
+        "Sandboxed execution",
+        "Agent orchestration",
+        "Tool orchestration"
+      ],
+      "languages": [
+        "Not specified"
+      ],
+      "license": "Commercial / proprietary",
+      "availability": "proprietary",
+      "officialUrl": "https://devblogs.microsoft.com/foundry/microsoft-copilot-harness-in-foundry/",
+      "monogram": "MC",
+      "tags": [
+        "managed runtime",
+        "agent orchestration",
+        "public preview"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "official-announcement",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://devblogs.microsoft.com/foundry/microsoft-copilot-harness-in-foundry/"
+      ],
+      "discoveredDate": "2026-10-30",
+      "lastVerifiedDate": "2026-10-30",
+      "repositoryUrl": null
+    },
+    {
+      "id": "google-research-harness2",
+      "name": "Harness²",
+      "company": "Google Research",
+      "description": "Recursive agent harnessing framework that proposes and probes task-level harness changes, then retains evidence-backed improvements across tasks; supports Codex and OpenCode executors.",
+      "capabilities": [
+        "Agent orchestration",
+        "Context management",
+        "Evaluation"
+      ],
+      "languages": [
+        "Python"
+      ],
+      "license": "Apache-2.0",
+      "availability": "open-source",
+      "officialUrl": "https://github.com/google-research/harness2",
+      "repositoryUrl": "https://github.com/google-research/harness2",
+      "monogram": "H2",
+      "tags": [
+        "harness optimization",
+        "research",
+        "evaluation"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "official repository",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://github.com/google-research/harness2",
+        "https://github.com/google-research/harness2/blob/main/LICENSE"
+      ],
+      "discoveredDate": "2026-10-16",
+      "lastVerifiedDate": "2026-10-30"
     }
   ]
 }

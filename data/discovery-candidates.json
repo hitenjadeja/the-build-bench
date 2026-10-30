@@ -1603,13 +1603,6 @@
     "reason": "Date-bounded GitHub search suggests a material agent runtime, orchestration, context, execution, or safety role; source implementation, license, provenance, and distinct identity require full primary-source review before publication."
   },
   {
-    "name": "harness2",
-    "url": "https://github.com/google-research/harness2",
-    "discoveredAt": "2026-10-16",
-    "signalUrl": "https://github.com/google-research/harness2",
-    "reason": "Date-bounded GitHub search suggests a material agent runtime, orchestration, context, execution, or safety role; source implementation, license, provenance, and distinct identity require full primary-source review before publication."
-  },
-  {
     "name": "Feather agent harness",
     "url": "https://github.com/paper-instruments/feather-train",
     "discoveredAt": "2026-10-16",
@@ -1664,5 +1657,12 @@
     "discoveredAt": "2026-10-23",
     "signalUrl": "https://github.com/agent-wow/agent-wow",
     "reason": "Recent orchestration repository; execution behavior, license, and provenance not yet reviewed beyond repository search metadata."
+  },
+  {
+    "name": "Wukong",
+    "url": "https://cnb.cool/O.o/wukong",
+    "discoveredAt": "2026-10-30",
+    "signalUrl": "https://www.npmjs.com/package/@wukonglabs/wukong",
+    "reason": "Previously cataloged, but canonical CNB source repository now returns HTTP 404. npm package remains published; independently reviewable source, current license and provenance require re-verification before republication."
   }
 ]
