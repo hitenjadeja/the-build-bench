@@ -1,7 +1,7 @@
 # official-sources
 
 Status: COMPLETE
-Run date: 2026-10-26
+Run date: 2026-11-02
 Mode: network dry run
 
 | name | company | capability | canonical URL | repository URL | evidence URL | notes |
@@ -272,7 +272,6 @@ Mode: network dry run
 | AgentKit | Akino Kaede | Agent runtime, Tool execution, Application embedding | https://github.com/AkinoKaede/AgentKit | https://github.com/AkinoKaede/AgentKit | https://github.com/AkinoKaede/AgentKit | Published source-verified; last verified 2026-09-04. |
 | EnvHarness | Google Research | Evaluation, Agent training, Environment orchestration, Tool execution | https://github.com/google-research/envharness | https://github.com/google-research/envharness | https://github.com/google-research/envharness | Published source-verified; last verified 2026-09-04. |
 | camelCode | camelAI | Code generation, Persistent execution, Persistent memory, Background agents | https://camelai.com/code | null | https://camelai.com/code | Published source-verified; last verified 2026-09-04. |
-| Wukong | Wukong Labs | Repository operations, Terminal automation, Headless / CI, Skill management | https://cnb.cool/O.o/wukong | https://cnb.cool/O.o/wukong | https://cnb.cool/O.o/wukong | Published source-verified; last verified 2026-09-04. |
 | Tau | Hugging Face | Repository operations, Terminal automation, Session management, Agent SDK | https://twotimespi.dev/ | https://github.com/huggingface/tau | https://twotimespi.dev/ | Published source-verified; last verified 2026-09-09. |
 | AI-DLC Workflows | AWS Labs | Agent workflows, Workflow orchestration, Human-in-the-loop, Audit trails | https://github.com/awslabs/aidlc-workflows | https://github.com/awslabs/aidlc-workflows | https://github.com/awslabs/aidlc-workflows | Published source-verified; last verified 2026-09-09. |
 | YYLO | YYLO | Multi-agent orchestration, Repository operations, Quality gates | https://github.com/yylo-dev/yylo | https://github.com/yylo-dev/yylo | https://github.com/yylo-dev/yylo | Published source-verified; last verified 2026-09-11. |
@@ -400,6 +399,8 @@ Mode: network dry run
 | Mirror | Reflection | Repository operations, Terminal automation, Multi-agent workflows | https://developers.reflection.ai/mirror-overview | https://github.com/reflection-oss/mirror | https://developers.reflection.ai/mirror-overview | Published source-verified; last verified 2026-10-23. |
 | AgentRun | Parcha | Workflow orchestration, Tool orchestration, Safety & approvals | https://github.com/Parcha-ai/agentrun | https://github.com/Parcha-ai/agentrun | https://github.com/Parcha-ai/agentrun | Published source-verified; last verified 2026-10-23. |
 | TokenEconomizer | Microsoft Research | Context management, Tool orchestration, Memory & state | https://github.com/microsoft/TokenEconomizer | https://github.com/microsoft/TokenEconomizer | https://github.com/microsoft/TokenEconomizer | Published source-verified; last verified 2026-10-23. |
+| Microsoft Copilot harness in Foundry Agent Service | Microsoft | Sandboxed execution, Agent orchestration, Tool orchestration | https://devblogs.microsoft.com/foundry/microsoft-copilot-harness-in-foundry/ | null | https://devblogs.microsoft.com/foundry/microsoft-copilot-harness-in-foundry/ | Published source-verified; last verified 2026-10-30. |
+| Harness² | Google Research | Agent orchestration, Context management, Evaluation | https://github.com/google-research/harness2 | https://github.com/google-research/harness2 | https://github.com/google-research/harness2 | Published source-verified; last verified 2026-10-30. |
 | Codex | OpenAI | Repository operations | https://developers.openai.com/codex/ | https://github.com/openai/codex | https://github.com/openai/codex | Repository identity reachable; default branch main. |
 | Claude Code | Anthropic | Repository operations | https://code.claude.com/docs/en/overview | https://github.com/anthropics/claude-code | https://github.com/anthropics/claude-code | Repository identity reachable; default branch main. |
 | Grok Build | SpaceXAI | Repository operations | https://x.ai/cli | https://github.com/xai-org/grok-build | https://github.com/xai-org/grok-build | Repository identity reachable; default branch main. |
@@ -607,7 +608,7 @@ Mode: network dry run
 | Windows Harness | Browser Use | Computer use | https://github.com/browser-use/windows-harness | https://github.com/browser-use/windows-harness | https://github.com/browser-use/windows-harness | Repository identity reachable; default branch main. |
 | Rome | Rome AI Lab | Agent runtime | https://romeos.cc | https://github.com/rome-os/rome | https://github.com/rome-os/rome | Repository identity reachable; default branch main. |
 | sprawling | 2youg1 | Multi-agent orchestration | https://github.com/2youg1/sprawling | https://github.com/2youg1/sprawling | https://github.com/2youg1/sprawling-agents | Repository identity reachable; default branch main. |
-| samizdat | yogthos | Agent runtime | https://github.com/yogthos/samizdat | https://github.com/yogthos/samizdat | https://github.com/yogthos/samizdat | Repository identity reachable; default branch main. |
+| samizdat | yogthos | Agent runtime | https://github.com/yogthos/samizdat | https://github.com/yogthos/samizdat | https://github.com/samizdat-code/samizdat | Repository identity reachable; default branch main. |
 | DoomPi | AgiFlow | Harness configuration | https://github.com/AgiFlow/doompi | https://github.com/AgiFlow/doompi | https://github.com/AgiFlow/doompi | Repository identity reachable; default branch main. |
 | agenttrail | sodiumsun | Observability | https://github.com/sodiumsun/agenttrail | https://github.com/sodiumsun/agenttrail | https://github.com/sodiumsun/agenttrail | Repository identity reachable; default branch main. |
 | Cover | David Carliez | Privacy controls | https://github.com/DavidCarliez/cover | https://github.com/DavidCarliez/cover | https://github.com/DavidCarliez/cover | Repository identity reachable; default branch main. |
@@ -685,7 +686,7 @@ Mode: network dry run
 | Reverify | 2akouwu | Evaluation | https://github.com/2akouwu/reverify | https://github.com/2akouwu/reverify | https://github.com/2akouwu/reverify | Repository identity reachable; default branch main. |
 | ARTEMIS | Google | Computer use | https://github.com/google/artemis | https://github.com/google/artemis | https://github.com/google/artemis | Repository identity reachable; default branch main. |
 | Agent Work Runtime | OriginOne AI | Memory | https://github.com/originoneai/agent-work-runtime | https://github.com/originoneai/agent-work-runtime | https://github.com/originoneai/awr | Repository identity reachable; default branch main. |
-| Taixu | wkbin | Agent runtime | https://github.com/wkbin/taixu | https://github.com/wkbin/taixu | https://github.com/wkbin/taixu | Repository identity reachable; default branch main. |
+| Taixu | wkbin | Agent runtime | https://github.com/wkbin/taixu | https://github.com/wkbin/taixu | https://github.com/taixu-lab/taixu | Repository identity reachable; default branch main. |
 | useAgent | useAgent | Remote execution | https://github.com/useagenthq/useagent | https://github.com/useagenthq/useagent | https://github.com/useagenthq/useagent | Repository identity reachable; default branch main. |
 | Fan Browser Agent | 7757 | Browser automation | https://github.com/7757/Fan-Browser-Agent | https://github.com/7757/Fan-Browser-Agent | https://github.com/7757/Fan-Browser-Agent | Repository identity reachable; default branch main. |
 | whip | Context Labs | Repository operations | https://github.com/context-labs/whip | https://github.com/context-labs/whip | https://github.com/context-labs/whip | Repository identity reachable; default branch main. |
@@ -698,7 +699,7 @@ Mode: network dry run
 | RunVSAgent | WeCode | Tool integration | https://github.com/wecode-ai/RunVSAgent | https://github.com/wecode-ai/RunVSAgent | https://github.com/wecode-ai/RunVSAgent | Repository identity reachable; default branch main. |
 | dreb | aebrer | Agent runtime | https://github.com/aebrer/dreb | https://github.com/aebrer/dreb | https://github.com/aebrer/dreb | Repository identity reachable; default branch master. |
 | OpenDesign | Nexu | Agent workflows | https://github.com/nexu-io/open-design | https://github.com/nexu-io/open-design | https://github.com/nexu-io/open-design | Repository identity reachable; default branch main. |
-| Open-Inspect | Cole Murray | Remote execution | https://github.com/ColeMurray/background-agents | https://github.com/ColeMurray/background-agents | https://github.com/ColeMurray/background-agents | Repository identity reachable; default branch main. |
+| Open-Inspect | Cole Murray | Remote execution | https://github.com/ColeMurray/background-agents | https://github.com/ColeMurray/background-agents | https://github.com/open-inspect/background-agents | Repository identity reachable; default branch main. |
 | gentle-shell | Gentleman Programming | Agent workflows | https://github.com/Gentleman-Programming/gentle-shell | https://github.com/Gentleman-Programming/gentle-shell | https://github.com/Gentleman-Programming/gentle-shell | Repository identity reachable; default branch main. |
 | Prime Agent | Prime Intellect | Agent runtime | https://github.com/PrimeIntellect-ai/prime-agent | https://github.com/PrimeIntellect-ai/prime-agent | https://github.com/PrimeIntellect-ai/prime-agent | Repository identity reachable; default branch main. |
 | OpenWiki | LangChain | Memory | https://github.com/langchain-ai/openwiki | https://github.com/langchain-ai/openwiki | https://github.com/langchain-ai/openwiki | Repository identity reachable; default branch main. |
@@ -725,7 +726,7 @@ Mode: network dry run
 | ZCode | Z.ai | Repository operations | https://zcode.z.ai/en/ | https://github.com/zai-org/ZCode | https://github.com/zai-org/ZCode | Repository identity reachable; default branch main. |
 | Octop Harness | Tencent Cloud | Agent loop | https://github.com/TencentCloud/octop-harness | https://github.com/TencentCloud/octop-harness | https://github.com/TencentCloud/octop-harness | Repository identity reachable; default branch main. |
 | OpenMuse | CopilotKit | Browser automation | https://www.copilotkit.ai/openmuse | https://github.com/CopilotKit/OpenMuse | https://github.com/CopilotKit/openmuse | Repository identity reachable; default branch main. |
-| Cloudroom core | Cloudroom | Agent execution | https://github.com/davidondrej/cloudroom-core | https://github.com/davidondrej/cloudroom-core | https://github.com/davidondrej/cloudroom-core | Repository identity reachable; default branch main. |
+| Cloudroom core | Cloudroom | Agent execution | https://github.com/davidondrej/cloudroom-core | https://github.com/davidondrej/cloudroom-core | https://github.com/davidondrej/cloudroom | Repository identity reachable; default branch main. |
 | Jive | merijjeyn | Agent loop | https://github.com/merijjeyn/jive | https://github.com/merijjeyn/jive | https://github.com/merijjeyn/jive | Repository identity reachable; default branch main. |
 | Omotai Runtime | Omotai | Browser automation | https://github.com/omotai/runtime | https://github.com/omotai/runtime | https://github.com/omotai/runtime | Repository identity reachable; default branch main. |
 | ESF | mitkox | Multi-agent workflows | https://github.com/mitkox/esf | https://github.com/mitkox/esf | https://github.com/mitkox/esf | Repository identity reachable; default branch master. |
@@ -759,3 +760,4 @@ Mode: network dry run
 | Mirror | Reflection | Repository operations | https://developers.reflection.ai/mirror-overview | https://github.com/reflection-oss/mirror | https://github.com/reflection-oss/mirror | Repository identity reachable; default branch main. |
 | AgentRun | Parcha | Workflow orchestration | https://github.com/Parcha-ai/agentrun | https://github.com/Parcha-ai/agentrun | https://github.com/Parcha-ai/agentrun | Repository identity reachable; default branch main. |
 | TokenEconomizer | Microsoft Research | Context management | https://github.com/microsoft/TokenEconomizer | https://github.com/microsoft/TokenEconomizer | https://github.com/microsoft/TokenEconomizer | Repository identity reachable; default branch main. |
+| Harness² | Google Research | Agent orchestration | https://github.com/google-research/harness2 | https://github.com/google-research/harness2 | https://github.com/google-research/harness2 | Repository identity reachable; default branch main. |
