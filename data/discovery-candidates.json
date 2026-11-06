@@ -1664,5 +1664,12 @@
     "discoveredAt": "2026-10-30",
     "signalUrl": "https://www.npmjs.com/package/@wukonglabs/wukong",
     "reason": "Previously cataloged, but canonical CNB source repository now returns HTTP 404. npm package remains published; independently reviewable source, current license and provenance require re-verification before republication."
+  },
+  {
+    "name": "PandaCode",
+    "url": "https://github.com/aicodeking/pandacode",
+    "discoveredAt": "2026-11-06",
+    "signalUrl": "https://github.com/aicodeking/pandacode",
+    "reason": "New desktop coding-agent workspace; repository license is NOASSERTION and product identity, implementation scope, and redistribution rights need further review."
   }
 ]

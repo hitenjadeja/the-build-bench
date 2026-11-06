@@ -1,6 +1,6 @@
 {
   "version": "1.1.0",
-  "generatedAt": "2026-10-30",
+  "generatedAt": "2026-11-06",
   "sources": [
     {
       "name": "best-of-Agent-Harnesses",
@@ -13316,6 +13316,39 @@
       ],
       "discoveredDate": "2026-10-16",
       "lastVerifiedDate": "2026-10-30"
+    },
+    {
+      "id": "cuga-agent",
+      "name": "CUGA",
+      "company": "CUGA Project",
+      "description": "Open-source enterprise agent harness that executes workflows across applications and APIs with MCP and OpenAPI tools, configurable approvals, execution policies, and multi-agent supervision.",
+      "capabilities": [
+        "Agent orchestration",
+        "Tool use",
+        "Safety and permissions"
+      ],
+      "languages": [
+        "Python"
+      ],
+      "license": "Apache-2.0",
+      "availability": "open-source",
+      "officialUrl": "https://github.com/cuga-project/cuga-agent",
+      "repositoryUrl": "https://github.com/cuga-project/cuga-agent",
+      "monogram": "CU",
+      "tags": [
+        "enterprise automation",
+        "MCP",
+        "policy controls"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "official repository",
+      "provenance": "RyanAlberts/best-of-Agent-Harnesses",
+      "sourceUrls": [
+        "https://github.com/cuga-project/cuga-agent",
+        "https://github.com/cuga-project/cuga-agent/blob/main/LICENSE"
+      ],
+      "discoveredDate": "2026-11-06",
+      "lastVerifiedDate": "2026-11-06"
     }
   ]
 }
