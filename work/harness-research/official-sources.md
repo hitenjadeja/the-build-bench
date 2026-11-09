@@ -1,7 +1,7 @@
 # official-sources
 
 Status: COMPLETE
-Run date: 2026-11-02
+Run date: 2026-11-09
 Mode: network dry run
 
 | name | company | capability | canonical URL | repository URL | evidence URL | notes |
@@ -401,6 +401,7 @@ Mode: network dry run
 | TokenEconomizer | Microsoft Research | Context management, Tool orchestration, Memory & state | https://github.com/microsoft/TokenEconomizer | https://github.com/microsoft/TokenEconomizer | https://github.com/microsoft/TokenEconomizer | Published source-verified; last verified 2026-10-23. |
 | Microsoft Copilot harness in Foundry Agent Service | Microsoft | Sandboxed execution, Agent orchestration, Tool orchestration | https://devblogs.microsoft.com/foundry/microsoft-copilot-harness-in-foundry/ | null | https://devblogs.microsoft.com/foundry/microsoft-copilot-harness-in-foundry/ | Published source-verified; last verified 2026-10-30. |
 | Harness² | Google Research | Agent orchestration, Context management, Evaluation | https://github.com/google-research/harness2 | https://github.com/google-research/harness2 | https://github.com/google-research/harness2 | Published source-verified; last verified 2026-10-30. |
+| CUGA | CUGA Project | Agent orchestration, Tool use, Safety and permissions | https://github.com/cuga-project/cuga-agent | https://github.com/cuga-project/cuga-agent | https://github.com/cuga-project/cuga-agent | Published source-verified; last verified 2026-11-06. |
 | Codex | OpenAI | Repository operations | https://developers.openai.com/codex/ | https://github.com/openai/codex | https://github.com/openai/codex | Repository identity reachable; default branch main. |
 | Claude Code | Anthropic | Repository operations | https://code.claude.com/docs/en/overview | https://github.com/anthropics/claude-code | https://github.com/anthropics/claude-code | Repository identity reachable; default branch main. |
 | Grok Build | SpaceXAI | Repository operations | https://x.ai/cli | https://github.com/xai-org/grok-build | https://github.com/xai-org/grok-build | Repository identity reachable; default branch main. |
@@ -761,3 +762,4 @@ Mode: network dry run
 | AgentRun | Parcha | Workflow orchestration | https://github.com/Parcha-ai/agentrun | https://github.com/Parcha-ai/agentrun | https://github.com/Parcha-ai/agentrun | Repository identity reachable; default branch main. |
 | TokenEconomizer | Microsoft Research | Context management | https://github.com/microsoft/TokenEconomizer | https://github.com/microsoft/TokenEconomizer | https://github.com/microsoft/TokenEconomizer | Repository identity reachable; default branch main. |
 | Harness² | Google Research | Agent orchestration | https://github.com/google-research/harness2 | https://github.com/google-research/harness2 | https://github.com/google-research/harness2 | Repository identity reachable; default branch main. |
+| CUGA | CUGA Project | Agent orchestration | https://github.com/cuga-project/cuga-agent | https://github.com/cuga-project/cuga-agent | https://github.com/cuga-project/cuga-agent | Repository identity reachable; default branch main. |

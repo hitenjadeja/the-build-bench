@@ -1,6 +1,6 @@
 {
   "version": "1.1.0",
-  "generatedAt": "2026-11-02",
+  "generatedAt": "2026-11-09",
   "sources": [
     {
       "name": "best-of-Agent-Harnesses",
@@ -20,7 +20,7 @@
       "id": "alirezarezvani-claudeskills",
       "name": "claude-skills",
       "company": "alirezarezvani",
-      "description": "380 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 380+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 mo",
+      "description": "410 Claude Code skills & agent skills & plugins (120+ Agents, custom commands, 410+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more ",
       "capabilities": [
         "Repository operations"
       ],
@@ -46,8 +46,8 @@
         "https://github.com/alirezarezvani/claude-skills",
         "https://alirezarezvani.medium.com/"
       ],
-      "discoveredDate": "2026-11-02",
-      "lastVerifiedDate": "2026-11-02"
+      "discoveredDate": "2026-11-09",
+      "lastVerifiedDate": "2026-11-09"
     },
     {
       "id": "miqdadbadjuber-antislop",
@@ -79,8 +79,8 @@
         "https://github.com/miqdadbadjuber/anti-slop",
         "https://antislop.ai.id"
       ],
-      "discoveredDate": "2026-11-02",
-      "lastVerifiedDate": "2026-11-02"
+      "discoveredDate": "2026-11-09",
+      "lastVerifiedDate": "2026-11-09"
     },
     {
       "id": "amelnagdy-delegateskills",
@@ -112,8 +112,8 @@
         "https://github.com/amElnagdy/delegate-skills",
         "https://www.skills.sh/amelnagdy/delegate-skills"
       ],
-      "discoveredDate": "2026-11-02",
-      "lastVerifiedDate": "2026-11-02"
+      "discoveredDate": "2026-11-09",
+      "lastVerifiedDate": "2026-11-09"
     },
     {
       "id": "whitetowerai-ohmygame",
@@ -145,8 +145,8 @@
         "https://github.com/WhiteTowerAI/ohmygame",
         "https://ohmygame.ai/"
       ],
-      "discoveredDate": "2026-11-02",
-      "lastVerifiedDate": "2026-11-02"
+      "discoveredDate": "2026-11-09",
+      "lastVerifiedDate": "2026-11-09"
     },
     {
       "id": "repowisedev-claudecodeprompts",
@@ -177,8 +177,8 @@
         "https://api.github.com/search/repositories?sort=stars&order=desc&per_page=20&q=topic%3Aai-coding-agent%20archived%3Afalse",
         "https://github.com/repowise-dev/claude-code-prompts"
       ],
-      "discoveredDate": "2026-11-02",
-      "lastVerifiedDate": "2026-11-02"
+      "discoveredDate": "2026-11-09",
+      "lastVerifiedDate": "2026-11-09"
     },
     {
       "id": "snoai-snostation",
@@ -210,8 +210,8 @@
         "https://github.com/sno-ai/sno-station",
         "https://sno.ai"
       ],
-      "discoveredDate": "2026-11-02",
-      "lastVerifiedDate": "2026-11-02"
+      "discoveredDate": "2026-11-09",
+      "lastVerifiedDate": "2026-11-09"
     },
     {
       "id": "dongshuyan-compassskills",
@@ -242,8 +242,41 @@
         "https://api.github.com/search/repositories?sort=stars&order=desc&per_page=20&q=topic%3Aai-coding-agent%20archived%3Afalse",
         "https://github.com/dongshuyan/compass-skills"
       ],
-      "discoveredDate": "2026-11-02",
-      "lastVerifiedDate": "2026-11-02"
+      "discoveredDate": "2026-11-09",
+      "lastVerifiedDate": "2026-11-09"
+    },
+    {
+      "id": "muvon-octomind",
+      "name": "octomind",
+      "company": "Muvon",
+      "description": "Open-source AI coding agent and agent runtime: one binary, any model, MCP-native. Runs in terminal, CI, or as a daemon.",
+      "capabilities": [
+        "Repository operations"
+      ],
+      "languages": [
+        "Rust"
+      ],
+      "license": "Apache-2.0",
+      "availability": "unclear",
+      "officialUrl": "https://octomind.run",
+      "repositoryUrl": "https://github.com/Muvon/octomind",
+      "monogram": "OC",
+      "tags": [
+        "agent-client-protocol",
+        "agentic-ai",
+        "discovered",
+        "needs review"
+      ],
+      "reviewStatus": "needs-review",
+      "sourceKind": "discovery-candidate",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://api.github.com/search/repositories?sort=stars&order=desc&per_page=20&q=topic%3Aai-coding-agent%20archived%3Afalse",
+        "https://github.com/Muvon/octomind",
+        "https://octomind.run"
+      ],
+      "discoveredDate": "2026-11-09",
+      "lastVerifiedDate": "2026-11-09"
     },
     {
       "id": "koki7o-claudecodeforbeginners",
@@ -275,40 +308,8 @@
         "https://github.com/koki7o/claude-code-for-beginners",
         "https://thedevfounder.com/claude-code?utm_source=github&utm_medium=about"
       ],
-      "discoveredDate": "2026-11-02",
-      "lastVerifiedDate": "2026-11-02"
-    },
-    {
-      "id": "johncrickett-aiassistedengineering",
-      "name": "ai-assisted-engineering",
-      "company": "JohnCrickett",
-      "description": "A Guide To AI-Assisted Software Engineering",
-      "capabilities": [
-        "Repository operations"
-      ],
-      "languages": [
-        "Unknown"
-      ],
-      "license": "Unknown",
-      "availability": "unclear",
-      "officialUrl": "https://github.com/JohnCrickett/ai-assisted-engineering",
-      "repositoryUrl": "https://github.com/JohnCrickett/ai-assisted-engineering",
-      "monogram": "AI",
-      "tags": [
-        "ai",
-        "ai-agents",
-        "discovered",
-        "needs review"
-      ],
-      "reviewStatus": "needs-review",
-      "sourceKind": "discovery-candidate",
-      "provenance": "independent-discovery",
-      "sourceUrls": [
-        "https://api.github.com/search/repositories?sort=stars&order=desc&per_page=20&q=topic%3Aai-coding-agent%20archived%3Afalse",
-        "https://github.com/JohnCrickett/ai-assisted-engineering"
-      ],
-      "discoveredDate": "2026-11-02",
-      "lastVerifiedDate": "2026-11-02"
+      "discoveredDate": "2026-11-09",
+      "lastVerifiedDate": "2026-11-09"
     },
     {
       "id": "voltagent-awesomedesignmd",
@@ -340,8 +341,8 @@
         "https://github.com/VoltAgent/awesome-design-md",
         "https://starterkit.getdesign.md/"
       ],
-      "discoveredDate": "2026-11-02",
-      "lastVerifiedDate": "2026-11-02"
+      "discoveredDate": "2026-11-09",
+      "lastVerifiedDate": "2026-11-09"
     },
     {
       "id": "juliusbrussee-caveman",
@@ -373,8 +374,8 @@
         "https://github.com/JuliusBrussee/caveman",
         "https://docs.caveman.so/caveman"
       ],
-      "discoveredDate": "2026-11-02",
-      "lastVerifiedDate": "2026-11-02"
+      "discoveredDate": "2026-11-09",
+      "lastVerifiedDate": "2026-11-09"
     },
     {
       "id": "leonxlnx-tasteskill",
@@ -406,8 +407,8 @@
         "https://github.com/Leonxlnx/taste-skill",
         "https://tasteskill.dev"
       ],
-      "discoveredDate": "2026-11-02",
-      "lastVerifiedDate": "2026-11-02"
+      "discoveredDate": "2026-11-09",
+      "lastVerifiedDate": "2026-11-09"
     },
     {
       "id": "pbakaus-impeccable",
@@ -439,8 +440,38 @@
         "https://github.com/pbakaus/impeccable",
         "https://impeccable.style"
       ],
-      "discoveredDate": "2026-11-02",
-      "lastVerifiedDate": "2026-11-02"
+      "discoveredDate": "2026-11-09",
+      "lastVerifiedDate": "2026-11-09"
+    },
+    {
+      "id": "cloudflare-securityauditskill",
+      "name": "security-audit-skill",
+      "company": "cloudflare",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "capabilities": [
+        "Repository operations"
+      ],
+      "languages": [
+        "JavaScript"
+      ],
+      "license": "MIT",
+      "availability": "unclear",
+      "officialUrl": "https://github.com/cloudflare/security-audit-skill",
+      "repositoryUrl": "https://github.com/cloudflare/security-audit-skill",
+      "monogram": "SE",
+      "tags": [
+        "discovered",
+        "needs review"
+      ],
+      "reviewStatus": "needs-review",
+      "sourceKind": "discovery-candidate",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://api.github.com/search/repositories?sort=stars&order=desc&per_page=20&q=%22coding%20agent%22%20in%3Aname%2Cdescription%20stars%3A%3E500%20archived%3Afalse",
+        "https://github.com/cloudflare/security-audit-skill"
+      ],
+      "discoveredDate": "2026-11-09",
+      "lastVerifiedDate": "2026-11-09"
     },
     {
       "id": "ayghri-ihaveadhd",
@@ -471,38 +502,8 @@
         "https://api.github.com/search/repositories?sort=stars&order=desc&per_page=20&q=%22coding%20agent%22%20in%3Aname%2Cdescription%20stars%3A%3E500%20archived%3Afalse",
         "https://github.com/ayghri/i-have-adhd"
       ],
-      "discoveredDate": "2026-11-02",
-      "lastVerifiedDate": "2026-11-02"
-    },
-    {
-      "id": "cloudflare-securityauditskill",
-      "name": "security-audit-skill",
-      "company": "cloudflare",
-      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-      "capabilities": [
-        "Repository operations"
-      ],
-      "languages": [
-        "JavaScript"
-      ],
-      "license": "MIT",
-      "availability": "unclear",
-      "officialUrl": "https://github.com/cloudflare/security-audit-skill",
-      "repositoryUrl": "https://github.com/cloudflare/security-audit-skill",
-      "monogram": "SE",
-      "tags": [
-        "discovered",
-        "needs review"
-      ],
-      "reviewStatus": "needs-review",
-      "sourceKind": "discovery-candidate",
-      "provenance": "independent-discovery",
-      "sourceUrls": [
-        "https://api.github.com/search/repositories?sort=stars&order=desc&per_page=20&q=%22coding%20agent%22%20in%3Aname%2Cdescription%20stars%3A%3E500%20archived%3Afalse",
-        "https://github.com/cloudflare/security-audit-skill"
-      ],
-      "discoveredDate": "2026-11-02",
-      "lastVerifiedDate": "2026-11-02"
+      "discoveredDate": "2026-11-09",
+      "lastVerifiedDate": "2026-11-09"
     },
     {
       "id": "jcodesmore-aiwebsiteclonertemplate",
@@ -534,8 +535,8 @@
         "https://github.com/JCodesMore/ai-website-cloner-template",
         "https://dsc.gg/jcodesmore"
       ],
-      "discoveredDate": "2026-11-02",
-      "lastVerifiedDate": "2026-11-02"
+      "discoveredDate": "2026-11-09",
+      "lastVerifiedDate": "2026-11-09"
     },
     {
       "id": "xyteee-xyteeecode",
@@ -566,8 +567,8 @@
         "https://www.npmjs.com/package/xyteeecode",
         "https://xyteee.com"
       ],
-      "discoveredDate": "2026-11-02",
-      "lastVerifiedDate": "2026-11-02"
+      "discoveredDate": "2026-11-09",
+      "lastVerifiedDate": "2026-11-09"
     }
   ]
 }

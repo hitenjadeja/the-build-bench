@@ -1,6 +1,6 @@
 # Harness discovery evidence report
 
-Run date: 2026-11-02
+Run date: 2026-11-09
 
 This is a dry research artifact. It does not modify `data/harnesses.v1.json`.
 
