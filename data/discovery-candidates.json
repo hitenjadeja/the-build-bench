@@ -1671,5 +1671,19 @@
     "discoveredAt": "2026-11-06",
     "signalUrl": "https://github.com/aicodeking/pandacode",
     "reason": "New desktop coding-agent workspace; repository license is NOASSERTION and product identity, implementation scope, and redistribution rights need further review."
+  },
+  {
+    "name": "Graphicle",
+    "url": "https://github.com/Graphicle-AI/graphicle",
+    "discoveredAt": "2026-11-13",
+    "signalUrl": "https://github.com/Graphicle-AI/graphicle",
+    "reason": "New code graph and memory layer for coding agents; implementation scope, license, and provenance need full primary-source review."
+  },
+  {
+    "name": "cubebot",
+    "url": "https://github.com/vicotrbb/cubebot",
+    "discoveredAt": "2026-11-13",
+    "signalUrl": "https://github.com/vicotrbb/cubebot",
+    "reason": "New Kubernetes runtime for persistent agents; implementation maturity, licensing, and provenance need full primary-source review."
   }
 ]

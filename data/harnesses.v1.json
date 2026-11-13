@@ -1,6 +1,6 @@
 {
   "version": "1.1.0",
-  "generatedAt": "2026-11-06",
+  "generatedAt": "2026-11-13",
   "sources": [
     {
       "name": "best-of-Agent-Harnesses",
@@ -13349,6 +13349,198 @@
       ],
       "discoveredDate": "2026-11-06",
       "lastVerifiedDate": "2026-11-06"
+    },
+    {
+      "id": "microsoft-agensh",
+      "name": "Agensh",
+      "company": "Microsoft",
+      "description": "Decentralized multiagent harness coordinating coding agents through shared workspace, tasks and messaging.",
+      "capabilities": [
+        "Agent orchestration",
+        "Tool use",
+        "Context management"
+      ],
+      "languages": [
+        "Python"
+      ],
+      "license": "MIT",
+      "availability": "open-source",
+      "officialUrl": "https://github.com/microsoft/Agensh",
+      "repositoryUrl": "https://github.com/microsoft/Agensh",
+      "monogram": "A",
+      "tags": [
+        "orchestration",
+        "runtime"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "repository",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://github.com/microsoft/Agensh",
+        "https://github.com/microsoft/Agensh/blob/main/LICENSE"
+      ],
+      "discoveredDate": "2026-11-13",
+      "lastVerifiedDate": "2026-11-13"
+    },
+    {
+      "id": "deepseek-dsh-superagent",
+      "name": "dsh-superagent",
+      "company": "DeepSeek research team",
+      "description": "Proactive repository agent bundle for DeepSeek Harness that handles authorized GitHub and Feishu requests.",
+      "capabilities": [
+        "Agent orchestration",
+        "Tool use",
+        "Context management"
+      ],
+      "languages": [
+        "TypeScript"
+      ],
+      "license": "MIT",
+      "availability": "open-source",
+      "officialUrl": "https://github.com/deepseek-ai/dsh-superagent-prototype",
+      "repositoryUrl": "https://github.com/deepseek-ai/dsh-superagent-prototype",
+      "monogram": "D",
+      "tags": [
+        "orchestration",
+        "runtime"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "repository",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://github.com/deepseek-ai/dsh-superagent-prototype",
+        "https://github.com/deepseek-ai/dsh-superagent-prototype/blob/main/LICENSE"
+      ],
+      "discoveredDate": "2026-11-13",
+      "lastVerifiedDate": "2026-11-13"
+    },
+    {
+      "id": "tongyi-opengcua",
+      "name": "OpenGCUA",
+      "company": "Tongyi MAI",
+      "description": "Open computer-use stack with a macOS harness, cross-device SDK and reference action agents.",
+      "capabilities": [
+        "Agent orchestration",
+        "Tool use",
+        "Context management"
+      ],
+      "languages": [
+        "Python"
+      ],
+      "license": "Apache-2.0",
+      "availability": "open-source",
+      "officialUrl": "https://github.com/Tongyi-MAI/OpenGCUA",
+      "repositoryUrl": "https://github.com/Tongyi-MAI/OpenGCUA",
+      "monogram": "O",
+      "tags": [
+        "orchestration",
+        "runtime"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "repository",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://github.com/Tongyi-MAI/OpenGCUA",
+        "https://github.com/Tongyi-MAI/OpenGCUA/blob/main/LICENSE"
+      ],
+      "discoveredDate": "2026-11-13",
+      "lastVerifiedDate": "2026-11-13"
+    },
+    {
+      "id": "soduwork",
+      "name": "SoduWork",
+      "company": "mdiri-ai",
+      "description": "Self-hosted workspace that dispatches work to coding harnesses and routes independent reviews.",
+      "capabilities": [
+        "Agent orchestration",
+        "Tool use",
+        "Context management"
+      ],
+      "languages": [
+        "TypeScript"
+      ],
+      "license": "MIT",
+      "availability": "open-source",
+      "officialUrl": "https://github.com/mdiri-ai/SoduWork",
+      "repositoryUrl": "https://github.com/mdiri-ai/SoduWork",
+      "monogram": "S",
+      "tags": [
+        "orchestration",
+        "runtime"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "repository",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://github.com/mdiri-ai/SoduWork",
+        "https://github.com/mdiri-ai/SoduWork/blob/main/LICENSE"
+      ],
+      "discoveredDate": "2026-11-13",
+      "lastVerifiedDate": "2026-11-13"
+    },
+    {
+      "id": "android-agent-runtime",
+      "name": "Android Agent Runtime",
+      "company": "NoHarry",
+      "description": "Embeddable Android and JVM agent loop with sandboxed tools, policy hooks, subagents and durable sessions.",
+      "capabilities": [
+        "Agent orchestration",
+        "Tool use",
+        "Context management"
+      ],
+      "languages": [
+        "Kotlin"
+      ],
+      "license": "MIT",
+      "availability": "open-source",
+      "officialUrl": "https://github.com/NoHarry/android-agent-runtime",
+      "repositoryUrl": "https://github.com/NoHarry/android-agent-runtime",
+      "monogram": "AA",
+      "tags": [
+        "orchestration",
+        "runtime"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "repository",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://github.com/NoHarry/android-agent-runtime",
+        "https://github.com/NoHarry/android-agent-runtime/blob/main/LICENSE"
+      ],
+      "discoveredDate": "2026-11-13",
+      "lastVerifiedDate": "2026-11-13"
+    },
+    {
+      "id": "didi-helixharness",
+      "name": "HelixHarness",
+      "company": "Didi",
+      "description": "Project-specific coding harness layer with context loading, workflow gates, reusable knowledge and evaluation.",
+      "capabilities": [
+        "Agent orchestration",
+        "Tool use",
+        "Context management"
+      ],
+      "languages": [
+        "Python"
+      ],
+      "license": "Apache-2.0",
+      "availability": "open-source",
+      "officialUrl": "https://github.com/didi/helixharness",
+      "repositoryUrl": "https://github.com/didi/helixharness",
+      "monogram": "H",
+      "tags": [
+        "orchestration",
+        "runtime"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "repository",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://github.com/didi/helixharness",
+        "https://github.com/didi/helixharness/blob/main/LICENSE"
+      ],
+      "discoveredDate": "2026-11-13",
+      "lastVerifiedDate": "2026-11-13"
     }
   ]
 }
