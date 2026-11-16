@@ -1,7 +1,7 @@
 # ecosystem-sources
 
 Status: COMPLETE
-Run date: 2026-11-09
+Run date: 2026-11-16
 Mode: network dry run
 
 | name | company | capability | canonical URL | repository URL | evidence URL | notes |

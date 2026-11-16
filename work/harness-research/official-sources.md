@@ -1,7 +1,7 @@
 # official-sources
 
 Status: COMPLETE
-Run date: 2026-11-09
+Run date: 2026-11-16
 Mode: network dry run
 
 | name | company | capability | canonical URL | repository URL | evidence URL | notes |
@@ -402,6 +402,12 @@ Mode: network dry run
 | Microsoft Copilot harness in Foundry Agent Service | Microsoft | Sandboxed execution, Agent orchestration, Tool orchestration | https://devblogs.microsoft.com/foundry/microsoft-copilot-harness-in-foundry/ | null | https://devblogs.microsoft.com/foundry/microsoft-copilot-harness-in-foundry/ | Published source-verified; last verified 2026-10-30. |
 | Harness² | Google Research | Agent orchestration, Context management, Evaluation | https://github.com/google-research/harness2 | https://github.com/google-research/harness2 | https://github.com/google-research/harness2 | Published source-verified; last verified 2026-10-30. |
 | CUGA | CUGA Project | Agent orchestration, Tool use, Safety and permissions | https://github.com/cuga-project/cuga-agent | https://github.com/cuga-project/cuga-agent | https://github.com/cuga-project/cuga-agent | Published source-verified; last verified 2026-11-06. |
+| Agensh | Microsoft | Agent orchestration, Tool use, Context management | https://github.com/microsoft/Agensh | https://github.com/microsoft/Agensh | https://github.com/microsoft/Agensh | Published source-verified; last verified 2026-11-13. |
+| dsh-superagent | DeepSeek research team | Agent orchestration, Tool use, Context management | https://github.com/deepseek-ai/dsh-superagent-prototype | https://github.com/deepseek-ai/dsh-superagent-prototype | https://github.com/deepseek-ai/dsh-superagent-prototype | Published source-verified; last verified 2026-11-13. |
+| OpenGCUA | Tongyi MAI | Agent orchestration, Tool use, Context management | https://github.com/Tongyi-MAI/OpenGCUA | https://github.com/Tongyi-MAI/OpenGCUA | https://github.com/Tongyi-MAI/OpenGCUA | Published source-verified; last verified 2026-11-13. |
+| SoduWork | mdiri-ai | Agent orchestration, Tool use, Context management | https://github.com/mdiri-ai/SoduWork | https://github.com/mdiri-ai/SoduWork | https://github.com/mdiri-ai/SoduWork | Published source-verified; last verified 2026-11-13. |
+| Android Agent Runtime | NoHarry | Agent orchestration, Tool use, Context management | https://github.com/NoHarry/android-agent-runtime | https://github.com/NoHarry/android-agent-runtime | https://github.com/NoHarry/android-agent-runtime | Published source-verified; last verified 2026-11-13. |
+| HelixHarness | Didi | Agent orchestration, Tool use, Context management | https://github.com/didi/helixharness | https://github.com/didi/helixharness | https://github.com/didi/helixharness | Published source-verified; last verified 2026-11-13. |
 | Codex | OpenAI | Repository operations | https://developers.openai.com/codex/ | https://github.com/openai/codex | https://github.com/openai/codex | Repository identity reachable; default branch main. |
 | Claude Code | Anthropic | Repository operations | https://code.claude.com/docs/en/overview | https://github.com/anthropics/claude-code | https://github.com/anthropics/claude-code | Repository identity reachable; default branch main. |
 | Grok Build | SpaceXAI | Repository operations | https://x.ai/cli | https://github.com/xai-org/grok-build | https://github.com/xai-org/grok-build | Repository identity reachable; default branch main. |
@@ -726,7 +732,7 @@ Mode: network dry run
 | Harness (Go) | Chang Sau Sheong | Tool execution | https://github.com/sausheong/harness | https://github.com/sausheong/harness | https://github.com/sausheong/harness | Repository identity reachable; default branch main. |
 | ZCode | Z.ai | Repository operations | https://zcode.z.ai/en/ | https://github.com/zai-org/ZCode | https://github.com/zai-org/ZCode | Repository identity reachable; default branch main. |
 | Octop Harness | Tencent Cloud | Agent loop | https://github.com/TencentCloud/octop-harness | https://github.com/TencentCloud/octop-harness | https://github.com/TencentCloud/octop-harness | Repository identity reachable; default branch main. |
-| OpenMuse | CopilotKit | Browser automation | https://www.copilotkit.ai/openmuse | https://github.com/CopilotKit/OpenMuse | https://github.com/CopilotKit/openmuse | Repository identity reachable; default branch main. |
+| OpenMuse | CopilotKit | Browser automation | https://www.copilotkit.ai/openmuse | https://github.com/CopilotKit/OpenMuse | https://github.com/CopilotKit/openfuse | Repository identity reachable; default branch main. |
 | Cloudroom core | Cloudroom | Agent execution | https://github.com/davidondrej/cloudroom-core | https://github.com/davidondrej/cloudroom-core | https://github.com/davidondrej/cloudroom | Repository identity reachable; default branch main. |
 | Jive | merijjeyn | Agent loop | https://github.com/merijjeyn/jive | https://github.com/merijjeyn/jive | https://github.com/merijjeyn/jive | Repository identity reachable; default branch main. |
 | Omotai Runtime | Omotai | Browser automation | https://github.com/omotai/runtime | https://github.com/omotai/runtime | https://github.com/omotai/runtime | Repository identity reachable; default branch main. |
@@ -763,3 +769,9 @@ Mode: network dry run
 | TokenEconomizer | Microsoft Research | Context management | https://github.com/microsoft/TokenEconomizer | https://github.com/microsoft/TokenEconomizer | https://github.com/microsoft/TokenEconomizer | Repository identity reachable; default branch main. |
 | Harness² | Google Research | Agent orchestration | https://github.com/google-research/harness2 | https://github.com/google-research/harness2 | https://github.com/google-research/harness2 | Repository identity reachable; default branch main. |
 | CUGA | CUGA Project | Agent orchestration | https://github.com/cuga-project/cuga-agent | https://github.com/cuga-project/cuga-agent | https://github.com/cuga-project/cuga-agent | Repository identity reachable; default branch main. |
+| Agensh | Microsoft | Agent orchestration | https://github.com/microsoft/Agensh | https://github.com/microsoft/Agensh | https://github.com/microsoft/Agensh | Repository identity reachable; default branch main. |
+| dsh-superagent | DeepSeek research team | Agent orchestration | https://github.com/deepseek-ai/dsh-superagent-prototype | https://github.com/deepseek-ai/dsh-superagent-prototype | https://github.com/deepseek-ai/dsh-superagent-prototype | Repository identity reachable; default branch main. |
+| OpenGCUA | Tongyi MAI | Agent orchestration | https://github.com/Tongyi-MAI/OpenGCUA | https://github.com/Tongyi-MAI/OpenGCUA | https://github.com/Tongyi-MAI/OpenGCUA | Repository identity reachable; default branch main. |
+| SoduWork | mdiri-ai | Agent orchestration | https://github.com/mdiri-ai/SoduWork | https://github.com/mdiri-ai/SoduWork | https://github.com/mdiri-ai/SoduWork | Repository identity reachable; default branch main. |
+| Android Agent Runtime | NoHarry | Agent orchestration | https://github.com/NoHarry/android-agent-runtime | https://github.com/NoHarry/android-agent-runtime | https://github.com/NoHarry/android-agent-runtime | Repository identity reachable; default branch main. |
+| HelixHarness | Didi | Agent orchestration | https://github.com/didi/helixharness | https://github.com/didi/helixharness | https://github.com/didi/helixharness | Repository identity reachable; default branch main. |

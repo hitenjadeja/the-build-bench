@@ -1,6 +1,6 @@
 # Harness discovery evidence report
 
-Run date: 2026-11-09
+Run date: 2026-11-16
 
 This is a dry research artifact. It does not modify `data/harnesses.v1.json`.
 
@@ -24,17 +24,17 @@ This is a dry research artifact. It does not modify `data/harnesses.v1.json`.
 - agent-kanban (saltbo): repository identity, canonical URL, normalised name + company
 - opencode (anomalyco): repository identity, canonical URL
 - codex (openai): repository identity, normalised name + company
-- pi (earendil-works): repository identity, canonical URL, normalised name + company
 - orca (stablyai): repository identity, normalised name + company
+- pi (earendil-works): repository identity, canonical URL, normalised name + company
 - agent-skills (addyosmani): repository identity
 - headroom (headroomlabs-ai): repository identity, normalised name + company
 - cline (cline): repository identity, normalised name + company
 - openinterpreter (openinterpreter): repository identity, canonical URL, normalised name + company
 - chrome-devtools-mcp (ChromeDevTools): repository identity, normalised name + company
 - herdr (herdrdev): repository identity, canonical URL
+- Codewhale (codewhale-hq): canonical URL
 - oh-my-pi (can1357): repository identity, normalised name + company
 - continue (continuedev): repository identity, normalised name + company
-- DeepSeek-Reasonix (esengine): repository identity, canonical URL, normalised name + company
 
 ## Fuzzy flags
 

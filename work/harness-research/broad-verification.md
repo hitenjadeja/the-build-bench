@@ -1,7 +1,7 @@
 # broad-verification
 
 Status: COMPLETE
-Run date: 2026-11-09
+Run date: 2026-11-16
 Mode: network dry run
 
 | name | company | capability | canonical URL | repository URL | evidence URL | notes |
@@ -15,7 +15,7 @@ Mode: network dry run
 | compass-skills | dongshuyan | AI coding / project harness | https://github.com/dongshuyan/compass-skills | https://github.com/dongshuyan/compass-skills | https://github.com/dongshuyan/compass-skills | Compiled from discovery; exact duplicate checks passed. Human verification still required. |
 | octomind | Muvon | AI coding / project harness | https://octomind.run | https://github.com/Muvon/octomind | https://github.com/Muvon/octomind | Compiled from discovery; exact duplicate checks passed. Human verification still required. |
 | claude-code-for-beginners | koki7o | AI coding / project harness | https://thedevfounder.com/claude-code?utm_source=github&utm_medium=about | https://github.com/koki7o/claude-code-for-beginners | https://github.com/koki7o/claude-code-for-beginners | Compiled from discovery; exact duplicate checks passed. Human verification still required. |
-| awesome-design-md | VoltAgent | AI coding / project harness | https://starterkit.getdesign.md/ | https://github.com/VoltAgent/awesome-design-md | https://github.com/VoltAgent/awesome-design-md | Compiled from discovery; exact duplicate checks passed. Human verification still required. |
+| awesome-design-md | VoltAgent | AI coding / project harness | https://getdesign.md/ | https://github.com/VoltAgent/awesome-design-md | https://github.com/VoltAgent/awesome-design-md | Compiled from discovery; exact duplicate checks passed. Human verification still required. |
 | caveman | JuliusBrussee | AI coding / project harness | https://docs.caveman.so/caveman | https://github.com/JuliusBrussee/caveman | https://github.com/JuliusBrussee/caveman | Compiled from discovery; exact duplicate checks passed. Human verification still required. |
 | taste-skill | Leonxlnx | AI coding / project harness | https://tasteskill.dev | https://github.com/Leonxlnx/taste-skill | https://github.com/Leonxlnx/taste-skill | Compiled from discovery; exact duplicate checks passed. Human verification still required. |
 | impeccable | pbakaus | AI coding / project harness | https://impeccable.style | https://github.com/pbakaus/impeccable | https://github.com/pbakaus/impeccable | Compiled from discovery; exact duplicate checks passed. Human verification still required. |
