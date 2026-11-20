@@ -3,10 +3,11 @@ import rawData from '../data/harnesses.v1.json'
 import type { Availability, Harness, HarnessData, ReviewStatus } from './types'
 
 const data = rawData as HarnessData
-type SortOrder = 'catalog' | 'name' | 'name-desc'
+type SortOrder = 'catalog' | 'latest' | 'name' | 'name-desc'
 const initialParams = new URLSearchParams(window.location.search)
 const initialSort = initialParams.get('sort')
-const defaultSort: SortOrder = initialSort === 'name' || initialSort === 'name-desc' ? initialSort : 'catalog'
+const defaultSort: SortOrder =
+  initialSort === 'latest' || initialSort === 'name' || initialSort === 'name-desc' ? initialSort : 'catalog'
 
 type Filters = {
   capability: string
@@ -204,6 +205,9 @@ function App() {
       )
     })
     if (sort === 'catalog') return matches
+    if (sort === 'latest') {
+      return matches.sort((left, right) => right.discoveredDate.localeCompare(left.discoveredDate))
+    }
     return matches.sort((left, right) =>
       sort === 'name'
         ? left.name.localeCompare(right.name, 'en')
@@ -419,6 +423,7 @@ function App() {
               <span>Sort by</span>
               <select id="harness-sort" value={sort} onChange={(event) => setSort(event.target.value as SortOrder)}>
                 <option value="catalog">Curated order</option>
+                <option value="latest">Latest added first</option>
                 <option value="name">Name A–Z</option>
                 <option value="name-desc">Name Z–A</option>
               </select>
