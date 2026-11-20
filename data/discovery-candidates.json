@@ -1685,5 +1685,47 @@
     "discoveredAt": "2026-11-13",
     "signalUrl": "https://github.com/vicotrbb/cubebot",
     "reason": "New Kubernetes runtime for persistent agents; implementation maturity, licensing, and provenance need full primary-source review."
+  },
+  {
+    "name": "Linger",
+    "url": "https://github.com/simplexai-labs/linger",
+    "discoveredAt": "2026-11-20",
+    "signalUrl": "https://github.com/simplexai-labs/linger",
+    "reason": "Official repository describes a local agent, but GitHub reports NOASSERTION for its license; review the custom terms and release provenance before cataloging."
+  },
+  {
+    "name": "pine",
+    "url": "https://github.com/pmndre/pine",
+    "discoveredAt": "2026-11-20",
+    "signalUrl": "https://github.com/pmndre/pine",
+    "reason": "Reactive agent harness claim needs a full check of the agent loop, distributable implementation, license, and independent identity."
+  },
+  {
+    "name": "Tucano",
+    "url": "https://github.com/eduwxyz/tucano",
+    "discoveredAt": "2026-11-20",
+    "signalUrl": "https://github.com/eduwxyz/tucano",
+    "reason": "Multi-agent desktop orchestration claim needs deeper implementation, license, and release review."
+  },
+  {
+    "name": "SRE Agent Harness",
+    "url": "https://github.com/rainyZhou2/SreAgentHarness",
+    "discoveredAt": "2026-11-20",
+    "signalUrl": "https://github.com/rainyZhou2/SreAgentHarness",
+    "reason": "Self-hosted incident-agent claim needs full primary implementation, license, and provenance review."
+  },
+  {
+    "name": "Proliferate",
+    "url": "https://www.proliferate.dev/",
+    "discoveredAt": "2026-11-20",
+    "signalUrl": "https://www.proliferate.dev/",
+    "reason": "Official product and docs remain available, but the cataloged open-source repository now returns 404 and its source/license cannot be reverified."
+  },
+  {
+    "name": "Microsoft Agent Framework",
+    "url": "https://learn.microsoft.com/agent-framework/overview",
+    "discoveredAt": "2026-11-20",
+    "signalUrl": "https://learn.microsoft.com/agent-framework/overview",
+    "reason": "Official documentation confirms the framework, but the cataloged Python/.NET source repository now returns 404; its source identity and rights need revalidation before republishing."
   }
 ]

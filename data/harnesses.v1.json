@@ -1,6 +1,6 @@
 {
   "version": "1.1.0",
-  "generatedAt": "2026-11-13",
+  "generatedAt": "2026-11-20",
   "sources": [
     {
       "name": "best-of-Agent-Harnesses",
@@ -1141,41 +1141,6 @@
       "provenance": "RyanAlberts/best-of-Agent-Harnesses",
       "sourceUrls": [
         "https://github.com/madarco/agentbox"
-      ],
-      "discoveredDate": "2026-08-14",
-      "lastVerifiedDate": "2026-08-14"
-    },
-    {
-      "id": "proliferate-ai-proliferate",
-      "name": "Proliferate",
-      "company": "Proliferate AI",
-      "description": "Open-source AI IDE for Claude Code, Codex, OpenCode, and more. The harness contribution is the workspace/session orchestration layer: run multiple coding agents in parallel, locally or in the cloud, with isolated workspaces, reusable workflows, and shared…",
-      "capabilities": [
-        "Repository operations",
-        "Terminal automation",
-        "Multi-agent workflows",
-        "Sandboxed execution"
-      ],
-      "languages": [
-        "TypeScript"
-      ],
-      "license": "Open source (unspecified)",
-      "availability": "open-source",
-      "officialUrl": "https://github.com/proliferate-ai/proliferate",
-      "repositoryUrl": "https://github.com/proliferate-ai/proliferate",
-      "logo": "https://github.com/proliferate-ai.png?size=160",
-      "monogram": "PR",
-      "tags": [
-        "multi-agent",
-        "sandbox",
-        "ide",
-        "typescript"
-      ],
-      "reviewStatus": "community-verified",
-      "sourceKind": "repository",
-      "provenance": "RyanAlberts/best-of-Agent-Harnesses",
-      "sourceUrls": [
-        "https://github.com/proliferate-ai/proliferate"
       ],
       "discoveredDate": "2026-08-14",
       "lastVerifiedDate": "2026-08-14"
@@ -3761,40 +3726,6 @@
       "provenance": "RyanAlberts/best-of-Agent-Harnesses",
       "sourceUrls": [
         "https://github.com/openai/openai-agents-python"
-      ],
-      "discoveredDate": "2026-08-14",
-      "lastVerifiedDate": "2026-08-14"
-    },
-    {
-      "id": "microsoft-agent-framework",
-      "name": "Microsoft Agent Framework",
-      "company": "Microsoft",
-      "description": "Microsoft's convergence of AutoGen and Semantic Kernel: build, orchestrate, and deploy agents and multi-agent workflows in Python and .NET, with graph-based workflows and checkpointing — the designated successor harness for both lines.",
-      "capabilities": [
-        "Multi-agent orchestration",
-        "Agent handoffs",
-        "Multi-agent workflows"
-      ],
-      "languages": [
-        "Python"
-      ],
-      "license": "Open source (unspecified)",
-      "availability": "open-source",
-      "officialUrl": "https://github.com/microsoft/agent-framework",
-      "repositoryUrl": "https://github.com/microsoft/agent-framework",
-      "logo": "https://github.com/microsoft.png?size=160",
-      "monogram": "MAF",
-      "tags": [
-        "multi-agent",
-        "workflow",
-        "python",
-        "open-source"
-      ],
-      "reviewStatus": "community-verified",
-      "sourceKind": "repository",
-      "provenance": "RyanAlberts/best-of-Agent-Harnesses",
-      "sourceUrls": [
-        "https://github.com/microsoft/agent-framework"
       ],
       "discoveredDate": "2026-08-14",
       "lastVerifiedDate": "2026-08-14"
@@ -13045,10 +12976,10 @@
       "sourceUrls": [
         "https://docs.digitalocean.com/reference/doctl/reference/harness-runtime/",
         "https://docs.digitalocean.com/reference/doctl/reference/harness-runtime/launch/",
-        "https://www.digitalocean.com/legal/mars-preview-terms"
+        "https://docs.digitalocean.com/products/managed-agents/agent-harness-runtime/concepts/overview/"
       ],
       "discoveredDate": "2026-10-16",
-      "lastVerifiedDate": "2026-10-16"
+      "lastVerifiedDate": "2026-11-20"
     },
     {
       "id": "mongodb-atlas-agent-engine",
@@ -13541,6 +13472,263 @@
       ],
       "discoveredDate": "2026-11-13",
       "lastVerifiedDate": "2026-11-13"
+    },
+    {
+      "id": "huggingface-safeagents",
+      "name": "SafeAgents",
+      "company": "Hugging Face",
+      "description": "Local model API proxy that inspects agent tool calls and blocks policy violations before a coding harness executes them.",
+      "capabilities": [
+        "Safety controls",
+        "Tool use"
+      ],
+      "languages": [
+        "Python"
+      ],
+      "license": "Apache-2.0",
+      "availability": "open-source",
+      "officialUrl": "https://github.com/huggingface/safeagents",
+      "repositoryUrl": "https://github.com/huggingface/safeagents",
+      "monogram": "SA",
+      "tags": [
+        "safety",
+        "tool-policy"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "repository",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://github.com/huggingface/safeagents",
+        "https://github.com/huggingface/safeagents/blob/main/LICENSE"
+      ],
+      "discoveredDate": "2026-11-20",
+      "lastVerifiedDate": "2026-11-20"
+    },
+    {
+      "id": "getopencrawl-opencrawl",
+      "name": "OpenCrawl",
+      "company": "OpenCrawl",
+      "description": "Shared search and coordination layer for coding agents, with captured session memory, a message board, MCP access, and self-hosted deployment.",
+      "capabilities": [
+        "Context management",
+        "Agent orchestration",
+        "Memory"
+      ],
+      "languages": [
+        "TypeScript"
+      ],
+      "license": "Apache-2.0",
+      "availability": "open-source",
+      "officialUrl": "https://github.com/getopencrawl/opencrawl-core",
+      "repositoryUrl": "https://github.com/getopencrawl/opencrawl-core",
+      "monogram": "OC",
+      "tags": [
+        "context",
+        "memory",
+        "orchestration"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "repository",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://github.com/getopencrawl/opencrawl-core",
+        "https://github.com/getopencrawl/opencrawl-core/blob/main/LICENSE"
+      ],
+      "discoveredDate": "2026-11-20",
+      "lastVerifiedDate": "2026-11-20"
+    },
+    {
+      "id": "iofold-stablehand",
+      "name": "Stablehand",
+      "company": "iofold",
+      "description": "Self-hosted scheduled agent runtime that isolates runs in Docker, gates risky tool calls, caps spend, and records durable execution receipts.",
+      "capabilities": [
+        "Agent orchestration",
+        "Safety controls",
+        "Tool use"
+      ],
+      "languages": [
+        "TypeScript",
+        "Python"
+      ],
+      "license": "MIT",
+      "availability": "open-source",
+      "officialUrl": "https://github.com/iofold/stablehand",
+      "repositoryUrl": "https://github.com/iofold/stablehand",
+      "monogram": "SH",
+      "tags": [
+        "runtime",
+        "orchestration",
+        "safety"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "repository",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://github.com/iofold/stablehand",
+        "https://github.com/iofold/stablehand/blob/master/LICENSE"
+      ],
+      "discoveredDate": "2026-11-20",
+      "lastVerifiedDate": "2026-11-20"
+    },
+    {
+      "id": "drost-ai-tess-core",
+      "name": "Tess Core",
+      "company": "drost-ai",
+      "description": "Embeddable Python agent runtime with durable sessions, tool permissions, subagents, MCP integration, and scheduling.",
+      "capabilities": [
+        "Agent orchestration",
+        "Tool use",
+        "Context management"
+      ],
+      "languages": [
+        "Python"
+      ],
+      "license": "Apache-2.0",
+      "availability": "open-source",
+      "officialUrl": "https://github.com/drost-ai/tess-core",
+      "repositoryUrl": "https://github.com/drost-ai/tess-core",
+      "monogram": "TC",
+      "tags": [
+        "runtime",
+        "orchestration"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "repository",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://github.com/drost-ai/tess-core",
+        "https://github.com/drost-ai/tess-core/blob/main/LICENSE"
+      ],
+      "discoveredDate": "2026-11-20",
+      "lastVerifiedDate": "2026-11-20"
+    },
+    {
+      "id": "leonvanzyl-codeden",
+      "name": "CodeDen",
+      "company": "Leon van Zyl",
+      "description": "Local coding-agent workspace that launches and coordinates installed agents across projects, with session history and a browser or desktop interface.",
+      "capabilities": [
+        "Agent orchestration",
+        "Context management"
+      ],
+      "languages": [
+        "TypeScript"
+      ],
+      "license": "MIT",
+      "availability": "open-source",
+      "officialUrl": "https://github.com/leonvanzyl/codeden",
+      "repositoryUrl": "https://github.com/leonvanzyl/codeden",
+      "monogram": "CD",
+      "tags": [
+        "coding-agent",
+        "orchestration"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "repository",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://github.com/leonvanzyl/codeden",
+        "https://github.com/leonvanzyl/codeden/blob/main/LICENSE"
+      ],
+      "discoveredDate": "2026-11-20",
+      "lastVerifiedDate": "2026-11-20"
+    },
+    {
+      "id": "phuryn-mini-harness",
+      "name": "Mini Harness",
+      "company": "phuryn",
+      "description": "Readable Python coding-agent harness with a tool loop, resumable sessions, compaction, skills, MCP, subagents, and verified goal mode.",
+      "capabilities": [
+        "Agent orchestration",
+        "Tool use",
+        "Context management"
+      ],
+      "languages": [
+        "Python"
+      ],
+      "license": "MIT",
+      "availability": "open-source",
+      "officialUrl": "https://github.com/phuryn/mini-harness",
+      "repositoryUrl": "https://github.com/phuryn/mini-harness",
+      "monogram": "MH",
+      "tags": [
+        "coding-agent",
+        "runtime",
+        "education"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "repository",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://github.com/phuryn/mini-harness",
+        "https://github.com/phuryn/mini-harness/blob/main/LICENSE.md"
+      ],
+      "discoveredDate": "2026-11-20",
+      "lastVerifiedDate": "2026-11-20"
+    },
+    {
+      "id": "lemonadesaltbagel-airlock",
+      "name": "Airlock",
+      "company": "lemonadesaltbagel",
+      "description": "Preview local coding agent that runs tools inside an OS sandbox and routes approved, abstracted questions to a cloud model through a privacy gateway.",
+      "capabilities": [
+        "Safety controls",
+        "Tool use",
+        "Agent orchestration"
+      ],
+      "languages": [
+        "TypeScript"
+      ],
+      "license": "Apache-2.0",
+      "availability": "open-source",
+      "officialUrl": "https://github.com/lemonadesaltbagel/airlock",
+      "repositoryUrl": "https://github.com/lemonadesaltbagel/airlock",
+      "monogram": "A",
+      "tags": [
+        "coding-agent",
+        "privacy",
+        "preview"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "repository",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://github.com/lemonadesaltbagel/airlock",
+        "https://github.com/lemonadesaltbagel/airlock/blob/main/LICENSE"
+      ],
+      "discoveredDate": "2026-11-20",
+      "lastVerifiedDate": "2026-11-20"
+    },
+    {
+      "id": "garrytan-g-harness-evals",
+      "name": "g-harness-evals",
+      "company": "Garry Tan",
+      "description": "Open evaluation harness that runs the same tasks and models across coding-agent harnesses and reports pass rates, latency, and cost with reproducible receipts.",
+      "capabilities": [
+        "Evaluation"
+      ],
+      "languages": [
+        "TypeScript"
+      ],
+      "license": "MIT",
+      "availability": "open-source",
+      "officialUrl": "https://github.com/garrytan/g-harness-evals",
+      "repositoryUrl": "https://github.com/garrytan/g-harness-evals",
+      "monogram": "GE",
+      "tags": [
+        "evaluation",
+        "benchmark"
+      ],
+      "reviewStatus": "source-verified",
+      "sourceKind": "repository",
+      "provenance": "independent-discovery",
+      "sourceUrls": [
+        "https://github.com/garrytan/g-harness-evals",
+        "https://github.com/garrytan/g-harness-evals/blob/main/LICENSE"
+      ],
+      "discoveredDate": "2026-11-20",
+      "lastVerifiedDate": "2026-11-20"
     }
   ]
 }
