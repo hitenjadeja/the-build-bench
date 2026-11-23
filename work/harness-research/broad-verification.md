@@ -1,21 +1,21 @@
 # broad-verification
 
 Status: COMPLETE
-Run date: 2026-11-16
+Run date: 2026-11-23
 Mode: network dry run
 
 | name | company | capability | canonical URL | repository URL | evidence URL | notes |
 | --- | --- | --- | --- | --- | --- | --- |
 | claude-skills | alirezarezvani | AI coding / project harness | https://alirezarezvani.medium.com/ | https://github.com/alirezarezvani/claude-skills | https://github.com/alirezarezvani/claude-skills | Compiled from discovery; exact duplicate checks passed. Human verification still required. |
 | anti-slop | miqdadbadjuber | AI coding / project harness | https://antislop.ai.id | https://github.com/miqdadbadjuber/anti-slop | https://github.com/miqdadbadjuber/anti-slop | Compiled from discovery; exact duplicate checks passed. Human verification still required. |
-| delegate-skills | amElnagdy | AI coding / project harness | https://www.skills.sh/amelnagdy/delegate-skills | https://github.com/amElnagdy/delegate-skills | https://github.com/amElnagdy/delegate-skills | Compiled from discovery; exact duplicate checks passed. Human verification still required. |
 | ohmygame | WhiteTowerAI | AI coding / project harness | https://ohmygame.ai/ | https://github.com/WhiteTowerAI/ohmygame | https://github.com/WhiteTowerAI/ohmygame | Compiled from discovery; exact duplicate checks passed. Human verification still required. |
+| delegate-skills | amElnagdy | AI coding / project harness | https://www.skills.sh/amelnagdy/delegate-skills | https://github.com/amElnagdy/delegate-skills | https://github.com/amElnagdy/delegate-skills | Compiled from discovery; exact duplicate checks passed. Human verification still required. |
 | claude-code-prompts | repowise-dev | AI coding / project harness | https://github.com/repowise-dev/claude-code-prompts | https://github.com/repowise-dev/claude-code-prompts | https://github.com/repowise-dev/claude-code-prompts | Compiled from discovery; exact duplicate checks passed. Human verification still required. |
 | sno-station | sno-ai | AI coding / project harness | https://sno.ai | https://github.com/sno-ai/sno-station | https://github.com/sno-ai/sno-station | Compiled from discovery; exact duplicate checks passed. Human verification still required. |
 | compass-skills | dongshuyan | AI coding / project harness | https://github.com/dongshuyan/compass-skills | https://github.com/dongshuyan/compass-skills | https://github.com/dongshuyan/compass-skills | Compiled from discovery; exact duplicate checks passed. Human verification still required. |
 | octomind | Muvon | AI coding / project harness | https://octomind.run | https://github.com/Muvon/octomind | https://github.com/Muvon/octomind | Compiled from discovery; exact duplicate checks passed. Human verification still required. |
 | claude-code-for-beginners | koki7o | AI coding / project harness | https://thedevfounder.com/claude-code?utm_source=github&utm_medium=about | https://github.com/koki7o/claude-code-for-beginners | https://github.com/koki7o/claude-code-for-beginners | Compiled from discovery; exact duplicate checks passed. Human verification still required. |
-| awesome-design-md | VoltAgent | AI coding / project harness | https://getdesign.md/ | https://github.com/VoltAgent/awesome-design-md | https://github.com/VoltAgent/awesome-design-md | Compiled from discovery; exact duplicate checks passed. Human verification still required. |
+| awesome-design-md | VoltAgent | AI coding / project harness | https://getdesign.md/design-md-pro | https://github.com/VoltAgent/awesome-design-md | https://github.com/VoltAgent/awesome-design-md | Compiled from discovery; exact duplicate checks passed. Human verification still required. |
 | caveman | JuliusBrussee | AI coding / project harness | https://docs.caveman.so/caveman | https://github.com/JuliusBrussee/caveman | https://github.com/JuliusBrussee/caveman | Compiled from discovery; exact duplicate checks passed. Human verification still required. |
 | taste-skill | Leonxlnx | AI coding / project harness | https://tasteskill.dev | https://github.com/Leonxlnx/taste-skill | https://github.com/Leonxlnx/taste-skill | Compiled from discovery; exact duplicate checks passed. Human verification still required. |
 | impeccable | pbakaus | AI coding / project harness | https://impeccable.style | https://github.com/pbakaus/impeccable | https://github.com/pbakaus/impeccable | Compiled from discovery; exact duplicate checks passed. Human verification still required. |
