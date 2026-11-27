@@ -1727,5 +1727,19 @@
     "discoveredAt": "2026-11-20",
     "signalUrl": "https://learn.microsoft.com/agent-framework/overview",
     "reason": "Official documentation confirms the framework, but the cataloged Python/.NET source repository now returns 404; its source identity and rights need revalidation before republishing."
+  },
+  {
+    "name": "ADE (Agentic Development Environment)",
+    "url": "https://ade-app.dev/",
+    "discoveredAt": "2026-11-27",
+    "signalUrl": "https://ade-app.dev/",
+    "reason": "The official page advertises an AGPL desktop agent workspace, but its canonical source repository and release provenance were not independently verified during this sweep."
+  },
+  {
+    "name": "@southwise/context-layer",
+    "url": "https://www.npmjs.com/package/@southwise/context-layer",
+    "discoveredAt": "2026-11-27",
+    "signalUrl": "https://www.npmjs.com/package/@southwise/context-layer",
+    "reason": "The npm page describes cross-service context negotiation for coding agents, but the canonical repository, implementation, and license need independent primary-source review."
   }
 ]

@@ -1,6 +1,6 @@
 {
   "version": "1.1.0",
-  "generatedAt": "2026-11-20",
+  "generatedAt": "2026-11-27",
   "sources": [
     {
       "name": "best-of-Agent-Harnesses",
@@ -13729,6 +13729,173 @@
       ],
       "discoveredDate": "2026-11-20",
       "lastVerifiedDate": "2026-11-20"
+    },
+    {
+      "id": "kangentic",
+      "name": "Kangentic",
+      "company": "Kangentic",
+      "description": "Open source desktop board that starts and resumes coding agents across configurable workflow columns, isolated worktrees, and permission modes.",
+      "capabilities": [
+        "Agent orchestration",
+        "Safety & approvals",
+        "Repository operations"
+      ],
+      "languages": [
+        "TypeScript"
+      ],
+      "license": "AGPL-3.0",
+      "availability": "open-source",
+      "officialUrl": "https://kangentic.com/",
+      "repositoryUrl": "https://github.com/Kangentic/kangentic",
+      "monogram": "K",
+      "tags": [
+        "coding-agent",
+        "orchestration",
+        "desktop"
+      ],
+      "sourceKind": "repository",
+      "sourceUrls": [
+        "https://kangentic.com/",
+        "https://github.com/Kangentic/kangentic",
+        "https://github.com/Kangentic/kangentic/blob/main/LICENSE"
+      ],
+      "reviewStatus": "source-verified",
+      "provenance": "independent-discovery",
+      "discoveredDate": "2026-11-27",
+      "lastVerifiedDate": "2026-11-27"
+    },
+    {
+      "id": "yusugomori-agent-loop",
+      "name": "Agent Loop",
+      "company": "yusugomori",
+      "description": "Local Codex orchestrator that runs requirements, research, implementation, verification, and review phases with worktree isolation and durable run state.",
+      "capabilities": [
+        "Agent orchestration",
+        "Repository operations",
+        "Code review"
+      ],
+      "languages": [
+        "TypeScript"
+      ],
+      "license": "Apache-2.0",
+      "availability": "open-source",
+      "officialUrl": "https://agent-loop.dev/",
+      "repositoryUrl": "https://github.com/yusugomori/agent-loop",
+      "monogram": "AL",
+      "tags": [
+        "coding-agent",
+        "orchestration",
+        "local"
+      ],
+      "sourceKind": "repository",
+      "sourceUrls": [
+        "https://agent-loop.dev/",
+        "https://github.com/yusugomori/agent-loop",
+        "https://github.com/yusugomori/agent-loop/blob/main/LICENSE"
+      ],
+      "reviewStatus": "source-verified",
+      "provenance": "independent-discovery",
+      "discoveredDate": "2026-11-27",
+      "lastVerifiedDate": "2026-11-27"
+    },
+    {
+      "id": "storozhenko98-bailout",
+      "name": "bailout",
+      "company": "storozhenko98",
+      "description": "Small terminal agent with a Bash tool and free-model router for bootstrapping a new machine or repairing a broken coding-agent setup.",
+      "capabilities": [
+        "Tool use",
+        "Terminal automation",
+        "Agent orchestration"
+      ],
+      "languages": [
+        "Python"
+      ],
+      "license": "MIT",
+      "availability": "open-source",
+      "officialUrl": "https://bailout.dev/",
+      "repositoryUrl": "https://github.com/storozhenko98/bailout",
+      "monogram": "B",
+      "tags": [
+        "terminal",
+        "coding-agent",
+        "bootstrap"
+      ],
+      "sourceKind": "repository",
+      "sourceUrls": [
+        "https://bailout.dev/",
+        "https://github.com/storozhenko98/bailout",
+        "https://github.com/storozhenko98/bailout/blob/main/LICENSE"
+      ],
+      "reviewStatus": "source-verified",
+      "provenance": "independent-discovery",
+      "discoveredDate": "2026-11-27",
+      "lastVerifiedDate": "2026-11-27"
+    },
+    {
+      "id": "raylee-ai-lancer",
+      "name": "Lancer Harness",
+      "company": "raylee-ai",
+      "description": "Local business-agent runtime that gives an agent a workspace and assignment, records task history, and presents delivered files for operator review.",
+      "capabilities": [
+        "Agent orchestration",
+        "Context management",
+        "Safety & approvals"
+      ],
+      "languages": [
+        "TypeScript"
+      ],
+      "license": "MIT",
+      "availability": "open-source",
+      "officialUrl": "https://github.com/raylee-ai/lancer",
+      "repositoryUrl": "https://github.com/raylee-ai/lancer",
+      "monogram": "LH",
+      "tags": [
+        "runtime",
+        "local",
+        "business-agent"
+      ],
+      "sourceKind": "repository",
+      "sourceUrls": [
+        "https://github.com/raylee-ai/lancer",
+        "https://github.com/raylee-ai/lancer/blob/main/LICENSE"
+      ],
+      "reviewStatus": "source-verified",
+      "provenance": "independent-discovery",
+      "discoveredDate": "2026-11-27",
+      "lastVerifiedDate": "2026-11-27"
+    },
+    {
+      "id": "hero-studios-hero-agent",
+      "name": "Hero Agent",
+      "company": "Hero Studios",
+      "description": "Browser-based software engineering agent with project build and review modes, memory, planning cards, and a live beta application.",
+      "capabilities": [
+        "Agent orchestration",
+        "Context management",
+        "Repository operations"
+      ],
+      "languages": [
+        "Not specified"
+      ],
+      "license": "Commercial / proprietary",
+      "availability": "proprietary",
+      "officialUrl": "https://herostudios.dev/products/hero-agent/",
+      "repositoryUrl": null,
+      "monogram": "HA",
+      "tags": [
+        "coding-agent",
+        "browser",
+        "beta"
+      ],
+      "sourceKind": "product-page",
+      "sourceUrls": [
+        "https://herostudios.dev/products/hero-agent/"
+      ],
+      "reviewStatus": "source-verified",
+      "provenance": "independent-discovery",
+      "discoveredDate": "2026-11-27",
+      "lastVerifiedDate": "2026-11-27"
     }
   ]
 }
